@@ -1,0 +1,26 @@
+{
+    "puzzle": "BURNING_SPIRIT_OF_SATURN",
+    "score": {
+        "cost": 110,
+        "instructions": 56,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 335,
+        "area": 50,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 56.0,
+        "areaINF": {
+            "level": 0,
+            "value": 50.0
+        },
+        "heightINF": "8",
+        "widthINF": 7.5,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20BURNING%20SPIRIT%20OF%20SATURN%20(110G%2C%20335%2C%2050%2C%202026-09-14-17-44-53).gif",
+    "dataLink": "https://novae.observer/l/om/a509f72c/w3514067152/110g-56i-335c-50a-8h-7.5w-6b-56r-50a0-8h-7.5w-6b-T",
+    "dataPath": "SALT_OF_SATURN/BURNING_SPIRIT_OF_SATURN/110g-56i-335c-50a-8h-7.5w-6b-56r-50a0-8h-7.5w-6b-T_BURNING_SPIRIT_OF_SATURN.solution",
+    "lastModified": "2026-09-14T15:45:55.256462229Z"
+}
