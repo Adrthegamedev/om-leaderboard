@@ -1,0 +1,26 @@
+{
+    "puzzle": "IN_BERLO_S_BASEMENT",
+    "score": {
+        "cost": 2070,
+        "instructions": 4,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 5203,
+        "area": 909,
+        "height": 37,
+        "width": 31.0,
+        "boundingHex": 24,
+        "rate": 664.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "37",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20In%20Berlo's%20Basement%20(2070G%2C%205203%2C%20909%2C%202026-09-14-20-10-12).gif",
+    "dataLink": "https://novae.observer/l/om/b51d4652/w2783659165/2070g-4i-5203c-909a-37h-31w-24b-664r-4a1-37h-INFw-INFb",
+    "dataPath": "ALCHADEMY/IN_BERLO_S_BASEMENT/2070g-4i-5203c-909a-37h-31w-24b-664r-4a1-37h-INFw-INFb_IN_BERLO_S_BASEMENT.solution",
+    "lastModified": "2026-09-14T18:45:46.153062897Z"
+}
