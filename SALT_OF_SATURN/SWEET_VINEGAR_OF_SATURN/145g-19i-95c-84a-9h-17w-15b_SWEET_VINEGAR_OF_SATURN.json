@@ -1,0 +1,23 @@
+{
+    "puzzle": "SWEET_VINEGAR_OF_SATURN",
+    "score": {
+        "cost": 145,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 95,
+        "area": 84,
+        "height": 9,
+        "width": 17.0,
+        "boundingHex": 15,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20SWEET%20VINEGAR%20OF%20SATURN%20(145G%2C%2095%2C%2084%2C%202026-09-14-17-21-14).gif",
+    "dataLink": "https://novae.observer/l/om/6f78164a/w3514067030/145g-19i-95c-84a-9h-17w-15b",
+    "dataPath": "SALT_OF_SATURN/SWEET_VINEGAR_OF_SATURN/145g-19i-95c-84a-9h-17w-15b_SWEET_VINEGAR_OF_SATURN.solution",
+    "lastModified": "2026-09-14T15:23:20.316547198Z"
+}
