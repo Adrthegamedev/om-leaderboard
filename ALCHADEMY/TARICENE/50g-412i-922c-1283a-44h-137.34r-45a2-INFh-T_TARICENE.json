@@ -1,0 +1,26 @@
+{
+    "puzzle": "TARICENE",
+    "score": {
+        "cost": 50,
+        "instructions": 412,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 922,
+        "area": 1283,
+        "height": 44,
+        "width": null,
+        "boundingHex": null,
+        "rate": 137.34,
+        "areaINF": {
+            "level": 2,
+            "value": 45.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20TARICENE%20(50G%2C%20922%2C%201283%2C%202026-09-14-20-56-53).gif",
+    "dataLink": "https://novae.observer/l/om/abef097e/Alchademy_Taricene/50g-412i-922c-1283a-44h-137.34r-45a2-INFh-T",
+    "dataPath": "ALCHADEMY/TARICENE/50g-412i-922c-1283a-44h-137.34r-45a2-INFh-T_TARICENE.solution",
+    "lastModified": "2026-09-14T19:25:32.008742883Z"
+}
