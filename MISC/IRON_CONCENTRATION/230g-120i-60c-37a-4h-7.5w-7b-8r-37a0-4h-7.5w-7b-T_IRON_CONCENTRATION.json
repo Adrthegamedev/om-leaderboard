@@ -23,7 +23,10 @@
             "level": 0,
             "value": 7.5
         },
-        "boundingHexINF": "7"
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        }
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/Opus%20Magnum%20-%20IRON%20CONCENTRATION%20(230G%2C%2060%2C%2037%2C%202026-09-12-20-06-05).gif",
     "dataLink": "https://novae.observer/l/om/82077459/IronConcentration/230g-120i-60c-37a-4h-7.5w-7b-8r-37a0-4h-7.5w-7b-T",

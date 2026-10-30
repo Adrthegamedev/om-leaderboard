@@ -23,7 +23,10 @@
             "level": 0,
             "value": 7.0
         },
-        "boundingHexINF": "5"
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        }
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20MAGISTERY%20OF%20SATURN%20(155G%2C%20102%2C%2045%2C%202026-09-14-23-30-14).gif",
     "dataLink": "https://novae.observer/l/om/fed2d239/w3514067476/155g-58i-102c-45a-8h-7w-5b-17r-45a0-8h-7w-5b",

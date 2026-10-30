@@ -23,7 +23,10 @@
             "level": 0,
             "value": 15.5
         },
-        "boundingHexINF": "12"
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        }
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20In%20Berlo's%20Basement%20(600G%2C%2077%2C%20225%2C%202026-09-14-19-47-04).gif",
     "dataLink": "https://novae.observer/l/om/af8056e5/w2783659165/600g-67i-77c-225a-17h-15.5w-12b-4r-225a0-17h-15.5w-12b",

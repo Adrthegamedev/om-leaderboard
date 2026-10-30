@@ -23,7 +23,10 @@
             "level": 0,
             "value": 8.5
         },
-        "boundingHexINF": "6"
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        }
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20SWEET%20VINEGAR%20OF%20SATURN%20(90G%2C%20992%2C%2063%2C%202026-09-14-16-23-27).gif",
     "dataLink": "https://novae.observer/l/om/8caa86fe/w3514067030/90g-170i-992c-63a-9h-8.5w-6b-170r-63a0-9h-8.5w-6b",

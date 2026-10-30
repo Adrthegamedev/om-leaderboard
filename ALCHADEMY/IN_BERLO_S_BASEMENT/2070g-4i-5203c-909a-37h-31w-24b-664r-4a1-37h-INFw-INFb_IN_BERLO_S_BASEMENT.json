@@ -20,7 +20,10 @@
             "value": 37.0
         },
         "widthINF": Infinity,
-        "boundingHexINF": "INF"
+        "heightINF": {
+            "level": 0,
+            "value": 9999
+        }
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20In%20Berlo's%20Basement%20(2070G%2C%205203%2C%20909%2C%202026-09-14-20-10-12).gif",
     "dataLink": "https://novae.observer/l/om/b51d4652/w2783659165/2070g-4i-5203c-909a-37h-31w-24b-664r-4a1-37h-INFw-INFb",

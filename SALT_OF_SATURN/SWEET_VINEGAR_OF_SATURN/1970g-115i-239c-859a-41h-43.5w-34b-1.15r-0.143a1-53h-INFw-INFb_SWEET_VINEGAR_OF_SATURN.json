@@ -20,7 +20,10 @@
             "value": 53.0
         },
         "widthINF": Infinity,
-        "boundingHexINF": "INF"
+        "heightINF": {
+            "level": 0,
+            "value": 9999
+        }
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20SWEET%20VINEGAR%20OF%20SATURN%20(1970G%2C%20239%2C%20859%2C%202026-09-14-17-16-11).gif",
     "dataLink": "https://novae.observer/l/om/f3015765/w3514067030/1970g-115i-239c-859a-41h-43.5w-34b-1.15r-0.143a1-53h-INFw-INFb",

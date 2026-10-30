@@ -23,7 +23,10 @@
             "level": 0,
             "value": 5.0
         },
-        "boundingHexINF": "4"
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        }
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20BURNING%20SPIRIT%20OF%20SATURN%20(620G%2C%207%2C%2019%2C%202026-09-14-23-23-18).gif",
     "dataLink": "https://novae.observer/l/om/bfbeed77/w3514067152/620g-13i-7c-19a-5h-5w-4b-1.4r-19a0-5h-5w-4b-O",
