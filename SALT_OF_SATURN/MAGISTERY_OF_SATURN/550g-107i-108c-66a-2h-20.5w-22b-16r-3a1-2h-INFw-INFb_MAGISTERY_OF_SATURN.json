@@ -1,0 +1,26 @@
+{
+    "puzzle": "MAGISTERY_OF_SATURN",
+    "score": {
+        "cost": 550,
+        "instructions": 107,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 108,
+        "area": 66,
+        "height": 2,
+        "width": 20.5,
+        "boundingHex": 22,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "heightINF": "2",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20MAGISTERY%20OF%20SATURN%20(550G%2C%20108%2C%2066%2C%202026-09-14-19-04-09).gif",
+    "dataLink": "https://novae.observer/l/om/e941abf7/w3514067476/550g-107i-108c-66a-2h-20.5w-22b-16r-3a1-2h-INFw-INFb",
+    "dataPath": "SALT_OF_SATURN/MAGISTERY_OF_SATURN/550g-107i-108c-66a-2h-20.5w-22b-16r-3a1-2h-INFw-INFb_MAGISTERY_OF_SATURN.solution",
+    "lastModified": "2026-09-14T17:19:17.254260379Z"
+}

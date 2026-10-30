@@ -1,0 +1,23 @@
+{
+    "puzzle": "SATURN_S_TREE",
+    "score": {
+        "cost": 50,
+        "instructions": 1314,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1314,
+        "area": 747,
+        "height": 30,
+        "width": null,
+        "boundingHex": null,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20SATURN'S%20TREE%20(50G%2C%201314%2C%20747%2C%202026-09-14-21-42-06).gif",
+    "dataLink": "https://novae.observer/l/om/a4baebe4/w3514067629/50g-1314i-1314c-747a-30h",
+    "dataPath": "SALT_OF_SATURN/SATURN_S_TREE/50g-1314i-1314c-747a-30h_SATURN_S_TREE.solution",
+    "lastModified": "2026-09-14T19:57:42.659773889Z"
+}

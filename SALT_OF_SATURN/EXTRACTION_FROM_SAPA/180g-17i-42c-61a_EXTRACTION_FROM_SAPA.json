@@ -1,0 +1,23 @@
+{
+    "puzzle": "EXTRACTION_FROM_SAPA",
+    "score": {
+        "cost": 180,
+        "instructions": 17,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 42,
+        "area": 61,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20EXTRACTION%20FROM%20SAPA%20(180G%2C%2042%2C%2017%2C%202026-09-14-15-38-07).gif",
+    "dataLink": "https://novae.observer/l/om/a69bf888/w3514066608/180g-17i-42c-61a",
+    "dataPath": "SALT_OF_SATURN/EXTRACTION_FROM_SAPA/180g-17i-42c-61a_EXTRACTION_FROM_SAPA.solution",
+    "lastModified": "2026-09-14T13:40:22.802224646Z"
+}

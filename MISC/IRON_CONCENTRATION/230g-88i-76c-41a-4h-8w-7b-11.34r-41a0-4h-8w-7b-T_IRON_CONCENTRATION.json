@@ -1,0 +1,26 @@
+{
+    "puzzle": "IRON_CONCENTRATION",
+    "score": {
+        "cost": 230,
+        "instructions": 88,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 76,
+        "area": 41,
+        "height": 4,
+        "width": 8.0,
+        "boundingHex": 7,
+        "rate": 11.34,
+        "areaINF": {
+            "level": 0,
+            "value": 41.0
+        },
+        "heightINF": "4",
+        "widthINF": 8.0,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/Opus%20Magnum%20-%20IRON%20CONCENTRATION%20(230G%2C%2076%2C%2041%2C%202026-09-12-20-18-16).gif",
+    "dataLink": "https://novae.observer/l/om/ce719d77/IronConcentration/230g-88i-76c-41a-4h-8w-7b-11.34r-41a0-4h-8w-7b-T",
+    "dataPath": "MISC/IRON_CONCENTRATION/230g-88i-76c-41a-4h-8w-7b-11.34r-41a0-4h-8w-7b-T_IRON_CONCENTRATION.solution",
+    "lastModified": "2026-09-12T18:19:13.568745242Z"
+}
