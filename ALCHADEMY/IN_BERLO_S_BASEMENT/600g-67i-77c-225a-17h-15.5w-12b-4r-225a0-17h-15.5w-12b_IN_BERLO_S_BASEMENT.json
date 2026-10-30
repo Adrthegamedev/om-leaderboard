@@ -15,8 +15,14 @@
             "level": 0,
             "value": 225.0
         },
-        "heightINF": "17",
-        "widthINF": 15.5,
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
         "boundingHexINF": "12"
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20In%20Berlo's%20Basement%20(600G%2C%2077%2C%20225%2C%202026-09-14-19-47-04).gif",

@@ -15,8 +15,14 @@
             "level": 0,
             "value": 48.0
         },
-        "heightINF": "8",
-        "widthINF": 7.0,
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
         "boundingHexINF": "6"
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20BURNING%20SPIRIT%20OF%20SATURN%20(110G%2C%20389%2C%2048%2C%202026-09-14-17-43-13).gif",

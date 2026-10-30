@@ -15,7 +15,10 @@
             "level": 1,
             "value": 0.14285714285714285
         },
-        "heightINF": "53",
+        "heightINF": {
+            "level": 0,
+            "value": 53.0
+        },
         "widthINF": Infinity,
         "boundingHexINF": "INF"
     },

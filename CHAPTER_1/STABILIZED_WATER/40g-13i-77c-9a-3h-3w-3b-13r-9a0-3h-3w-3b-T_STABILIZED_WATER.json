@@ -15,8 +15,14 @@
             "level": 0,
             "value": 9.0
         },
-        "heightINF": "3",
-        "widthINF": 3.0,
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
         "boundingHexINF": "3"
     },
     "displayLink": "https://i.imgur.com/A4o012y.gif",

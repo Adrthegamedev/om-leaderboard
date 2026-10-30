@@ -15,8 +15,14 @@
             "level": 0,
             "value": 68.0
         },
-        "heightINF": "9",
-        "widthINF": 8.5,
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
         "boundingHexINF": "7"
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20MAGISTERY%20OF%20SATURN%20(310G%2C%2053%2C%2068%2C%202026-09-14-19-31-47).gif",

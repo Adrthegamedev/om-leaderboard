@@ -15,7 +15,10 @@
             "level": 2,
             "value": 45.0
         },
-        "heightINF": "INF",
+        "heightINF": {
+            "level": 0,
+            "value": 9999
+        },
         "widthINF": null,
         "boundingHexINF": null
     },

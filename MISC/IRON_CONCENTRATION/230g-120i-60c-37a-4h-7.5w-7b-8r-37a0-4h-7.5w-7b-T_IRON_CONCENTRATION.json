@@ -15,8 +15,14 @@
             "level": 0,
             "value": 37.0
         },
-        "heightINF": "4",
-        "widthINF": 7.5,
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
         "boundingHexINF": "7"
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/Opus%20Magnum%20-%20IRON%20CONCENTRATION%20(230G%2C%2060%2C%2037%2C%202026-09-12-20-06-05).gif",

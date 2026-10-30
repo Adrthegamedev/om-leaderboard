@@ -15,8 +15,14 @@
             "level": 0,
             "value": 63.0
         },
-        "heightINF": "9",
-        "widthINF": 8.5,
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
         "boundingHexINF": "6"
     },
     "displayLink": "https://file.garden/XfgsWwFNIyd3vjoq/omgifs/Opus%20Magnum%20-%20SWEET%20VINEGAR%20OF%20SATURN%20(90G%2C%20992%2C%2063%2C%202026-09-14-16-23-27).gif",
