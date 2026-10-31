@@ -1,0 +1,36 @@
+{
+    "puzzle": "GLORP_S_CONSTRUCT",
+    "score": {
+        "cost": 90,
+        "instructions": 70,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 258,
+        "area": 40,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 66.0,
+        "areaINF": {
+            "level": 0,
+            "value": 40.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/7dc7341c/GlorpsConstruct/90g-70i-258c-40a-7h-6.5w-6b-66r-40a-7h-6.5w-6b-TL",
+    "dataPath": "DARK_BRICK/GLORP_S_CONSTRUCT/GLORP_S_CONSTRUCT_90g-70i-258c-40a-7h-6.5w-6b-66r-40a-7h-6.5w-6b-TL.solution",
+    "lastModified": "2026-10-31T14:13:00.380691352Z"
+}
