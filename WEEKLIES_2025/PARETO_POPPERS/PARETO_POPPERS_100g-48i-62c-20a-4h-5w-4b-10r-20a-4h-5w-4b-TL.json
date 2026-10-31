@@ -6,23 +6,23 @@
         "overlap": false,
         "trackless": true,
         "cycles": 62,
-        "area": 23,
-        "height": 5,
-        "width": 5.5,
+        "area": 20,
+        "height": 4,
+        "width": 5.0,
         "boundingHex": 4,
         "looping": true,
         "rate": 10.0,
         "areaINF": {
             "level": 0,
-            "value": 23.0
+            "value": 20.0
         },
         "heightINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         },
         "widthINF": {
             "level": 0,
-            "value": 5.5
+            "value": 5.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/fade2846/w3584642234/100g-48i-62c-23a-5h-5.5w-4b-10r-23a-5h-5.5w-4b-TL",
-    "dataPath": "WEEKLIES_2025/PARETO_POPPERS/PARETO_POPPERS_100g-48i-62c-23a-5h-5.5w-4b-10r-23a-5h-5.5w-4b-TL.solution",
-    "lastModified": "2026-10-31T15:41:03.204603781Z"
+    "dataLink": "https://novae.observer/l/om/eb60742e/w3584642234/100g-48i-62c-20a-4h-5w-4b-10r-20a-4h-5w-4b-TL",
+    "dataPath": "WEEKLIES_2025/PARETO_POPPERS/PARETO_POPPERS_100g-48i-62c-20a-4h-5w-4b-10r-20a-4h-5w-4b-TL.solution",
+    "lastModified": "2026-10-31T15:52:31.210313353Z"
 }
