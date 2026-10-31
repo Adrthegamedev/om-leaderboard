@@ -1,15 +1,15 @@
 {
     "puzzle": "VISCOUS_ADHESIVE",
     "score": {
-        "cost": 270,
-        "instructions": 30,
+        "cost": 195,
+        "instructions": 26,
         "overlap": true,
         "trackless": false,
         "cycles": 66,
         "area": 22,
-        "height": 8,
-        "width": 7.0,
-        "boundingHex": 5,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 4,
         "looping": true,
         "rate": 11.0,
         "areaINF": {
@@ -18,19 +18,19 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 5.0
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 4.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/081a6599/OM2023Weeklies_ViscousAdhesive/270g-30i-66c-22a-8h-7w-5b-11r-22a-8h-7w-5b-OL",
-    "dataPath": "WEEKLIES_2023/VISCOUS_ADHESIVE/VISCOUS_ADHESIVE_270g-30i-66c-22a-8h-7w-5b-11r-22a-8h-7w-5b-OL.solution",
-    "lastModified": "2026-10-31T15:58:02.476770442Z"
+    "dataLink": "https://novae.observer/l/om/514a9b16/OM2023Weeklies_ViscousAdhesive/195g-26i-66c-22a-5h-4.5w-4b-11r-22a-5h-4.5w-4b-OL",
+    "dataPath": "WEEKLIES_2023/VISCOUS_ADHESIVE/VISCOUS_ADHESIVE_195g-26i-66c-22a-5h-4.5w-4b-11r-22a-5h-4.5w-4b-OL.solution",
+    "lastModified": "2026-10-31T15:58:35.604719005Z"
 }
