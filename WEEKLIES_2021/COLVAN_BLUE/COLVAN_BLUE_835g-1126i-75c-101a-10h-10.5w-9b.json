@@ -1,7 +1,7 @@
 {
     "puzzle": "COLVAN_BLUE",
     "score": {
-        "cost": 850,
+        "cost": 835,
         "instructions": 1126,
         "overlap": false,
         "trackless": false,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/f6e03cac/w2518202582/850g-1126i-75c-101a-10h-10.5w-9b",
-    "dataPath": "WEEKLIES_2021/COLVAN_BLUE/COLVAN_BLUE_850g-1126i-75c-101a-10h-10.5w-9b.solution",
-    "lastModified": "2026-10-31T17:25:28.674541476Z"
+    "dataLink": "https://novae.observer/l/om/6dda8911/w2518202582/835g-1126i-75c-101a-10h-10.5w-9b",
+    "dataPath": "WEEKLIES_2021/COLVAN_BLUE/COLVAN_BLUE_835g-1126i-75c-101a-10h-10.5w-9b.solution",
+    "lastModified": "2026-10-31T17:26:53.490977017Z"
 }
