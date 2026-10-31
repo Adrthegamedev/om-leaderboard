@@ -1,0 +1,24 @@
+{
+    "puzzle": "ASBESTOS",
+    "score": {
+        "cost": 635,
+        "instructions": 296,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 33,
+        "area": 101,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/e956d57d/w3584699215/635g-296i-33c-101a",
+    "dataPath": "WEEKLIES_2025/ASBESTOS/ASBESTOS_635g-296i-33c-101a.solution",
+    "lastModified": "2026-10-31T16:47:03.746878992Z"
+}
