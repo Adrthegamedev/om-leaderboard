@@ -1,0 +1,36 @@
+{
+    "puzzle": "QUINTESSENTIAL_CATALYST",
+    "score": {
+        "cost": 110,
+        "instructions": 448,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 890,
+        "area": 21,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 149.34,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/203c112e/w2584226376/110g-448i-890c-21a-5h-5w-4b-149.34r-21a-5h-5w-4b-L",
+    "dataPath": "WEEKLIES_2021/QUINTESSENTIAL_CATALYST/QUINTESSENTIAL_CATALYST_110g-448i-890c-21a-5h-5w-4b-149.34r-21a-5h-5w-4b-L.solution",
+    "lastModified": "2026-10-31T17:28:12.510167687Z"
+}
