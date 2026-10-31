@@ -2,7 +2,7 @@
     "puzzle": "CRANBERRY_GLASS",
     "score": {
         "cost": 380,
-        "instructions": 56,
+        "instructions": 54,
         "overlap": false,
         "trackless": false,
         "cycles": 201,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/dc57b0e8/w2552978793/380g-56i-201c-95a-12h-11w-8b-32r-95a-12h-11w-8b-L",
-    "dataPath": "WEEKLIES_2021/CRANBERRY_GLASS/CRANBERRY_GLASS_380g-56i-201c-95a-12h-11w-8b-32r-95a-12h-11w-8b-L.solution",
-    "lastModified": "2026-10-31T17:33:19.988877226Z"
+    "dataLink": "https://novae.observer/l/om/5b474e8e/w2552978793/380g-54i-201c-95a-12h-11w-8b-32r-95a-12h-11w-8b-L",
+    "dataPath": "WEEKLIES_2021/CRANBERRY_GLASS/CRANBERRY_GLASS_380g-54i-201c-95a-12h-11w-8b-32r-95a-12h-11w-8b-L.solution",
+    "lastModified": "2026-10-31T17:33:23.565165130Z"
 }
