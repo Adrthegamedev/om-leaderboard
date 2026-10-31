@@ -1,0 +1,36 @@
+{
+    "puzzle": "ODD_BEVERAGE",
+    "score": {
+        "cost": 200,
+        "instructions": 89,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 335,
+        "area": 34,
+        "height": 3,
+        "width": 8.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 56.0,
+        "areaINF": {
+            "level": 0,
+            "value": 34.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/fd591012/AFH1_OddBeverage/200g-89i-335c-34a-3h-8w-8b-56r-34a-3h-8w-8b-L",
+    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_200g-89i-335c-34a-3h-8w-8b-56r-34a-3h-8w-8b-L.solution",
+    "lastModified": "2026-10-31T20:24:35.886748191Z"
+}
