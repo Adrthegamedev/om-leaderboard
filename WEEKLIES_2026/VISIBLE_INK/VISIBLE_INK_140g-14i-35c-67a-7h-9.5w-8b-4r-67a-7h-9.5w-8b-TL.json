@@ -1,24 +1,24 @@
 {
     "puzzle": "VISIBLE_INK",
     "score": {
-        "cost": 150,
+        "cost": 140,
         "instructions": 14,
         "overlap": false,
         "trackless": true,
         "cycles": 35,
-        "area": 101,
-        "height": 11,
+        "area": 67,
+        "height": 7,
         "width": 9.5,
         "boundingHex": 8,
-        "looping": false,
+        "looping": true,
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 101.0
+            "value": 67.0
         },
         "heightINF": {
             "level": 0,
-            "value": 11.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/aa194392/weeklies2026_visible-ink/150g-14i-35c-101a-11h-9.5w-8b-4r-101a-11h-9.5w-8b-T",
-    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_150g-14i-35c-101a-11h-9.5w-8b-4r-101a-11h-9.5w-8b-T.solution",
-    "lastModified": "2026-10-31T14:58:13.732600408Z"
+    "dataLink": "https://novae.observer/l/om/bc1141be/weeklies2026_visible-ink/140g-14i-35c-67a-7h-9.5w-8b-4r-67a-7h-9.5w-8b-TL",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_140g-14i-35c-67a-7h-9.5w-8b-4r-67a-7h-9.5w-8b-TL.solution",
+    "lastModified": "2026-10-31T15:07:31.513893217Z"
 }
