@@ -1,0 +1,36 @@
+{
+    "puzzle": "AQUEOUS_DAGGER",
+    "score": {
+        "cost": 60,
+        "instructions": 44,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 262,
+        "area": 19,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 44.0,
+        "areaINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/c46b587d/w3783530687/60g-44i-262c-19a-5h-5w-3b-44r-19a-5h-5w-3b-TL",
+    "dataPath": "WEEKLIES_2026/AQUEOUS_DAGGER/AQUEOUS_DAGGER_60g-44i-262c-19a-5h-5w-3b-44r-19a-5h-5w-3b-TL.solution",
+    "lastModified": "2026-10-31T15:23:03.056632929Z"
+}
