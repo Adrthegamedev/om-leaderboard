@@ -2,10 +2,10 @@
     "puzzle": "ASBESTOS",
     "score": {
         "cost": 85,
-        "instructions": 451,
+        "instructions": 397,
         "overlap": false,
         "trackless": false,
-        "cycles": 451,
+        "cycles": 397,
         "area": 78,
         "height": null,
         "width": null,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/2e189675/w3584699215/85g-451i-451c-78a",
-    "dataPath": "WEEKLIES_2025/ASBESTOS/ASBESTOS_85g-451i-451c-78a.solution",
-    "lastModified": "2026-10-31T16:47:18.918108328Z"
+    "dataLink": "https://novae.observer/l/om/84e28720/w3584699215/85g-397i-397c-78a",
+    "dataPath": "WEEKLIES_2025/ASBESTOS/ASBESTOS_85g-397i-397c-78a.solution",
+    "lastModified": "2026-10-31T16:47:26.767957721Z"
 }
