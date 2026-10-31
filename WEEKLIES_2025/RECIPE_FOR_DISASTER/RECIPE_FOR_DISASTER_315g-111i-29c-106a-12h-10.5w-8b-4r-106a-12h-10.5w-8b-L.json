@@ -1,0 +1,36 @@
+{
+    "puzzle": "RECIPE_FOR_DISASTER",
+    "score": {
+        "cost": 315,
+        "instructions": 111,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 29,
+        "area": 106,
+        "height": 12,
+        "width": 10.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 106.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/c9d4e354/w3585103923/315g-111i-29c-106a-12h-10.5w-8b-4r-106a-12h-10.5w-8b-L",
+    "dataPath": "WEEKLIES_2025/RECIPE_FOR_DISASTER/RECIPE_FOR_DISASTER_315g-111i-29c-106a-12h-10.5w-8b-4r-106a-12h-10.5w-8b-L.solution",
+    "lastModified": "2026-10-31T16:43:55.408403222Z"
+}
