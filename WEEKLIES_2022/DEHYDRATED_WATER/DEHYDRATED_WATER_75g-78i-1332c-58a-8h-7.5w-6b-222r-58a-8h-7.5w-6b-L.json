@@ -1,7 +1,7 @@
 {
     "puzzle": "DEHYDRATED_WATER",
     "score": {
-        "cost": 80,
+        "cost": 75,
         "instructions": 78,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/a14ec9fe/w2868714668/80g-78i-1332c-58a-8h-7.5w-6b-222r-58a-8h-7.5w-6b-L",
-    "dataPath": "WEEKLIES_2022/DEHYDRATED_WATER/DEHYDRATED_WATER_80g-78i-1332c-58a-8h-7.5w-6b-222r-58a-8h-7.5w-6b-L.solution",
-    "lastModified": "2026-10-31T16:09:13.493882728Z"
+    "dataLink": "https://novae.observer/l/om/79c8f606/w2868714668/75g-78i-1332c-58a-8h-7.5w-6b-222r-58a-8h-7.5w-6b-L",
+    "dataPath": "WEEKLIES_2022/DEHYDRATED_WATER/DEHYDRATED_WATER_75g-78i-1332c-58a-8h-7.5w-6b-222r-58a-8h-7.5w-6b-L.solution",
+    "lastModified": "2026-10-31T16:09:29.417244067Z"
 }
