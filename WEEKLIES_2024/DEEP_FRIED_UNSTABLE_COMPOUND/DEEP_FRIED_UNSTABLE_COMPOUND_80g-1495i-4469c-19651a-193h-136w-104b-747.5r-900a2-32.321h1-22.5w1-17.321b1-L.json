@@ -1,0 +1,36 @@
+{
+    "puzzle": "DEEP_FRIED_UNSTABLE_COMPOUND",
+    "score": {
+        "cost": 80,
+        "instructions": 1495,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 4469,
+        "area": 19651,
+        "height": 193,
+        "width": 136.0,
+        "boundingHex": 104,
+        "looping": true,
+        "rate": 747.5,
+        "areaINF": {
+            "level": 2,
+            "value": 900.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 32.32050807568877
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 22.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 17.320508075688775
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/ae4872fa/w3288813162/80g-1495i-4469c-19651a-193h-136w-104b-747.5r-900a2-32.321h1-22.5w1-17.321b1-L",
+    "dataPath": "WEEKLIES_2024/DEEP_FRIED_UNSTABLE_COMPOUND/DEEP_FRIED_UNSTABLE_COMPOUND_80g-1495i-4469c-19651a-193h-136w-104b-747.5r-900a2-32.321h1-22.5w1-17.321b1-L.solution",
+    "lastModified": "2026-10-31T17:07:41.129924537Z"
+}
