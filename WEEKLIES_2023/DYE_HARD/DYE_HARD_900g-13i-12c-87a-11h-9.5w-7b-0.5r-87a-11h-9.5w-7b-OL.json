@@ -1,0 +1,36 @@
+{
+    "puzzle": "DYE_HARD",
+    "score": {
+        "cost": 900,
+        "instructions": 13,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 12,
+        "area": 87,
+        "height": 11,
+        "width": 9.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 0.5,
+        "areaINF": {
+            "level": 0,
+            "value": 87.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/d9707d80/OM2023Weeklies_DyeHard/900g-13i-12c-87a-11h-9.5w-7b-0.5r-87a-11h-9.5w-7b-OL",
+    "dataPath": "WEEKLIES_2023/DYE_HARD/DYE_HARD_900g-13i-12c-87a-11h-9.5w-7b-0.5r-87a-11h-9.5w-7b-OL.solution",
+    "lastModified": "2026-10-31T16:19:41.127455592Z"
+}
