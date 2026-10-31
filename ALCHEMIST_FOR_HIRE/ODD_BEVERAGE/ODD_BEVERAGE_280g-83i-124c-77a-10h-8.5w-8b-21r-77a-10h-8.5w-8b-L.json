@@ -1,7 +1,7 @@
 {
     "puzzle": "ODD_BEVERAGE",
     "score": {
-        "cost": 315,
+        "cost": 280,
         "instructions": 83,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/82570193/AFH1_OddBeverage/315g-83i-124c-77a-10h-8.5w-8b-21r-77a-10h-8.5w-8b-L",
-    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_315g-83i-124c-77a-10h-8.5w-8b-21r-77a-10h-8.5w-8b-L.solution",
-    "lastModified": "2026-10-31T20:22:10.267278399Z"
+    "dataLink": "https://novae.observer/l/om/c79f4264/AFH1_OddBeverage/280g-83i-124c-77a-10h-8.5w-8b-21r-77a-10h-8.5w-8b-L",
+    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_280g-83i-124c-77a-10h-8.5w-8b-21r-77a-10h-8.5w-8b-L.solution",
+    "lastModified": "2026-10-31T20:22:48.580882252Z"
 }
