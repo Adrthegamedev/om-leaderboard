@@ -1,28 +1,28 @@
 {
     "puzzle": "STABILIZED_GOLD",
     "score": {
-        "cost": 660,
-        "instructions": 478,
+        "cost": 655,
+        "instructions": 467,
         "overlap": false,
         "trackless": false,
         "cycles": 46,
-        "area": 60,
-        "height": 9,
-        "width": 8.5,
+        "area": 46,
+        "height": 8,
+        "width": 6.5,
         "boundingHex": 6,
         "looping": false,
         "rate": 6.67,
         "areaINF": {
             "level": 0,
-            "value": 60.0
+            "value": 46.0
         },
         "heightINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         },
         "widthINF": {
             "level": 0,
-            "value": 8.5
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/b2df47ba/w2868335739/660g-478i-46c-60a-9h-8.5w-6b-6.67r-60a-9h-8.5w-6b",
-    "dataPath": "WEEKLIES_2022/STABILIZED_GOLD/STABILIZED_GOLD_660g-478i-46c-60a-9h-8.5w-6b-6.67r-60a-9h-8.5w-6b.solution",
-    "lastModified": "2026-10-31T16:50:14.631284616Z"
+    "dataLink": "https://novae.observer/l/om/88a39fe8/w2868335739/655g-467i-46c-46a-8h-6.5w-6b-6.67r-46a-8h-6.5w-6b",
+    "dataPath": "WEEKLIES_2022/STABILIZED_GOLD/STABILIZED_GOLD_655g-467i-46c-46a-8h-6.5w-6b-6.67r-46a-8h-6.5w-6b.solution",
+    "lastModified": "2026-10-31T16:50:34.975755242Z"
 }
