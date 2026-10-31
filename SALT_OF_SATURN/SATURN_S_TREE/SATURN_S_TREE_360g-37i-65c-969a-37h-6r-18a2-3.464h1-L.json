@@ -1,0 +1,30 @@
+{
+    "puzzle": "SATURN_S_TREE",
+    "score": {
+        "cost": 360,
+        "instructions": 37,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 65,
+        "area": 969,
+        "height": 37,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 2,
+            "value": 18.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.464101615137755
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/f46323b0/w3514067629/360g-37i-65c-969a-37h-6r-18a2-3.464h1-L",
+    "dataPath": "SALT_OF_SATURN/SATURN_S_TREE/SATURN_S_TREE_360g-37i-65c-969a-37h-6r-18a2-3.464h1-L.solution",
+    "lastModified": "2026-10-31T17:29:50.436825779Z"
+}
