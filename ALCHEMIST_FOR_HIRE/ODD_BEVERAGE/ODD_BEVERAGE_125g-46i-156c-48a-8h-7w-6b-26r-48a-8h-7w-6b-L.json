@@ -1,20 +1,20 @@
 {
     "puzzle": "ODD_BEVERAGE",
     "score": {
-        "cost": 180,
-        "instructions": 75,
+        "cost": 125,
+        "instructions": 46,
         "overlap": false,
         "trackless": false,
-        "cycles": 323,
-        "area": 49,
+        "cycles": 156,
+        "area": 48,
         "height": 8,
-        "width": 8.0,
+        "width": 7.0,
         "boundingHex": 6,
         "looping": true,
-        "rate": 54.0,
+        "rate": 26.0,
         "areaINF": {
             "level": 0,
-            "value": 49.0
+            "value": 48.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/794ff06d/AFH1_OddBeverage/180g-75i-323c-49a-8h-8w-6b-54r-49a-8h-8w-6b-L",
-    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_180g-75i-323c-49a-8h-8w-6b-54r-49a-8h-8w-6b-L.solution",
-    "lastModified": "2026-10-31T20:22:26.168921347Z"
+    "dataLink": "https://novae.observer/l/om/777fbedf/AFH1_OddBeverage/125g-46i-156c-48a-8h-7w-6b-26r-48a-8h-7w-6b-L",
+    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_125g-46i-156c-48a-8h-7w-6b-26r-48a-8h-7w-6b-L.solution",
+    "lastModified": "2026-10-31T20:22:30.323773451Z"
 }
