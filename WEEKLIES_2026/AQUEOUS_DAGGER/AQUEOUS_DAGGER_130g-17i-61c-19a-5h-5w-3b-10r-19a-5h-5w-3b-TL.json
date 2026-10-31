@@ -1,8 +1,8 @@
 {
     "puzzle": "AQUEOUS_DAGGER",
     "score": {
-        "cost": 140,
-        "instructions": 19,
+        "cost": 130,
+        "instructions": 17,
         "overlap": false,
         "trackless": true,
         "cycles": 61,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/ab1891c3/w3783530687/140g-19i-61c-19a-5h-5w-3b-10r-19a-5h-5w-3b-TL",
-    "dataPath": "WEEKLIES_2026/AQUEOUS_DAGGER/AQUEOUS_DAGGER_140g-19i-61c-19a-5h-5w-3b-10r-19a-5h-5w-3b-TL.solution",
-    "lastModified": "2026-10-31T15:20:19.700165345Z"
+    "dataLink": "https://novae.observer/l/om/9d4e360f/w3783530687/130g-17i-61c-19a-5h-5w-3b-10r-19a-5h-5w-3b-TL",
+    "dataPath": "WEEKLIES_2026/AQUEOUS_DAGGER/AQUEOUS_DAGGER_130g-17i-61c-19a-5h-5w-3b-10r-19a-5h-5w-3b-TL.solution",
+    "lastModified": "2026-10-31T15:20:43.378904677Z"
 }
