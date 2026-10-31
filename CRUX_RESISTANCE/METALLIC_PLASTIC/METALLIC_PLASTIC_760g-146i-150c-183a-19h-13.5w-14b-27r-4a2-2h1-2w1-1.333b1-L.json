@@ -1,0 +1,36 @@
+{
+    "puzzle": "METALLIC_PLASTIC",
+    "score": {
+        "cost": 760,
+        "instructions": 146,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 150,
+        "area": 183,
+        "height": 19,
+        "width": 13.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 27.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.3333333333333333
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/4378bf9d/USP-3.0metallic_plastic/760g-146i-150c-183a-19h-13.5w-14b-27r-4a2-2h1-2w1-1.333b1-L",
+    "dataPath": "CRUX_RESISTANCE/METALLIC_PLASTIC/METALLIC_PLASTIC_760g-146i-150c-183a-19h-13.5w-14b-27r-4a2-2h1-2w1-1.333b1-L.solution",
+    "lastModified": "2026-10-31T14:36:46.342150146Z"
+}
