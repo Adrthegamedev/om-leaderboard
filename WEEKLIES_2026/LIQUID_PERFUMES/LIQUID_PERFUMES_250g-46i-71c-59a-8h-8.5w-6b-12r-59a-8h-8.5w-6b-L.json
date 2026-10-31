@@ -1,24 +1,24 @@
 {
     "puzzle": "LIQUID_PERFUMES",
     "score": {
-        "cost": 260,
+        "cost": 250,
         "instructions": 46,
         "overlap": false,
         "trackless": false,
-        "cycles": 81,
-        "area": 58,
-        "height": 9,
+        "cycles": 71,
+        "area": 59,
+        "height": 8,
         "width": 8.5,
         "boundingHex": 6,
         "looping": true,
-        "rate": 14.0,
+        "rate": 12.0,
         "areaINF": {
             "level": 0,
-            "value": 58.0
+            "value": 59.0
         },
         "heightINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/9d390e1a/weeklies2026_liquid-perfumes/260g-46i-81c-58a-9h-8.5w-6b-14r-58a-9h-8.5w-6b-L",
-    "dataPath": "WEEKLIES_2026/LIQUID_PERFUMES/LIQUID_PERFUMES_260g-46i-81c-58a-9h-8.5w-6b-14r-58a-9h-8.5w-6b-L.solution",
-    "lastModified": "2026-10-31T14:41:29.986692706Z"
+    "dataLink": "https://novae.observer/l/om/9a0eb32c/weeklies2026_liquid-perfumes/250g-46i-71c-59a-8h-8.5w-6b-12r-59a-8h-8.5w-6b-L",
+    "dataPath": "WEEKLIES_2026/LIQUID_PERFUMES/LIQUID_PERFUMES_250g-46i-71c-59a-8h-8.5w-6b-12r-59a-8h-8.5w-6b-L.solution",
+    "lastModified": "2026-10-31T14:43:05.966605410Z"
 }
