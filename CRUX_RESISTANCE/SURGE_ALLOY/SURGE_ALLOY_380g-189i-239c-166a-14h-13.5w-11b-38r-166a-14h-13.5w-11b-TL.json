@@ -1,0 +1,36 @@
+{
+    "puzzle": "SURGE_ALLOY",
+    "score": {
+        "cost": 380,
+        "instructions": 189,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 239,
+        "area": 166,
+        "height": 14,
+        "width": 13.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 38.0,
+        "areaINF": {
+            "level": 0,
+            "value": 166.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/9224d45e/USP-4.0surge_alloy/380g-189i-239c-166a-14h-13.5w-11b-38r-166a-14h-13.5w-11b-TL",
+    "dataPath": "CRUX_RESISTANCE/SURGE_ALLOY/SURGE_ALLOY_380g-189i-239c-166a-14h-13.5w-11b-38r-166a-14h-13.5w-11b-TL.solution",
+    "lastModified": "2026-10-31T14:35:13.161347085Z"
+}
