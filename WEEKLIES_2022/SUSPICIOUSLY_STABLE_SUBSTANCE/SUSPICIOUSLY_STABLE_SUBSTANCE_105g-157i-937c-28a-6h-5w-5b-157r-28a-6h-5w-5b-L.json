@@ -1,24 +1,24 @@
 {
     "puzzle": "SUSPICIOUSLY_STABLE_SUBSTANCE",
     "score": {
-        "cost": 145,
-        "instructions": 229,
+        "cost": 105,
+        "instructions": 157,
         "overlap": false,
         "trackless": false,
-        "cycles": 1075,
-        "area": 27,
-        "height": 5,
+        "cycles": 937,
+        "area": 28,
+        "height": 6,
         "width": 5.0,
         "boundingHex": 5,
         "looping": true,
-        "rate": 179.0,
+        "rate": 157.0,
         "areaINF": {
             "level": 0,
-            "value": 27.0
+            "value": 28.0
         },
         "heightINF": {
             "level": 0,
-            "value": 5.0
+            "value": 6.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/a25bf698/w2868337187/145g-229i-1075c-27a-5h-5w-5b-179r-27a-5h-5w-5b-L",
-    "dataPath": "WEEKLIES_2022/SUSPICIOUSLY_STABLE_SUBSTANCE/SUSPICIOUSLY_STABLE_SUBSTANCE_145g-229i-1075c-27a-5h-5w-5b-179r-27a-5h-5w-5b-L.solution",
-    "lastModified": "2026-10-31T16:33:32.575197943Z"
+    "dataLink": "https://novae.observer/l/om/6a7d15c3/w2868337187/105g-157i-937c-28a-6h-5w-5b-157r-28a-6h-5w-5b-L",
+    "dataPath": "WEEKLIES_2022/SUSPICIOUSLY_STABLE_SUBSTANCE/SUSPICIOUSLY_STABLE_SUBSTANCE_105g-157i-937c-28a-6h-5w-5b-157r-28a-6h-5w-5b-L.solution",
+    "lastModified": "2026-10-31T16:33:55.748713509Z"
 }
