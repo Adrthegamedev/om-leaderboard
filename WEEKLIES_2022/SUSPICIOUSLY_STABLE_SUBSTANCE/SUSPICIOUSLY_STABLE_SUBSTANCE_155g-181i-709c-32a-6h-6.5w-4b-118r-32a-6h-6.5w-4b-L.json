@@ -1,0 +1,36 @@
+{
+    "puzzle": "SUSPICIOUSLY_STABLE_SUBSTANCE",
+    "score": {
+        "cost": 155,
+        "instructions": 181,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 709,
+        "area": 32,
+        "height": 6,
+        "width": 6.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 118.0,
+        "areaINF": {
+            "level": 0,
+            "value": 32.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/67d078e4/w2868337187/155g-181i-709c-32a-6h-6.5w-4b-118r-32a-6h-6.5w-4b-L",
+    "dataPath": "WEEKLIES_2022/SUSPICIOUSLY_STABLE_SUBSTANCE/SUSPICIOUSLY_STABLE_SUBSTANCE_155g-181i-709c-32a-6h-6.5w-4b-118r-32a-6h-6.5w-4b-L.solution",
+    "lastModified": "2026-10-31T16:32:39.744548316Z"
+}
