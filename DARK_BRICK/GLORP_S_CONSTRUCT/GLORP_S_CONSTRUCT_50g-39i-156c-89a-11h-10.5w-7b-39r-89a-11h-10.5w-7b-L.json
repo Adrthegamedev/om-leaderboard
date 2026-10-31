@@ -6,15 +6,15 @@
         "overlap": false,
         "trackless": false,
         "cycles": 156,
-        "area": 98,
+        "area": 89,
         "height": 11,
         "width": 10.5,
-        "boundingHex": 8,
+        "boundingHex": 7,
         "looping": true,
         "rate": 39.0,
         "areaINF": {
             "level": 0,
-            "value": 98.0
+            "value": 89.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/cc12685b/GlorpsConstruct/50g-39i-156c-98a-11h-10.5w-8b-39r-98a-11h-10.5w-8b-L",
-    "dataPath": "DARK_BRICK/GLORP_S_CONSTRUCT/GLORP_S_CONSTRUCT_50g-39i-156c-98a-11h-10.5w-8b-39r-98a-11h-10.5w-8b-L.solution",
-    "lastModified": "2026-10-31T14:11:37.202583553Z"
+    "dataLink": "https://novae.observer/l/om/0c92ee6e/GlorpsConstruct/50g-39i-156c-89a-11h-10.5w-7b-39r-89a-11h-10.5w-7b-L",
+    "dataPath": "DARK_BRICK/GLORP_S_CONSTRUCT/GLORP_S_CONSTRUCT_50g-39i-156c-89a-11h-10.5w-7b-39r-89a-11h-10.5w-7b-L.solution",
+    "lastModified": "2026-10-31T14:19:06.903743937Z"
 }
