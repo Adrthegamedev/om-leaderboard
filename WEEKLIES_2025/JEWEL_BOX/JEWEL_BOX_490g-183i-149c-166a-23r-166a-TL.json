@@ -1,27 +1,27 @@
 {
     "puzzle": "JEWEL_BOX",
     "score": {
-        "cost": 610,
-        "instructions": 264,
+        "cost": 490,
+        "instructions": 183,
         "overlap": false,
         "trackless": true,
-        "cycles": 157,
-        "area": 171,
+        "cycles": 149,
+        "area": 166,
         "height": null,
         "width": null,
         "boundingHex": null,
         "looping": true,
-        "rate": 24.0,
+        "rate": 23.0,
         "areaINF": {
             "level": 0,
-            "value": 171.0
+            "value": 166.0
         },
         "heightINF": null,
         "widthINF": null,
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/fa53391a/Weeklies2025_JewelBox_v2/610g-264i-157c-171a-24r-171a-TL",
-    "dataPath": "WEEKLIES_2025/JEWEL_BOX/JEWEL_BOX_610g-264i-157c-171a-24r-171a-TL.solution",
-    "lastModified": "2026-10-31T16:38:58.504740347Z"
+    "dataLink": "https://novae.observer/l/om/b16c3e32/Weeklies2025_JewelBox_v2/490g-183i-149c-166a-23r-166a-TL",
+    "dataPath": "WEEKLIES_2025/JEWEL_BOX/JEWEL_BOX_490g-183i-149c-166a-23r-166a-TL.solution",
+    "lastModified": "2026-10-31T16:39:44.048798156Z"
 }
