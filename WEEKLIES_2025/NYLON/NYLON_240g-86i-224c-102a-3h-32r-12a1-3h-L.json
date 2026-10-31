@@ -5,8 +5,8 @@
         "instructions": 86,
         "overlap": false,
         "trackless": false,
-        "cycles": 247,
-        "area": 108,
+        "cycles": 224,
+        "area": 102,
         "height": 3,
         "width": null,
         "boundingHex": null,
@@ -24,7 +24,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/7c403539/Weeklies2025_Nylon/240g-86i-247c-108a-3h-32r-12a1-3h-L",
-    "dataPath": "WEEKLIES_2025/NYLON/NYLON_240g-86i-247c-108a-3h-32r-12a1-3h-L.solution",
-    "lastModified": "2026-10-31T15:39:35.640712572Z"
+    "dataLink": "https://novae.observer/l/om/ca63206c/Weeklies2025_Nylon/240g-86i-224c-102a-3h-32r-12a1-3h-L",
+    "dataPath": "WEEKLIES_2025/NYLON/NYLON_240g-86i-224c-102a-3h-32r-12a1-3h-L.solution",
+    "lastModified": "2026-10-31T15:40:05.273574053Z"
 }
