@@ -1,0 +1,36 @@
+{
+    "puzzle": "QUINTESSENTIAL_EXPLOSIVE",
+    "score": {
+        "cost": 630,
+        "instructions": 75,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 96,
+        "area": 191,
+        "height": 12,
+        "width": 15.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 191.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/113a9f1f/w3049655429/630g-75i-96c-191a-12h-15.5w-12b-14r-191a-12h-15.5w-12b-L",
+    "dataPath": "WEEKLIES_2023/QUINTESSENTIAL_EXPLOSIVE/QUINTESSENTIAL_EXPLOSIVE_630g-75i-96c-191a-12h-15.5w-12b-14r-191a-12h-15.5w-12b-L.solution",
+    "lastModified": "2026-10-31T17:04:52.975946392Z"
+}
