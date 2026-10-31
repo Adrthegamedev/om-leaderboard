@@ -1,0 +1,24 @@
+{
+    "puzzle": "AQUEOUS_DAGGER",
+    "score": {
+        "cost": 280,
+        "instructions": 67,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 15,
+        "area": 81,
+        "height": 11,
+        "width": 8.5,
+        "boundingHex": 7,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/56ee8f14/w3783530687/280g-67i-15c-81a-11h-8.5w-7b",
+    "dataPath": "WEEKLIES_2026/AQUEOUS_DAGGER/AQUEOUS_DAGGER_280g-67i-15c-81a-11h-8.5w-7b.solution",
+    "lastModified": "2026-10-31T15:24:22.607643615Z"
+}
