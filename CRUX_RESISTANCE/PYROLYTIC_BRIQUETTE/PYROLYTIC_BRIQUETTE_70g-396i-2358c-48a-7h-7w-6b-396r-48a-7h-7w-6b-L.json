@@ -1,0 +1,36 @@
+{
+    "puzzle": "PYROLYTIC_BRIQUETTE",
+    "score": {
+        "cost": 70,
+        "instructions": 396,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 2358,
+        "area": 48,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 396.0,
+        "areaINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/3f7a1472/USP-2.1pyrolytic_briquette/70g-396i-2358c-48a-7h-7w-6b-396r-48a-7h-7w-6b-L",
+    "dataPath": "CRUX_RESISTANCE/PYROLYTIC_BRIQUETTE/PYROLYTIC_BRIQUETTE_70g-396i-2358c-48a-7h-7w-6b-396r-48a-7h-7w-6b-L.solution",
+    "lastModified": "2026-10-31T14:36:07.534247754Z"
+}
