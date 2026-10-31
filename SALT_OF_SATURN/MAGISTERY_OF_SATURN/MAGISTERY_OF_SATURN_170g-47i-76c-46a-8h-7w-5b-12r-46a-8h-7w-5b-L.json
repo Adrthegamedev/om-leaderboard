@@ -1,0 +1,36 @@
+{
+    "puzzle": "MAGISTERY_OF_SATURN",
+    "score": {
+        "cost": 170,
+        "instructions": 47,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 76,
+        "area": 46,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 46.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/4184e528/w3514067476/170g-47i-76c-46a-8h-7w-5b-12r-46a-8h-7w-5b-L",
+    "dataPath": "SALT_OF_SATURN/MAGISTERY_OF_SATURN/MAGISTERY_OF_SATURN_170g-47i-76c-46a-8h-7w-5b-12r-46a-8h-7w-5b-L.solution",
+    "lastModified": "2026-10-31T17:34:53.147882837Z"
+}
