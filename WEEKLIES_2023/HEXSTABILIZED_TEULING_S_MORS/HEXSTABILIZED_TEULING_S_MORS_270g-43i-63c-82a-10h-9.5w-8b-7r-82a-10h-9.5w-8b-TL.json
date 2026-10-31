@@ -1,0 +1,36 @@
+{
+    "puzzle": "HEXSTABILIZED_TEULING_S_MORS",
+    "score": {
+        "cost": 270,
+        "instructions": 43,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 63,
+        "area": 82,
+        "height": 10,
+        "width": 9.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 82.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/9c972918/w2938303257/270g-43i-63c-82a-10h-9.5w-8b-7r-82a-10h-9.5w-8b-TL",
+    "dataPath": "WEEKLIES_2023/HEXSTABILIZED_TEULING_S_MORS/HEXSTABILIZED_TEULING_S_MORS_270g-43i-63c-82a-10h-9.5w-8b-7r-82a-10h-9.5w-8b-TL.solution",
+    "lastModified": "2026-10-31T16:15:23.844254203Z"
+}
