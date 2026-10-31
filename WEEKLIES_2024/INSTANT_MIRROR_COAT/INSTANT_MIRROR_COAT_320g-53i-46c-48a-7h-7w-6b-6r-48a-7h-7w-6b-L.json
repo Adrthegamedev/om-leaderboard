@@ -1,0 +1,36 @@
+{
+    "puzzle": "INSTANT_MIRROR_COAT",
+    "score": {
+        "cost": 320,
+        "instructions": 53,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 46,
+        "area": 48,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/fea8cf4a/OM2024Weeklies_InstantMirrorCoat/320g-53i-46c-48a-7h-7w-6b-6r-48a-7h-7w-6b-L",
+    "dataPath": "WEEKLIES_2024/INSTANT_MIRROR_COAT/INSTANT_MIRROR_COAT_320g-53i-46c-48a-7h-7w-6b-6r-48a-7h-7w-6b-L.solution",
+    "lastModified": "2026-10-31T16:30:51.992734215Z"
+}
