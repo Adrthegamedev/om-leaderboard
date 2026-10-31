@@ -1,0 +1,24 @@
+{
+    "puzzle": "EXTRACTION_FROM_SAPA",
+    "score": {
+        "cost": 130,
+        "instructions": 9,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 48,
+        "area": 59,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/83862fc4/w3514066608/130g-9i-48c-59a",
+    "dataPath": "SALT_OF_SATURN/EXTRACTION_FROM_SAPA/EXTRACTION_FROM_SAPA_130g-9i-48c-59a.solution",
+    "lastModified": "2026-10-31T17:37:04.617900405Z"
+}
