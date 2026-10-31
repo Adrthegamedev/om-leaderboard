@@ -5,16 +5,16 @@
         "instructions": 70,
         "overlap": false,
         "trackless": true,
-        "cycles": 374,
-        "area": 49,
+        "cycles": 369,
+        "area": 47,
         "height": 7,
-        "width": 35.5,
-        "boundingHex": 36,
+        "width": 7.0,
+        "boundingHex": 6,
         "looping": true,
-        "rate": 63.0,
+        "rate": 62.0,
         "areaINF": {
             "level": 0,
-            "value": 49.0
+            "value": 47.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 35.5
+            "value": 7.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 36.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/b60e4853/AFH1_OddBeverage/100g-70i-374c-49a-7h-35.5w-36b-63r-49a-7h-35.5w-36b-TL",
-    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_100g-70i-374c-49a-7h-35.5w-36b-63r-49a-7h-35.5w-36b-TL.solution",
-    "lastModified": "2026-10-31T20:27:18.913253714Z"
+    "dataLink": "https://novae.observer/l/om/8ddb0608/AFH1_OddBeverage/100g-70i-369c-47a-7h-7w-6b-62r-47a-7h-7w-6b-TL",
+    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_100g-70i-369c-47a-7h-7w-6b-62r-47a-7h-7w-6b-TL.solution",
+    "lastModified": "2026-10-31T20:27:30.576103824Z"
 }
