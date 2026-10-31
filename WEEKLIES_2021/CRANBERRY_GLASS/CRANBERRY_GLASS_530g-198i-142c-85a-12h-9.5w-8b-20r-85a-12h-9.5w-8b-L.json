@@ -1,0 +1,36 @@
+{
+    "puzzle": "CRANBERRY_GLASS",
+    "score": {
+        "cost": 530,
+        "instructions": 198,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 142,
+        "area": 85,
+        "height": 12,
+        "width": 9.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/83293c0d/w2552978793/530g-198i-142c-85a-12h-9.5w-8b-20r-85a-12h-9.5w-8b-L",
+    "dataPath": "WEEKLIES_2021/CRANBERRY_GLASS/CRANBERRY_GLASS_530g-198i-142c-85a-12h-9.5w-8b-20r-85a-12h-9.5w-8b-L.solution",
+    "lastModified": "2026-10-31T17:33:03.954494547Z"
+}
