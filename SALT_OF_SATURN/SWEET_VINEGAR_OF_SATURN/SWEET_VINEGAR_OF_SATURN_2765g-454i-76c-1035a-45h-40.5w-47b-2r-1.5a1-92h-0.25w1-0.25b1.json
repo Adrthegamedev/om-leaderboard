@@ -1,0 +1,36 @@
+{
+    "puzzle": "SWEET_VINEGAR_OF_SATURN",
+    "score": {
+        "cost": 2765,
+        "instructions": 454,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 76,
+        "area": 1035,
+        "height": 45,
+        "width": 40.5,
+        "boundingHex": 47,
+        "looping": false,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.5
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 92.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.25
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.25
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/d7f36051/w3514067030/2765g-454i-76c-1035a-45h-40.5w-47b-2r-1.5a1-92h-0.25w1-0.25b1",
+    "dataPath": "SALT_OF_SATURN/SWEET_VINEGAR_OF_SATURN/SWEET_VINEGAR_OF_SATURN_2765g-454i-76c-1035a-45h-40.5w-47b-2r-1.5a1-92h-0.25w1-0.25b1.solution",
+    "lastModified": "2026-10-31T17:33:52.665406945Z"
+}
