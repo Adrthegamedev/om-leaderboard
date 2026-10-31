@@ -5,7 +5,7 @@
         "instructions": 18,
         "overlap": false,
         "trackless": true,
-        "cycles": 50,
+        "cycles": 49,
         "area": 29,
         "height": 5,
         "width": 5.5,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/99a5f2fb/weeklies2026_visible-ink/110g-18i-50c-29a-5h-5.5w-5b-9r-29a-5h-5.5w-5b-TL",
-    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_110g-18i-50c-29a-5h-5.5w-5b-9r-29a-5h-5.5w-5b-TL.solution",
-    "lastModified": "2026-10-31T14:56:32.277886881Z"
+    "dataLink": "https://novae.observer/l/om/4aa20094/weeklies2026_visible-ink/110g-18i-49c-29a-5h-5.5w-5b-9r-29a-5h-5.5w-5b-TL",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_110g-18i-49c-29a-5h-5.5w-5b-9r-29a-5h-5.5w-5b-TL.solution",
+    "lastModified": "2026-10-31T15:05:07.566492824Z"
 }
