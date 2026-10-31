@@ -2,19 +2,19 @@
     "puzzle": "PYROLYTIC_BRIQUETTE",
     "score": {
         "cost": 70,
-        "instructions": 443,
+        "instructions": 272,
         "overlap": false,
         "trackless": false,
-        "cycles": 2657,
-        "area": 97,
+        "cycles": 1620,
+        "area": 91,
         "height": 12,
-        "width": 10.0,
+        "width": 9.5,
         "boundingHex": 7,
         "looping": true,
-        "rate": 443.0,
+        "rate": 272.0,
         "areaINF": {
             "level": 0,
-            "value": 97.0
+            "value": 91.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.0
+            "value": 9.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/2dedb73a/USP-2.1pyrolytic_briquette/70g-443i-2657c-97a-12h-10w-7b-443r-97a-12h-10w-7b-L",
-    "dataPath": "CRUX_RESISTANCE/PYROLYTIC_BRIQUETTE/PYROLYTIC_BRIQUETTE_70g-443i-2657c-97a-12h-10w-7b-443r-97a-12h-10w-7b-L.solution",
-    "lastModified": "2026-10-31T14:35:50.245205663Z"
+    "dataLink": "https://novae.observer/l/om/646de14c/USP-2.1pyrolytic_briquette/70g-272i-1620c-91a-12h-9.5w-7b-272r-91a-12h-9.5w-7b-L",
+    "dataPath": "CRUX_RESISTANCE/PYROLYTIC_BRIQUETTE/PYROLYTIC_BRIQUETTE_70g-272i-1620c-91a-12h-9.5w-7b-272r-91a-12h-9.5w-7b-L.solution",
+    "lastModified": "2026-10-31T14:35:53.830141912Z"
 }
