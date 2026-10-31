@@ -1,0 +1,30 @@
+{
+    "puzzle": "NYLON",
+    "score": {
+        "cost": 275,
+        "instructions": 86,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 109,
+        "area": 152,
+        "height": 10,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/6f94fbfd/Weeklies2025_Nylon/275g-86i-109c-152a-10h-16r-12a1-10h-L",
+    "dataPath": "WEEKLIES_2025/NYLON/NYLON_275g-86i-109c-152a-10h-16r-12a1-10h-L.solution",
+    "lastModified": "2026-10-31T15:39:11.829721303Z"
+}
