@@ -1,0 +1,36 @@
+{
+    "puzzle": "IRON_CONCENTRATION",
+    "score": {
+        "cost": 230,
+        "instructions": 120,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 60,
+        "area": 37,
+        "height": 4,
+        "width": 7.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 37.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/908b1e3f/IronConcentration/230g-120i-60c-37a-4h-7.5w-7b-8r-37a-4h-7.5w-7b-TL",
+    "dataPath": "MISC/IRON_CONCENTRATION/IRON_CONCENTRATION_230g-120i-60c-37a-4h-7.5w-7b-8r-37a-4h-7.5w-7b-TL.solution",
+    "lastModified": "2026-10-31T14:07:44.507556422Z"
+}
