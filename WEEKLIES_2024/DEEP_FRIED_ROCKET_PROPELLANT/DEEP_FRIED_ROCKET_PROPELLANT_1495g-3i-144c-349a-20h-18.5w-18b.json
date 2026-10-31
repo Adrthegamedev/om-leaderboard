@@ -1,0 +1,24 @@
+{
+    "puzzle": "DEEP_FRIED_ROCKET_PROPELLANT",
+    "score": {
+        "cost": 1495,
+        "instructions": 3,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 144,
+        "area": 349,
+        "height": 20,
+        "width": 18.5,
+        "boundingHex": 18,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/a59820ad/w3288812964/1495g-3i-144c-349a-20h-18.5w-18b",
+    "dataPath": "WEEKLIES_2024/DEEP_FRIED_ROCKET_PROPELLANT/DEEP_FRIED_ROCKET_PROPELLANT_1495g-3i-144c-349a-20h-18.5w-18b.solution",
+    "lastModified": "2026-10-31T15:55:22.005367314Z"
+}
