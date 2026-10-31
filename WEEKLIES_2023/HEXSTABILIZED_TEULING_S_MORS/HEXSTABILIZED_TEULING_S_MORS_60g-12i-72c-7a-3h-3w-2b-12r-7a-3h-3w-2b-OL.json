@@ -1,20 +1,20 @@
 {
     "puzzle": "HEXSTABILIZED_TEULING_S_MORS",
     "score": {
-        "cost": 75,
-        "instructions": 43,
+        "cost": 60,
+        "instructions": 12,
         "overlap": true,
         "trackless": false,
-        "cycles": 258,
-        "area": 8,
+        "cycles": 72,
+        "area": 7,
         "height": 3,
         "width": 3.0,
-        "boundingHex": 3,
+        "boundingHex": 2,
         "looping": true,
-        "rate": 43.0,
+        "rate": 12.0,
         "areaINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 3.0
+            "value": 2.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/80ba739a/w2938303257/75g-43i-258c-8a-3h-3w-3b-43r-8a-3h-3w-3b-OL",
-    "dataPath": "WEEKLIES_2023/HEXSTABILIZED_TEULING_S_MORS/HEXSTABILIZED_TEULING_S_MORS_75g-43i-258c-8a-3h-3w-3b-43r-8a-3h-3w-3b-OL.solution",
-    "lastModified": "2026-10-31T16:17:37.005390510Z"
+    "dataLink": "https://novae.observer/l/om/8fbe1bb2/w2938303257/60g-12i-72c-7a-3h-3w-2b-12r-7a-3h-3w-2b-OL",
+    "dataPath": "WEEKLIES_2023/HEXSTABILIZED_TEULING_S_MORS/HEXSTABILIZED_TEULING_S_MORS_60g-12i-72c-7a-3h-3w-2b-12r-7a-3h-3w-2b-OL.solution",
+    "lastModified": "2026-10-31T16:17:40.888676402Z"
 }
