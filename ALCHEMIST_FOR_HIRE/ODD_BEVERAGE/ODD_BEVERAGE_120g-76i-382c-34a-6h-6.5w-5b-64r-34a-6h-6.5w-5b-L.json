@@ -5,13 +5,13 @@
         "instructions": 76,
         "overlap": false,
         "trackless": false,
-        "cycles": 402,
+        "cycles": 382,
         "area": 34,
         "height": 6,
         "width": 6.5,
         "boundingHex": 5,
         "looping": true,
-        "rate": 68.0,
+        "rate": 64.0,
         "areaINF": {
             "level": 0,
             "value": 34.0
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/c302dc92/AFH1_OddBeverage/120g-76i-402c-34a-6h-6.5w-5b-68r-34a-6h-6.5w-5b-L",
-    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_120g-76i-402c-34a-6h-6.5w-5b-68r-34a-6h-6.5w-5b-L.solution",
-    "lastModified": "2026-10-31T20:21:57.447057794Z"
+    "dataLink": "https://novae.observer/l/om/7b47e9ba/AFH1_OddBeverage/120g-76i-382c-34a-6h-6.5w-5b-64r-34a-6h-6.5w-5b-L",
+    "dataPath": "ALCHEMIST_FOR_HIRE/ODD_BEVERAGE/ODD_BEVERAGE_120g-76i-382c-34a-6h-6.5w-5b-64r-34a-6h-6.5w-5b-L.solution",
+    "lastModified": "2026-10-31T20:26:00.300927174Z"
 }
