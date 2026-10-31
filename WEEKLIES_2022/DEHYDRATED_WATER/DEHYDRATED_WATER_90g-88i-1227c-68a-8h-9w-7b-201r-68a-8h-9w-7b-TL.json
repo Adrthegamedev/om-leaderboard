@@ -1,0 +1,36 @@
+{
+    "puzzle": "DEHYDRATED_WATER",
+    "score": {
+        "cost": 90,
+        "instructions": 88,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1227,
+        "area": 68,
+        "height": 8,
+        "width": 9.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 201.0,
+        "areaINF": {
+            "level": 0,
+            "value": 68.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/92b76a5a/w2868714668/90g-88i-1227c-68a-8h-9w-7b-201r-68a-8h-9w-7b-TL",
+    "dataPath": "WEEKLIES_2022/DEHYDRATED_WATER/DEHYDRATED_WATER_90g-88i-1227c-68a-8h-9w-7b-201r-68a-8h-9w-7b-TL.solution",
+    "lastModified": "2026-10-31T16:09:45.386478879Z"
+}
