@@ -1,0 +1,36 @@
+{
+    "puzzle": "SURRENDIER_FLARE_SALT",
+    "score": {
+        "cost": 410,
+        "instructions": 256,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 53,
+        "area": 203,
+        "height": 19,
+        "width": 15.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.3333333333333333
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/31804e43/c651474216460134/410g-256i-53c-203a-19h-15w-11b-6r-1a1-0.5h1-0.5w1-0.333b1-L",
+    "dataPath": "FLARE_MODIF/SURRENDIER_FLARE_SALT/SURRENDIER_FLARE_SALT_410g-256i-53c-203a-19h-15w-11b-6r-1a1-0.5h1-0.5w1-0.333b1-L.solution",
+    "lastModified": "2026-10-31T14:07:58.762465981Z"
+}
