@@ -1,0 +1,24 @@
+{
+    "puzzle": "SURGE_ALLOY",
+    "score": {
+        "cost": 575,
+        "instructions": 411,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 264,
+        "area": 181,
+        "height": 17,
+        "width": 16.0,
+        "boundingHex": 20,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/c50d9570/USP-4.0surge_alloy/575g-411i-264c-181a-17h-16w-20b",
+    "dataPath": "CRUX_RESISTANCE/SURGE_ALLOY/SURGE_ALLOY_575g-411i-264c-181a-17h-16w-20b.solution",
+    "lastModified": "2026-10-31T14:35:09.817596210Z"
+}
