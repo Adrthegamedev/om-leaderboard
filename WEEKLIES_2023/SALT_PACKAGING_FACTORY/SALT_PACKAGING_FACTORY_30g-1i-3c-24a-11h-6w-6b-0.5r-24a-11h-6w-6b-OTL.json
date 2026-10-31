@@ -1,20 +1,20 @@
 {
     "puzzle": "SALT_PACKAGING_FACTORY",
     "score": {
-        "cost": 760,
-        "instructions": 27,
+        "cost": 30,
+        "instructions": 1,
         "overlap": true,
         "trackless": true,
-        "cycles": 12,
-        "area": 65,
+        "cycles": 3,
+        "area": 24,
         "height": 11,
-        "width": 10.0,
+        "width": 6.0,
         "boundingHex": 6,
         "looping": true,
-        "rate": 2.0,
+        "rate": 0.5,
         "areaINF": {
             "level": 0,
-            "value": 68.0
+            "value": 24.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.0
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/a0d2701f/OM2023Weeklies_SaltPackagingFactory/760g-27i-12c-65a-11h-10w-6b-2r-68a-11h-10w-6b-OTL",
-    "dataPath": "WEEKLIES_2023/SALT_PACKAGING_FACTORY/SALT_PACKAGING_FACTORY_760g-27i-12c-65a-11h-10w-6b-2r-68a-11h-10w-6b-OTL.solution",
-    "lastModified": "2026-10-31T17:06:55.349651957Z"
+    "dataLink": "https://novae.observer/l/om/0228b5b1/OM2023Weeklies_SaltPackagingFactory/30g-1i-3c-24a-11h-6w-6b-0.5r-24a-11h-6w-6b-OTL",
+    "dataPath": "WEEKLIES_2023/SALT_PACKAGING_FACTORY/SALT_PACKAGING_FACTORY_30g-1i-3c-24a-11h-6w-6b-0.5r-24a-11h-6w-6b-OTL.solution",
+    "lastModified": "2026-10-31T17:06:59.723159282Z"
 }
