@@ -1,0 +1,36 @@
+{
+    "puzzle": "RING_ENLARGEMENT",
+    "score": {
+        "cost": 40,
+        "instructions": 448,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1341,
+        "area": 198,
+        "height": 17,
+        "width": 15.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 224.0,
+        "areaINF": {
+            "level": 0,
+            "value": 198.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/03da1dbb/w3087959475/40g-448i-1341c-198a-17h-15w-9b-224r-198a-17h-15w-9b-TL",
+    "dataPath": "WEEKLIES_2023/RING_ENLARGEMENT/RING_ENLARGEMENT_40g-448i-1341c-198a-17h-15w-9b-224r-198a-17h-15w-9b-TL.solution",
+    "lastModified": "2026-10-31T15:37:28.365445Z"
+}
