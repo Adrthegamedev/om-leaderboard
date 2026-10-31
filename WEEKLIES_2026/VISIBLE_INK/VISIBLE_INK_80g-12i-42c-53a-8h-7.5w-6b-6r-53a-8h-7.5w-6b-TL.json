@@ -5,16 +5,16 @@
         "instructions": 12,
         "overlap": false,
         "trackless": true,
-        "cycles": 56,
-        "area": 67,
+        "cycles": 42,
+        "area": 53,
         "height": 8,
-        "width": 8.5,
-        "boundingHex": 7,
+        "width": 7.5,
+        "boundingHex": 6,
         "looping": true,
-        "rate": 8.0,
+        "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 67.0
+            "value": 53.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.5
+            "value": 7.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/e3037111/weeklies2026_visible-ink/80g-12i-56c-67a-8h-8.5w-7b-8r-67a-8h-8.5w-7b-TL",
-    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_80g-12i-56c-67a-8h-8.5w-7b-8r-67a-8h-8.5w-7b-TL.solution",
-    "lastModified": "2026-10-31T14:58:54.096970982Z"
+    "dataLink": "https://novae.observer/l/om/c040e104/weeklies2026_visible-ink/80g-12i-42c-53a-8h-7.5w-6b-6r-53a-8h-7.5w-6b-TL",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_80g-12i-42c-53a-8h-7.5w-6b-6r-53a-8h-7.5w-6b-TL.solution",
+    "lastModified": "2026-10-31T15:08:10.472147404Z"
 }
