@@ -1,0 +1,36 @@
+{
+    "puzzle": "SALT_PACKAGING_FACTORY",
+    "score": {
+        "cost": 1040,
+        "instructions": 720,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 8,
+        "area": 101,
+        "height": 13,
+        "width": 12.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 1.0,
+        "areaINF": {
+            "level": 0,
+            "value": 101.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/55f86e55/OM2023Weeklies_SaltPackagingFactory/1040g-720i-8c-101a-13h-12.5w-9b-1r-101a-13h-12.5w-9b-L",
+    "dataPath": "WEEKLIES_2023/SALT_PACKAGING_FACTORY/SALT_PACKAGING_FACTORY_1040g-720i-8c-101a-13h-12.5w-9b-1r-101a-13h-12.5w-9b-L.solution",
+    "lastModified": "2026-10-31T17:06:51.118576672Z"
+}
