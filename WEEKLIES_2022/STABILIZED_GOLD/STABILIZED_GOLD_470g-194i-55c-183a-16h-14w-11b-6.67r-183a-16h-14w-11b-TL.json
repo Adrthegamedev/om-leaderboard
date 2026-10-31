@@ -1,0 +1,36 @@
+{
+    "puzzle": "STABILIZED_GOLD",
+    "score": {
+        "cost": 470,
+        "instructions": 194,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 55,
+        "area": 183,
+        "height": 16,
+        "width": 14.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 6.67,
+        "areaINF": {
+            "level": 0,
+            "value": 183.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/8a4af7e5/w2868335739/470g-194i-55c-183a-16h-14w-11b-6.67r-183a-16h-14w-11b-TL",
+    "dataPath": "WEEKLIES_2022/STABILIZED_GOLD/STABILIZED_GOLD_470g-194i-55c-183a-16h-14w-11b-6.67r-183a-16h-14w-11b-TL.solution",
+    "lastModified": "2026-10-31T16:50:39.338340140Z"
+}
