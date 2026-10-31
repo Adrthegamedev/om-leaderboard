@@ -1,0 +1,24 @@
+{
+    "puzzle": "SWEEPER_ROD",
+    "score": {
+        "cost": 30,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 32,
+        "area": 41,
+        "height": 9,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/64177560/w2827094903/30g-32i-32c-41a-9h-T",
+    "dataPath": "WEEKLIES_2022/SWEEPER_ROD/SWEEPER_ROD_30g-32i-32c-41a-9h-T.solution",
+    "lastModified": "2026-10-31T16:40:28.080028533Z"
+}
