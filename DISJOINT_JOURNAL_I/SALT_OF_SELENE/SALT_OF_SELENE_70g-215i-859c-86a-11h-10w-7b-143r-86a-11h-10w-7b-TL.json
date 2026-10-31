@@ -5,13 +5,13 @@
         "instructions": 215,
         "overlap": false,
         "trackless": true,
-        "cycles": 931,
+        "cycles": 859,
         "area": 86,
         "height": 11,
         "width": 10.0,
         "boundingHex": 7,
         "looping": true,
-        "rate": 155.0,
+        "rate": 143.0,
         "areaINF": {
             "level": 0,
             "value": 86.0
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/7871bf09/DisjointJournal_SaltOfSelene/70g-215i-931c-86a-11h-10w-7b-155r-86a-11h-10w-7b-TL",
-    "dataPath": "DISJOINT_JOURNAL_I/SALT_OF_SELENE/SALT_OF_SELENE_70g-215i-931c-86a-11h-10w-7b-155r-86a-11h-10w-7b-TL.solution",
-    "lastModified": "2026-10-31T14:30:55.598046288Z"
+    "dataLink": "https://novae.observer/l/om/a5452aee/DisjointJournal_SaltOfSelene/70g-215i-859c-86a-11h-10w-7b-143r-86a-11h-10w-7b-TL",
+    "dataPath": "DISJOINT_JOURNAL_I/SALT_OF_SELENE/SALT_OF_SELENE_70g-215i-859c-86a-11h-10w-7b-143r-86a-11h-10w-7b-TL.solution",
+    "lastModified": "2026-10-31T14:32:00.273717863Z"
 }
