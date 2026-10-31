@@ -2,27 +2,27 @@
     "puzzle": "PARETO_POPPERS",
     "score": {
         "cost": 90,
-        "instructions": 20,
+        "instructions": 18,
         "overlap": false,
         "trackless": true,
         "cycles": 64,
-        "area": 38,
-        "height": 7,
-        "width": 6.0,
+        "area": 31,
+        "height": 6,
+        "width": 4.5,
         "boundingHex": 5,
         "looping": true,
         "rate": 11.0,
         "areaINF": {
             "level": 0,
-            "value": 38.0
+            "value": 31.0
         },
         "heightINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         },
         "widthINF": {
             "level": 0,
-            "value": 6.0
+            "value": 4.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/9968a00e/w3584642234/90g-20i-64c-38a-7h-6w-5b-11r-38a-7h-6w-5b-TL",
-    "dataPath": "WEEKLIES_2025/PARETO_POPPERS/PARETO_POPPERS_90g-20i-64c-38a-7h-6w-5b-11r-38a-7h-6w-5b-TL.solution",
-    "lastModified": "2026-10-31T15:42:00.104651880Z"
+    "dataLink": "https://novae.observer/l/om/c3347e4a/w3584642234/90g-18i-64c-31a-6h-4.5w-5b-11r-31a-6h-4.5w-5b-TL",
+    "dataPath": "WEEKLIES_2025/PARETO_POPPERS/PARETO_POPPERS_90g-18i-64c-31a-6h-4.5w-5b-11r-31a-6h-4.5w-5b-TL.solution",
+    "lastModified": "2026-10-31T15:42:03.880167729Z"
 }
