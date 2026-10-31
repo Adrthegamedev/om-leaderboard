@@ -1,0 +1,36 @@
+{
+    "puzzle": "PARETO_POPPERS",
+    "score": {
+        "cost": 60,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 154,
+        "area": 17,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/28ea8eea/w3584642234/60g-26i-154c-17a-4h-4w-4b-26r-17a-4h-4w-4b-TL",
+    "dataPath": "WEEKLIES_2025/PARETO_POPPERS/PARETO_POPPERS_60g-26i-154c-17a-4h-4w-4b-26r-17a-4h-4w-4b-TL.solution",
+    "lastModified": "2026-10-31T15:42:11.068423178Z"
+}
