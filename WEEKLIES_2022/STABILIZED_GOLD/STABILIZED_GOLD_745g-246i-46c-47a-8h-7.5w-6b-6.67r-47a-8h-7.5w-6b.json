@@ -1,20 +1,20 @@
 {
     "puzzle": "STABILIZED_GOLD",
     "score": {
-        "cost": 770,
-        "instructions": 316,
+        "cost": 745,
+        "instructions": 246,
         "overlap": false,
         "trackless": false,
-        "cycles": 48,
-        "area": 53,
+        "cycles": 46,
+        "area": 47,
         "height": 8,
-        "width": 8.5,
+        "width": 7.5,
         "boundingHex": 6,
         "looping": false,
         "rate": 6.67,
         "areaINF": {
             "level": 0,
-            "value": 53.0
+            "value": 47.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.5
+            "value": 7.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/66562b0a/w2868335739/770g-316i-48c-53a-8h-8.5w-6b-6.67r-53a-8h-8.5w-6b",
-    "dataPath": "WEEKLIES_2022/STABILIZED_GOLD/STABILIZED_GOLD_770g-316i-48c-53a-8h-8.5w-6b-6.67r-53a-8h-8.5w-6b.solution",
-    "lastModified": "2026-10-31T16:50:46.834026118Z"
+    "dataLink": "https://novae.observer/l/om/98e246c4/w2868335739/745g-246i-46c-47a-8h-7.5w-6b-6.67r-47a-8h-7.5w-6b",
+    "dataPath": "WEEKLIES_2022/STABILIZED_GOLD/STABILIZED_GOLD_745g-246i-46c-47a-8h-7.5w-6b-6.67r-47a-8h-7.5w-6b.solution",
+    "lastModified": "2026-10-31T16:50:59.298672608Z"
 }
