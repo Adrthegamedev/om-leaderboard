@@ -1,0 +1,36 @@
+{
+    "puzzle": "ARQUERITE_PROMOTION",
+    "score": {
+        "cost": 75,
+        "instructions": 264,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1575,
+        "area": 275,
+        "height": 22,
+        "width": 19.0,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 264.0,
+        "areaINF": {
+            "level": 2,
+            "value": 9.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/fbf92256/w2532208444/75g-264i-1575c-275a-22h-19w-14b-264r-9a2-3h1-3w1-2b1-L",
+    "dataPath": "WEEKLIES_2021/ARQUERITE_PROMOTION/ARQUERITE_PROMOTION_75g-264i-1575c-275a-22h-19w-14b-264r-9a2-3h1-3w1-2b1-L.solution",
+    "lastModified": "2026-10-31T17:30:01.913905237Z"
+}
