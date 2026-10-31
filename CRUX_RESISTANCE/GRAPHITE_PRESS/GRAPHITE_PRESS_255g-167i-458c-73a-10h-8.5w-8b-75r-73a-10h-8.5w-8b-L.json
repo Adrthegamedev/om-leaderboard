@@ -1,0 +1,36 @@
+{
+    "puzzle": "GRAPHITE_PRESS",
+    "score": {
+        "cost": 255,
+        "instructions": 167,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 458,
+        "area": 73,
+        "height": 10,
+        "width": 8.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 75.0,
+        "areaINF": {
+            "level": 0,
+            "value": 73.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/5bddfb95/TIEN-1.0graphite_press/255g-167i-458c-73a-10h-8.5w-8b-75r-73a-10h-8.5w-8b-L",
+    "dataPath": "CRUX_RESISTANCE/GRAPHITE_PRESS/GRAPHITE_PRESS_255g-167i-458c-73a-10h-8.5w-8b-75r-73a-10h-8.5w-8b-L.solution",
+    "lastModified": "2026-10-31T13:54:48.133461331Z"
+}
