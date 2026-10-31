@@ -1,0 +1,36 @@
+{
+    "puzzle": "BURNING_SPIRIT_OF_SATURN",
+    "score": {
+        "cost": 230,
+        "instructions": 10,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 155,
+        "area": 93,
+        "height": 12,
+        "width": 9.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 93.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/1cad3dbe/w3514067152/230g-10i-155c-93a-12h-9.5w-8b-24r-93a-12h-9.5w-8b-TL",
+    "dataPath": "SALT_OF_SATURN/BURNING_SPIRIT_OF_SATURN/BURNING_SPIRIT_OF_SATURN_230g-10i-155c-93a-12h-9.5w-8b-24r-93a-12h-9.5w-8b-TL.solution",
+    "lastModified": "2026-10-31T17:36:24.127674899Z"
+}
