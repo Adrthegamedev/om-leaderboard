@@ -2,7 +2,7 @@
     "puzzle": "SERVIN_S_WHEEL",
     "score": {
         "cost": 90,
-        "instructions": 38,
+        "instructions": 37,
         "overlap": false,
         "trackless": true,
         "cycles": 74,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/82f0834a/w2868506869/90g-38i-74c-20a-5h-4.5w-4b-12r-20a-5h-4.5w-4b-TL",
-    "dataPath": "WEEKLIES_2022/SERVIN_S_WHEEL/SERVIN_S_WHEEL_90g-38i-74c-20a-5h-4.5w-4b-12r-20a-5h-4.5w-4b-TL.solution",
-    "lastModified": "2026-10-31T16:20:12.229837354Z"
+    "dataLink": "https://novae.observer/l/om/158def5f/w2868506869/90g-37i-74c-20a-5h-4.5w-4b-12r-20a-5h-4.5w-4b-TL",
+    "dataPath": "WEEKLIES_2022/SERVIN_S_WHEEL/SERVIN_S_WHEEL_90g-37i-74c-20a-5h-4.5w-4b-12r-20a-5h-4.5w-4b-TL.solution",
+    "lastModified": "2026-10-31T16:22:25.560502102Z"
 }
