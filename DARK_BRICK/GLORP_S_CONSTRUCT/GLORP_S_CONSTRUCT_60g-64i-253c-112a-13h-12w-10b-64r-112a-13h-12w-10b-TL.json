@@ -2,7 +2,7 @@
     "puzzle": "GLORP_S_CONSTRUCT",
     "score": {
         "cost": 60,
-        "instructions": 65,
+        "instructions": 64,
         "overlap": false,
         "trackless": true,
         "cycles": 253,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/b8769717/GlorpsConstruct/60g-65i-253c-112a-13h-12w-10b-64r-112a-13h-12w-10b-TL",
-    "dataPath": "DARK_BRICK/GLORP_S_CONSTRUCT/GLORP_S_CONSTRUCT_60g-65i-253c-112a-13h-12w-10b-64r-112a-13h-12w-10b-TL.solution",
-    "lastModified": "2026-10-31T14:09:57.318721553Z"
+    "dataLink": "https://novae.observer/l/om/88dfdf1d/GlorpsConstruct/60g-64i-253c-112a-13h-12w-10b-64r-112a-13h-12w-10b-TL",
+    "dataPath": "DARK_BRICK/GLORP_S_CONSTRUCT/GLORP_S_CONSTRUCT_60g-64i-253c-112a-13h-12w-10b-64r-112a-13h-12w-10b-TL.solution",
+    "lastModified": "2026-10-31T14:12:18.906681251Z"
 }
