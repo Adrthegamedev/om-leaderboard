@@ -1,20 +1,20 @@
 {
     "puzzle": "SERVIN_S_WHEEL",
     "score": {
-        "cost": 455,
-        "instructions": 418,
+        "cost": 400,
+        "instructions": 351,
         "overlap": false,
         "trackless": false,
-        "cycles": 96,
-        "area": 81,
+        "cycles": 91,
+        "area": 65,
         "height": 10,
-        "width": 10.5,
+        "width": 9.0,
         "boundingHex": 7,
         "looping": true,
         "rate": 10.0,
         "areaINF": {
             "level": 0,
-            "value": 81.0
+            "value": 65.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.5
+            "value": 9.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/c48c9e09/w2868506869/455g-418i-96c-81a-10h-10.5w-7b-10r-81a-10h-10.5w-7b-L",
-    "dataPath": "WEEKLIES_2022/SERVIN_S_WHEEL/SERVIN_S_WHEEL_455g-418i-96c-81a-10h-10.5w-7b-10r-81a-10h-10.5w-7b-L.solution",
-    "lastModified": "2026-10-31T16:21:30.252566291Z"
+    "dataLink": "https://novae.observer/l/om/fcd2a03a/w2868506869/400g-351i-91c-65a-10h-9w-7b-10r-65a-10h-9w-7b-L",
+    "dataPath": "WEEKLIES_2022/SERVIN_S_WHEEL/SERVIN_S_WHEEL_400g-351i-91c-65a-10h-9w-7b-10r-65a-10h-9w-7b-L.solution",
+    "lastModified": "2026-10-31T16:23:08.444425525Z"
 }
