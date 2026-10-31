@@ -8,7 +8,7 @@
         "cycles": 84,
         "area": 20,
         "height": 5,
-        "width": 5.0,
+        "width": 4.5,
         "boundingHex": 4,
         "looping": true,
         "rate": 14.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/6ea51624/w2868506869/70g-35i-84c-20a-5h-5w-4b-14r-20a-5h-5w-4b-TL",
-    "dataPath": "WEEKLIES_2022/SERVIN_S_WHEEL/SERVIN_S_WHEEL_70g-35i-84c-20a-5h-5w-4b-14r-20a-5h-5w-4b-TL.solution",
-    "lastModified": "2026-10-31T16:22:33.401157915Z"
+    "dataLink": "https://novae.observer/l/om/e7fee312/w2868506869/70g-35i-84c-20a-5h-4.5w-4b-14r-20a-5h-4.5w-4b-TL",
+    "dataPath": "WEEKLIES_2022/SERVIN_S_WHEEL/SERVIN_S_WHEEL_70g-35i-84c-20a-5h-4.5w-4b-14r-20a-5h-4.5w-4b-TL.solution",
+    "lastModified": "2026-10-31T16:23:04.781788863Z"
 }
