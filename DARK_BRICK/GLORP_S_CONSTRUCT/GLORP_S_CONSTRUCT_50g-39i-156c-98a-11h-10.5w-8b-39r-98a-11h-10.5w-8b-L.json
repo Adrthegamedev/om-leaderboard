@@ -1,7 +1,7 @@
 {
     "puzzle": "GLORP_S_CONSTRUCT",
     "score": {
-        "cost": 70,
+        "cost": 50,
         "instructions": 39,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/dd47674f/GlorpsConstruct/70g-39i-156c-98a-11h-10.5w-8b-39r-98a-11h-10.5w-8b-L",
-    "dataPath": "DARK_BRICK/GLORP_S_CONSTRUCT/GLORP_S_CONSTRUCT_70g-39i-156c-98a-11h-10.5w-8b-39r-98a-11h-10.5w-8b-L.solution",
-    "lastModified": "2026-10-31T14:10:52.476183739Z"
+    "dataLink": "https://novae.observer/l/om/cc12685b/GlorpsConstruct/50g-39i-156c-98a-11h-10.5w-8b-39r-98a-11h-10.5w-8b-L",
+    "dataPath": "DARK_BRICK/GLORP_S_CONSTRUCT/GLORP_S_CONSTRUCT_50g-39i-156c-98a-11h-10.5w-8b-39r-98a-11h-10.5w-8b-L.solution",
+    "lastModified": "2026-10-31T14:11:37.202583553Z"
 }
