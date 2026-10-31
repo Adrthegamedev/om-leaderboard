@@ -1,0 +1,27 @@
+{
+    "puzzle": "UNSTABLE_SOVRIUM",
+    "score": {
+        "cost": 250,
+        "instructions": 82,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 292,
+        "area": 51,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 24.5,
+        "areaINF": {
+            "level": 0,
+            "value": 51.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/6ba336d7/w3324143489/250g-82i-292c-51a-24.5r-51a-L",
+    "dataPath": "WEEKLIES_2024/UNSTABLE_SOVRIUM/UNSTABLE_SOVRIUM_250g-82i-292c-51a-24.5r-51a-L.solution",
+    "lastModified": "2026-10-31T16:12:19.696331900Z"
+}
