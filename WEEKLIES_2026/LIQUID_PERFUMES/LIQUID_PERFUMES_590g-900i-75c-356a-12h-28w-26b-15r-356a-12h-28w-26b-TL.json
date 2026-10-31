@@ -1,0 +1,36 @@
+{
+    "puzzle": "LIQUID_PERFUMES",
+    "score": {
+        "cost": 590,
+        "instructions": 900,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 75,
+        "area": 356,
+        "height": 12,
+        "width": 28.0,
+        "boundingHex": 26,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 356.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 28.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 26.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/69cfa0ea/weeklies2026_liquid-perfumes/590g-900i-75c-356a-12h-28w-26b-15r-356a-12h-28w-26b-TL",
+    "dataPath": "WEEKLIES_2026/LIQUID_PERFUMES/LIQUID_PERFUMES_590g-900i-75c-356a-12h-28w-26b-15r-356a-12h-28w-26b-TL.solution",
+    "lastModified": "2026-10-31T14:42:01.935245275Z"
+}
