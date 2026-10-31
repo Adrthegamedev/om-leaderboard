@@ -5,13 +5,13 @@
         "instructions": 534,
         "overlap": false,
         "trackless": false,
-        "cycles": 368,
+        "cycles": 332,
         "area": 101,
         "height": null,
         "width": null,
         "boundingHex": null,
         "looping": true,
-        "rate": 61.34,
+        "rate": 55.34,
         "areaINF": {
             "level": 0,
             "value": 101.0
@@ -21,7 +21,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/753cc516/DisjointJournal_AshOfVulcan/195g-534i-368c-101a-61.34r-101a-L",
-    "dataPath": "DISJOINT_JOURNAL_I/ASH_OF_VULCAN/ASH_OF_VULCAN_195g-534i-368c-101a-61.34r-101a-L.solution",
-    "lastModified": "2026-10-31T14:25:31.335383445Z"
+    "dataLink": "https://novae.observer/l/om/78a3dcf4/DisjointJournal_AshOfVulcan/195g-534i-332c-101a-55.34r-101a-L",
+    "dataPath": "DISJOINT_JOURNAL_I/ASH_OF_VULCAN/ASH_OF_VULCAN_195g-534i-332c-101a-55.34r-101a-L.solution",
+    "lastModified": "2026-10-31T14:25:46.677905431Z"
 }
