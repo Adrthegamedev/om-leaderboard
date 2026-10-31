@@ -1,20 +1,20 @@
 {
     "puzzle": "DEHYDRATED_WATER",
     "score": {
-        "cost": 515,
-        "instructions": 190,
+        "cost": 420,
+        "instructions": 169,
         "overlap": false,
         "trackless": false,
         "cycles": 194,
-        "area": 91,
+        "area": 69,
         "height": 9,
-        "width": 9.5,
-        "boundingHex": 8,
+        "width": 7.5,
+        "boundingHex": 7,
         "looping": true,
         "rate": 32.0,
         "areaINF": {
             "level": 0,
-            "value": 91.0
+            "value": 69.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 9.5
+            "value": 7.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/f4712a0b/w2868714668/515g-190i-194c-91a-9h-9.5w-8b-32r-91a-9h-9.5w-8b-L",
-    "dataPath": "WEEKLIES_2022/DEHYDRATED_WATER/DEHYDRATED_WATER_515g-190i-194c-91a-9h-9.5w-8b-32r-91a-9h-9.5w-8b-L.solution",
-    "lastModified": "2026-10-31T16:08:34.744619151Z"
+    "dataLink": "https://novae.observer/l/om/84f8b62e/w2868714668/420g-169i-194c-69a-9h-7.5w-7b-32r-69a-9h-7.5w-7b-L",
+    "dataPath": "WEEKLIES_2022/DEHYDRATED_WATER/DEHYDRATED_WATER_420g-169i-194c-69a-9h-7.5w-7b-32r-69a-9h-7.5w-7b-L.solution",
+    "lastModified": "2026-10-31T16:08:38.235556070Z"
 }
