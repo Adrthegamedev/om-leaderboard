@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 9,
-        "area": 138,
+        "area": 129,
         "height": 14,
         "width": 14.0,
         "boundingHex": 11,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/523018fd/weeklies2026_visible-ink/940g-876i-9c-138a-14h-14w-11b-1r-144a-14h-14w-11b-L",
-    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_940g-876i-9c-138a-14h-14w-11b-1r-144a-14h-14w-11b-L.solution",
-    "lastModified": "2026-10-31T15:14:23.314155402Z"
+    "dataLink": "https://novae.observer/l/om/1c6fbec8/weeklies2026_visible-ink/940g-876i-9c-129a-14h-14w-11b-1r-144a-14h-14w-11b-L",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_940g-876i-9c-129a-14h-14w-11b-1r-144a-14h-14w-11b-L.solution",
+    "lastModified": "2026-10-31T15:17:59.318820887Z"
 }
