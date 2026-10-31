@@ -1,0 +1,36 @@
+{
+    "puzzle": "HOT_ICE",
+    "score": {
+        "cost": 100,
+        "instructions": 96,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 230,
+        "area": 230,
+        "height": 16,
+        "width": 18.0,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 38.0,
+        "areaINF": {
+            "level": 2,
+            "value": 9.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/705c3488/w2868337441/100g-96i-230c-230a-16h-18w-14b-38r-9a2-3h1-3w1-2b1-TL",
+    "dataPath": "WEEKLIES_2022/HOT_ICE/HOT_ICE_100g-96i-230c-230a-16h-18w-14b-38r-9a2-3h1-3w1-2b1-TL.solution",
+    "lastModified": "2026-10-31T16:04:49.656439395Z"
+}
