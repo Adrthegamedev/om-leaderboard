@@ -1,0 +1,36 @@
+{
+    "puzzle": "SALT_OF_SELENE",
+    "score": {
+        "cost": 90,
+        "instructions": 167,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 816,
+        "area": 88,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 137.0,
+        "areaINF": {
+            "level": 0,
+            "value": 88.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/8b99370b/DisjointJournal_SaltOfSelene/90g-167i-816c-88a-11h-10.5w-7b-137r-88a-11h-10.5w-7b-TL",
+    "dataPath": "DISJOINT_JOURNAL_I/SALT_OF_SELENE/SALT_OF_SELENE_90g-167i-816c-88a-11h-10.5w-7b-137r-88a-11h-10.5w-7b-TL.solution",
+    "lastModified": "2026-10-31T14:31:06.492611272Z"
+}
