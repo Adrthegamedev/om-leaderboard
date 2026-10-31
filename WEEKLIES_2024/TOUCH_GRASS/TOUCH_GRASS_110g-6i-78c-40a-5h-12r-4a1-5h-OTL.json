@@ -1,0 +1,30 @@
+{
+    "puzzle": "TOUCH_GRASS",
+    "score": {
+        "cost": 110,
+        "instructions": 6,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 78,
+        "area": 40,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/f6fcf606/OM2024Weeklies_TouchGrass/110g-6i-78c-40a-5h-12r-4a1-5h-OTL",
+    "dataPath": "WEEKLIES_2024/TOUCH_GRASS/TOUCH_GRASS_110g-6i-78c-40a-5h-12r-4a1-5h-OTL.solution",
+    "lastModified": "2026-10-31T17:02:30.926567658Z"
+}
