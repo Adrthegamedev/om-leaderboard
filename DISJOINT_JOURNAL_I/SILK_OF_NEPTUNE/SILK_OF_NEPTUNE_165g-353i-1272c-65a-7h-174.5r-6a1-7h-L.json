@@ -1,0 +1,30 @@
+{
+    "puzzle": "SILK_OF_NEPTUNE",
+    "score": {
+        "cost": 165,
+        "instructions": 353,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1272,
+        "area": 65,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 174.5,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/0138dfc5/DisjointJournal_SilkOfNeptune/165g-353i-1272c-65a-7h-174.5r-6a1-7h-L",
+    "dataPath": "DISJOINT_JOURNAL_I/SILK_OF_NEPTUNE/SILK_OF_NEPTUNE_165g-353i-1272c-65a-7h-174.5r-6a1-7h-L.solution",
+    "lastModified": "2026-10-31T14:22:39.665148520Z"
+}
