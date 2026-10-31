@@ -1,0 +1,27 @@
+{
+    "puzzle": "ASH_OF_VULCAN",
+    "score": {
+        "cost": 195,
+        "instructions": 87,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 396,
+        "area": 101,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 66.0,
+        "areaINF": {
+            "level": 0,
+            "value": 101.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/8ef54c7a/DisjointJournal_AshOfVulcan/195g-87i-396c-101a-66r-101a-L",
+    "dataPath": "DISJOINT_JOURNAL_I/ASH_OF_VULCAN/ASH_OF_VULCAN_195g-87i-396c-101a-66r-101a-L.solution",
+    "lastModified": "2026-10-31T14:24:56.056684133Z"
+}
