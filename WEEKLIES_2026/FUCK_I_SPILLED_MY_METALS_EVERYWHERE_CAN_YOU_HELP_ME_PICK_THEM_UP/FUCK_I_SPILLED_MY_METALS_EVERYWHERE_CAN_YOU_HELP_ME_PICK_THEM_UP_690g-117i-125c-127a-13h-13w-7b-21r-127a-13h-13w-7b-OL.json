@@ -1,0 +1,36 @@
+{
+    "puzzle": "FUCK_I_SPILLED_MY_METALS_EVERYWHERE_CAN_YOU_HELP_ME_PICK_THEM_UP",
+    "score": {
+        "cost": 690,
+        "instructions": 117,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 125,
+        "area": 127,
+        "height": 13,
+        "width": 13.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 21.0,
+        "areaINF": {
+            "level": 0,
+            "value": 127.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/71f85ab7/weeklies2026_fismmecyhmptu/690g-117i-125c-127a-13h-13w-7b-21r-127a-13h-13w-7b-OL",
+    "dataPath": "WEEKLIES_2026/FUCK_I_SPILLED_MY_METALS_EVERYWHERE_CAN_YOU_HELP_ME_PICK_THEM_UP/FUCK_I_SPILLED_MY_METALS_EVERYWHERE_CAN_YOU_HELP_ME_PICK_THEM_UP_690g-117i-125c-127a-13h-13w-7b-21r-127a-13h-13w-7b-OL.solution",
+    "lastModified": "2026-10-31T14:38:03.852057737Z"
+}
