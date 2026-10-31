@@ -1,0 +1,36 @@
+{
+    "puzzle": "VISIBLE_INK",
+    "score": {
+        "cost": 80,
+        "instructions": 14,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 96,
+        "area": 27,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/525669e0/weeklies2026_visible-ink/80g-14i-96c-27a-6h-5w-5b-18r-27a-6h-5w-5b-TL",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_80g-14i-96c-27a-6h-5w-5b-18r-27a-6h-5w-5b-TL.solution",
+    "lastModified": "2026-10-31T15:18:43.429492281Z"
+}
