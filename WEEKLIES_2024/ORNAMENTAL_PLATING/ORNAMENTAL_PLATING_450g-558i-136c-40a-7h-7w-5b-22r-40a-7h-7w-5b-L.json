@@ -2,19 +2,19 @@
     "puzzle": "ORNAMENTAL_PLATING",
     "score": {
         "cost": 450,
-        "instructions": 621,
+        "instructions": 558,
         "overlap": false,
         "trackless": false,
         "cycles": 136,
-        "area": 43,
+        "area": 40,
         "height": 7,
         "width": 7.0,
-        "boundingHex": 6,
+        "boundingHex": 5,
         "looping": true,
         "rate": 22.0,
         "areaINF": {
             "level": 0,
-            "value": 43.0
+            "value": 40.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/6b7dcddc/OM2024Weeklies_OrnamentalPlating/450g-621i-136c-43a-7h-7w-6b-22r-43a-7h-7w-6b-L",
-    "dataPath": "WEEKLIES_2024/ORNAMENTAL_PLATING/ORNAMENTAL_PLATING_450g-621i-136c-43a-7h-7w-6b-22r-43a-7h-7w-6b-L.solution",
-    "lastModified": "2026-10-31T16:59:00.133824529Z"
+    "dataLink": "https://novae.observer/l/om/ea8e9368/OM2024Weeklies_OrnamentalPlating/450g-558i-136c-40a-7h-7w-5b-22r-40a-7h-7w-5b-L",
+    "dataPath": "WEEKLIES_2024/ORNAMENTAL_PLATING/ORNAMENTAL_PLATING_450g-558i-136c-40a-7h-7w-5b-22r-40a-7h-7w-5b-L.solution",
+    "lastModified": "2026-10-31T16:59:13.119756509Z"
 }
