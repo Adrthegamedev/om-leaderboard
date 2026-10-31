@@ -5,16 +5,16 @@
         "instructions": 10,
         "overlap": false,
         "trackless": true,
-        "cycles": 653,
-        "area": 40,
+        "cycles": 153,
+        "area": 37,
         "height": 7,
-        "width": 7.0,
+        "width": 6.0,
         "boundingHex": 5,
         "looping": true,
-        "rate": 108.0,
+        "rate": 24.0,
         "areaINF": {
             "level": 0,
-            "value": 40.0
+            "value": 37.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/6d952830/weeklies2026_visible-ink/90g-10i-653c-40a-7h-7w-5b-108r-40a-7h-7w-5b-TL",
-    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_90g-10i-653c-40a-7h-7w-5b-108r-40a-7h-7w-5b-TL.solution",
-    "lastModified": "2026-10-31T14:55:59.857319296Z"
+    "dataLink": "https://novae.observer/l/om/da6195e1/weeklies2026_visible-ink/90g-10i-153c-37a-7h-6w-5b-24r-37a-7h-6w-5b-TL",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_90g-10i-153c-37a-7h-6w-5b-24r-37a-7h-6w-5b-TL.solution",
+    "lastModified": "2026-10-31T15:11:52.632995239Z"
 }
