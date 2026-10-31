@@ -2,23 +2,23 @@
     "puzzle": "VISIBLE_INK",
     "score": {
         "cost": 370,
-        "instructions": 56,
+        "instructions": 54,
         "overlap": false,
         "trackless": false,
         "cycles": 17,
-        "area": 91,
-        "height": 8,
+        "area": 86,
+        "height": 7,
         "width": 11.0,
-        "boundingHex": 12,
+        "boundingHex": 11,
         "looping": true,
         "rate": 2.34,
         "areaINF": {
             "level": 0,
-            "value": 91.0
+            "value": 86.0
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 12.0
+            "value": 11.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/cc8bbbf2/weeklies2026_visible-ink/370g-56i-17c-91a-8h-11w-12b-2.34r-91a-8h-11w-12b-L",
-    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_370g-56i-17c-91a-8h-11w-12b-2.34r-91a-8h-11w-12b-L.solution",
-    "lastModified": "2026-10-31T14:47:02.264221735Z"
+    "dataLink": "https://novae.observer/l/om/c213c158/weeklies2026_visible-ink/370g-54i-17c-86a-7h-11w-11b-2.34r-86a-7h-11w-11b-L",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_370g-54i-17c-86a-7h-11w-11b-2.34r-86a-7h-11w-11b-L.solution",
+    "lastModified": "2026-10-31T14:50:21.527560885Z"
 }
