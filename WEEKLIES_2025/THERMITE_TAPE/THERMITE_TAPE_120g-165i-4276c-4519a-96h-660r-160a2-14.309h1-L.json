@@ -1,0 +1,30 @@
+{
+    "puzzle": "THERMITE_TAPE",
+    "score": {
+        "cost": 120,
+        "instructions": 165,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 4276,
+        "area": 4519,
+        "height": 96,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 660.0,
+        "areaINF": {
+            "level": 2,
+            "value": 160.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 14.309401076758503
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/cdef746e/w3584943609/120g-165i-4276c-4519a-96h-660r-160a2-14.309h1-L",
+    "dataPath": "WEEKLIES_2025/THERMITE_TAPE/THERMITE_TAPE_120g-165i-4276c-4519a-96h-660r-160a2-14.309h1-L.solution",
+    "lastModified": "2026-10-31T16:25:20.972284592Z"
+}
