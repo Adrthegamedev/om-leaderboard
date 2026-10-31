@@ -1,28 +1,28 @@
 {
     "puzzle": "GRAPHITE_PRESS",
     "score": {
-        "cost": 170,
-        "instructions": 801,
+        "cost": 145,
+        "instructions": 396,
         "overlap": false,
         "trackless": false,
-        "cycles": 3161,
+        "cycles": 2349,
         "area": 41,
-        "height": 7,
-        "width": 7.0,
+        "height": 8,
+        "width": 6.5,
         "boundingHex": 5,
         "looping": true,
-        "rate": 527.0,
+        "rate": 394.0,
         "areaINF": {
             "level": 0,
             "value": 41.0
         },
         "heightINF": {
             "level": 0,
-            "value": 7.0
+            "value": 8.0
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/2b6f48ca/TIEN-1.0graphite_press/170g-801i-3161c-41a-7h-7w-5b-527r-41a-7h-7w-5b-L",
-    "dataPath": "CRUX_RESISTANCE/GRAPHITE_PRESS/GRAPHITE_PRESS_170g-801i-3161c-41a-7h-7w-5b-527r-41a-7h-7w-5b-L.solution",
-    "lastModified": "2026-10-31T13:57:09.883278888Z"
+    "dataLink": "https://novae.observer/l/om/ba8b222e/TIEN-1.0graphite_press/145g-396i-2349c-41a-8h-6.5w-5b-394r-41a-8h-6.5w-5b-L",
+    "dataPath": "CRUX_RESISTANCE/GRAPHITE_PRESS/GRAPHITE_PRESS_145g-396i-2349c-41a-8h-6.5w-5b-394r-41a-8h-6.5w-5b-L.solution",
+    "lastModified": "2026-10-31T13:57:35.897796286Z"
 }
