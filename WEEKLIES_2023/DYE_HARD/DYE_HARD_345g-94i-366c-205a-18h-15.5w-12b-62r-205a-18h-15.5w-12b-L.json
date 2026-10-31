@@ -1,20 +1,20 @@
 {
     "puzzle": "DYE_HARD",
     "score": {
-        "cost": 365,
-        "instructions": 110,
+        "cost": 345,
+        "instructions": 94,
         "overlap": false,
         "trackless": false,
-        "cycles": 422,
-        "area": 237,
+        "cycles": 366,
+        "area": 205,
         "height": 18,
-        "width": 17.5,
+        "width": 15.5,
         "boundingHex": 12,
         "looping": true,
-        "rate": 69.0,
+        "rate": 62.0,
         "areaINF": {
             "level": 0,
-            "value": 237.0
+            "value": 205.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 17.5
+            "value": 15.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/b92748b9/OM2023Weeklies_DyeHard/365g-110i-422c-237a-18h-17.5w-12b-69r-237a-18h-17.5w-12b-L",
-    "dataPath": "WEEKLIES_2023/DYE_HARD/DYE_HARD_365g-110i-422c-237a-18h-17.5w-12b-69r-237a-18h-17.5w-12b-L.solution",
-    "lastModified": "2026-10-31T16:19:01.151756495Z"
+    "dataLink": "https://novae.observer/l/om/5ff741ca/OM2023Weeklies_DyeHard/345g-94i-366c-205a-18h-15.5w-12b-62r-205a-18h-15.5w-12b-L",
+    "dataPath": "WEEKLIES_2023/DYE_HARD/DYE_HARD_345g-94i-366c-205a-18h-15.5w-12b-62r-205a-18h-15.5w-12b-L.solution",
+    "lastModified": "2026-10-31T16:19:30.328941872Z"
 }
