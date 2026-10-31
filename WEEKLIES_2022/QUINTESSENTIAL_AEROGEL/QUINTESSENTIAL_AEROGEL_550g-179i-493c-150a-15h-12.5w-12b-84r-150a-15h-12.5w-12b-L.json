@@ -1,0 +1,36 @@
+{
+    "puzzle": "QUINTESSENTIAL_AEROGEL",
+    "score": {
+        "cost": 550,
+        "instructions": 179,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 493,
+        "area": 150,
+        "height": 15,
+        "width": 12.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 84.0,
+        "areaINF": {
+            "level": 0,
+            "value": 150.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/d60bbf14/w2860183144/550g-179i-493c-150a-15h-12.5w-12b-84r-150a-15h-12.5w-12b-L",
+    "dataPath": "WEEKLIES_2022/QUINTESSENTIAL_AEROGEL/QUINTESSENTIAL_AEROGEL_550g-179i-493c-150a-15h-12.5w-12b-84r-150a-15h-12.5w-12b-L.solution",
+    "lastModified": "2026-10-31T16:37:12.011295982Z"
+}
