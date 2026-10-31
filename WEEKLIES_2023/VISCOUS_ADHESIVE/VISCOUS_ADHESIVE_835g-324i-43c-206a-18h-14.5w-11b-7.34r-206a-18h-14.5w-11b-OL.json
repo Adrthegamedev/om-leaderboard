@@ -1,12 +1,12 @@
 {
     "puzzle": "VISCOUS_ADHESIVE",
     "score": {
-        "cost": 870,
-        "instructions": 325,
+        "cost": 835,
+        "instructions": 324,
         "overlap": true,
         "trackless": false,
         "cycles": 43,
-        "area": 210,
+        "area": 206,
         "height": 18,
         "width": 14.5,
         "boundingHex": 11,
@@ -14,7 +14,7 @@
         "rate": 7.34,
         "areaINF": {
             "level": 0,
-            "value": 210.0
+            "value": 206.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/10ca11a2/OM2023Weeklies_ViscousAdhesive/870g-325i-43c-210a-18h-14.5w-11b-7.34r-210a-18h-14.5w-11b-OL",
-    "dataPath": "WEEKLIES_2023/VISCOUS_ADHESIVE/VISCOUS_ADHESIVE_870g-325i-43c-210a-18h-14.5w-11b-7.34r-210a-18h-14.5w-11b-OL.solution",
-    "lastModified": "2026-10-31T15:57:46.579991070Z"
+    "dataLink": "https://novae.observer/l/om/f2f5ee75/OM2023Weeklies_ViscousAdhesive/835g-324i-43c-206a-18h-14.5w-11b-7.34r-206a-18h-14.5w-11b-OL",
+    "dataPath": "WEEKLIES_2023/VISCOUS_ADHESIVE/VISCOUS_ADHESIVE_835g-324i-43c-206a-18h-14.5w-11b-7.34r-206a-18h-14.5w-11b-OL.solution",
+    "lastModified": "2026-10-31T15:59:06.207603993Z"
 }
