@@ -1,0 +1,27 @@
+{
+    "puzzle": "BRAZING_CATHODE",
+    "score": {
+        "cost": 160,
+        "instructions": 53,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 301,
+        "area": 81,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 25.0,
+        "areaINF": {
+            "level": 0,
+            "value": 81.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/2df91e36/w2868333715/160g-53i-301c-81a-25r-81a-TL",
+    "dataPath": "WEEKLIES_2022/BRAZING_CATHODE/BRAZING_CATHODE_160g-53i-301c-81a-25r-81a-TL.solution",
+    "lastModified": "2026-10-31T16:03:04.062035827Z"
+}
