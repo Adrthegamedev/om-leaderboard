@@ -1,0 +1,24 @@
+{
+    "puzzle": "COLVAN_BLUE",
+    "score": {
+        "cost": 830,
+        "instructions": 1126,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 75,
+        "area": 103,
+        "height": 15,
+        "width": 13.5,
+        "boundingHex": 10,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/107d963f/w2518202582/830g-1126i-75c-103a-15h-13.5w-10b",
+    "dataPath": "WEEKLIES_2021/COLVAN_BLUE/COLVAN_BLUE_830g-1126i-75c-103a-15h-13.5w-10b.solution",
+    "lastModified": "2026-10-31T17:25:47.180700181Z"
+}
