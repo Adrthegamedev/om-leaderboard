@@ -1,20 +1,20 @@
 {
     "puzzle": "AQUEOUS_DAGGER",
     "score": {
-        "cost": 85,
-        "instructions": 18,
+        "cost": 80,
+        "instructions": 14,
         "overlap": false,
         "trackless": false,
-        "cycles": 105,
-        "area": 19,
+        "cycles": 49,
+        "area": 18,
         "height": 5,
-        "width": 5.0,
+        "width": 4.5,
         "boundingHex": 3,
         "looping": true,
-        "rate": 18.0,
+        "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 19.0
+            "value": 18.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/5bb72401/w3783530687/85g-18i-105c-19a-5h-5w-3b-18r-19a-5h-5w-3b-L",
-    "dataPath": "WEEKLIES_2026/AQUEOUS_DAGGER/AQUEOUS_DAGGER_85g-18i-105c-19a-5h-5w-3b-18r-19a-5h-5w-3b-L.solution",
-    "lastModified": "2026-10-31T15:20:00.823668476Z"
+    "dataLink": "https://novae.observer/l/om/f0b7d09d/w3783530687/80g-14i-49c-18a-5h-4.5w-3b-8r-18a-5h-4.5w-3b-L",
+    "dataPath": "WEEKLIES_2026/AQUEOUS_DAGGER/AQUEOUS_DAGGER_80g-14i-49c-18a-5h-4.5w-3b-8r-18a-5h-4.5w-3b-L.solution",
+    "lastModified": "2026-10-31T15:22:05.848245612Z"
 }
