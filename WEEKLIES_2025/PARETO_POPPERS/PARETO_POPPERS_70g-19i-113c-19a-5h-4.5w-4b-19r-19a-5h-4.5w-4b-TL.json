@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": true,
         "cycles": 113,
-        "area": 21,
+        "area": 19,
         "height": 5,
         "width": 4.5,
         "boundingHex": 4,
@@ -14,7 +14,7 @@
         "rate": 19.0,
         "areaINF": {
             "level": 0,
-            "value": 21.0
+            "value": 19.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/b8dc040c/w3584642234/70g-19i-113c-21a-5h-4.5w-4b-19r-21a-5h-4.5w-4b-TL",
-    "dataPath": "WEEKLIES_2025/PARETO_POPPERS/PARETO_POPPERS_70g-19i-113c-21a-5h-4.5w-4b-19r-21a-5h-4.5w-4b-TL.solution",
-    "lastModified": "2026-10-31T15:41:10.632426312Z"
+    "dataLink": "https://novae.observer/l/om/8cae86b1/w3584642234/70g-19i-113c-19a-5h-4.5w-4b-19r-19a-5h-4.5w-4b-TL",
+    "dataPath": "WEEKLIES_2025/PARETO_POPPERS/PARETO_POPPERS_70g-19i-113c-19a-5h-4.5w-4b-19r-19a-5h-4.5w-4b-TL.solution",
+    "lastModified": "2026-10-31T15:43:10.212524536Z"
 }
