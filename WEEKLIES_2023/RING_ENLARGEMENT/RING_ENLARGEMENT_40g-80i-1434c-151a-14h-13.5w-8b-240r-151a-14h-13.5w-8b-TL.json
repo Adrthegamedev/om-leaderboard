@@ -6,23 +6,23 @@
         "overlap": false,
         "trackless": true,
         "cycles": 1434,
-        "area": 158,
-        "height": 15,
-        "width": 14.0,
+        "area": 151,
+        "height": 14,
+        "width": 13.5,
         "boundingHex": 8,
         "looping": true,
         "rate": 240.0,
         "areaINF": {
             "level": 0,
-            "value": 158.0
+            "value": 151.0
         },
         "heightINF": {
             "level": 0,
-            "value": 15.0
+            "value": 14.0
         },
         "widthINF": {
             "level": 0,
-            "value": 14.0
+            "value": 13.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/661b6b7c/w3087959475/40g-80i-1434c-158a-15h-14w-8b-240r-158a-15h-14w-8b-TL",
-    "dataPath": "WEEKLIES_2023/RING_ENLARGEMENT/RING_ENLARGEMENT_40g-80i-1434c-158a-15h-14w-8b-240r-158a-15h-14w-8b-TL.solution",
-    "lastModified": "2026-10-31T15:37:13.193194523Z"
+    "dataLink": "https://novae.observer/l/om/d776822b/w3087959475/40g-80i-1434c-151a-14h-13.5w-8b-240r-151a-14h-13.5w-8b-TL",
+    "dataPath": "WEEKLIES_2023/RING_ENLARGEMENT/RING_ENLARGEMENT_40g-80i-1434c-151a-14h-13.5w-8b-240r-151a-14h-13.5w-8b-TL.solution",
+    "lastModified": "2026-10-31T15:37:17.310800752Z"
 }
