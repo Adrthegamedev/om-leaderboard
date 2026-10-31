@@ -1,0 +1,36 @@
+{
+    "puzzle": "MOONLIGHT_CATALYST",
+    "score": {
+        "cost": 2040,
+        "instructions": 670,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 30,
+        "area": 529,
+        "height": 29,
+        "width": 26.0,
+        "boundingHex": 18,
+        "looping": false,
+        "rate": 1.5,
+        "areaINF": {
+            "level": 0,
+            "value": 615.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 31.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 18.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/a2ee5751/Weeklies2025_Moonlight_Catalyst/2040g-670i-30c-529a-29h-26w-18b-1.5r-615a-31h-26w-18b-T",
+    "dataPath": "WEEKLIES_2025/MOONLIGHT_CATALYST/MOONLIGHT_CATALYST_2040g-670i-30c-529a-29h-26w-18b-1.5r-615a-31h-26w-18b-T.solution",
+    "lastModified": "2026-10-31T15:35:47.474851117Z"
+}
