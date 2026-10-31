@@ -1,0 +1,24 @@
+{
+    "puzzle": "RETRO_REFINING",
+    "score": {
+        "cost": 320,
+        "instructions": 858,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 177,
+        "area": 87,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/ce3064a4/w3297760188/320g-858i-177c-87a",
+    "dataPath": "WEEKLIES_2024/RETRO_REFINING/RETRO_REFINING_320g-858i-177c-87a.solution",
+    "lastModified": "2026-10-31T16:54:28.407927628Z"
+}
