@@ -1,0 +1,24 @@
+{
+    "puzzle": "HOT_ICE",
+    "score": {
+        "cost": 125,
+        "instructions": 435,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 151,
+        "area": 62,
+        "height": 8,
+        "width": 14.0,
+        "boundingHex": 13,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/06183e76/w2868337441/125g-435i-151c-62a-8h-14w-13b",
+    "dataPath": "WEEKLIES_2022/HOT_ICE/HOT_ICE_125g-435i-151c-62a-8h-14w-13b.solution",
+    "lastModified": "2026-10-31T16:06:05.707164593Z"
+}
