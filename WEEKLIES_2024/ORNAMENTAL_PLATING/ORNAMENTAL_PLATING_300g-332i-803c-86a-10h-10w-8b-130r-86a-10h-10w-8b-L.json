@@ -1,0 +1,36 @@
+{
+    "puzzle": "ORNAMENTAL_PLATING",
+    "score": {
+        "cost": 300,
+        "instructions": 332,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 803,
+        "area": 86,
+        "height": 10,
+        "width": 10.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 130.0,
+        "areaINF": {
+            "level": 0,
+            "value": 86.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/b5aa17d0/OM2024Weeklies_OrnamentalPlating/300g-332i-803c-86a-10h-10w-8b-130r-86a-10h-10w-8b-L",
+    "dataPath": "WEEKLIES_2024/ORNAMENTAL_PLATING/ORNAMENTAL_PLATING_300g-332i-803c-86a-10h-10w-8b-130r-86a-10h-10w-8b-L.solution",
+    "lastModified": "2026-10-31T16:58:23.059743399Z"
+}
