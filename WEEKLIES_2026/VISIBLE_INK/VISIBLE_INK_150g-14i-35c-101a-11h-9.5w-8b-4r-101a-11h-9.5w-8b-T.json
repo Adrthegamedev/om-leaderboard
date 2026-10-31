@@ -1,24 +1,24 @@
 {
     "puzzle": "VISIBLE_INK",
     "score": {
-        "cost": 165,
+        "cost": 150,
         "instructions": 14,
         "overlap": false,
-        "trackless": false,
+        "trackless": true,
         "cycles": 35,
-        "area": 104,
-        "height": 12,
+        "area": 101,
+        "height": 11,
         "width": 9.5,
         "boundingHex": 8,
         "looping": false,
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 104.0
+            "value": 101.0
         },
         "heightINF": {
             "level": 0,
-            "value": 12.0
+            "value": 11.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://novae.observer/l/om/a1dfbb6c/weeklies2026_visible-ink/165g-14i-35c-104a-12h-9.5w-8b-4r-104a-12h-9.5w-8b",
-    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_165g-14i-35c-104a-12h-9.5w-8b-4r-104a-12h-9.5w-8b.solution",
-    "lastModified": "2026-10-31T14:55:47.867630012Z"
+    "dataLink": "https://novae.observer/l/om/aa194392/weeklies2026_visible-ink/150g-14i-35c-101a-11h-9.5w-8b-4r-101a-11h-9.5w-8b-T",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_150g-14i-35c-101a-11h-9.5w-8b-4r-101a-11h-9.5w-8b-T.solution",
+    "lastModified": "2026-10-31T14:58:13.732600408Z"
 }
