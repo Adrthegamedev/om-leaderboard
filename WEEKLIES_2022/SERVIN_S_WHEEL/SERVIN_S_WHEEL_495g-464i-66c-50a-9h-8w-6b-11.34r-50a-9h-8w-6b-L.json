@@ -1,0 +1,36 @@
+{
+    "puzzle": "SERVIN_S_WHEEL",
+    "score": {
+        "cost": 495,
+        "instructions": 464,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 66,
+        "area": 50,
+        "height": 9,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 11.34,
+        "areaINF": {
+            "level": 0,
+            "value": 50.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/3ad909a7/w2868506869/495g-464i-66c-50a-9h-8w-6b-11.34r-50a-9h-8w-6b-L",
+    "dataPath": "WEEKLIES_2022/SERVIN_S_WHEEL/SERVIN_S_WHEEL_495g-464i-66c-50a-9h-8w-6b-11.34r-50a-9h-8w-6b-L.solution",
+    "lastModified": "2026-10-31T16:23:24.644252025Z"
+}
