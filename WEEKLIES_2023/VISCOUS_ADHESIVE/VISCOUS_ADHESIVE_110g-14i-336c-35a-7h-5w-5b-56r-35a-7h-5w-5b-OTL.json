@@ -1,0 +1,36 @@
+{
+    "puzzle": "VISCOUS_ADHESIVE",
+    "score": {
+        "cost": 110,
+        "instructions": 14,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 336,
+        "area": 35,
+        "height": 7,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 56.0,
+        "areaINF": {
+            "level": 0,
+            "value": 35.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://novae.observer/l/om/43a8dc3e/OM2023Weeklies_ViscousAdhesive/110g-14i-336c-35a-7h-5w-5b-56r-35a-7h-5w-5b-OTL",
+    "dataPath": "WEEKLIES_2023/VISCOUS_ADHESIVE/VISCOUS_ADHESIVE_110g-14i-336c-35a-7h-5w-5b-56r-35a-7h-5w-5b-OTL.solution",
+    "lastModified": "2026-10-31T16:00:02.115377857Z"
+}
