@@ -1,8 +1,8 @@
 {
     "puzzle": "PITCH_DROP_EXPERIMENT",
     "score": {
-        "cost": 220,
-        "instructions": 60,
+        "cost": 200,
+        "instructions": 38,
         "overlap": false,
         "trackless": false,
         "cycles": 27,
@@ -21,7 +21,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/613fda30/w3289331276/220g-60i-27c-76a-2r-76a-L",
-    "dataPath": "WEEKLIES_2024/PITCH_DROP_EXPERIMENT/PITCH_DROP_EXPERIMENT_220g-60i-27c-76a-2r-76a-L.solution",
-    "lastModified": "2026-11-01T12:05:05.363533492Z"
+    "dataLink": "https://lb.novae.observer/l/om/acf28032/w3289331276/200g-38i-27c-76a-2r-76a-L",
+    "dataPath": "WEEKLIES_2024/PITCH_DROP_EXPERIMENT/PITCH_DROP_EXPERIMENT_200g-38i-27c-76a-2r-76a-L.solution",
+    "lastModified": "2026-11-01T12:05:13.570931895Z"
 }
