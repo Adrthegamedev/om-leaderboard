@@ -1,0 +1,27 @@
+{
+    "puzzle": "PITCH_DROP_EXPERIMENT",
+    "score": {
+        "cost": 635,
+        "instructions": 83,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 125731,
+        "area": 120,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10920.0,
+        "areaINF": {
+            "level": 0,
+            "value": 120.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e8545a9b/w3289331276/635g-83i-125731c-120a-10920r-120a-L",
+    "dataPath": "WEEKLIES_2024/PITCH_DROP_EXPERIMENT/PITCH_DROP_EXPERIMENT_635g-83i-125731c-120a-10920r-120a-L.solution",
+    "lastModified": "2026-11-01T12:03:53.243851256Z"
+}
