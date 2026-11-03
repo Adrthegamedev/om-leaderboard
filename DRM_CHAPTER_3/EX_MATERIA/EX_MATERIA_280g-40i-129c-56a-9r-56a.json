@@ -1,0 +1,27 @@
+{
+    "puzzle": "EX_MATERIA",
+    "score": {
+        "cost": 280,
+        "instructions": 40,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 129,
+        "area": 56,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 56.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/EX_MATERIA/280g-129c-56a-40i-9b653d66.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fdf23c1a/P217/280g-40i-129c-56a-9r-56a",
+    "dataPath": "DRM_CHAPTER_3/EX_MATERIA/EX_MATERIA_280g-40i-129c-56a-9r-56a.solution",
+    "lastModified": "2026-10-23T06:14:11.228322645Z"
+}

@@ -1,0 +1,24 @@
+{
+    "puzzle": "FRAGRANT_POWDERS",
+    "score": {
+        "cost": 235,
+        "instructions": 23,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 22,
+        "area": 44,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/FRAGRANT_POWDERS/235g-22c-44a-23i-O-3a0989f2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f1b97546/P075/235g-23i-22c-44a-O",
+    "dataPath": "CHAPTER_PRODUCTION/FRAGRANT_POWDERS/FRAGRANT_POWDERS_235g-23i-22c-44a-O.solution",
+    "lastModified": "2026-10-21T02:47:55.493321455Z"
+}

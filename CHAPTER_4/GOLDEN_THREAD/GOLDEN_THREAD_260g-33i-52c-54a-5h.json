@@ -1,0 +1,24 @@
+{
+    "puzzle": "GOLDEN_THREAD",
+    "score": {
+        "cost": 260,
+        "instructions": 33,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 52,
+        "area": 54,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/GOLDEN_THREAD/260g-52c-54a-33i-99006e58.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3106e4ad/P037/260g-33i-52c-54a-5h",
+    "dataPath": "CHAPTER_4/GOLDEN_THREAD/GOLDEN_THREAD_260g-33i-52c-54a-5h.solution",
+    "lastModified": "2026-10-19T00:12:42.054636783Z"
+}

@@ -1,0 +1,27 @@
+{
+    "puzzle": "EX_MATERIA",
+    "score": {
+        "cost": 150,
+        "instructions": 53,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 129,
+        "area": 45,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 21.0,
+        "areaINF": {
+            "level": 0,
+            "value": 45.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/EX_MATERIA/150g-129c-45a-53i-T-19e72294.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/034e4e83/P217/150g-53i-129c-45a-21r-45a-TL",
+    "dataPath": "DRM_CHAPTER_3/EX_MATERIA/EX_MATERIA_150g-53i-129c-45a-21r-45a-TL.solution",
+    "lastModified": "2026-10-18T23:54:54.344269159Z"
+}
