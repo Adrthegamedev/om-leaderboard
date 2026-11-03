@@ -2,7 +2,7 @@
     "puzzle": "SOPHICK_MERCURY",
     "score": {
         "cost": 70,
-        "instructions": 31,
+        "instructions": 30,
         "overlap": false,
         "trackless": true,
         "cycles": 99,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/3280eb5f/P250/70g-31i-99c-14a-4h-4w-3b-16r-14a-4h-4w-3b-TL",
-    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_70g-31i-99c-14a-4h-4w-3b-16r-14a-4h-4w-3b-TL.solution",
-    "lastModified": "2026-11-03T20:32:12.233633873Z"
+    "dataLink": "https://lb.novae.observer/l/om/64ed3302/P250/70g-30i-99c-14a-4h-4w-3b-16r-14a-4h-4w-3b-TL",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_70g-30i-99c-14a-4h-4w-3b-16r-14a-4h-4w-3b-TL.solution",
+    "lastModified": "2026-11-03T20:34:27.446064736Z"
 }
