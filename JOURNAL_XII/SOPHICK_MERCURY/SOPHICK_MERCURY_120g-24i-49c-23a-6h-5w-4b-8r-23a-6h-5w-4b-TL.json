@@ -5,7 +5,7 @@
         "instructions": 24,
         "overlap": false,
         "trackless": true,
-        "cycles": 51,
+        "cycles": 49,
         "area": 23,
         "height": 6,
         "width": 5.0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/6e766de7/P250/120g-24i-51c-23a-6h-5w-4b-8r-23a-6h-5w-4b-TL",
-    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_120g-24i-51c-23a-6h-5w-4b-8r-23a-6h-5w-4b-TL.solution",
-    "lastModified": "2026-11-03T20:30:53.138428932Z"
+    "dataLink": "https://lb.novae.observer/l/om/26a56f11/P250/120g-24i-49c-23a-6h-5w-4b-8r-23a-6h-5w-4b-TL",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_120g-24i-49c-23a-6h-5w-4b-8r-23a-6h-5w-4b-TL.solution",
+    "lastModified": "2026-11-03T20:31:27.424500197Z"
 }
