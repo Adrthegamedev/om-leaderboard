@@ -5,16 +5,16 @@
         "instructions": 23,
         "overlap": false,
         "trackless": true,
-        "cycles": 35,
-        "area": 34,
+        "cycles": 34,
+        "area": 29,
         "height": 6,
-        "width": 6.5,
-        "boundingHex": 5,
+        "width": 6.0,
+        "boundingHex": 4,
         "looping": true,
         "rate": 5.0,
         "areaINF": {
             "level": 0,
-            "value": 34.0
+            "value": 29.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/abd13743/P250/150g-23i-35c-34a-6h-6.5w-5b-5r-34a-6h-6.5w-5b-TL",
-    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_150g-23i-35c-34a-6h-6.5w-5b-5r-34a-6h-6.5w-5b-TL.solution",
-    "lastModified": "2026-11-03T20:30:13.404259010Z"
+    "dataLink": "https://lb.novae.observer/l/om/38f3d869/P250/150g-23i-34c-29a-6h-6w-4b-5r-29a-6h-6w-4b-TL",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_150g-23i-34c-29a-6h-6w-4b-5r-29a-6h-6w-4b-TL.solution",
+    "lastModified": "2026-11-03T20:31:52.138032942Z"
 }
