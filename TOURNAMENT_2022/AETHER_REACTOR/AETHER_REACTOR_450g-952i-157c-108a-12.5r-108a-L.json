@@ -1,0 +1,27 @@
+{
+    "puzzle": "AETHER_REACTOR",
+    "score": {
+        "cost": 450,
+        "instructions": 952,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 157,
+        "area": 108,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.5,
+        "areaINF": {
+            "level": 0,
+            "value": 108.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/cafe955a/w2788067624/450g-952i-157c-108a-12.5r-108a-L",
+    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_450g-952i-157c-108a-12.5r-108a-L.solution",
+    "lastModified": "2026-11-03T20:17:18.562656102Z"
+}
