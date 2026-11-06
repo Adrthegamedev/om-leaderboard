@@ -1,0 +1,30 @@
+{
+    "puzzle": "CLIMBING_ROPE_FIBER",
+    "score": {
+        "cost": 260,
+        "instructions": 48,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 74,
+        "area": 52,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f8ae16d2/P027/260g-48i-74c-52a-8h-12r-6a1-8h-L",
+    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/CLIMBING_ROPE_FIBER_260g-48i-74c-52a-8h-12r-6a1-8h-L.solution",
+    "lastModified": "2026-11-06T15:19:50.237716431Z"
+}
