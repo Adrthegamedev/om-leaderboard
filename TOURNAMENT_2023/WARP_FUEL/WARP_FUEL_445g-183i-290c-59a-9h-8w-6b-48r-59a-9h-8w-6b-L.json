@@ -1,0 +1,36 @@
+{
+    "puzzle": "WARP_FUEL",
+    "score": {
+        "cost": 445,
+        "instructions": 183,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 290,
+        "area": 59,
+        "height": 9,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 59.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/a501a153/w2946687209/445g-183i-290c-59a-9h-8w-6b-48r-59a-9h-8w-6b-L",
+    "dataPath": "TOURNAMENT_2023/WARP_FUEL/WARP_FUEL_445g-183i-290c-59a-9h-8w-6b-48r-59a-9h-8w-6b-L.solution",
+    "lastModified": "2026-11-06T14:17:19.063465811Z"
+}
