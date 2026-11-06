@@ -3,22 +3,22 @@
     "score": {
         "cost": 2090,
         "instructions": 9608,
-        "overlap": true,
+        "overlap": false,
         "trackless": false,
         "cycles": 98,
-        "area": 224,
-        "height": 6,
+        "area": 221,
+        "height": 5,
         "width": 31.0,
         "boundingHex": 31,
         "looping": true,
         "rate": 7.0,
         "areaINF": {
             "level": 0,
-            "value": 224.0
+            "value": 221.0
         },
         "heightINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d6d4a4ba/P273/2090g-9608i-98c-224a-6h-31w-31b-7r-224a-6h-31w-31b-OL",
-    "dataPath": "JOURNAL_CVIII_IV/RIBBED_FLETCHING/RIBBED_FLETCHING_2090g-9608i-98c-224a-6h-31w-31b-7r-224a-6h-31w-31b-OL.solution",
-    "lastModified": "2026-11-06T14:56:39.447435070Z"
+    "dataLink": "https://lb.novae.observer/l/om/1816f7c4/P273/2090g-9608i-98c-221a-5h-31w-31b-7r-221a-5h-31w-31b-L",
+    "dataPath": "JOURNAL_CVIII_IV/RIBBED_FLETCHING/RIBBED_FLETCHING_2090g-9608i-98c-221a-5h-31w-31b-7r-221a-5h-31w-31b-L.solution",
+    "lastModified": "2026-11-06T14:56:43.622918043Z"
 }
