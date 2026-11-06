@@ -1,7 +1,7 @@
 {
     "puzzle": "SWEET_VINEGAR_OF_SATURN",
     "score": {
-        "cost": 1970,
+        "cost": 1960,
         "instructions": 115,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/b9ee4b1b/w3514067030/1970g-115i-239c-859a-41h-43.5w-34b-1.15r-0.143a1-53h-0.071w1-0.071b1",
-    "dataPath": "SALT_OF_SATURN/SWEET_VINEGAR_OF_SATURN/SWEET_VINEGAR_OF_SATURN_1970g-115i-239c-859a-41h-43.5w-34b-1.15r-0.143a1-53h-0.071w1-0.071b1.solution",
-    "lastModified": "2026-10-31T17:34:15.906011354Z"
+    "dataLink": "https://lb.novae.observer/l/om/24a637b0/w3514067030/1960g-115i-239c-859a-41h-43.5w-34b-1.15r-0.143a1-53h-0.071w1-0.071b1",
+    "dataPath": "SALT_OF_SATURN/SWEET_VINEGAR_OF_SATURN/SWEET_VINEGAR_OF_SATURN_1960g-115i-239c-859a-41h-43.5w-34b-1.15r-0.143a1-53h-0.071w1-0.071b1.solution",
+    "lastModified": "2026-11-06T14:08:03.933522100Z"
 }
