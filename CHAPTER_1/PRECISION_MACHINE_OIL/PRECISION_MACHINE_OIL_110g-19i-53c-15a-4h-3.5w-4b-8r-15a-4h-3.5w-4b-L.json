@@ -1,0 +1,36 @@
+{
+    "puzzle": "PRECISION_MACHINE_OIL",
+    "score": {
+        "cost": 110,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 53,
+        "area": 15,
+        "height": 4,
+        "width": 3.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/04ad4de6/P012/110g-19i-53c-15a-4h-3.5w-4b-8r-15a-4h-3.5w-4b-L",
+    "dataPath": "CHAPTER_1/PRECISION_MACHINE_OIL/PRECISION_MACHINE_OIL_110g-19i-53c-15a-4h-3.5w-4b-8r-15a-4h-3.5w-4b-L.solution",
+    "lastModified": "2026-11-06T13:34:00.874826400Z"
+}
