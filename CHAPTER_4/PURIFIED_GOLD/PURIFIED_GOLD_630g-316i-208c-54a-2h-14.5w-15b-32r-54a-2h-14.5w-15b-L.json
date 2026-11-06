@@ -1,7 +1,7 @@
 {
     "puzzle": "PURIFIED_GOLD",
     "score": {
-        "cost": 640,
+        "cost": 630,
         "instructions": 316,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 15.0
         }
     },
-    "displayLink": "https://files.mors.technology/Purified-Gold-640g-208c-54a-316i-2h-14.5w-32r-baa826.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P036/640g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L",
-    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_640g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/42a6771b/P036/630g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_630g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L.solution",
+    "lastModified": "2026-11-06T15:09:41.547110612Z"
 }
