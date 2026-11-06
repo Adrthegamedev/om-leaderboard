@@ -1,0 +1,36 @@
+{
+    "puzzle": "GALENA_SEPARATION",
+    "score": {
+        "cost": 895,
+        "instructions": 492,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 30,
+        "area": 74,
+        "height": 11,
+        "width": 8.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 1.34,
+        "areaINF": {
+            "level": 0,
+            "value": 74.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/96acb591/P207/895g-492i-30c-74a-11h-8.5w-8b-1.34r-74a-11h-8.5w-8b-L",
+    "dataPath": "DRM_CHAPTER_1/GALENA_SEPARATION/GALENA_SEPARATION_895g-492i-30c-74a-11h-8.5w-8b-1.34r-74a-11h-8.5w-8b-L.solution",
+    "lastModified": "2026-11-06T14:06:44.816216811Z"
+}
