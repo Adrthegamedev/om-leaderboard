@@ -9,7 +9,7 @@
         "area": 31,
         "height": 10,
         "width": 3.0,
-        "boundingHex": 10,
+        "boundingHex": 9,
         "looping": true,
         "rate": 20.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 10.0
+            "value": 9.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/34c71c29/P036/440g-56i-129c-31a-10h-3w-10b-20r-31a-10h-3w-10b-OL",
-    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_440g-56i-129c-31a-10h-3w-10b-20r-31a-10h-3w-10b-OL.solution",
-    "lastModified": "2026-11-06T15:09:51.749538859Z"
+    "dataLink": "https://lb.novae.observer/l/om/639548d4/P036/440g-56i-129c-31a-10h-3w-9b-20r-31a-10h-3w-9b-OL",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_440g-56i-129c-31a-10h-3w-9b-20r-31a-10h-3w-9b-OL.solution",
+    "lastModified": "2026-11-06T15:12:19.586573133Z"
 }
