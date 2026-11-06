@@ -1,7 +1,7 @@
 {
     "puzzle": "CELESTIAL_THREAD",
     "score": {
-        "cost": 520,
+        "cost": 500,
         "instructions": 164,
         "overlap": false,
         "trackless": false,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/CELESTIAL_THREAD/520g-151c-117a-164i-9acd0834.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P101/520g-164i-151c-117a-10h-22r-8a1-10h-L",
-    "dataPath": "JOURNAL_VIII/CELESTIAL_THREAD/CELESTIAL_THREAD_520g-164i-151c-117a-10h-22r-8a1-10h-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/84c28c60/P101/500g-164i-151c-117a-10h-22r-8a1-10h-L",
+    "dataPath": "JOURNAL_VIII/CELESTIAL_THREAD/CELESTIAL_THREAD_500g-164i-151c-117a-10h-22r-8a1-10h-L.solution",
+    "lastModified": "2026-11-06T15:35:50.178689144Z"
 }
