@@ -1,7 +1,7 @@
 {
     "puzzle": "LAPIS_SOLARIS",
     "score": {
-        "cost": 510,
+        "cost": 490,
         "instructions": 278,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/LAPIS_SOLARIS/510g-450c-60a-278i-4bb425f2.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P313/510g-278i-450c-60a-9h-8.5w-5b-73r-60a-9h-8.5w-5b-L",
-    "dataPath": "JOURNAL_CVIII_XII/LAPIS_SOLARIS/LAPIS_SOLARIS_510g-278i-450c-60a-9h-8.5w-5b-73r-60a-9h-8.5w-5b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f7bb4b8f/P313/490g-278i-450c-60a-9h-8.5w-5b-73r-60a-9h-8.5w-5b-L",
+    "dataPath": "JOURNAL_CVIII_XII/LAPIS_SOLARIS/LAPIS_SOLARIS_490g-278i-450c-60a-9h-8.5w-5b-73r-60a-9h-8.5w-5b-L.solution",
+    "lastModified": "2026-11-06T14:25:53.490648739Z"
 }
