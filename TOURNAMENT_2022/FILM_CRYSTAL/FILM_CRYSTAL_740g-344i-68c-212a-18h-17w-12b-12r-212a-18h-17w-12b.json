@@ -1,0 +1,36 @@
+{
+    "puzzle": "FILM_CRYSTAL",
+    "score": {
+        "cost": 740,
+        "instructions": 344,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 68,
+        "area": 212,
+        "height": 18,
+        "width": 17.0,
+        "boundingHex": 12,
+        "looping": false,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 212.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/99cd340c/w2788067038/740g-344i-68c-212a-18h-17w-12b-12r-212a-18h-17w-12b",
+    "dataPath": "TOURNAMENT_2022/FILM_CRYSTAL/FILM_CRYSTAL_740g-344i-68c-212a-18h-17w-12b-12r-212a-18h-17w-12b.solution",
+    "lastModified": "2026-11-06T14:35:33.499331111Z"
+}
