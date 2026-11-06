@@ -1,36 +1,36 @@
 {
     "puzzle": "HIGH_EXPLOSIVE",
     "score": {
-        "cost": 245,
+        "cost": 240,
         "instructions": 132,
         "overlap": false,
         "trackless": false,
         "cycles": 270,
-        "area": 34,
-        "height": 10,
-        "width": 4.0,
-        "boundingHex": 8,
+        "area": 33,
+        "height": 8,
+        "width": 3.5,
+        "boundingHex": 9,
         "looping": true,
         "rate": 44.0,
         "areaINF": {
             "level": 0,
-            "value": 34.0
+            "value": 33.0
         },
         "heightINF": {
             "level": 0,
-            "value": 10.0
+            "value": 8.0
         },
         "widthINF": {
             "level": 0,
-            "value": 4.0
+            "value": 3.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/24fbccee/P271/245g-132i-270c-34a-10h-4w-8b-44r-34a-10h-4w-8b-L",
-    "dataPath": "JOURNAL_CVIII_IV/HIGH_EXPLOSIVE/HIGH_EXPLOSIVE_245g-132i-270c-34a-10h-4w-8b-44r-34a-10h-4w-8b-L.solution",
-    "lastModified": "2026-11-06T14:55:50.283782451Z"
+    "dataLink": "https://lb.novae.observer/l/om/f9063a08/P271/240g-132i-270c-33a-8h-3.5w-9b-44r-33a-8h-3.5w-9b-L",
+    "dataPath": "JOURNAL_CVIII_IV/HIGH_EXPLOSIVE/HIGH_EXPLOSIVE_240g-132i-270c-33a-8h-3.5w-9b-44r-33a-8h-3.5w-9b-L.solution",
+    "lastModified": "2026-11-06T14:56:07.612431720Z"
 }
