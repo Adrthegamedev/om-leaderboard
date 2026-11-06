@@ -1,20 +1,20 @@
 {
     "puzzle": "ELEMENTAL_COPPER",
     "score": {
-        "cost": 205,
+        "cost": 195,
         "instructions": 20,
         "overlap": false,
         "trackless": false,
         "cycles": 26,
-        "area": 14,
+        "area": 15,
         "height": 2,
-        "width": 4.5,
+        "width": 5.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 4.5,
         "areaINF": {
             "level": 0,
-            "value": 14.0
+            "value": 15.0
         },
         "heightINF": {
             "level": 0,
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 4.5
+            "value": 5.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/ELEMENTAL_COPPER/205g-26c-14a-20i-208ec4cb.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P202/205g-20i-26c-14a-2h-4.5w-5b-4.5r-14a-2h-4.5w-5b-L",
-    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_205g-20i-26c-14a-2h-4.5w-5b-4.5r-14a-2h-4.5w-5b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f75d19c6/P202/195g-20i-26c-15a-2h-5w-5b-4.5r-15a-2h-5w-5b-L",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_195g-20i-26c-15a-2h-5w-5b-4.5r-15a-2h-5w-5b-L.solution",
+    "lastModified": "2026-11-06T14:02:21.941233505Z"
 }
