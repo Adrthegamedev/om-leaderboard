@@ -1,0 +1,30 @@
+{
+    "puzzle": "SWAMP_FIBER",
+    "score": {
+        "cost": 415,
+        "instructions": 95,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 92,
+        "area": 116,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/46de0aab/w2501727889/415g-95i-92c-116a-8h-12r-12a1-8h-L",
+    "dataPath": "TOURNAMENT_2020/SWAMP_FIBER/SWAMP_FIBER_415g-95i-92c-116a-8h-12r-12a1-8h-L.solution",
+    "lastModified": "2026-11-06T15:51:29.449185442Z"
+}
