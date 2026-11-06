@@ -1,8 +1,8 @@
 {
     "puzzle": "ALCOHOL_SEPARATION",
     "score": {
-        "cost": 740,
-        "instructions": 414,
+        "cost": 735,
+        "instructions": 222,
         "overlap": false,
         "trackless": false,
         "cycles": 17,
@@ -11,7 +11,7 @@
         "width": 8.0,
         "boundingHex": 6,
         "looping": true,
-        "rate": 2.0,
+        "rate": 3.17,
         "areaINF": {
             "level": 0,
             "value": 59.0
@@ -29,7 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/ALCOHOL_SEPARATION/740g-17c-59a-414i-ef56d7c7.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P024/740g-414i-17c-59a-9h-8w-6b-2r-59a-9h-8w-6b-L",
-    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_740g-414i-17c-59a-9h-8w-6b-2r-59a-9h-8w-6b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/50cec098/P024/735g-222i-17c-59a-9h-8w-6b-3.17r-59a-9h-8w-6b-L",
+    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_735g-222i-17c-59a-9h-8w-6b-3.17r-59a-9h-8w-6b-L.solution",
+    "lastModified": "2026-11-06T15:15:10.407331018Z"
 }
