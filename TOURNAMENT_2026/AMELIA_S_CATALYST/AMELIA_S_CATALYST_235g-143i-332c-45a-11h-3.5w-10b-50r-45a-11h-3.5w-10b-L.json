@@ -1,20 +1,20 @@
 {
     "puzzle": "AMELIA_S_CATALYST",
     "score": {
-        "cost": 240,
+        "cost": 235,
         "instructions": 143,
         "overlap": false,
         "trackless": false,
         "cycles": 332,
-        "area": 46,
+        "area": 45,
         "height": 11,
-        "width": 4.0,
-        "boundingHex": 11,
+        "width": 3.5,
+        "boundingHex": 10,
         "looping": true,
         "rate": 50.0,
         "areaINF": {
             "level": 0,
-            "value": 46.0
+            "value": 45.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 4.0
+            "value": 3.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 11.0
+            "value": 10.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/2ad1a7cc/w3728200264/240g-143i-332c-46a-11h-4w-11b-50r-46a-11h-4w-11b-L",
-    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_240g-143i-332c-46a-11h-4w-11b-50r-46a-11h-4w-11b-L.solution",
-    "lastModified": "2026-11-06T16:20:36.255693958Z"
+    "dataLink": "https://lb.novae.observer/l/om/9a4f4b2e/w3728200264/235g-143i-332c-45a-11h-3.5w-10b-50r-45a-11h-3.5w-10b-L",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_235g-143i-332c-45a-11h-3.5w-10b-50r-45a-11h-3.5w-10b-L.solution",
+    "lastModified": "2026-11-06T16:20:45.620739972Z"
 }
