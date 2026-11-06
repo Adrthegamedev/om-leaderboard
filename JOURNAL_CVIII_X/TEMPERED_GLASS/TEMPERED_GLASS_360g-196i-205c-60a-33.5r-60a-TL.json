@@ -1,7 +1,7 @@
 {
     "puzzle": "TEMPERED_GLASS",
     "score": {
-        "cost": 380,
+        "cost": 360,
         "instructions": 196,
         "overlap": false,
         "trackless": true,
@@ -20,7 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/TEMPERED_GLASS/380g-205c-60a-196i-T-1a55b389.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P301/380g-196i-205c-60a-33.5r-60a-TL",
-    "dataPath": "JOURNAL_CVIII_X/TEMPERED_GLASS/TEMPERED_GLASS_380g-196i-205c-60a-33.5r-60a-TL.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2aacd56d/P301/360g-196i-205c-60a-33.5r-60a-TL",
+    "dataPath": "JOURNAL_CVIII_X/TEMPERED_GLASS/TEMPERED_GLASS_360g-196i-205c-60a-33.5r-60a-TL.solution",
+    "lastModified": "2026-11-06T13:46:15.795045737Z"
 }
