@@ -1,7 +1,7 @@
 {
     "puzzle": "AMELIA_S_CATALYST",
     "score": {
-        "cost": 680,
+        "cost": 670,
         "instructions": 228,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/AMELIA_S_CATALYST/680g-43c-140a-228i-622e0081.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3728200264/680g-228i-43c-140a-15h-13w-9b-6.34r-140a-15h-13w-9b-L",
-    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_680g-228i-43c-140a-15h-13w-9b-6.34r-140a-15h-13w-9b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c3dadc23/w3728200264/670g-228i-43c-140a-15h-13w-9b-6.34r-140a-15h-13w-9b-L",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_670g-228i-43c-140a-15h-13w-9b-6.34r-140a-15h-13w-9b-L.solution",
+    "lastModified": "2026-11-06T16:19:58.132523148Z"
 }
