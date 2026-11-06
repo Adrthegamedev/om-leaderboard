@@ -1,0 +1,24 @@
+{
+    "puzzle": "SWORD_ALLOY",
+    "score": {
+        "cost": 650,
+        "instructions": 9,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 271,
+        "area": 112,
+        "height": 6,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/3c1ccddd/P033/650g-9i-271c-112a-6h-O",
+    "dataPath": "CHAPTER_4/SWORD_ALLOY/SWORD_ALLOY_650g-9i-271c-112a-6h-O.solution",
+    "lastModified": "2026-11-06T15:05:19.032896626Z"
+}
