@@ -1,0 +1,24 @@
+{
+    "puzzle": "STEEL_WOOL",
+    "score": {
+        "cost": 840,
+        "instructions": 24,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 318,
+        "area": 1399,
+        "height": 49,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/9fb99bcd/P268/840g-24i-318c-1399a-49h",
+    "dataPath": "JOURNAL_CVIII_III/STEEL_WOOL/STEEL_WOOL_840g-24i-318c-1399a-49h.solution",
+    "lastModified": "2026-11-06T13:40:58.229019906Z"
+}
