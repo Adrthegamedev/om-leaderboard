@@ -1,12 +1,12 @@
 {
     "puzzle": "RESIN_GLUE",
     "score": {
-        "cost": 555,
+        "cost": 545,
         "instructions": 214,
         "overlap": false,
         "trackless": false,
         "cycles": 44,
-        "area": 124,
+        "area": 125,
         "height": 14,
         "width": 11.0,
         "boundingHex": 9,
@@ -14,7 +14,7 @@
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 124.0
+            "value": 125.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/RESIN_GLUE/555g-44c-124a-214i-1ebd9c75.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P309/555g-214i-44c-124a-14h-11w-9b-6r-124a-14h-11w-9b-L",
-    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_555g-214i-44c-124a-14h-11w-9b-6r-124a-14h-11w-9b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c7d906e9/P309/545g-214i-44c-125a-14h-11w-9b-6r-125a-14h-11w-9b-L",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_545g-214i-44c-125a-14h-11w-9b-6r-125a-14h-11w-9b-L.solution",
+    "lastModified": "2026-11-06T13:42:58.962105190Z"
 }
