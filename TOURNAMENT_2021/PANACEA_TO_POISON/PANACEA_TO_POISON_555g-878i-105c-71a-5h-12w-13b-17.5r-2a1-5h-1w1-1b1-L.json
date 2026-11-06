@@ -1,0 +1,36 @@
+{
+    "puzzle": "PANACEA_TO_POISON",
+    "score": {
+        "cost": 555,
+        "instructions": 878,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 105,
+        "area": 71,
+        "height": 5,
+        "width": 12.0,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 17.5,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2ba53d41/w2450511665/555g-878i-105c-71a-5h-12w-13b-17.5r-2a1-5h-1w1-1b1-L",
+    "dataPath": "TOURNAMENT_2021/PANACEA_TO_POISON/PANACEA_TO_POISON_555g-878i-105c-71a-5h-12w-13b-17.5r-2a1-5h-1w1-1b1-L.solution",
+    "lastModified": "2026-11-06T16:25:27.123296178Z"
+}
