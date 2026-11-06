@@ -1,0 +1,24 @@
+{
+    "puzzle": "BIOSTEEL_FILAMENT",
+    "score": {
+        "cost": 590,
+        "instructions": 318,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 41,
+        "area": 317,
+        "height": 16,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/508a9e48/w2946684529/590g-318i-41c-317a-16h",
+    "dataPath": "TOURNAMENT_2023/BIOSTEEL_FILAMENT/BIOSTEEL_FILAMENT_590g-318i-41c-317a-16h.solution",
+    "lastModified": "2026-11-06T14:20:54.850431653Z"
+}
