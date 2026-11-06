@@ -1,0 +1,36 @@
+{
+    "puzzle": "CRYSTALLIZED_AIR",
+    "score": {
+        "cost": 350,
+        "instructions": 30,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 632,
+        "area": 381,
+        "height": 24,
+        "width": 32.5,
+        "boundingHex": 39,
+        "looping": true,
+        "rate": 100.0,
+        "areaINF": {
+            "level": 1,
+            "value": 9.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5cf15c8c/w3446278612/350g-30i-632c-381a-24h-32.5w-39b-100r-9a1-1h1-4w1-4b1-L",
+    "dataPath": "TOURNAMENT_2025/CRYSTALLIZED_AIR/CRYSTALLIZED_AIR_350g-30i-632c-381a-24h-32.5w-39b-100r-9a1-1h1-4w1-4b1-L.solution",
+    "lastModified": "2026-11-06T14:42:06.066279778Z"
+}
