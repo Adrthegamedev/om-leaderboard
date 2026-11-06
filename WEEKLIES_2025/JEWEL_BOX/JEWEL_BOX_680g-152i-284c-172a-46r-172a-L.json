@@ -1,7 +1,7 @@
 {
     "puzzle": "JEWEL_BOX",
     "score": {
-        "cost": 700,
+        "cost": 680,
         "instructions": 152,
         "overlap": false,
         "trackless": false,
@@ -21,7 +21,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/6eb2496c/Weeklies2025_JewelBox_v2/700g-152i-284c-172a-46r-172a-L",
-    "dataPath": "WEEKLIES_2025/JEWEL_BOX/JEWEL_BOX_700g-152i-284c-172a-46r-172a-L.solution",
-    "lastModified": "2026-10-31T16:39:36.331450505Z"
+    "dataLink": "https://lb.novae.observer/l/om/9de1a422/Weeklies2025_JewelBox_v2/680g-152i-284c-172a-46r-172a-L",
+    "dataPath": "WEEKLIES_2025/JEWEL_BOX/JEWEL_BOX_680g-152i-284c-172a-46r-172a-L.solution",
+    "lastModified": "2026-11-06T16:29:40.140979381Z"
 }
