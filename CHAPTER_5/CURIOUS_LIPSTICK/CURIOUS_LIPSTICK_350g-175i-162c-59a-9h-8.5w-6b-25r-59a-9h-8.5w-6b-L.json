@@ -1,12 +1,12 @@
 {
     "puzzle": "CURIOUS_LIPSTICK",
     "score": {
-        "cost": 355,
+        "cost": 350,
         "instructions": 175,
         "overlap": false,
         "trackless": false,
         "cycles": 162,
-        "area": 60,
+        "area": 59,
         "height": 9,
         "width": 8.5,
         "boundingHex": 6,
@@ -14,7 +14,7 @@
         "rate": 25.0,
         "areaINF": {
             "level": 0,
-            "value": 60.0
+            "value": 59.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/58fc4731/P041/355g-175i-162c-60a-9h-8.5w-6b-25r-60a-9h-8.5w-6b-L",
-    "dataPath": "CHAPTER_5/CURIOUS_LIPSTICK/CURIOUS_LIPSTICK_355g-175i-162c-60a-9h-8.5w-6b-25r-60a-9h-8.5w-6b-L.solution",
-    "lastModified": "2026-11-06T14:52:37.381880816Z"
+    "dataLink": "https://lb.novae.observer/l/om/560b1bb1/P041/350g-175i-162c-59a-9h-8.5w-6b-25r-59a-9h-8.5w-6b-L",
+    "dataPath": "CHAPTER_5/CURIOUS_LIPSTICK/CURIOUS_LIPSTICK_350g-175i-162c-59a-9h-8.5w-6b-25r-59a-9h-8.5w-6b-L.solution",
+    "lastModified": "2026-11-06T14:52:47.314123330Z"
 }
