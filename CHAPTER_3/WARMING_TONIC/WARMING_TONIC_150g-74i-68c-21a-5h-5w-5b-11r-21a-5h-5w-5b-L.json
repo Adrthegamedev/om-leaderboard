@@ -1,28 +1,28 @@
 {
     "puzzle": "WARMING_TONIC",
     "score": {
-        "cost": 155,
+        "cost": 150,
         "instructions": 74,
         "overlap": false,
         "trackless": false,
         "cycles": 68,
-        "area": 22,
-        "height": 7,
-        "width": 5.5,
+        "area": 21,
+        "height": 5,
+        "width": 5.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 11.0,
         "areaINF": {
             "level": 0,
-            "value": 22.0
+            "value": 21.0
         },
         "heightINF": {
             "level": 0,
-            "value": 7.0
+            "value": 5.0
         },
         "widthINF": {
             "level": 0,
-            "value": 5.5
+            "value": 5.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/ee6981f6/P028/155g-74i-68c-22a-7h-5.5w-5b-11r-22a-7h-5.5w-5b-L",
-    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_155g-74i-68c-22a-7h-5.5w-5b-11r-22a-7h-5.5w-5b-L.solution",
-    "lastModified": "2026-11-06T15:18:14.078784145Z"
+    "dataLink": "https://lb.novae.observer/l/om/0fc3295d/P028/150g-74i-68c-21a-5h-5w-5b-11r-21a-5h-5w-5b-L",
+    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_150g-74i-68c-21a-5h-5w-5b-11r-21a-5h-5w-5b-L.solution",
+    "lastModified": "2026-11-06T15:18:32.659774563Z"
 }
