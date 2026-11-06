@@ -1,0 +1,36 @@
+{
+    "puzzle": "HYPER_VOLATILE_GAS",
+    "score": {
+        "cost": 375,
+        "instructions": 82,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 115,
+        "area": 45,
+        "height": 9,
+        "width": 4.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 45.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/67d6184a/P106/375g-82i-115c-45a-9h-4w-9b-17r-45a-9h-4w-9b-L",
+    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_375g-82i-115c-45a-9h-4w-9b-17r-45a-9h-4w-9b-L.solution",
+    "lastModified": "2026-11-06T13:54:33.206510596Z"
+}
