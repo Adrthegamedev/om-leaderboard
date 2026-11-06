@@ -1,7 +1,7 @@
 {
     "puzzle": "SMOG_NEUTRALIZATION",
     "score": {
-        "cost": 210,
+        "cost": 190,
         "instructions": 806,
         "overlap": false,
         "trackless": true,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/SMOG_NEUTRALIZATION/210g-705c-28a-806i-T-2fb8b5d8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3584644954/210g-806i-705c-28a-4h-5.5w-8b-T",
-    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_210g-806i-705c-28a-4h-5.5w-8b-T.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/42fb1d8d/w3584644954/190g-806i-705c-28a-4h-5.5w-8b-T",
+    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_190g-806i-705c-28a-4h-5.5w-8b-T.solution",
+    "lastModified": "2026-11-06T15:42:37.218042713Z"
 }
