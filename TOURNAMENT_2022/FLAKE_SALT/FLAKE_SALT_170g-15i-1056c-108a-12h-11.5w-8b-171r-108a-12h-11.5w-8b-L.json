@@ -1,0 +1,36 @@
+{
+    "puzzle": "FLAKE_SALT",
+    "score": {
+        "cost": 170,
+        "instructions": 15,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1056,
+        "area": 108,
+        "height": 12,
+        "width": 11.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 171.0,
+        "areaINF": {
+            "level": 0,
+            "value": 108.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5786b570/w2788066123/170g-15i-1056c-108a-12h-11.5w-8b-171r-108a-12h-11.5w-8b-L",
+    "dataPath": "TOURNAMENT_2022/FLAKE_SALT/FLAKE_SALT_170g-15i-1056c-108a-12h-11.5w-8b-171r-108a-12h-11.5w-8b-L.solution",
+    "lastModified": "2026-11-06T14:36:21.383017318Z"
+}
