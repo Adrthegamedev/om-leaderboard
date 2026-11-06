@@ -1,12 +1,12 @@
 {
     "puzzle": "FIREWORKS_POWDER",
     "score": {
-        "cost": 690,
+        "cost": 680,
         "instructions": 134,
         "overlap": false,
         "trackless": false,
         "cycles": 30,
-        "area": 59,
+        "area": 60,
         "height": 9,
         "width": 9.0,
         "boundingHex": 6,
@@ -14,7 +14,7 @@
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 59.0
+            "value": 60.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/FIREWORKS_POWDER/690g-30c-59a-134i-ff9abdd3.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P211/690g-134i-30c-59a-9h-9w-6b-4r-59a-9h-9w-6b-L",
-    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_690g-134i-30c-59a-9h-9w-6b-4r-59a-9h-9w-6b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/9eba4a5e/P211/680g-134i-30c-60a-9h-9w-6b-4r-60a-9h-9w-6b-L",
+    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_680g-134i-30c-60a-9h-9w-6b-4r-60a-9h-9w-6b-L.solution",
+    "lastModified": "2026-11-06T15:50:46.783561189Z"
 }
