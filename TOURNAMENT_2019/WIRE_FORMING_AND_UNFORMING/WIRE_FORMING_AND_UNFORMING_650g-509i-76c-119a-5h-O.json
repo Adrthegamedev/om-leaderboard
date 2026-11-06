@@ -1,0 +1,24 @@
+{
+    "puzzle": "WIRE_FORMING_AND_UNFORMING",
+    "score": {
+        "cost": 650,
+        "instructions": 509,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 76,
+        "area": 119,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d4dc896f/w1698784331/650g-509i-76c-119a-5h-O",
+    "dataPath": "TOURNAMENT_2019/WIRE_FORMING_AND_UNFORMING/WIRE_FORMING_AND_UNFORMING_650g-509i-76c-119a-5h-O.solution",
+    "lastModified": "2026-11-06T16:13:59.712428344Z"
+}
