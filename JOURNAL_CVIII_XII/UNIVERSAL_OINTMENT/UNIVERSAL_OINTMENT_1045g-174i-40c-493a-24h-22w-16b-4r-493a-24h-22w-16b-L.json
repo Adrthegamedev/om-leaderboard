@@ -1,7 +1,7 @@
 {
     "puzzle": "UNIVERSAL_OINTMENT",
     "score": {
-        "cost": 1050,
+        "cost": 1045,
         "instructions": 174,
         "overlap": false,
         "trackless": false,
@@ -29,8 +29,8 @@
             "value": 16.0
         }
     },
-    "displayLink": "https://files.mors.technology/UNIVERSAL_OINTMENT/1050g-40c-493a-174i-1c688941.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/4bc0d423/P314/1050g-174i-40c-493a-24h-22w-16b-4r-493a-24h-22w-16b-L",
-    "dataPath": "JOURNAL_CVIII_XII/UNIVERSAL_OINTMENT/UNIVERSAL_OINTMENT_1050g-174i-40c-493a-24h-22w-16b-4r-493a-24h-22w-16b-L.solution",
-    "lastModified": "2026-10-28T22:01:31.130859994Z"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/060f45ff/P314/1045g-174i-40c-493a-24h-22w-16b-4r-493a-24h-22w-16b-L",
+    "dataPath": "JOURNAL_CVIII_XII/UNIVERSAL_OINTMENT/UNIVERSAL_OINTMENT_1045g-174i-40c-493a-24h-22w-16b-4r-493a-24h-22w-16b-L.solution",
+    "lastModified": "2026-11-06T14:25:29.448319219Z"
 }
