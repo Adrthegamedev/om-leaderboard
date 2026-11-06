@@ -1,0 +1,36 @@
+{
+    "puzzle": "SEAL_SOLVENT",
+    "score": {
+        "cost": 225,
+        "instructions": 51,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 98,
+        "area": 24,
+        "height": 2,
+        "width": 7.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 24.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d889cb2b/P026/225g-51i-98c-24a-2h-7w-8b-16r-24a-2h-7w-8b-L",
+    "dataPath": "CHAPTER_3/SEAL_SOLVENT/SEAL_SOLVENT_225g-51i-98c-24a-2h-7w-8b-16r-24a-2h-7w-8b-L.solution",
+    "lastModified": "2026-11-06T15:21:07.738676027Z"
+}
