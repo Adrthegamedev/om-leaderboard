@@ -1,0 +1,36 @@
+{
+    "puzzle": "WASTE_RECLAMATION",
+    "score": {
+        "cost": 625,
+        "instructions": 43,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 111,
+        "area": 355,
+        "height": 21,
+        "width": 18.5,
+        "boundingHex": 19,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 355.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 18.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 19.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5a15b248/w2946683186/625g-43i-111c-355a-21h-18.5w-19b-8r-355a-21h-18.5w-19b-L",
+    "dataPath": "TOURNAMENT_2023/WASTE_RECLAMATION/WASTE_RECLAMATION_625g-43i-111c-355a-21h-18.5w-19b-8r-355a-21h-18.5w-19b-L.solution",
+    "lastModified": "2026-11-06T14:19:29.209327622Z"
+}
