@@ -1,20 +1,20 @@
 {
     "puzzle": "LEAD_OF_HERMES",
     "score": {
-        "cost": 735,
+        "cost": 725,
         "instructions": 128,
         "overlap": false,
         "trackless": false,
         "cycles": 21,
-        "area": 82,
+        "area": 83,
         "height": 12,
         "width": 8.5,
-        "boundingHex": 8,
+        "boundingHex": 9,
         "looping": true,
         "rate": 2.0,
         "areaINF": {
             "level": 0,
-            "value": 82.0
+            "value": 83.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/e6997cc6/DisjointJournal_LeadOfHermes/735g-128i-21c-82a-12h-8.5w-8b-2r-82a-12h-8.5w-8b-L",
-    "dataPath": "DISJOINT_JOURNAL_I/LEAD_OF_HERMES/LEAD_OF_HERMES_735g-128i-21c-82a-12h-8.5w-8b-2r-82a-12h-8.5w-8b-L.solution",
-    "lastModified": "2026-10-31T14:27:47.514468209Z"
+    "dataLink": "https://lb.novae.observer/l/om/afb11a2c/DisjointJournal_LeadOfHermes/725g-128i-21c-83a-12h-8.5w-9b-2r-83a-12h-8.5w-9b-L",
+    "dataPath": "DISJOINT_JOURNAL_I/LEAD_OF_HERMES/LEAD_OF_HERMES_725g-128i-21c-83a-12h-8.5w-9b-2r-83a-12h-8.5w-9b-L.solution",
+    "lastModified": "2026-11-06T15:32:38.992254671Z"
 }
