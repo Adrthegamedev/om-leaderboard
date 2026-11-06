@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 306,
         "area": 32,
-        "height": 4,
+        "height": 3,
         "width": 7.5,
         "boundingHex": 8,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 4.0
+            "value": 3.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/34405cfb/P036/450g-54i-306c-32a-4h-7.5w-8b-48r-32a-4h-7.5w-8b-L",
-    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_450g-54i-306c-32a-4h-7.5w-8b-48r-32a-4h-7.5w-8b-L.solution",
-    "lastModified": "2026-11-06T15:09:26.922927812Z"
+    "dataLink": "https://lb.novae.observer/l/om/6a7b6be3/P036/450g-54i-306c-32a-3h-7.5w-8b-48r-32a-3h-7.5w-8b-L",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_450g-54i-306c-32a-3h-7.5w-8b-48r-32a-3h-7.5w-8b-L.solution",
+    "lastModified": "2026-11-06T15:11:48.615259361Z"
 }
