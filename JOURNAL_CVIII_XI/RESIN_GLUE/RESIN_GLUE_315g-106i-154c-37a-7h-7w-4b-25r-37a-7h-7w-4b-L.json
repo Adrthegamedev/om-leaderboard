@@ -1,7 +1,7 @@
 {
     "puzzle": "RESIN_GLUE",
     "score": {
-        "cost": 335,
+        "cost": 315,
         "instructions": 106,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/RESIN_GLUE/335g-154c-37a-106i-9436023a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P309/335g-106i-154c-37a-7h-7w-4b-25r-37a-7h-7w-4b-L",
-    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_335g-106i-154c-37a-7h-7w-4b-25r-37a-7h-7w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/39de888a/P309/315g-106i-154c-37a-7h-7w-4b-25r-37a-7h-7w-4b-L",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_315g-106i-154c-37a-7h-7w-4b-25r-37a-7h-7w-4b-L.solution",
+    "lastModified": "2026-11-06T13:42:36.584327268Z"
 }
