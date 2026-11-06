@@ -1,0 +1,30 @@
+{
+    "puzzle": "VERY_DARK_THREAD",
+    "score": {
+        "cost": 175,
+        "instructions": 76,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 295,
+        "area": 52,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 46.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c1fe1e26/P029/175g-76i-295c-52a-7h-46r-6a1-7h-L",
+    "dataPath": "CHAPTER_3/VERY_DARK_THREAD/VERY_DARK_THREAD_175g-76i-295c-52a-7h-46r-6a1-7h-L.solution",
+    "lastModified": "2026-11-06T15:19:05.100149880Z"
+}
