@@ -1,12 +1,12 @@
 {
     "puzzle": "FIREWORKS_POWDER",
     "score": {
-        "cost": 700,
+        "cost": 690,
         "instructions": 142,
         "overlap": false,
         "trackless": false,
         "cycles": 33,
-        "area": 55,
+        "area": 56,
         "height": 7,
         "width": 8.5,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 55.0
+            "value": 56.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/FIREWORKS_POWDER/700g-33c-55a-142i-78d15cd2.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P211/700g-142i-33c-55a-7h-8.5w-7b-4r-55a-7h-8.5w-7b-L",
-    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_700g-142i-33c-55a-7h-8.5w-7b-4r-55a-7h-8.5w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/7fc3e0bc/P211/690g-142i-33c-56a-7h-8.5w-7b-4r-56a-7h-8.5w-7b-L",
+    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_690g-142i-33c-56a-7h-8.5w-7b-4r-56a-7h-8.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:50:22.039698742Z"
 }
