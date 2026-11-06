@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 120,
         "area": 26,
-        "height": 8,
-        "width": 6.5,
+        "height": 7,
+        "width": 6.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 19.0,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/94e0ca27/P071/210g-39i-120c-26a-8h-6.5w-5b-19r-26a-8h-6.5w-5b-L",
-    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_210g-39i-120c-26a-8h-6.5w-5b-19r-26a-8h-6.5w-5b-L.solution",
-    "lastModified": "2026-11-06T13:50:21.743248582Z"
+    "dataLink": "https://lb.novae.observer/l/om/e0d5b6da/P071/210g-39i-120c-26a-7h-6w-5b-19r-26a-7h-6w-5b-L",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_210g-39i-120c-26a-7h-6w-5b-19r-26a-7h-6w-5b-L.solution",
+    "lastModified": "2026-11-06T13:50:39.498855247Z"
 }
