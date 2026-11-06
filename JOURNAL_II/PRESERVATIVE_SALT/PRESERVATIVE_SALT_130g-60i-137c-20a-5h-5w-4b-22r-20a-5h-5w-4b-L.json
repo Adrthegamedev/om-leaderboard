@@ -1,0 +1,36 @@
+{
+    "puzzle": "PRESERVATIVE_SALT",
+    "score": {
+        "cost": 130,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 137,
+        "area": 20,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 22.0,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2f5b32a7/P060/130g-60i-137c-20a-5h-5w-4b-22r-20a-5h-5w-4b-L",
+    "dataPath": "JOURNAL_II/PRESERVATIVE_SALT/PRESERVATIVE_SALT_130g-60i-137c-20a-5h-5w-4b-22r-20a-5h-5w-4b-L.solution",
+    "lastModified": "2026-11-06T15:25:52.022719916Z"
+}
