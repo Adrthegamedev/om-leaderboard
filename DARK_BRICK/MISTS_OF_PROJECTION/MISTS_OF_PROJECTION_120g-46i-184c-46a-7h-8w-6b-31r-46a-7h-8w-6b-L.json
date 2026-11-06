@@ -1,0 +1,36 @@
+{
+    "puzzle": "MISTS_OF_PROJECTION",
+    "score": {
+        "cost": 120,
+        "instructions": 46,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 184,
+        "area": 46,
+        "height": 7,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 31.0,
+        "areaINF": {
+            "level": 0,
+            "value": 46.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f90f4dcb/mists-of-projection/120g-46i-184c-46a-7h-8w-6b-31r-46a-7h-8w-6b-L",
+    "dataPath": "DARK_BRICK/MISTS_OF_PROJECTION/MISTS_OF_PROJECTION_120g-46i-184c-46a-7h-8w-6b-31r-46a-7h-8w-6b-L.solution",
+    "lastModified": "2026-11-06T08:56:58.357327062Z"
+}
