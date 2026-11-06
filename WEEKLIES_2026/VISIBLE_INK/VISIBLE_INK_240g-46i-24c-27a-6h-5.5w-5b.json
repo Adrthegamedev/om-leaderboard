@@ -1,0 +1,24 @@
+{
+    "puzzle": "VISIBLE_INK",
+    "score": {
+        "cost": 240,
+        "instructions": 46,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 24,
+        "area": 27,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 5,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c6d50474/weeklies2026_visible-ink/240g-46i-24c-27a-6h-5.5w-5b",
+    "dataPath": "WEEKLIES_2026/VISIBLE_INK/VISIBLE_INK_240g-46i-24c-27a-6h-5.5w-5b.solution",
+    "lastModified": "2026-11-06T14:31:02.006428435Z"
+}
