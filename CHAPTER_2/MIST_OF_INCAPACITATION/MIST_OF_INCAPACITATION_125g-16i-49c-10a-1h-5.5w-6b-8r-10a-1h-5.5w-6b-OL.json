@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIST_OF_INCAPACITATION",
+    "score": {
+        "cost": 125,
+        "instructions": 16,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 49,
+        "area": 10,
+        "height": 1,
+        "width": 5.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 1.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/7dbd7d68/P018/125g-16i-49c-10a-1h-5.5w-6b-8r-10a-1h-5.5w-6b-OL",
+    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_125g-16i-49c-10a-1h-5.5w-6b-8r-10a-1h-5.5w-6b-OL.solution",
+    "lastModified": "2026-11-06T14:44:28.719837796Z"
+}
