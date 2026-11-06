@@ -1,0 +1,36 @@
+{
+    "puzzle": "LAMBENT_II_IX",
+    "score": {
+        "cost": 675,
+        "instructions": 332,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 222,
+        "area": 65,
+        "height": 3,
+        "width": 13.0,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 37.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 13.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/9d864a51/P058/675g-332i-222c-65a-3h-13w-13b-37r-65a-3h-13w-13b-L",
+    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_675g-332i-222c-65a-3h-13w-13b-37r-65a-3h-13w-13b-L.solution",
+    "lastModified": "2026-11-06T16:05:18.004301084Z"
+}
