@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 46,
         "area": 62,
-        "height": 11,
-        "width": 9.0,
+        "height": 10,
+        "width": 8.5,
         "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 11.0
+            "value": 10.0
         },
         "widthINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/8b364e71/P240/685g-182i-46c-62a-11h-9w-7b-6r-62a-11h-9w-7b-L",
-    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_685g-182i-46c-62a-11h-9w-7b-6r-62a-11h-9w-7b-L.solution",
-    "lastModified": "2026-11-06T16:00:28.825319947Z"
+    "dataLink": "https://lb.novae.observer/l/om/5fb05434/P240/685g-182i-46c-62a-10h-8.5w-7b-6r-62a-10h-8.5w-7b-L",
+    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_685g-182i-46c-62a-10h-8.5w-7b-6r-62a-10h-8.5w-7b-L.solution",
+    "lastModified": "2026-11-06T16:00:39.056692156Z"
 }
