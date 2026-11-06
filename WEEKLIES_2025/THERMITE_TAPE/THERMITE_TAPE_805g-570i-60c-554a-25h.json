@@ -1,7 +1,7 @@
 {
     "puzzle": "THERMITE_TAPE",
     "score": {
-        "cost": 825,
+        "cost": 805,
         "instructions": 570,
         "overlap": false,
         "trackless": false,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/7c706f83/w3584943609/825g-570i-60c-554a-25h",
-    "dataPath": "WEEKLIES_2025/THERMITE_TAPE/THERMITE_TAPE_825g-570i-60c-554a-25h.solution",
-    "lastModified": "2026-10-31T16:24:48.561064090Z"
+    "dataLink": "https://lb.novae.observer/l/om/3b935cda/w3584943609/805g-570i-60c-554a-25h",
+    "dataPath": "WEEKLIES_2025/THERMITE_TAPE/THERMITE_TAPE_805g-570i-60c-554a-25h.solution",
+    "lastModified": "2026-11-06T16:29:12.771358785Z"
 }
