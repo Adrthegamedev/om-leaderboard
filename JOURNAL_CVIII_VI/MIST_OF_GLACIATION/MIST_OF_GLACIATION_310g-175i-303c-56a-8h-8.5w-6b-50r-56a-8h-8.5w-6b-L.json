@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIST_OF_GLACIATION",
+    "score": {
+        "cost": 310,
+        "instructions": 175,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 303,
+        "area": 56,
+        "height": 8,
+        "width": 8.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 50.0,
+        "areaINF": {
+            "level": 0,
+            "value": 56.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/7a8fb34b/P283/310g-175i-303c-56a-8h-8.5w-6b-50r-56a-8h-8.5w-6b-L",
+    "dataPath": "JOURNAL_CVIII_VI/MIST_OF_GLACIATION/MIST_OF_GLACIATION_310g-175i-303c-56a-8h-8.5w-6b-50r-56a-8h-8.5w-6b-L.solution",
+    "lastModified": "2026-11-06T13:56:22.165980272Z"
+}
