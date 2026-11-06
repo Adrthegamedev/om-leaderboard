@@ -6,8 +6,8 @@
         "overlap": false,
         "trackless": false,
         "cycles": 17,
-        "area": 73,
-        "height": 12,
+        "area": 72,
+        "height": 11,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -18,12 +18,13 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 12.0
+            "value": 11.0
         },
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/Rust-Removal-495g-17c-73a-348i-12h-14w-2r-730cc1.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2788066771/495g-348i-17c-73a-12h-2r-4a1-12h-L",
-    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/RUST_REMOVAL_495g-348i-17c-73a-12h-2r-4a1-12h-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/43d8b40f/w2788066771/495g-348i-17c-72a-11h-2r-4a1-11h-L",
+    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/RUST_REMOVAL_495g-348i-17c-72a-11h-2r-4a1-11h-L.solution",
+    "lastModified": "2026-11-06T14:39:15.881966703Z"
 }
