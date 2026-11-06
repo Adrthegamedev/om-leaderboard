@@ -1,0 +1,24 @@
+{
+    "puzzle": "SAILCLOTH_THREAD",
+    "score": {
+        "cost": 760,
+        "instructions": 9,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 234,
+        "area": 1426,
+        "height": 46,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/eb306432/P061/760g-9i-234c-1426a-46h",
+    "dataPath": "JOURNAL_II/SAILCLOTH_THREAD/SAILCLOTH_THREAD_760g-9i-234c-1426a-46h.solution",
+    "lastModified": "2026-11-06T15:25:15.959048227Z"
+}
