@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 42,
         "area": 134,
-        "height": 11,
+        "height": 10,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -18,13 +18,13 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 11.0
+            "value": 10.0
         },
         "widthINF": null,
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/fa060310/w3210188410/560g-64i-42c-134a-11h-4r-8a1-11h-L",
-    "dataPath": "TOURNAMENT_2024/THERMAL_FUSE/THERMAL_FUSE_560g-64i-42c-134a-11h-4r-8a1-11h-L.solution",
-    "lastModified": "2026-11-06T14:11:35.705602792Z"
+    "dataLink": "https://lb.novae.observer/l/om/6e14275b/w3210188410/560g-64i-42c-134a-10h-4r-8a1-10h-L",
+    "dataPath": "TOURNAMENT_2024/THERMAL_FUSE/THERMAL_FUSE_560g-64i-42c-134a-10h-4r-8a1-10h-L.solution",
+    "lastModified": "2026-11-06T14:11:45.183594192Z"
 }
