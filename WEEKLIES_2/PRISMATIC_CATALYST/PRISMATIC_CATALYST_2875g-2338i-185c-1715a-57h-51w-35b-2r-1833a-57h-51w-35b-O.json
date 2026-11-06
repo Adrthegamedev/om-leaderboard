@@ -6,7 +6,7 @@
         "overlap": true,
         "trackless": false,
         "cycles": 185,
-        "area": 1717,
+        "area": 1715,
         "height": 57,
         "width": 51.0,
         "boundingHex": 35,
@@ -14,7 +14,7 @@
         "rate": 2.0,
         "areaINF": {
             "level": 0,
-            "value": 1835.0
+            "value": 1833.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/420355e4/w3817955190/2875g-2338i-185c-1717a-57h-51w-35b-2r-1835a-57h-51w-35b-O",
-    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_2875g-2338i-185c-1717a-57h-51w-35b-2r-1835a-57h-51w-35b-O.solution",
-    "lastModified": "2026-11-06T15:45:35.196535861Z"
+    "dataLink": "https://lb.novae.observer/l/om/9d7b0a6e/w3817955190/2875g-2338i-185c-1715a-57h-51w-35b-2r-1833a-57h-51w-35b-O",
+    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_2875g-2338i-185c-1715a-57h-51w-35b-2r-1833a-57h-51w-35b-O.solution",
+    "lastModified": "2026-11-06T15:45:44.984271984Z"
 }
