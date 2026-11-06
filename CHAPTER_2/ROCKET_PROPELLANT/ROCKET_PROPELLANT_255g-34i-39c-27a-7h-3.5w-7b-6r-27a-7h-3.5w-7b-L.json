@@ -1,20 +1,20 @@
 {
     "puzzle": "ROCKET_PROPELLANT",
     "score": {
-        "cost": 265,
+        "cost": 255,
         "instructions": 34,
         "overlap": false,
         "trackless": false,
         "cycles": 39,
-        "area": 26,
+        "area": 27,
         "height": 7,
         "width": 3.5,
-        "boundingHex": 6,
+        "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 26.0
+            "value": 27.0
         },
         "heightINF": {
             "level": 0,
@@ -26,10 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/ROCKET_PROPELLANT/265g-39c-26a-34i-c39f7644.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P019/265g-34i-39c-26a-7h-3.5w-6b-6r-26a-7h-3.5w-6b-L",
-    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/ROCKET_PROPELLANT_265g-34i-39c-26a-7h-3.5w-6b-6r-26a-7h-3.5w-6b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e406f93a/P019/255g-34i-39c-27a-7h-3.5w-7b-6r-27a-7h-3.5w-7b-L",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/ROCKET_PROPELLANT_255g-34i-39c-27a-7h-3.5w-7b-6r-27a-7h-3.5w-7b-L.solution",
+    "lastModified": "2026-11-06T14:47:44.723559959Z"
 }
