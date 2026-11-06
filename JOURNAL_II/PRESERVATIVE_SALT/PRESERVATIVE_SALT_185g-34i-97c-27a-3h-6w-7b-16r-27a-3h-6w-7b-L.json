@@ -1,20 +1,20 @@
 {
     "puzzle": "PRESERVATIVE_SALT",
     "score": {
-        "cost": 190,
+        "cost": 185,
         "instructions": 34,
         "overlap": false,
         "trackless": false,
         "cycles": 97,
-        "area": 25,
+        "area": 27,
         "height": 3,
         "width": 6.0,
-        "boundingHex": 6,
+        "boundingHex": 7,
         "looping": true,
         "rate": 16.0,
         "areaINF": {
             "level": 0,
-            "value": 25.0
+            "value": 27.0
         },
         "heightINF": {
             "level": 0,
@@ -26,10 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/Preservative-Salt-190g-97c-25a-34i-3h-6w-16r-19d8f8.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P060/190g-34i-97c-25a-3h-6w-6b-16r-25a-3h-6w-6b-L",
-    "dataPath": "JOURNAL_II/PRESERVATIVE_SALT/PRESERVATIVE_SALT_190g-34i-97c-25a-3h-6w-6b-16r-25a-3h-6w-6b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/aa6645ae/P060/185g-34i-97c-27a-3h-6w-7b-16r-27a-3h-6w-7b-L",
+    "dataPath": "JOURNAL_II/PRESERVATIVE_SALT/PRESERVATIVE_SALT_185g-34i-97c-27a-3h-6w-7b-16r-27a-3h-6w-7b-L.solution",
+    "lastModified": "2026-11-06T15:26:01.042950006Z"
 }
