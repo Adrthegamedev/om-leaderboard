@@ -1,0 +1,36 @@
+{
+    "puzzle": "REACTIVE_LEAD",
+    "score": {
+        "cost": 1005,
+        "instructions": 345,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 68,
+        "area": 100,
+        "height": 4,
+        "width": 24.5,
+        "boundingHex": 25,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 100.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 24.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 25.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/76ebe08c/P210/1005g-345i-68c-100a-4h-24.5w-25b-6r-100a-4h-24.5w-25b-L",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_1005g-345i-68c-100a-4h-24.5w-25b-6r-100a-4h-24.5w-25b-L.solution",
+    "lastModified": "2026-11-06T15:49:26.352778997Z"
+}
