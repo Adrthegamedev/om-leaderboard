@@ -1,0 +1,24 @@
+{
+    "puzzle": "IGNITION_CORD",
+    "score": {
+        "cost": 330,
+        "instructions": 37,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 19,
+        "area": 239,
+        "height": 24,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e413e658/w2839120106/330g-37i-19c-239a-24h",
+    "dataPath": "WEEKLIES_1/IGNITION_CORD/IGNITION_CORD_330g-37i-19c-239a-24h.solution",
+    "lastModified": "2026-11-06T13:58:03.387044262Z"
+}
