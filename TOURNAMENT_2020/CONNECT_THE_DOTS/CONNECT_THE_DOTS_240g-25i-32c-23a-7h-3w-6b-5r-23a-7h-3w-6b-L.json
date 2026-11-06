@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 32,
         "area": 23,
-        "height": 6,
-        "width": 3.5,
+        "height": 7,
+        "width": 3.0,
         "boundingHex": 6,
         "looping": true,
         "rate": 5.0,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 6.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
-            "value": 3.5
+            "value": 3.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/058c4958/w3101135731/240g-25i-32c-23a-6h-3.5w-6b-5r-23a-6h-3.5w-6b-L",
-    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/CONNECT_THE_DOTS_240g-25i-32c-23a-6h-3.5w-6b-5r-23a-6h-3.5w-6b-L.solution",
-    "lastModified": "2026-11-06T15:56:19.239644839Z"
+    "dataLink": "https://lb.novae.observer/l/om/70504a36/w3101135731/240g-25i-32c-23a-7h-3w-6b-5r-23a-7h-3w-6b-L",
+    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/CONNECT_THE_DOTS_240g-25i-32c-23a-7h-3w-6b-5r-23a-7h-3w-6b-L.solution",
+    "lastModified": "2026-11-06T15:56:34.183335235Z"
 }
