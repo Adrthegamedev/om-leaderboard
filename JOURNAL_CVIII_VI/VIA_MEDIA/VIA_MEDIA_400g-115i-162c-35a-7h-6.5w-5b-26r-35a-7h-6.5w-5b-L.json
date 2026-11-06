@@ -1,20 +1,20 @@
 {
     "puzzle": "VIA_MEDIA",
     "score": {
-        "cost": 405,
+        "cost": 400,
         "instructions": 115,
         "overlap": false,
         "trackless": false,
         "cycles": 162,
-        "area": 36,
+        "area": 35,
         "height": 7,
-        "width": 7.0,
+        "width": 6.5,
         "boundingHex": 5,
         "looping": true,
         "rate": 26.0,
         "areaINF": {
             "level": 0,
-            "value": 36.0
+            "value": 35.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/9b3d0933/P284/405g-115i-162c-36a-7h-7w-5b-26r-36a-7h-7w-5b-L",
-    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_405g-115i-162c-36a-7h-7w-5b-26r-36a-7h-7w-5b-L.solution",
-    "lastModified": "2026-11-06T13:55:22.735826063Z"
+    "dataLink": "https://lb.novae.observer/l/om/aa8fc337/P284/400g-115i-162c-35a-7h-6.5w-5b-26r-35a-7h-6.5w-5b-L",
+    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_400g-115i-162c-35a-7h-6.5w-5b-26r-35a-7h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-06T13:55:53.527987430Z"
 }
