@@ -1,0 +1,27 @@
+{
+    "puzzle": "SYNTHETIC_MALACHITE",
+    "score": {
+        "cost": 190,
+        "instructions": 28,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 484,
+        "area": 70,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 78.0,
+        "areaINF": {
+            "level": 0,
+            "value": 70.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ba22ff60/P109/190g-28i-484c-70a-78r-70a-L",
+    "dataPath": "JOURNAL_IX/SYNTHETIC_MALACHITE/SYNTHETIC_MALACHITE_190g-28i-484c-70a-78r-70a-L.solution",
+    "lastModified": "2026-11-06T13:54:55.100435310Z"
+}
