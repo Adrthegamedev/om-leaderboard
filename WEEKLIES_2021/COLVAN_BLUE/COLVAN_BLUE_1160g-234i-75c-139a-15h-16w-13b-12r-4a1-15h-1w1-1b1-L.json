@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 75,
-        "area": 140,
+        "area": 139,
         "height": 15,
         "width": 16.0,
         "boundingHex": 13,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/fbe89c57/w2518202582/1160g-234i-75c-140a-15h-16w-13b-12r-4a1-15h-1w1-1b1-L",
-    "dataPath": "WEEKLIES_2021/COLVAN_BLUE/COLVAN_BLUE_1160g-234i-75c-140a-15h-16w-13b-12r-4a1-15h-1w1-1b1-L.solution",
-    "lastModified": "2026-11-06T14:26:38.108475474Z"
+    "dataLink": "https://lb.novae.observer/l/om/3cb2061b/w2518202582/1160g-234i-75c-139a-15h-16w-13b-12r-4a1-15h-1w1-1b1-L",
+    "dataPath": "WEEKLIES_2021/COLVAN_BLUE/COLVAN_BLUE_1160g-234i-75c-139a-15h-16w-13b-12r-4a1-15h-1w1-1b1-L.solution",
+    "lastModified": "2026-11-06T14:28:03.695169575Z"
 }
