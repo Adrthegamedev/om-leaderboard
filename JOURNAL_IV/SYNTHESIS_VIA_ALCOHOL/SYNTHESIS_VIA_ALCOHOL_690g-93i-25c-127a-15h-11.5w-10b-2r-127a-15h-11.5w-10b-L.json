@@ -1,0 +1,36 @@
+{
+    "puzzle": "SYNTHESIS_VIA_ALCOHOL",
+    "score": {
+        "cost": 690,
+        "instructions": 93,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 25,
+        "area": 127,
+        "height": 15,
+        "width": 11.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 127.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/46bae1e8/P071/690g-93i-25c-127a-15h-11.5w-10b-2r-127a-15h-11.5w-10b-L",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_690g-93i-25c-127a-15h-11.5w-10b-2r-127a-15h-11.5w-10b-L.solution",
+    "lastModified": "2026-11-06T13:50:43.978794810Z"
+}
