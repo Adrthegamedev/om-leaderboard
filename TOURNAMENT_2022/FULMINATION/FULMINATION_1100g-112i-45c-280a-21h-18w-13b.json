@@ -1,7 +1,7 @@
 {
     "puzzle": "FULMINATION",
     "score": {
-        "cost": 1110,
+        "cost": 1100,
         "instructions": 112,
         "overlap": false,
         "trackless": false,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/FULMINATION/1110g-45c-280a-112i-e83ee92c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2788067677/1110g-112i-45c-280a-21h-18w-13b",
-    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_1110g-112i-45c-280a-21h-18w-13b.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2444d429/w2788067677/1100g-112i-45c-280a-21h-18w-13b",
+    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_1100g-112i-45c-280a-21h-18w-13b.solution",
+    "lastModified": "2026-11-06T14:37:01.672741252Z"
 }
