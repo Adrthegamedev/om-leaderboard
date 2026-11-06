@@ -1,0 +1,24 @@
+{
+    "puzzle": "MATERIAL_SALVAGE",
+    "score": {
+        "cost": 960,
+        "instructions": 114,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 13,
+        "area": 268,
+        "height": 21,
+        "width": 16.0,
+        "boundingHex": 16,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1c7e5630/w3446276940/960g-114i-13c-268a-21h-16w-16b",
+    "dataPath": "TOURNAMENT_2025/MATERIAL_SALVAGE/MATERIAL_SALVAGE_960g-114i-13c-268a-21h-16w-16b.solution",
+    "lastModified": "2026-11-06T14:41:51.505852294Z"
+}
