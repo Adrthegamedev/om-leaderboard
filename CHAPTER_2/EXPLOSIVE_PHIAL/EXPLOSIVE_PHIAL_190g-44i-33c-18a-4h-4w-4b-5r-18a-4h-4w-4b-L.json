@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 33,
         "area": 18,
-        "height": 5,
-        "width": 5.0,
+        "height": 4,
+        "width": 4.0,
         "boundingHex": 4,
         "looping": true,
         "rate": 5.0,
@@ -18,18 +18,19 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         },
         "widthINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/EXPLOSIVE_PHIAL/190g-33c-18a-44i-965a2363.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P017/190g-44i-33c-18a-5h-5w-4b-5r-18a-5h-5w-4b-L",
-    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_190g-44i-33c-18a-5h-5w-4b-5r-18a-5h-5w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/51ed4782/P017/190g-44i-33c-18a-4h-4w-4b-5r-18a-4h-4w-4b-L",
+    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_190g-44i-33c-18a-4h-4w-4b-5r-18a-4h-4w-4b-L.solution",
+    "lastModified": "2026-11-06T14:49:14.771070292Z"
 }
