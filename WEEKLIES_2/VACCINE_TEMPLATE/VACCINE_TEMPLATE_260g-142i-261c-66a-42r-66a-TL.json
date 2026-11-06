@@ -1,7 +1,7 @@
 {
     "puzzle": "VACCINE_TEMPLATE",
     "score": {
-        "cost": 280,
+        "cost": 260,
         "instructions": 142,
         "overlap": false,
         "trackless": true,
@@ -20,7 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/VACCINE_TEMPLATE/280g-261c-66a-142i-T-d78c9775.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3033141056/280g-142i-261c-66a-42r-66a-TL",
-    "dataPath": "WEEKLIES_2/VACCINE_TEMPLATE/VACCINE_TEMPLATE_280g-142i-261c-66a-42r-66a-TL.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f2512878/w3033141056/260g-142i-261c-66a-42r-66a-TL",
+    "dataPath": "WEEKLIES_2/VACCINE_TEMPLATE/VACCINE_TEMPLATE_260g-142i-261c-66a-42r-66a-TL.solution",
+    "lastModified": "2026-11-06T15:41:36.832784693Z"
 }
