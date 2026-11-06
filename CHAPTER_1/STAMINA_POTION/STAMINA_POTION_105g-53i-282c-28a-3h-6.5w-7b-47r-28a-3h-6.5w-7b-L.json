@@ -1,0 +1,36 @@
+{
+    "puzzle": "STAMINA_POTION",
+    "score": {
+        "cost": 105,
+        "instructions": 53,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 282,
+        "area": 28,
+        "height": 3,
+        "width": 6.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 47.0,
+        "areaINF": {
+            "level": 0,
+            "value": 28.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/a60cdc03/P015/105g-53i-282c-28a-3h-6.5w-7b-47r-28a-3h-6.5w-7b-L",
+    "dataPath": "CHAPTER_1/STAMINA_POTION/STAMINA_POTION_105g-53i-282c-28a-3h-6.5w-7b-47r-28a-3h-6.5w-7b-L.solution",
+    "lastModified": "2026-11-06T13:39:42.864269543Z"
+}
