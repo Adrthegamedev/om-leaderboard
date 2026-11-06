@@ -1,0 +1,36 @@
+{
+    "puzzle": "MARTIAL_REGULUS",
+    "score": {
+        "cost": 615,
+        "instructions": 103,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 51,
+        "area": 70,
+        "height": 10,
+        "width": 9.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 70.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/4d6d2734/w2827119474/615g-103i-51c-70a-10h-9.5w-7b-8r-70a-10h-9.5w-7b-L",
+    "dataPath": "WEEKLIES_1/MARTIAL_REGULUS/MARTIAL_REGULUS_615g-103i-51c-70a-10h-9.5w-7b-8r-70a-10h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-06T14:00:32.621420375Z"
+}
