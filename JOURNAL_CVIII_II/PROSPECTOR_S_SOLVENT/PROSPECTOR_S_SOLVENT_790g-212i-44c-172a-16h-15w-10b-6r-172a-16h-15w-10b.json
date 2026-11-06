@@ -1,0 +1,36 @@
+{
+    "puzzle": "PROSPECTOR_S_SOLVENT",
+    "score": {
+        "cost": 790,
+        "instructions": 212,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 44,
+        "area": 172,
+        "height": 16,
+        "width": 15.0,
+        "boundingHex": 10,
+        "looping": false,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 172.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5e7e3b75/P261/790g-212i-44c-172a-16h-15w-10b-6r-172a-16h-15w-10b",
+    "dataPath": "JOURNAL_CVIII_II/PROSPECTOR_S_SOLVENT/PROSPECTOR_S_SOLVENT_790g-212i-44c-172a-16h-15w-10b-6r-172a-16h-15w-10b.solution",
+    "lastModified": "2026-11-06T13:32:06.552022590Z"
+}
