@@ -1,0 +1,36 @@
+{
+    "puzzle": "MOSAIC_TESSERA",
+    "score": {
+        "cost": 840,
+        "instructions": 176,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 49,
+        "area": 153,
+        "height": 16,
+        "width": 13.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 153.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/560d840c/P304/840g-176i-49c-153a-16h-13w-11b-6r-153a-16h-13w-11b-L",
+    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_840g-176i-49c-153a-16h-13w-11b-6r-153a-16h-13w-11b-L.solution",
+    "lastModified": "2026-11-06T13:47:14.935944001Z"
+}
