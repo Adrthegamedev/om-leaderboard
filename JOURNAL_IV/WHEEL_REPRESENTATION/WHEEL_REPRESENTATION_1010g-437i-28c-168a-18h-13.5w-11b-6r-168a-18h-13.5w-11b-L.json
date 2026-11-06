@@ -1,0 +1,36 @@
+{
+    "puzzle": "WHEEL_REPRESENTATION",
+    "score": {
+        "cost": 1010,
+        "instructions": 437,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 28,
+        "area": 168,
+        "height": 18,
+        "width": 13.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 168.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/bf8e22ca/P070/1010g-437i-28c-168a-18h-13.5w-11b-6r-168a-18h-13.5w-11b-L",
+    "dataPath": "JOURNAL_IV/WHEEL_REPRESENTATION/WHEEL_REPRESENTATION_1010g-437i-28c-168a-18h-13.5w-11b-6r-168a-18h-13.5w-11b-L.solution",
+    "lastModified": "2026-11-06T13:48:01.507692770Z"
+}
