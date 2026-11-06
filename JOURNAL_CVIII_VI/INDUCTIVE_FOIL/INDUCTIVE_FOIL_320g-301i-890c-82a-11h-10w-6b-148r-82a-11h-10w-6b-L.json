@@ -1,7 +1,7 @@
 {
     "puzzle": "INDUCTIVE_FOIL",
     "score": {
-        "cost": 340,
+        "cost": 320,
         "instructions": 301,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/INDUCTIVE_FOIL/340g-890c-82a-301i-b97327ac.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P280/340g-301i-890c-82a-11h-10w-6b-148r-82a-11h-10w-6b-L",
-    "dataPath": "JOURNAL_CVIII_VI/INDUCTIVE_FOIL/INDUCTIVE_FOIL_340g-301i-890c-82a-11h-10w-6b-148r-82a-11h-10w-6b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c43d688c/P280/320g-301i-890c-82a-11h-10w-6b-148r-82a-11h-10w-6b-L",
+    "dataPath": "JOURNAL_CVIII_VI/INDUCTIVE_FOIL/INDUCTIVE_FOIL_320g-301i-890c-82a-11h-10w-6b-148r-82a-11h-10w-6b-L.solution",
+    "lastModified": "2026-11-06T13:56:43.483444815Z"
 }
