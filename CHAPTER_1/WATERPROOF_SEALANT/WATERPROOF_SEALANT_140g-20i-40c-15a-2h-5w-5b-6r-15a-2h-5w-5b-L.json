@@ -1,20 +1,20 @@
 {
     "puzzle": "WATERPROOF_SEALANT",
     "score": {
-        "cost": 150,
+        "cost": 140,
         "instructions": 20,
         "overlap": false,
         "trackless": false,
         "cycles": 40,
-        "area": 14,
+        "area": 15,
         "height": 2,
-        "width": 4.5,
+        "width": 5.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 14.0
+            "value": 15.0
         },
         "heightINF": {
             "level": 0,
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 4.5
+            "value": 5.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/WATERPROOF_SEALANT/150g-40c-14a-20i-93561562.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P011/150g-20i-40c-14a-2h-4.5w-5b-6r-14a-2h-4.5w-5b-L",
-    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_150g-20i-40c-14a-2h-4.5w-5b-6r-14a-2h-4.5w-5b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/727e6995/P011/140g-20i-40c-15a-2h-5w-5b-6r-15a-2h-5w-5b-L",
+    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_140g-20i-40c-15a-2h-5w-5b-6r-15a-2h-5w-5b-L.solution",
+    "lastModified": "2026-11-06T13:33:04.636772312Z"
 }
