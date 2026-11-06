@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 58,
-        "area": 241,
+        "area": 238,
         "height": 19,
         "width": 16.5,
         "boundingHex": 12,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 241.0
+            "value": 238.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/baa77386/w2501728219/680g-118i-58c-241a-19h-16.5w-12b-8r-241a-19h-16.5w-12b-L",
-    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_680g-118i-58c-241a-19h-16.5w-12b-8r-241a-19h-16.5w-12b-L.solution",
-    "lastModified": "2026-11-06T15:53:40.408686384Z"
+    "dataLink": "https://lb.novae.observer/l/om/38fe89c3/w2501728219/680g-118i-58c-238a-19h-16.5w-12b-8r-238a-19h-16.5w-12b-L",
+    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_680g-118i-58c-238a-19h-16.5w-12b-8r-238a-19h-16.5w-12b-L.solution",
+    "lastModified": "2026-11-06T15:54:47.666897718Z"
 }
