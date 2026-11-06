@@ -1,0 +1,36 @@
+{
+    "puzzle": "HORN_SILVER",
+    "score": {
+        "cost": 330,
+        "instructions": 47,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 95,
+        "area": 109,
+        "height": 12,
+        "width": 10.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 109.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6d33d878/w2513871683/330g-47i-95c-109a-12h-10w-9b-14r-109a-12h-10w-9b-L",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_330g-47i-95c-109a-12h-10w-9b-14r-109a-12h-10w-9b-L.solution",
+    "lastModified": "2026-11-06T13:58:36.648421498Z"
+}
