@@ -1,7 +1,7 @@
 {
     "puzzle": "MOORING_CABLE",
     "score": {
-        "cost": 330,
+        "cost": 310,
         "instructions": 223,
         "overlap": false,
         "trackless": false,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/MOORING_CABLE/330g-262c-68a-223i-74009e9c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P255/330g-223i-262c-68a-3h-37.5r-6a1-3h-L",
-    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/MOORING_CABLE_330g-223i-262c-68a-3h-37.5r-6a1-3h-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/043b079e/P255/310g-223i-262c-68a-3h-37.5r-6a1-3h-L",
+    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/MOORING_CABLE_310g-223i-262c-68a-3h-37.5r-6a1-3h-L.solution",
+    "lastModified": "2026-11-06T15:24:21.974943195Z"
 }
