@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIST_OF_CLARIFICATION",
+    "score": {
+        "cost": 295,
+        "instructions": 124,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 249,
+        "area": 38,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d69faad1/P300/295g-124i-249c-38a-7h-7w-5b-42r-38a-7h-7w-5b-L",
+    "dataPath": "JOURNAL_CVIII_X/MIST_OF_CLARIFICATION/MIST_OF_CLARIFICATION_295g-124i-249c-38a-7h-7w-5b-42r-38a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-06T13:46:29.030126365Z"
+}
