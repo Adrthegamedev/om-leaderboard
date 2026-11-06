@@ -1,7 +1,7 @@
 {
     "puzzle": "REACTIVE_GOLD",
     "score": {
-        "cost": 665,
+        "cost": 655,
         "instructions": 166,
         "overlap": false,
         "trackless": false,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_GOLD/665g-54c-81a-166i-1ab772a5.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P095/665g-166i-54c-81a-11h-9w-8b",
-    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_665g-166i-54c-81a-11h-9w-8b.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/87989954/P095/655g-166i-54c-81a-11h-9w-8b",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_655g-166i-54c-81a-11h-9w-8b.solution",
+    "lastModified": "2026-11-06T14:59:37.107809846Z"
 }
