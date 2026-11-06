@@ -1,20 +1,20 @@
 {
     "puzzle": "HORN_SILVER",
     "score": {
-        "cost": 1475,
+        "cost": 1470,
         "instructions": 1008,
         "overlap": false,
         "trackless": false,
         "cycles": 652,
-        "area": 244,
+        "area": 246,
         "height": 3,
         "width": 43.5,
-        "boundingHex": 43,
+        "boundingHex": 44,
         "looping": true,
         "rate": 71.0,
         "areaINF": {
             "level": 0,
-            "value": 244.0
+            "value": 246.0
         },
         "heightINF": {
             "level": 0,
@@ -26,10 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 43.0
+            "value": 44.0
         }
     },
-    "displayLink": "https://files.mors.technology/HORN_SILVER/1475g-652c-244a-1008i-9919b0fe.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2513871683/1475g-1008i-652c-244a-3h-43.5w-43b-71r-244a-3h-43.5w-43b-L",
-    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_1475g-1008i-652c-244a-3h-43.5w-43b-71r-244a-3h-43.5w-43b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/48ec570c/w2513871683/1470g-1008i-652c-246a-3h-43.5w-44b-71r-246a-3h-43.5w-44b-L",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_1470g-1008i-652c-246a-3h-43.5w-44b-71r-246a-3h-43.5w-44b-L.solution",
+    "lastModified": "2026-11-06T13:59:34.873929966Z"
 }
