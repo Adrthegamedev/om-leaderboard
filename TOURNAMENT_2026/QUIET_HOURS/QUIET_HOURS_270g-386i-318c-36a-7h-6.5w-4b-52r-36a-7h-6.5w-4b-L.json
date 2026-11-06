@@ -1,7 +1,7 @@
 {
     "puzzle": "QUIET_HOURS",
     "score": {
-        "cost": 290,
+        "cost": 270,
         "instructions": 386,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/QUIET_HOURS/290g-318c-36a-386i-3cf59280.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3728199426/290g-386i-318c-36a-7h-6.5w-4b-52r-36a-7h-6.5w-4b-L",
-    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_290g-386i-318c-36a-7h-6.5w-4b-52r-36a-7h-6.5w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c51c3b30/w3728199426/270g-386i-318c-36a-7h-6.5w-4b-52r-36a-7h-6.5w-4b-L",
+    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_270g-386i-318c-36a-7h-6.5w-4b-52r-36a-7h-6.5w-4b-L.solution",
+    "lastModified": "2026-11-06T16:17:52.746520806Z"
 }
