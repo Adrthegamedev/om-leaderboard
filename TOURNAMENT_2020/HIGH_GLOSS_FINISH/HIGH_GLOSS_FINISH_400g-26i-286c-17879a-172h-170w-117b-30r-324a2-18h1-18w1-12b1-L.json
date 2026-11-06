@@ -1,0 +1,36 @@
+{
+    "puzzle": "HIGH_GLOSS_FINISH",
+    "score": {
+        "cost": 400,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 286,
+        "area": 17879,
+        "height": 172,
+        "width": 170.0,
+        "boundingHex": 117,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 2,
+            "value": 324.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 18.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8e17b7bd/w2501728349/400g-26i-286c-17879a-172h-170w-117b-30r-324a2-18h1-18w1-12b1-L",
+    "dataPath": "TOURNAMENT_2020/HIGH_GLOSS_FINISH/HIGH_GLOSS_FINISH_400g-26i-286c-17879a-172h-170w-117b-30r-324a2-18h1-18w1-12b1-L.solution",
+    "lastModified": "2026-11-06T15:52:33.017875389Z"
+}
