@@ -1,0 +1,24 @@
+{
+    "puzzle": "RAT_POISON",
+    "score": {
+        "cost": 305,
+        "instructions": 57,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 22,
+        "area": 70,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/4777e486/P074/305g-57i-22c-70a-O",
+    "dataPath": "CHAPTER_PRODUCTION/RAT_POISON/RAT_POISON_305g-57i-22c-70a-O.solution",
+    "lastModified": "2026-11-06T15:57:12.808320026Z"
+}
