@@ -1,7 +1,7 @@
 {
     "puzzle": "TAX_FRAUD",
     "score": {
-        "cost": 715,
+        "cost": 695,
         "instructions": 33,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://solution.media.missing",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3728200215/715g-33i-126c-54a-8h-8.5w-6b-9r-54a-8h-8.5w-6b-L",
-    "dataPath": "TOURNAMENT_2026/TAX_FRAUD/TAX_FRAUD_715g-33i-126c-54a-8h-8.5w-6b-9r-54a-8h-8.5w-6b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c7abc7f4/w3728200215/695g-33i-126c-54a-8h-8.5w-6b-9r-54a-8h-8.5w-6b-L",
+    "dataPath": "TOURNAMENT_2026/TAX_FRAUD/TAX_FRAUD_695g-33i-126c-54a-8h-8.5w-6b-9r-54a-8h-8.5w-6b-L.solution",
+    "lastModified": "2026-11-06T16:18:31.920339059Z"
 }
