@@ -8,7 +8,7 @@
         "cycles": 1055,
         "area": 106,
         "height": 12,
-        "width": 11.5,
+        "width": 11.0,
         "boundingHex": 8,
         "looping": true,
         "rate": 171.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 11.5
+            "value": 11.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/82b5bbd3/w2788066123/180g-15i-1055c-106a-12h-11.5w-8b-171r-106a-12h-11.5w-8b-L",
-    "dataPath": "TOURNAMENT_2022/FLAKE_SALT/FLAKE_SALT_180g-15i-1055c-106a-12h-11.5w-8b-171r-106a-12h-11.5w-8b-L.solution",
-    "lastModified": "2026-11-06T14:36:48.024205262Z"
+    "dataLink": "https://lb.novae.observer/l/om/dda4f754/w2788066123/180g-15i-1055c-106a-12h-11w-8b-171r-106a-12h-11w-8b-L",
+    "dataPath": "TOURNAMENT_2022/FLAKE_SALT/FLAKE_SALT_180g-15i-1055c-106a-12h-11w-8b-171r-106a-12h-11w-8b-L.solution",
+    "lastModified": "2026-11-06T14:36:52.617364179Z"
 }
