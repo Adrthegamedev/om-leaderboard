@@ -1,0 +1,36 @@
+{
+    "puzzle": "CUPRITE",
+    "score": {
+        "cost": 110,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 118,
+        "area": 97,
+        "height": 12,
+        "width": 11.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 97.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/a1954214/P253/110g-12i-118c-97a-12h-11w-8b-18r-97a-12h-11w-8b-L",
+    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_110g-12i-118c-97a-12h-11w-8b-18r-97a-12h-11w-8b-L.solution",
+    "lastModified": "2026-11-06T15:21:41.371759309Z"
+}
