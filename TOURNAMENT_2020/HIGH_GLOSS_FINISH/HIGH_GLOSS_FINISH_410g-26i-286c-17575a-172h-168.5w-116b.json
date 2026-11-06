@@ -1,0 +1,24 @@
+{
+    "puzzle": "HIGH_GLOSS_FINISH",
+    "score": {
+        "cost": 410,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 286,
+        "area": 17575,
+        "height": 172,
+        "width": 168.5,
+        "boundingHex": 116,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/4b7aad12/w2501728349/410g-26i-286c-17575a-172h-168.5w-116b",
+    "dataPath": "TOURNAMENT_2020/HIGH_GLOSS_FINISH/HIGH_GLOSS_FINISH_410g-26i-286c-17575a-172h-168.5w-116b.solution",
+    "lastModified": "2026-11-06T15:52:39.156607794Z"
+}
