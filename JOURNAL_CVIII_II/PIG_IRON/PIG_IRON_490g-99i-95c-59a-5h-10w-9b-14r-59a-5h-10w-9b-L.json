@@ -8,7 +8,7 @@
         "cycles": 95,
         "area": 59,
         "height": 5,
-        "width": 10.5,
+        "width": 10.0,
         "boundingHex": 9,
         "looping": true,
         "rate": 14.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.5
+            "value": 10.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4a8a55dd/P260/490g-99i-95c-59a-5h-10.5w-9b-14r-59a-5h-10.5w-9b-L",
-    "dataPath": "JOURNAL_CVIII_II/PIG_IRON/PIG_IRON_490g-99i-95c-59a-5h-10.5w-9b-14r-59a-5h-10.5w-9b-L.solution",
-    "lastModified": "2026-11-06T13:30:58.223596627Z"
+    "dataLink": "https://lb.novae.observer/l/om/b60f4983/P260/490g-99i-95c-59a-5h-10w-9b-14r-59a-5h-10w-9b-L",
+    "dataPath": "JOURNAL_CVIII_II/PIG_IRON/PIG_IRON_490g-99i-95c-59a-5h-10w-9b-14r-59a-5h-10w-9b-L.solution",
+    "lastModified": "2026-11-06T13:31:02.500487088Z"
 }
