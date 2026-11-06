@@ -1,20 +1,20 @@
 {
     "puzzle": "LIGHTHOUSE_MIRROR",
     "score": {
-        "cost": 730,
+        "cost": 725,
         "instructions": 170,
         "overlap": false,
         "trackless": false,
         "cycles": 50,
-        "area": 75,
+        "area": 74,
         "height": 10,
-        "width": 9.0,
-        "boundingHex": 8,
+        "width": 9.5,
+        "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 75.0
+            "value": 74.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 9.0
+            "value": 9.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/e5fd86cb/P258/730g-170i-50c-75a-10h-9w-8b-6r-75a-10h-9w-8b-L",
-    "dataPath": "JOURNAL_CVIII_I/LIGHTHOUSE_MIRROR/LIGHTHOUSE_MIRROR_730g-170i-50c-75a-10h-9w-8b-6r-75a-10h-9w-8b-L.solution",
-    "lastModified": "2026-11-06T15:24:35.888715059Z"
+    "dataLink": "https://lb.novae.observer/l/om/ea7cc392/P258/725g-170i-50c-74a-10h-9.5w-7b-6r-74a-10h-9.5w-7b-L",
+    "dataPath": "JOURNAL_CVIII_I/LIGHTHOUSE_MIRROR/LIGHTHOUSE_MIRROR_725g-170i-50c-74a-10h-9.5w-7b-6r-74a-10h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:24:45.171395636Z"
 }
