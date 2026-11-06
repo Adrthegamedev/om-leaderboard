@@ -1,0 +1,24 @@
+{
+    "puzzle": "BANDAGE_THREAD",
+    "score": {
+        "cost": 820,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 234,
+        "area": 1575,
+        "height": 48,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/da8c1042/P248/820g-22i-234c-1575a-48h",
+    "dataPath": "JOURNAL_X/BANDAGE_THREAD/BANDAGE_THREAD_820g-22i-234c-1575a-48h.solution",
+    "lastModified": "2026-11-06T14:22:19.522266356Z"
+}
