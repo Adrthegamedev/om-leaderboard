@@ -1,0 +1,36 @@
+{
+    "puzzle": "INVIGORATING_TONIC",
+    "score": {
+        "cost": 600,
+        "instructions": 34,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 236,
+        "area": 253,
+        "height": 22,
+        "width": 19.0,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 0,
+            "value": 253.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f5278fa3/P291/600g-34i-236c-253a-22h-19w-14b-28r-253a-22h-19w-14b-OL",
+    "dataPath": "JOURNAL_CVIII_VIII/INVIGORATING_TONIC/INVIGORATING_TONIC_600g-34i-236c-253a-22h-19w-14b-28r-253a-22h-19w-14b-OL.solution",
+    "lastModified": "2026-11-06T13:29:52.787912571Z"
+}
