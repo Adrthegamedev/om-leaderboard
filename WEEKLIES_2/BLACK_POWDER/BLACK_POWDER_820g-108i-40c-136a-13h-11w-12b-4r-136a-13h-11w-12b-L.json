@@ -8,7 +8,7 @@
         "cycles": 40,
         "area": 136,
         "height": 13,
-        "width": 11.5,
+        "width": 11.0,
         "boundingHex": 12,
         "looping": true,
         "rate": 4.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 11.5
+            "value": 11.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/9fbec95f/w3088257476/820g-108i-40c-136a-13h-11.5w-12b-4r-136a-13h-11.5w-12b-L",
-    "dataPath": "WEEKLIES_2/BLACK_POWDER/BLACK_POWDER_820g-108i-40c-136a-13h-11.5w-12b-4r-136a-13h-11.5w-12b-L.solution",
-    "lastModified": "2026-11-06T15:41:59.874978644Z"
+    "dataLink": "https://lb.novae.observer/l/om/ab8eb76e/w3088257476/820g-108i-40c-136a-13h-11w-12b-4r-136a-13h-11w-12b-L",
+    "dataPath": "WEEKLIES_2/BLACK_POWDER/BLACK_POWDER_820g-108i-40c-136a-13h-11w-12b-4r-136a-13h-11w-12b-L.solution",
+    "lastModified": "2026-11-06T15:42:04.891775040Z"
 }
