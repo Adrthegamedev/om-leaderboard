@@ -1,0 +1,30 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 390,
+        "instructions": 92,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 34,
+        "area": 59,
+        "height": 9,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/90c78fbd/P209/390g-92i-34c-59a-9h-4r-4a1-9h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_390g-92i-34c-59a-9h-4r-4a1-9h-L.solution",
+    "lastModified": "2026-11-06T15:49:58.995710657Z"
+}
