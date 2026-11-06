@@ -1,0 +1,36 @@
+{
+    "puzzle": "PIG_IRON",
+    "score": {
+        "cost": 430,
+        "instructions": 114,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 109,
+        "area": 62,
+        "height": 6,
+        "width": 9.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 62.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/a66b1279/P260/430g-114i-109c-62a-6h-9.5w-10b-16r-62a-6h-9.5w-10b-L",
+    "dataPath": "JOURNAL_CVIII_II/PIG_IRON/PIG_IRON_430g-114i-109c-62a-6h-9.5w-10b-16r-62a-6h-9.5w-10b-L.solution",
+    "lastModified": "2026-11-06T13:31:15.319078355Z"
+}
