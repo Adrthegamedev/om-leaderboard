@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIST_OF_HALLUCINATION",
+    "score": {
+        "cost": 240,
+        "instructions": 45,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 50,
+        "area": 25,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 25.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e1e4b50d/P038/240g-45i-50c-25a-6h-5w-5b-8r-25a-6h-5w-5b-L",
+    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_240g-45i-50c-25a-6h-5w-5b-8r-25a-6h-5w-5b-L.solution",
+    "lastModified": "2026-11-06T14:53:34.085393131Z"
+}
