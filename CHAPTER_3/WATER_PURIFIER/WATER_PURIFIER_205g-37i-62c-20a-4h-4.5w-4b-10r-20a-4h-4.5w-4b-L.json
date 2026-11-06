@@ -1,12 +1,12 @@
 {
     "puzzle": "WATER_PURIFIER",
     "score": {
-        "cost": 215,
+        "cost": 205,
         "instructions": 37,
         "overlap": false,
         "trackless": false,
         "cycles": 62,
-        "area": 19,
+        "area": 20,
         "height": 4,
         "width": 4.5,
         "boundingHex": 4,
@@ -14,7 +14,7 @@
         "rate": 10.0,
         "areaINF": {
             "level": 0,
-            "value": 19.0
+            "value": 20.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/WATER_PURIFIER/215g-62c-19a-37i-256f091d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P025/215g-37i-62c-19a-4h-4.5w-4b-10r-19a-4h-4.5w-4b-L",
-    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_215g-37i-62c-19a-4h-4.5w-4b-10r-19a-4h-4.5w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/df44fb4b/P025/205g-37i-62c-20a-4h-4.5w-4b-10r-20a-4h-4.5w-4b-L",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_205g-37i-62c-20a-4h-4.5w-4b-10r-20a-4h-4.5w-4b-L.solution",
+    "lastModified": "2026-11-06T15:13:33.435736114Z"
 }
