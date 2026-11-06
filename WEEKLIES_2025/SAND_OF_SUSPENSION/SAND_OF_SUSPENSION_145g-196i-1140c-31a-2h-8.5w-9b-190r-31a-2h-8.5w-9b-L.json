@@ -1,20 +1,20 @@
 {
     "puzzle": "SAND_OF_SUSPENSION",
     "score": {
-        "cost": 150,
+        "cost": 145,
         "instructions": 196,
         "overlap": false,
         "trackless": false,
         "cycles": 1140,
-        "area": 29,
+        "area": 31,
         "height": 2,
         "width": 8.5,
-        "boundingHex": 8,
+        "boundingHex": 9,
         "looping": true,
         "rate": 190.0,
         "areaINF": {
             "level": 0,
-            "value": 29.0
+            "value": 31.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/76843535/w3584964665/150g-196i-1140c-29a-2h-8.5w-8b-190r-29a-2h-8.5w-8b-L",
-    "dataPath": "WEEKLIES_2025/SAND_OF_SUSPENSION/SAND_OF_SUSPENSION_150g-196i-1140c-29a-2h-8.5w-8b-190r-29a-2h-8.5w-8b-L.solution",
-    "lastModified": "2026-10-31T16:28:25.612867296Z"
+    "dataLink": "https://lb.novae.observer/l/om/f05f04ee/w3584964665/145g-196i-1140c-31a-2h-8.5w-9b-190r-31a-2h-8.5w-9b-L",
+    "dataPath": "WEEKLIES_2025/SAND_OF_SUSPENSION/SAND_OF_SUSPENSION_145g-196i-1140c-31a-2h-8.5w-9b-190r-31a-2h-8.5w-9b-L.solution",
+    "lastModified": "2026-11-06T16:29:52.947245142Z"
 }
