@@ -2,7 +2,7 @@
     "puzzle": "ARMOR_FILAMENT",
     "score": {
         "cost": 165,
-        "instructions": 34,
+        "instructions": 32,
         "overlap": false,
         "trackless": false,
         "cycles": 51,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/ARMOR_FILAMENT/165g-51c-28a-34i-777a3a02.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P020/165g-34i-51c-28a-4h-8r-2a1-4h-L",
-    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/ARMOR_FILAMENT_165g-34i-51c-28a-4h-8r-2a1-4h-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ceee3b77/P020/165g-32i-51c-28a-4h-8r-2a1-4h-L",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/ARMOR_FILAMENT_165g-32i-51c-28a-4h-8r-2a1-4h-L.solution",
+    "lastModified": "2026-11-06T14:46:04.774439559Z"
 }
