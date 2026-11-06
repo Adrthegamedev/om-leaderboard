@@ -1,0 +1,36 @@
+{
+    "puzzle": "VAN_BERLO_S_WHEEL",
+    "score": {
+        "cost": 405,
+        "instructions": 258,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 89,
+        "area": 50,
+        "height": 4,
+        "width": 11.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 13.0,
+        "areaINF": {
+            "level": 0,
+            "value": 50.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/9b40aaee/P054/405g-258i-89c-50a-4h-11w-11b-13r-50a-4h-11w-11b-L",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_WHEEL/VAN_BERLO_S_WHEEL_405g-258i-89c-50a-4h-11w-11b-13r-50a-4h-11w-11b-L.solution",
+    "lastModified": "2026-11-06T16:02:11.554345230Z"
+}
