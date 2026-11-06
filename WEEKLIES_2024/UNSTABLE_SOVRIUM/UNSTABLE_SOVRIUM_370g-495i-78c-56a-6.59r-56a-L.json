@@ -1,7 +1,7 @@
 {
     "puzzle": "UNSTABLE_SOVRIUM",
     "score": {
-        "cost": 390,
+        "cost": 370,
         "instructions": 495,
         "overlap": false,
         "trackless": false,
@@ -21,7 +21,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/8b6414c5/w3324143489/390g-495i-78c-56a-6.59r-56a-L",
-    "dataPath": "WEEKLIES_2024/UNSTABLE_SOVRIUM/UNSTABLE_SOVRIUM_390g-495i-78c-56a-6.59r-56a-L.solution",
-    "lastModified": "2026-10-31T16:13:23.960854309Z"
+    "dataLink": "https://lb.novae.observer/l/om/5692768c/w3324143489/370g-495i-78c-56a-6.59r-56a-L",
+    "dataPath": "WEEKLIES_2024/UNSTABLE_SOVRIUM/UNSTABLE_SOVRIUM_370g-495i-78c-56a-6.59r-56a-L.solution",
+    "lastModified": "2026-11-06T16:07:35.331144682Z"
 }
