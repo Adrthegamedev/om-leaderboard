@@ -1,7 +1,7 @@
 {
     "puzzle": "PRISMATIC_CATALYST",
     "score": {
-        "cost": 220,
+        "cost": 200,
         "instructions": 19,
         "overlap": false,
         "trackless": true,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/f80271a8/w3817955190/220g-19i-649c-162a-14h-12w-11b-108r-162a-14h-12w-11b-TL",
-    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_220g-19i-649c-162a-14h-12w-11b-108r-162a-14h-12w-11b-TL.solution",
-    "lastModified": "2026-11-06T08:55:15.072747427Z"
+    "dataLink": "https://lb.novae.observer/l/om/3cddb410/w3817955190/200g-19i-649c-162a-14h-12w-11b-108r-162a-14h-12w-11b-TL",
+    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_200g-19i-649c-162a-14h-12w-11b-108r-162a-14h-12w-11b-TL.solution",
+    "lastModified": "2026-11-06T15:46:26.955186648Z"
 }
