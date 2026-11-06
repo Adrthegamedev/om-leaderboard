@@ -1,0 +1,24 @@
+{
+    "puzzle": "GUIPURE_LACE",
+    "score": {
+        "cost": 6790,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 3957,
+        "area": 39713,
+        "height": 261,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5d8b59e8/P312/6790g-19i-3957c-39713a-261h",
+    "dataPath": "JOURNAL_CVIII_XII/GUIPURE_LACE/GUIPURE_LACE_6790g-19i-3957c-39713a-261h.solution",
+    "lastModified": "2026-11-06T14:25:58.496394513Z"
+}
