@@ -1,0 +1,36 @@
+{
+    "puzzle": "PRISMATIC_CATALYST",
+    "score": {
+        "cost": 230,
+        "instructions": 28,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 439,
+        "area": 110,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 72.0,
+        "areaINF": {
+            "level": 0,
+            "value": 110.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5b4f5bcf/w3817955190/230g-28i-439c-110a-11h-10.5w-11b-72r-110a-11h-10.5w-11b-L",
+    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_230g-28i-439c-110a-11h-10.5w-11b-72r-110a-11h-10.5w-11b-L.solution",
+    "lastModified": "2026-11-06T15:44:31.698363283Z"
+}
