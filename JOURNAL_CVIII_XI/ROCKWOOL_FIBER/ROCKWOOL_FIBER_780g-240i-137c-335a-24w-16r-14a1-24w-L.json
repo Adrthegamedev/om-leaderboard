@@ -1,12 +1,12 @@
 {
     "puzzle": "ROCKWOOL_FIBER",
     "score": {
-        "cost": 785,
+        "cost": 780,
         "instructions": 240,
         "overlap": false,
         "trackless": false,
         "cycles": 137,
-        "area": 336,
+        "area": 335,
         "height": null,
         "width": 24.0,
         "boundingHex": null,
@@ -24,7 +24,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/a815e4e9/P306/785g-240i-137c-336a-24w-16r-14a1-24w-L",
-    "dataPath": "JOURNAL_CVIII_XI/ROCKWOOL_FIBER/ROCKWOOL_FIBER_785g-240i-137c-336a-24w-16r-14a1-24w-L.solution",
-    "lastModified": "2026-11-06T13:44:17.036929842Z"
+    "dataLink": "https://lb.novae.observer/l/om/ef8f07bc/P306/780g-240i-137c-335a-24w-16r-14a1-24w-L",
+    "dataPath": "JOURNAL_CVIII_XI/ROCKWOOL_FIBER/ROCKWOOL_FIBER_780g-240i-137c-335a-24w-16r-14a1-24w-L.solution",
+    "lastModified": "2026-11-06T13:44:25.724416610Z"
 }
