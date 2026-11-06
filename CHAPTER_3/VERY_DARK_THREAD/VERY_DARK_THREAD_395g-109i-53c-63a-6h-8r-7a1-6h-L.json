@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 53,
         "area": 63,
-        "height": 7,
+        "height": 6,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -18,13 +18,13 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         },
         "widthINF": null,
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/a302542f/P029/395g-109i-53c-63a-7h-8r-7a1-7h-L",
-    "dataPath": "CHAPTER_3/VERY_DARK_THREAD/VERY_DARK_THREAD_395g-109i-53c-63a-7h-8r-7a1-7h-L.solution",
-    "lastModified": "2026-11-06T15:19:00.724213544Z"
+    "dataLink": "https://lb.novae.observer/l/om/1cd30a32/P029/395g-109i-53c-63a-6h-8r-7a1-6h-L",
+    "dataPath": "CHAPTER_3/VERY_DARK_THREAD/VERY_DARK_THREAD_395g-109i-53c-63a-6h-8r-7a1-6h-L.solution",
+    "lastModified": "2026-11-06T15:19:44.812036103Z"
 }
