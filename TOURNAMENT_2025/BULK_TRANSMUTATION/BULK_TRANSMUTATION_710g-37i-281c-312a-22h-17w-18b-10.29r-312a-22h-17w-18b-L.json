@@ -1,7 +1,7 @@
 {
     "puzzle": "BULK_TRANSMUTATION",
     "score": {
-        "cost": 720,
+        "cost": 710,
         "instructions": 37,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 18.0
         }
     },
-    "displayLink": "https://files.mors.technology/BULK_TRANSMUTATION/720g-281c-312a-37i-9f006866.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3446278995/720g-37i-281c-312a-22h-17w-18b-10.29r-312a-22h-17w-18b-L",
-    "dataPath": "TOURNAMENT_2025/BULK_TRANSMUTATION/BULK_TRANSMUTATION_720g-37i-281c-312a-22h-17w-18b-10.29r-312a-22h-17w-18b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/bd8ce4f0/w3446278995/710g-37i-281c-312a-22h-17w-18b-10.29r-312a-22h-17w-18b-L",
+    "dataPath": "TOURNAMENT_2025/BULK_TRANSMUTATION/BULK_TRANSMUTATION_710g-37i-281c-312a-22h-17w-18b-10.29r-312a-22h-17w-18b-L.solution",
+    "lastModified": "2026-11-06T14:43:03.571110709Z"
 }
