@@ -1,0 +1,36 @@
+{
+    "puzzle": "VERDIGRIS_GLAZE",
+    "score": {
+        "cost": 130,
+        "instructions": 9,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 220,
+        "area": 85,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/df27ed31/P302/130g-9i-220c-85a-11h-10w-7b-36r-85a-11h-10w-7b-OL",
+    "dataPath": "JOURNAL_CVIII_X/VERDIGRIS_GLAZE/VERDIGRIS_GLAZE_130g-9i-220c-85a-11h-10w-7b-36r-85a-11h-10w-7b-OL.solution",
+    "lastModified": "2026-11-06T13:47:19.545883451Z"
+}
