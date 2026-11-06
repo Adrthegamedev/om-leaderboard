@@ -1,0 +1,36 @@
+{
+    "puzzle": "INVARIANT_METAL",
+    "score": {
+        "cost": 5570,
+        "instructions": 13564,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 249,
+        "area": 757,
+        "height": 4,
+        "width": 129.5,
+        "boundingHex": 130,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 757.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 129.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 130.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/05cd4162/P215/5570g-13564i-249c-757a-4h-129.5w-130b-5r-757a-4h-129.5w-130b-L",
+    "dataPath": "DRM_CHAPTER_3/INVARIANT_METAL/INVARIANT_METAL_5570g-13564i-249c-757a-4h-129.5w-130b-5r-757a-4h-129.5w-130b-L.solution",
+    "lastModified": "2026-11-06T15:30:18.153023079Z"
+}
