@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 185,
         "area": 81,
-        "height": 10,
+        "height": 9,
         "width": 10.0,
         "boundingHex": 8,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 10.0
+            "value": 9.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/75f020d7/P221/485g-189i-185c-81a-10h-10w-8b-30r-81a-10h-10w-8b-L",
-    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_485g-189i-185c-81a-10h-10w-8b-30r-81a-10h-10w-8b-L.solution",
-    "lastModified": "2026-11-06T15:31:47.353425849Z"
+    "dataLink": "https://lb.novae.observer/l/om/9102bb19/P221/485g-189i-185c-81a-9h-10w-8b-30r-81a-9h-10w-8b-L",
+    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_485g-189i-185c-81a-9h-10w-8b-30r-81a-9h-10w-8b-L.solution",
+    "lastModified": "2026-11-06T15:32:00.332515567Z"
 }
