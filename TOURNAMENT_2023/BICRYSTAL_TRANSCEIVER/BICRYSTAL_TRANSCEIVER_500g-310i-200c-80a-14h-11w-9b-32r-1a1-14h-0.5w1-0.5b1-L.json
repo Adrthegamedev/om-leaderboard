@@ -1,0 +1,36 @@
+{
+    "puzzle": "BICRYSTAL_TRANSCEIVER",
+    "score": {
+        "cost": 500,
+        "instructions": 310,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 200,
+        "area": 80,
+        "height": 14,
+        "width": 11.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/958a0157/w2946687073/500g-310i-200c-80a-14h-11w-9b-32r-1a1-14h-0.5w1-0.5b1-L",
+    "dataPath": "TOURNAMENT_2023/BICRYSTAL_TRANSCEIVER/BICRYSTAL_TRANSCEIVER_500g-310i-200c-80a-14h-11w-9b-32r-1a1-14h-0.5w1-0.5b1-L.solution",
+    "lastModified": "2026-11-06T14:20:26.043089716Z"
+}
