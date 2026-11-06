@@ -1,0 +1,36 @@
+{
+    "puzzle": "EXPLOSIVE_VICTRITE",
+    "score": {
+        "cost": 100,
+        "instructions": 67,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 273,
+        "area": 18,
+        "height": 5,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 46.0,
+        "areaINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d0985b3c/P100/100g-67i-273c-18a-5h-4w-4b-46r-18a-5h-4w-4b-L",
+    "dataPath": "JOURNAL_VIII/EXPLOSIVE_VICTRITE/EXPLOSIVE_VICTRITE_100g-67i-273c-18a-5h-4w-4b-46r-18a-5h-4w-4b-L.solution",
+    "lastModified": "2026-11-06T15:33:39.057744669Z"
+}
