@@ -1,0 +1,36 @@
+{
+    "puzzle": "REACTIVE_GOLD",
+    "score": {
+        "cost": 120,
+        "instructions": 11,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 895,
+        "area": 591,
+        "height": 33,
+        "width": 30.5,
+        "boundingHex": 22,
+        "looping": true,
+        "rate": 150.0,
+        "areaINF": {
+            "level": 2,
+            "value": 25.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 3.3333333333333335
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/60eca1a3/P095/120g-11i-895c-591a-33h-30.5w-22b-150r-25a2-5h1-5w1-3.333b1-L",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_120g-11i-895c-591a-33h-30.5w-22b-150r-25a2-5h1-5w1-3.333b1-L.solution",
+    "lastModified": "2026-11-06T14:59:49.698034331Z"
+}
