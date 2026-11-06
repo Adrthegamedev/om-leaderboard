@@ -1,0 +1,36 @@
+{
+    "puzzle": "REACTIVE_CINNABAR",
+    "score": {
+        "cost": 90,
+        "instructions": 8,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 144,
+        "area": 12,
+        "height": 3,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/92d5ec01/P056/90g-8i-144c-12a-3h-4w-4b-24r-12a-3h-4w-4b-OL",
+    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/REACTIVE_CINNABAR_90g-8i-144c-12a-3h-4w-4b-24r-12a-3h-4w-4b-OL.solution",
+    "lastModified": "2026-11-06T16:01:03.307844319Z"
+}
