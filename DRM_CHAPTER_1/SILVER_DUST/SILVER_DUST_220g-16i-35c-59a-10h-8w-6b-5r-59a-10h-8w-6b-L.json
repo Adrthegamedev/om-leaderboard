@@ -1,0 +1,36 @@
+{
+    "puzzle": "SILVER_DUST",
+    "score": {
+        "cost": 220,
+        "instructions": 16,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 35,
+        "area": 59,
+        "height": 10,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 59.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b7242398/P203/220g-16i-35c-59a-10h-8w-6b-5r-59a-10h-8w-6b-L",
+    "dataPath": "DRM_CHAPTER_1/SILVER_DUST/SILVER_DUST_220g-16i-35c-59a-10h-8w-6b-5r-59a-10h-8w-6b-L.solution",
+    "lastModified": "2026-11-06T14:04:56.037518903Z"
+}
