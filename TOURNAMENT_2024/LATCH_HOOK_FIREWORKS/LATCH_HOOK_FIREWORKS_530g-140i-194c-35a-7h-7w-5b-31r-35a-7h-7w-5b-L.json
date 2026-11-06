@@ -1,0 +1,36 @@
+{
+    "puzzle": "LATCH_HOOK_FIREWORKS",
+    "score": {
+        "cost": 530,
+        "instructions": 140,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 194,
+        "area": 35,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 31.0,
+        "areaINF": {
+            "level": 0,
+            "value": 35.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d81abb6c/w3210177679/530g-140i-194c-35a-7h-7w-5b-31r-35a-7h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_530g-140i-194c-35a-7h-7w-5b-31r-35a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-06T14:15:33.711971914Z"
+}
