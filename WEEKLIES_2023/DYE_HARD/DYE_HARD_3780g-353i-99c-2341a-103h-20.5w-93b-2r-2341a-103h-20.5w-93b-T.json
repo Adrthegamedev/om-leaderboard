@@ -1,7 +1,7 @@
 {
     "puzzle": "DYE_HARD",
     "score": {
-        "cost": 3800,
+        "cost": 3780,
         "instructions": 353,
         "overlap": false,
         "trackless": true,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/88b4d842/OM2023Weeklies_DyeHard/3800g-353i-99c-2341a-103h-20.5w-93b-2r-2341a-103h-20.5w-93b-T",
-    "dataPath": "WEEKLIES_2023/DYE_HARD/DYE_HARD_3800g-353i-99c-2341a-103h-20.5w-93b-2r-2341a-103h-20.5w-93b-T.solution",
-    "lastModified": "2026-10-31T16:19:25.893082754Z"
+    "dataLink": "https://lb.novae.observer/l/om/eebf047f/OM2023Weeklies_DyeHard/3780g-353i-99c-2341a-103h-20.5w-93b-2r-2341a-103h-20.5w-93b-T",
+    "dataPath": "WEEKLIES_2023/DYE_HARD/DYE_HARD_3780g-353i-99c-2341a-103h-20.5w-93b-2r-2341a-103h-20.5w-93b-T.solution",
+    "lastModified": "2026-11-06T16:07:13.326230262Z"
 }
