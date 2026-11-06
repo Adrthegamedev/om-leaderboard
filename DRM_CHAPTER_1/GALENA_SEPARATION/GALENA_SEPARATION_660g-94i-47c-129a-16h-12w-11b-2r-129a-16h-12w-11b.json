@@ -8,7 +8,7 @@
         "cycles": 47,
         "area": 129,
         "height": 16,
-        "width": 12.5,
+        "width": 12.0,
         "boundingHex": 11,
         "looping": false,
         "rate": 2.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 12.5
+            "value": 12.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/8ba41248/P207/660g-94i-47c-129a-16h-12.5w-11b-2r-129a-16h-12.5w-11b",
-    "dataPath": "DRM_CHAPTER_1/GALENA_SEPARATION/GALENA_SEPARATION_660g-94i-47c-129a-16h-12.5w-11b-2r-129a-16h-12.5w-11b.solution",
-    "lastModified": "2026-11-06T14:06:40.078335645Z"
+    "dataLink": "https://lb.novae.observer/l/om/c1936e82/P207/660g-94i-47c-129a-16h-12w-11b-2r-129a-16h-12w-11b",
+    "dataPath": "DRM_CHAPTER_1/GALENA_SEPARATION/GALENA_SEPARATION_660g-94i-47c-129a-16h-12w-11b-2r-129a-16h-12w-11b.solution",
+    "lastModified": "2026-11-06T14:07:20.265432631Z"
 }
