@@ -1,0 +1,24 @@
+{
+    "puzzle": "IGNITION_CORD",
+    "score": {
+        "cost": 620,
+        "instructions": 9,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 230,
+        "area": 918,
+        "height": 41,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c03be333/w2839120106/620g-9i-230c-918a-41h",
+    "dataPath": "WEEKLIES_1/IGNITION_CORD/IGNITION_CORD_620g-9i-230c-918a-41h.solution",
+    "lastModified": "2026-11-06T13:57:58.882017518Z"
+}
