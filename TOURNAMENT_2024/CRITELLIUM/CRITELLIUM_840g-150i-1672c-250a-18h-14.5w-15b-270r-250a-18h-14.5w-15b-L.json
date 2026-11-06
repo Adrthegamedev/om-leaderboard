@@ -1,0 +1,36 @@
+{
+    "puzzle": "CRITELLIUM",
+    "score": {
+        "cost": 840,
+        "instructions": 150,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1672,
+        "area": 250,
+        "height": 18,
+        "width": 14.5,
+        "boundingHex": 15,
+        "looping": true,
+        "rate": 270.0,
+        "areaINF": {
+            "level": 0,
+            "value": 250.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 15.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ce07d4f8/w3210197400/840g-150i-1672c-250a-18h-14.5w-15b-270r-250a-18h-14.5w-15b-L",
+    "dataPath": "TOURNAMENT_2024/CRITELLIUM/CRITELLIUM_840g-150i-1672c-250a-18h-14.5w-15b-270r-250a-18h-14.5w-15b-L.solution",
+    "lastModified": "2026-11-06T14:12:18.110062476Z"
+}
