@@ -1,0 +1,24 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 740,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 177,
+        "area": 1010,
+        "height": 38,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/50e7b417/P039/740g-12i-177c-1010a-38h",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_740g-12i-177c-1010a-38h.solution",
+    "lastModified": "2026-11-06T14:51:31.265448343Z"
+}
