@@ -1,0 +1,36 @@
+{
+    "puzzle": "UNIVERSAL_SOLVENT",
+    "score": {
+        "cost": 630,
+        "instructions": 105,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 57,
+        "area": 91,
+        "height": 11,
+        "width": 11.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 91.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/9b715c29/P043/630g-105i-57c-91a-11h-11.5w-9b-8r-91a-11h-11.5w-9b-L",
+    "dataPath": "CHAPTER_5/UNIVERSAL_SOLVENT/UNIVERSAL_SOLVENT_630g-105i-57c-91a-11h-11.5w-9b-8r-91a-11h-11.5w-9b-L.solution",
+    "lastModified": "2026-11-06T14:54:27.966276792Z"
+}
