@@ -8,7 +8,7 @@
         "cycles": 28,
         "area": 47,
         "height": 9,
-        "width": 7.5,
+        "width": 7.0,
         "boundingHex": 6,
         "looping": true,
         "rate": 4.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.5
+            "value": 7.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/603e12cb/w1611998067/230g-28i-28c-47a-9h-7.5w-6b-4r-47a-9h-7.5w-6b-L",
-    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_230g-28i-28c-47a-9h-7.5w-6b-4r-47a-9h-7.5w-6b-L.solution",
-    "lastModified": "2026-11-06T16:12:26.336301874Z"
+    "dataLink": "https://lb.novae.observer/l/om/4927d52c/w1611998067/230g-28i-28c-47a-9h-7w-6b-4r-47a-9h-7w-6b-L",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_230g-28i-28c-47a-9h-7w-6b-4r-47a-9h-7w-6b-L.solution",
+    "lastModified": "2026-11-06T16:12:30.688780224Z"
 }
