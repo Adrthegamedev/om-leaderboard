@@ -1,7 +1,7 @@
 {
     "puzzle": "LEACHING_AGENT",
     "score": {
-        "cost": 1270,
+        "cost": 1260,
         "instructions": 213,
         "overlap": false,
         "trackless": false,
@@ -29,8 +29,8 @@
             "value": 0.75
         }
     },
-    "displayLink": "https://files.mors.technology/LEACHING_AGENT/1270g-42c-269a-213i-d6552368.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f22fda23/P263/1270g-213i-42c-269a-23h-21w-15b-6r-3a1-23h-0.75w1-0.75b1-L",
-    "dataPath": "JOURNAL_CVIII_II/LEACHING_AGENT/LEACHING_AGENT_1270g-213i-42c-269a-23h-21w-15b-6r-3a1-23h-0.75w1-0.75b1-L.solution",
-    "lastModified": "2026-10-20T20:34:36.256095649Z"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c257b4ca/P263/1260g-213i-42c-269a-23h-21w-15b-6r-3a1-23h-0.75w1-0.75b1-L",
+    "dataPath": "JOURNAL_CVIII_II/LEACHING_AGENT/LEACHING_AGENT_1260g-213i-42c-269a-23h-21w-15b-6r-3a1-23h-0.75w1-0.75b1-L.solution",
+    "lastModified": "2026-11-06T13:31:27.937439355Z"
 }
