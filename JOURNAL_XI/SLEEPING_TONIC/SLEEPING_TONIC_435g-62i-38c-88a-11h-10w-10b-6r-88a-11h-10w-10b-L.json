@@ -1,0 +1,36 @@
+{
+    "puzzle": "SLEEPING_TONIC",
+    "score": {
+        "cost": 435,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 38,
+        "area": 88,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 88.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/774ee471/P242/435g-62i-38c-88a-11h-10w-10b-6r-88a-11h-10w-10b-L",
+    "dataPath": "JOURNAL_XI/SLEEPING_TONIC/SLEEPING_TONIC_435g-62i-38c-88a-11h-10w-10b-6r-88a-11h-10w-10b-L.solution",
+    "lastModified": "2026-11-06T15:58:01.228323113Z"
+}
