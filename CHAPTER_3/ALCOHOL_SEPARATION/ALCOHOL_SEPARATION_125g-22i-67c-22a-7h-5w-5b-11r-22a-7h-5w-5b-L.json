@@ -1,0 +1,36 @@
+{
+    "puzzle": "ALCOHOL_SEPARATION",
+    "score": {
+        "cost": 125,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 67,
+        "area": 22,
+        "height": 7,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 11.0,
+        "areaINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b90e21bb/P024/125g-22i-67c-22a-7h-5w-5b-11r-22a-7h-5w-5b-L",
+    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_125g-22i-67c-22a-7h-5w-5b-11r-22a-7h-5w-5b-L.solution",
+    "lastModified": "2026-11-06T15:15:15.279433753Z"
+}
