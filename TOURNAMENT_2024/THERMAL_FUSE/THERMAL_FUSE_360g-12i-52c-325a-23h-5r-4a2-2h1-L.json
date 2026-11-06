@@ -1,0 +1,30 @@
+{
+    "puzzle": "THERMAL_FUSE",
+    "score": {
+        "cost": 360,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 52,
+        "area": 325,
+        "height": 23,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b5311222/w3210188410/360g-12i-52c-325a-23h-5r-4a2-2h1-L",
+    "dataPath": "TOURNAMENT_2024/THERMAL_FUSE/THERMAL_FUSE_360g-12i-52c-325a-23h-5r-4a2-2h1-L.solution",
+    "lastModified": "2026-11-06T14:11:04.907887061Z"
+}
