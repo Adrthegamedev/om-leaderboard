@@ -1,7 +1,7 @@
 {
     "puzzle": "STORM_SENSING_POTION",
     "score": {
-        "cost": 1580,
+        "cost": 1560,
         "instructions": 1748,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 0.25
         }
     },
-    "displayLink": "https://files.mors.technology/STORM_SENSING_POTION/1580g-78c-272a-1748i-443e9e7c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P294/1580g-1748i-78c-272a-21h-16.5w-13b-18r-0.167a2-0.333h1-0.289w1-0.25b1-L",
-    "dataPath": "JOURNAL_CVIII_VIII/STORM_SENSING_POTION/STORM_SENSING_POTION_1580g-1748i-78c-272a-21h-16.5w-13b-18r-0.167a2-0.333h1-0.289w1-0.25b1-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8e98f42f/P294/1560g-1748i-78c-272a-21h-16.5w-13b-18r-0.167a2-0.333h1-0.289w1-0.25b1-L",
+    "dataPath": "JOURNAL_CVIII_VIII/STORM_SENSING_POTION/STORM_SENSING_POTION_1560g-1748i-78c-272a-21h-16.5w-13b-18r-0.167a2-0.333h1-0.289w1-0.25b1-L.solution",
+    "lastModified": "2026-11-06T13:30:18.876737304Z"
 }
