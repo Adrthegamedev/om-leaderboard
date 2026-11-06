@@ -1,7 +1,7 @@
 {
     "puzzle": "WATER_PURIFIER",
     "score": {
-        "cost": 130,
+        "cost": 125,
         "instructions": 37,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/8640557b/P025/130g-37i-97c-17a-3h-4.5w-4b-16r-17a-3h-4.5w-4b-L",
-    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_130g-37i-97c-17a-3h-4.5w-4b-16r-17a-3h-4.5w-4b-L.solution",
-    "lastModified": "2026-11-06T15:13:28.879266917Z"
+    "dataLink": "https://lb.novae.observer/l/om/ec8616db/P025/125g-37i-97c-17a-3h-4.5w-4b-16r-17a-3h-4.5w-4b-L",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_125g-37i-97c-17a-3h-4.5w-4b-16r-17a-3h-4.5w-4b-L.solution",
+    "lastModified": "2026-11-06T15:14:21.012107723Z"
 }
