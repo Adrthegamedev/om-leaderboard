@@ -1,0 +1,36 @@
+{
+    "puzzle": "RECLAIMED_GOLD",
+    "score": {
+        "cost": 180,
+        "instructions": 3,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 72,
+        "area": 21,
+        "height": 3,
+        "width": 8.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/fd06d225/P254/180g-3i-72c-21a-3h-8.5w-9b-6r-1a1-3h-0.5w1-0.5b1-OL",
+    "dataPath": "JOURNAL_XII/RECLAIMED_GOLD/RECLAIMED_GOLD_180g-3i-72c-21a-3h-8.5w-9b-6r-1a1-3h-0.5w1-0.5b1-OL.solution",
+    "lastModified": "2026-11-06T15:22:08.649133018Z"
+}
