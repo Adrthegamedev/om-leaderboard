@@ -1,0 +1,30 @@
+{
+    "puzzle": "BANDAGE_THREAD",
+    "score": {
+        "cost": 745,
+        "instructions": 176,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 140,
+        "area": 138,
+        "height": 4,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/783637db/P248/745g-176i-140c-138a-4h-12r-8a1-4h-L",
+    "dataPath": "JOURNAL_X/BANDAGE_THREAD/BANDAGE_THREAD_745g-176i-140c-138a-4h-12r-8a1-4h-L.solution",
+    "lastModified": "2026-11-06T14:22:15.321453371Z"
+}
