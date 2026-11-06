@@ -1,0 +1,27 @@
+{
+    "puzzle": "HEXSTABILIZED_SALT",
+    "score": {
+        "cost": 280,
+        "instructions": 202,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 201,
+        "area": 58,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 11.15,
+        "areaINF": {
+            "level": 0,
+            "value": 58.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/90febe9d/P091b/280g-202i-201c-58a-11.15r-58a-L",
+    "dataPath": "JOURNAL_VI/HEXSTABILIZED_SALT/HEXSTABILIZED_SALT_280g-202i-201c-58a-11.15r-58a-L.solution",
+    "lastModified": "2026-11-06T15:13:01.736427417Z"
+}
