@@ -1,0 +1,36 @@
+{
+    "puzzle": "TOUCHSTONE",
+    "score": {
+        "cost": 495,
+        "instructions": 497,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 49,
+        "area": 71,
+        "height": 10,
+        "width": 10.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 4.5,
+        "areaINF": {
+            "level": 0,
+            "value": 71.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5a4501be/P245/495g-497i-49c-71a-10h-10.5w-7b-4.5r-71a-10h-10.5w-7b-L",
+    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_495g-497i-49c-71a-10h-10.5w-7b-4.5r-71a-10h-10.5w-7b-L.solution",
+    "lastModified": "2026-11-06T14:24:46.576960319Z"
+}
