@@ -1,0 +1,24 @@
+{
+    "puzzle": "ELECTRUM_SEPARATION",
+    "score": {
+        "cost": 200,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 90,
+        "area": 5340,
+        "height": 95,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/57958738/P103/200g-12i-90c-5340a-95h",
+    "dataPath": "JOURNAL_VIII/ELECTRUM_SEPARATION/ELECTRUM_SEPARATION_200g-12i-90c-5340a-95h.solution",
+    "lastModified": "2026-11-06T15:34:35.738234853Z"
+}
