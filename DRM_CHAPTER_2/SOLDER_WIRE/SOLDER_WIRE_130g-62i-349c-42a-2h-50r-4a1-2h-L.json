@@ -1,12 +1,12 @@
 {
     "puzzle": "SOLDER_WIRE",
     "score": {
-        "cost": 135,
+        "cost": 130,
         "instructions": 62,
         "overlap": false,
         "trackless": false,
         "cycles": 349,
-        "area": 40,
+        "area": 42,
         "height": 2,
         "width": null,
         "boundingHex": null,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/SOLDER_WIRE/135g-349c-40a-62i-6e1ba094.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P209/135g-62i-349c-40a-2h-50r-4a1-2h-L",
-    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_135g-62i-349c-40a-2h-50r-4a1-2h-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/4f84ccb3/P209/130g-62i-349c-42a-2h-50r-4a1-2h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_130g-62i-349c-42a-2h-50r-4a1-2h-L.solution",
+    "lastModified": "2026-11-06T15:50:17.513658331Z"
 }
