@@ -1,0 +1,36 @@
+{
+    "puzzle": "GRENADE_PELLET",
+    "score": {
+        "cost": 455,
+        "instructions": 53,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 45,
+        "area": 93,
+        "height": 11,
+        "width": 9.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 93.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/7966dbe1/P259/455g-53i-45c-93a-11h-9w-9b-6r-93a-11h-9w-9b-L",
+    "dataPath": "JOURNAL_CVIII_I/GRENADE_PELLET/GRENADE_PELLET_455g-53i-45c-93a-11h-9w-9b-6r-93a-11h-9w-9b-L.solution",
+    "lastModified": "2026-11-06T15:23:24.297184653Z"
+}
