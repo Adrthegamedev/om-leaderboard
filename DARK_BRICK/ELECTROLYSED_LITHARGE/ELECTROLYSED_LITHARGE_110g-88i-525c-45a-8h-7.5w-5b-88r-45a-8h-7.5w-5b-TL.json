@@ -1,0 +1,36 @@
+{
+    "puzzle": "ELECTROLYSED_LITHARGE",
+    "score": {
+        "cost": 110,
+        "instructions": 88,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 525,
+        "area": 45,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 88.0,
+        "areaINF": {
+            "level": 0,
+            "value": 45.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c7a63b3f/electrolysed-litharge/110g-88i-525c-45a-8h-7.5w-5b-88r-45a-8h-7.5w-5b-TL",
+    "dataPath": "DARK_BRICK/ELECTROLYSED_LITHARGE/ELECTROLYSED_LITHARGE_110g-88i-525c-45a-8h-7.5w-5b-88r-45a-8h-7.5w-5b-TL.solution",
+    "lastModified": "2026-11-06T08:56:48.409223007Z"
+}
