@@ -1,24 +1,24 @@
 {
     "puzzle": "PATTERN_METAL",
     "score": {
-        "cost": 515,
+        "cost": 505,
         "instructions": 189,
         "overlap": false,
         "trackless": false,
         "cycles": 185,
-        "area": 81,
-        "height": 9,
+        "area": 82,
+        "height": 10,
         "width": 9.5,
         "boundingHex": 7,
         "looping": true,
         "rate": 30.0,
         "areaINF": {
             "level": 0,
-            "value": 81.0
+            "value": 82.0
         },
         "heightINF": {
             "level": 0,
-            "value": 9.0
+            "value": 10.0
         },
         "widthINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/PATTERN_METAL/515g-185c-81a-189i-64fb3bee.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P221/515g-189i-185c-81a-9h-9.5w-7b-30r-81a-9h-9.5w-7b-L",
-    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_515g-189i-185c-81a-9h-9.5w-7b-30r-81a-9h-9.5w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/da28c18e/P221/505g-189i-185c-82a-10h-9.5w-7b-30r-82a-10h-9.5w-7b-L",
+    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_505g-189i-185c-82a-10h-9.5w-7b-30r-82a-10h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:31:42.746498722Z"
 }
