@@ -1,0 +1,36 @@
+{
+    "puzzle": "POTENT_POTABLES",
+    "score": {
+        "cost": 315,
+        "instructions": 620,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 71,
+        "area": 37,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 11.17,
+        "areaINF": {
+            "level": 0,
+            "value": 37.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5ae48f17/w2501727721/315g-620i-71c-37a-7h-7w-5b-11.17r-37a-7h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2020/POTENT_POTABLES/POTENT_POTABLES_315g-620i-71c-37a-7h-7w-5b-11.17r-37a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-06T15:53:21.621458017Z"
+}
