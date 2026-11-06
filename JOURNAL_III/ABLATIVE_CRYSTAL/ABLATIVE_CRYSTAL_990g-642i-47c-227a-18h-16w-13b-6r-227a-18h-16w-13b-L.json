@@ -6,19 +6,19 @@
         "overlap": false,
         "trackless": false,
         "cycles": 47,
-        "area": 230,
-        "height": 19,
+        "area": 227,
+        "height": 18,
         "width": 16.0,
         "boundingHex": 13,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 230.0
+            "value": 227.0
         },
         "heightINF": {
             "level": 0,
-            "value": 19.0
+            "value": 18.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/47a4fa9e/P068/990g-642i-47c-230a-19h-16w-13b-6r-230a-19h-16w-13b-L",
-    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_990g-642i-47c-230a-19h-16w-13b-6r-230a-19h-16w-13b-L.solution",
-    "lastModified": "2026-11-06T16:11:58.497353047Z"
+    "dataLink": "https://lb.novae.observer/l/om/57d5559f/P068/990g-642i-47c-227a-18h-16w-13b-6r-227a-18h-16w-13b-L",
+    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_990g-642i-47c-227a-18h-16w-13b-6r-227a-18h-16w-13b-L.solution",
+    "lastModified": "2026-11-06T16:12:03.125636305Z"
 }
