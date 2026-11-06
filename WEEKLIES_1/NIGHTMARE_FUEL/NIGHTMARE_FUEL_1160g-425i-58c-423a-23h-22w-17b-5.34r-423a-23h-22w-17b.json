@@ -1,0 +1,36 @@
+{
+    "puzzle": "NIGHTMARE_FUEL",
+    "score": {
+        "cost": 1160,
+        "instructions": 425,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 58,
+        "area": 423,
+        "height": 23,
+        "width": 22.0,
+        "boundingHex": 17,
+        "looping": false,
+        "rate": 5.34,
+        "areaINF": {
+            "level": 0,
+            "value": 423.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 17.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/113be45b/w2829050875/1160g-425i-58c-423a-23h-22w-17b-5.34r-423a-23h-22w-17b",
+    "dataPath": "WEEKLIES_1/NIGHTMARE_FUEL/NIGHTMARE_FUEL_1160g-425i-58c-423a-23h-22w-17b-5.34r-423a-23h-22w-17b.solution",
+    "lastModified": "2026-11-06T13:57:00.960115578Z"
+}
