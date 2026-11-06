@@ -1,20 +1,20 @@
 {
     "puzzle": "WATERPROOF_SEALANT",
     "score": {
-        "cost": 115,
+        "cost": 110,
         "instructions": 21,
         "overlap": true,
         "trackless": false,
         "cycles": 12,
-        "area": 9,
+        "area": 8,
         "height": 2,
-        "width": 3.5,
+        "width": 2.5,
         "boundingHex": 4,
         "looping": true,
         "rate": 2.43,
         "areaINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 3.5
+            "value": 2.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/098f4a3b/P011/115g-21i-12c-9a-2h-3.5w-4b-2.43r-9a-2h-3.5w-4b-OL",
-    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_115g-21i-12c-9a-2h-3.5w-4b-2.43r-9a-2h-3.5w-4b-OL.solution",
-    "lastModified": "2026-11-06T13:33:14.843493529Z"
+    "dataLink": "https://lb.novae.observer/l/om/1600db99/P011/110g-21i-12c-8a-2h-2.5w-4b-2.43r-8a-2h-2.5w-4b-OL",
+    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_110g-21i-12c-8a-2h-2.5w-4b-2.43r-8a-2h-2.5w-4b-OL.solution",
+    "lastModified": "2026-11-06T13:33:25.581124757Z"
 }
