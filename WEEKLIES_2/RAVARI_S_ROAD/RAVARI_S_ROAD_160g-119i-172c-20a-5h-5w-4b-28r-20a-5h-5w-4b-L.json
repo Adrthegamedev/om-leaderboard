@@ -1,0 +1,36 @@
+{
+    "puzzle": "RAVARI_S_ROAD",
+    "score": {
+        "cost": 160,
+        "instructions": 119,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 172,
+        "area": 20,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d50024e8/w3584639567/160g-119i-172c-20a-5h-5w-4b-28r-20a-5h-5w-4b-L",
+    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_160g-119i-172c-20a-5h-5w-4b-28r-20a-5h-5w-4b-L.solution",
+    "lastModified": "2026-11-06T15:39:15.542045383Z"
+}
