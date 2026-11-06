@@ -1,0 +1,36 @@
+{
+    "puzzle": "VIA_QUICKSILVER",
+    "score": {
+        "cost": 240,
+        "instructions": 109,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 201,
+        "area": 37,
+        "height": 7,
+        "width": 4.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 33.0,
+        "areaINF": {
+            "level": 0,
+            "value": 37.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/a99ccabd/P216/240g-109i-201c-37a-7h-4w-8b-33r-37a-7h-4w-8b-L",
+    "dataPath": "DRM_CHAPTER_3/VIA_QUICKSILVER/VIA_QUICKSILVER_240g-109i-201c-37a-7h-4w-8b-33r-37a-7h-4w-8b-L.solution",
+    "lastModified": "2026-11-06T15:29:28.638078709Z"
+}
