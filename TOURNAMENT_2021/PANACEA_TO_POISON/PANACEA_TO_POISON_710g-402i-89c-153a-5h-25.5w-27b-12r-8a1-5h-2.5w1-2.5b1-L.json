@@ -1,7 +1,7 @@
 {
     "puzzle": "PANACEA_TO_POISON",
     "score": {
-        "cost": 720,
+        "cost": 710,
         "instructions": 402,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 2.5
         }
     },
-    "displayLink": "https://files.mors.technology/Panacea-to-Poison-720g-89c-153a-402i-5h-25.5w-12r-41d440.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2450511665/720g-402i-89c-153a-5h-25.5w-27b-12r-8a1-5h-2.5w1-2.5b1-L",
-    "dataPath": "TOURNAMENT_2021/PANACEA_TO_POISON/PANACEA_TO_POISON_720g-402i-89c-153a-5h-25.5w-27b-12r-8a1-5h-2.5w1-2.5b1-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b0536507/w2450511665/710g-402i-89c-153a-5h-25.5w-27b-12r-8a1-5h-2.5w1-2.5b1-L",
+    "dataPath": "TOURNAMENT_2021/PANACEA_TO_POISON/PANACEA_TO_POISON_710g-402i-89c-153a-5h-25.5w-27b-12r-8a1-5h-2.5w1-2.5b1-L.solution",
+    "lastModified": "2026-11-06T16:24:13.280796564Z"
 }
