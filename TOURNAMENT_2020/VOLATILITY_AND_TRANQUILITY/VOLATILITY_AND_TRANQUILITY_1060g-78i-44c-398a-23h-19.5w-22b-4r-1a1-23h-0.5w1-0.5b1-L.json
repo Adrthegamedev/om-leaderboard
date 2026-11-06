@@ -1,0 +1,36 @@
+{
+    "puzzle": "VOLATILITY_AND_TRANQUILITY",
+    "score": {
+        "cost": 1060,
+        "instructions": 78,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 44,
+        "area": 398,
+        "height": 23,
+        "width": 19.5,
+        "boundingHex": 22,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/cd1d241a/w2501727977/1060g-78i-44c-398a-23h-19.5w-22b-4r-1a1-23h-0.5w1-0.5b1-L",
+    "dataPath": "TOURNAMENT_2020/VOLATILITY_AND_TRANQUILITY/VOLATILITY_AND_TRANQUILITY_1060g-78i-44c-398a-23h-19.5w-22b-4r-1a1-23h-0.5w1-0.5b1-L.solution",
+    "lastModified": "2026-11-06T15:56:04.753042113Z"
+}
