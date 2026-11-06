@@ -1,0 +1,36 @@
+{
+    "puzzle": "ROSHAMBONITE",
+    "score": {
+        "cost": 220,
+        "instructions": 105,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 239,
+        "area": 39,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 39.0,
+        "areaINF": {
+            "level": 0,
+            "value": 39.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c7edcff1/w3728200145/220g-105i-239c-39a-7h-7w-5b-39r-39a-7h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2026/ROSHAMBONITE/ROSHAMBONITE_220g-105i-239c-39a-7h-7w-5b-39r-39a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-06T16:16:35.789466754Z"
+}
