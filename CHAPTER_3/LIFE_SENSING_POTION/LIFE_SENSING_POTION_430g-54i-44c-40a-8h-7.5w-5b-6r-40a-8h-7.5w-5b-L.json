@@ -1,20 +1,20 @@
 {
     "puzzle": "LIFE_SENSING_POTION",
     "score": {
-        "cost": 435,
+        "cost": 430,
         "instructions": 54,
         "overlap": false,
         "trackless": false,
         "cycles": 44,
-        "area": 41,
+        "area": 40,
         "height": 8,
-        "width": 8.0,
-        "boundingHex": 6,
+        "width": 7.5,
+        "boundingHex": 5,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 41.0
+            "value": 40.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/b7cf3a99/P030b/435g-54i-44c-41a-8h-8w-6b-6r-41a-8h-8w-6b-L",
-    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_435g-54i-44c-41a-8h-8w-6b-6r-41a-8h-8w-6b-L.solution",
-    "lastModified": "2026-11-06T15:16:52.088402159Z"
+    "dataLink": "https://lb.novae.observer/l/om/1605ae13/P030b/430g-54i-44c-40a-8h-7.5w-5b-6r-40a-8h-7.5w-5b-L",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_430g-54i-44c-40a-8h-7.5w-5b-6r-40a-8h-7.5w-5b-L.solution",
+    "lastModified": "2026-11-06T15:17:32.604554445Z"
 }
