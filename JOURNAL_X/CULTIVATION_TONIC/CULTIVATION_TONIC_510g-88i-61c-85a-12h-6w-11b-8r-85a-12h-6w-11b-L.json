@@ -2,27 +2,27 @@
     "puzzle": "CULTIVATION_TONIC",
     "score": {
         "cost": 510,
-        "instructions": 90,
+        "instructions": 88,
         "overlap": false,
         "trackless": false,
         "cycles": 61,
-        "area": 87,
-        "height": 13,
-        "width": 6.5,
+        "area": 85,
+        "height": 12,
+        "width": 6.0,
         "boundingHex": 11,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 87.0
+            "value": 85.0
         },
         "heightINF": {
             "level": 0,
-            "value": 13.0
+            "value": 12.0
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4000b373/P249/510g-90i-61c-87a-13h-6.5w-11b-8r-87a-13h-6.5w-11b-L",
-    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_510g-90i-61c-87a-13h-6.5w-11b-8r-87a-13h-6.5w-11b-L.solution",
-    "lastModified": "2026-11-06T14:23:10.408677065Z"
+    "dataLink": "https://lb.novae.observer/l/om/eaf25342/P249/510g-88i-61c-85a-12h-6w-11b-8r-85a-12h-6w-11b-L",
+    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_510g-88i-61c-85a-12h-6w-11b-8r-85a-12h-6w-11b-L.solution",
+    "lastModified": "2026-11-06T14:23:14.854706687Z"
 }
