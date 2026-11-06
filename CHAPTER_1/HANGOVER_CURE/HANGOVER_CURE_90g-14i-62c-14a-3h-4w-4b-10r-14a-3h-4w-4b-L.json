@@ -1,8 +1,8 @@
 {
     "puzzle": "HANGOVER_CURE",
     "score": {
-        "cost": 95,
-        "instructions": 15,
+        "cost": 90,
+        "instructions": 14,
         "overlap": false,
         "trackless": false,
         "cycles": 62,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/HANGOVER_CURE/95g-62c-14a-15i-360823a4.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P013/95g-15i-62c-14a-3h-4w-4b-10r-14a-3h-4w-4b-L",
-    "dataPath": "CHAPTER_1/HANGOVER_CURE/HANGOVER_CURE_95g-15i-62c-14a-3h-4w-4b-10r-14a-3h-4w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d0e10fab/P013/90g-14i-62c-14a-3h-4w-4b-10r-14a-3h-4w-4b-L",
+    "dataPath": "CHAPTER_1/HANGOVER_CURE/HANGOVER_CURE_90g-14i-62c-14a-3h-4w-4b-10r-14a-3h-4w-4b-L.solution",
+    "lastModified": "2026-11-06T13:32:48.270917671Z"
 }
