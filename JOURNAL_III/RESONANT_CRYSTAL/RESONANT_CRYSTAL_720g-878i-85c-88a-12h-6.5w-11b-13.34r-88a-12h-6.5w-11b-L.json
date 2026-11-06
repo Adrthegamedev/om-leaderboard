@@ -1,0 +1,36 @@
+{
+    "puzzle": "RESONANT_CRYSTAL",
+    "score": {
+        "cost": 720,
+        "instructions": 878,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 85,
+        "area": 88,
+        "height": 12,
+        "width": 6.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 13.34,
+        "areaINF": {
+            "level": 0,
+            "value": 88.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f9df9a36/P066/720g-878i-85c-88a-12h-6.5w-11b-13.34r-88a-12h-6.5w-11b-L",
+    "dataPath": "JOURNAL_III/RESONANT_CRYSTAL/RESONANT_CRYSTAL_720g-878i-85c-88a-12h-6.5w-11b-13.34r-88a-12h-6.5w-11b-L.solution",
+    "lastModified": "2026-11-06T16:10:21.753885338Z"
+}
