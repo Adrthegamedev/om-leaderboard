@@ -2,23 +2,23 @@
     "puzzle": "ELEMENTAL_COPPER",
     "score": {
         "cost": 430,
-        "instructions": 72,
+        "instructions": 48,
         "overlap": false,
         "trackless": false,
         "cycles": 12,
         "area": 24,
-        "height": 7,
+        "height": 6,
         "width": 4.5,
         "boundingHex": 4,
-        "looping": true,
-        "rate": 1.5,
+        "looping": false,
+        "rate": 1.0,
         "areaINF": {
             "level": 0,
             "value": 24.0
         },
         "heightINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/77b5feca/P202/430g-72i-12c-24a-7h-4.5w-4b-1.5r-24a-7h-4.5w-4b-L",
-    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_430g-72i-12c-24a-7h-4.5w-4b-1.5r-24a-7h-4.5w-4b-L.solution",
-    "lastModified": "2026-11-06T14:01:38.942289213Z"
+    "dataLink": "https://lb.novae.observer/l/om/f1297b3f/P202/430g-48i-12c-24a-6h-4.5w-4b-1r-24a-6h-4.5w-4b",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_430g-48i-12c-24a-6h-4.5w-4b-1r-24a-6h-4.5w-4b.solution",
+    "lastModified": "2026-11-06T14:02:06.346278852Z"
 }
