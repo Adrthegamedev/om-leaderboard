@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 133,
-        "area": 109,
+        "area": 104,
         "height": null,
         "width": null,
         "boundingHex": null,
@@ -14,14 +14,14 @@
         "rate": 10.34,
         "areaINF": {
             "level": 0,
-            "value": 109.0
+            "value": 104.0
         },
         "heightINF": null,
         "widthINF": null,
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/ba29b2e6/w2788067624/480g-948i-133c-109a-10.34r-109a-L",
-    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_480g-948i-133c-109a-10.34r-109a-L.solution",
-    "lastModified": "2026-11-03T20:16:26.409059103Z"
+    "dataLink": "https://lb.novae.observer/l/om/34ac46d6/w2788067624/480g-948i-133c-104a-10.34r-104a-L",
+    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_480g-948i-133c-104a-10.34r-104a-L.solution",
+    "lastModified": "2026-11-06T08:55:53.642549340Z"
 }
