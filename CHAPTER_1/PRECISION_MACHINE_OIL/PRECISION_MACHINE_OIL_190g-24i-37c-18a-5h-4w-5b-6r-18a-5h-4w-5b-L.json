@@ -1,24 +1,24 @@
 {
     "puzzle": "PRECISION_MACHINE_OIL",
     "score": {
-        "cost": 200,
+        "cost": 190,
         "instructions": 24,
         "overlap": false,
         "trackless": false,
         "cycles": 37,
-        "area": 17,
-        "height": 4,
+        "area": 18,
+        "height": 5,
         "width": 4.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 17.0
+            "value": 18.0
         },
         "heightINF": {
             "level": 0,
-            "value": 4.0
+            "value": 5.0
         },
         "widthINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/Precision-Machine-Oil-200g-37c-17a-24i-4h-4w-6r-17236c.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P012/200g-24i-37c-17a-4h-4w-5b-6r-17a-4h-4w-5b-L",
-    "dataPath": "CHAPTER_1/PRECISION_MACHINE_OIL/PRECISION_MACHINE_OIL_200g-24i-37c-17a-4h-4w-5b-6r-17a-4h-4w-5b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/217bb276/P012/190g-24i-37c-18a-5h-4w-5b-6r-18a-5h-4w-5b-L",
+    "dataPath": "CHAPTER_1/PRECISION_MACHINE_OIL/PRECISION_MACHINE_OIL_190g-24i-37c-18a-5h-4w-5b-6r-18a-5h-4w-5b-L.solution",
+    "lastModified": "2026-11-06T13:33:36.597113254Z"
 }
