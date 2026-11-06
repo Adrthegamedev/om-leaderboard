@@ -1,0 +1,36 @@
+{
+    "puzzle": "CULTIVATION_TONIC",
+    "score": {
+        "cost": 360,
+        "instructions": 52,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 45,
+        "area": 78,
+        "height": 11,
+        "width": 9.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 78.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5ef5f196/P249/360g-52i-45c-78a-11h-9w-8b-7r-78a-11h-9w-8b-L",
+    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_360g-52i-45c-78a-11h-9w-8b-7r-78a-11h-9w-8b-L.solution",
+    "lastModified": "2026-11-06T14:22:39.968002268Z"
+}
