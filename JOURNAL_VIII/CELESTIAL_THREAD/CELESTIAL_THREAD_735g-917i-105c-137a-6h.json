@@ -1,0 +1,24 @@
+{
+    "puzzle": "CELESTIAL_THREAD",
+    "score": {
+        "cost": 735,
+        "instructions": 917,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 105,
+        "area": 137,
+        "height": 6,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/416c89d5/P101/735g-917i-105c-137a-6h",
+    "dataPath": "JOURNAL_VIII/CELESTIAL_THREAD/CELESTIAL_THREAD_735g-917i-105c-137a-6h.solution",
+    "lastModified": "2026-11-06T15:36:43.865731029Z"
+}
