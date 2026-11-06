@@ -1,12 +1,12 @@
 {
     "puzzle": "GENERAL_ANAESTHETIC",
     "score": {
-        "cost": 1355,
+        "cost": 1345,
         "instructions": 260,
         "overlap": false,
         "trackless": false,
         "cycles": 39,
-        "area": 175,
+        "area": 176,
         "height": 16,
         "width": 11.5,
         "boundingHex": 11,
@@ -14,7 +14,7 @@
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 175.0
+            "value": 176.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 11.0
         }
     },
-    "displayLink": "https://files.mors.technology/GENERAL_ANAESTHETIC/1355g-39c-175a-260i-8334e98e.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P086/1355g-260i-39c-175a-16h-11.5w-11b-6r-175a-16h-11.5w-11b-L",
-    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_1355g-260i-39c-175a-16h-11.5w-11b-6r-175a-16h-11.5w-11b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8ff809c0/P086/1345g-260i-39c-176a-16h-11.5w-11b-6r-176a-16h-11.5w-11b-L",
+    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_1345g-260i-39c-176a-16h-11.5w-11b-6r-176a-16h-11.5w-11b-L.solution",
+    "lastModified": "2026-11-06T14:09:07.510935013Z"
 }
