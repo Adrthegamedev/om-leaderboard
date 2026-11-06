@@ -1,0 +1,36 @@
+{
+    "puzzle": "QUINTESSENTIAL_MEDIUM",
+    "score": {
+        "cost": 4375,
+        "instructions": 2099,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 551,
+        "area": 852,
+        "height": 3,
+        "width": 148.5,
+        "boundingHex": 150,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 852.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 148.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 150.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b82face7/P107/4375g-2099i-551c-852a-3h-148.5w-150b-6r-852a-3h-148.5w-150b-OL",
+    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_4375g-2099i-551c-852a-3h-148.5w-150b-6r-852a-3h-148.5w-150b-OL.solution",
+    "lastModified": "2026-11-06T13:54:03.433686923Z"
+}
