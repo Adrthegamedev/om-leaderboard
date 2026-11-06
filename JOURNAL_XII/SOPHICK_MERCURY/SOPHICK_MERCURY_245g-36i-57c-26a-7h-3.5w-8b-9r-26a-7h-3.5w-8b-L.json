@@ -1,0 +1,36 @@
+{
+    "puzzle": "SOPHICK_MERCURY",
+    "score": {
+        "cost": 245,
+        "instructions": 36,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 57,
+        "area": 26,
+        "height": 7,
+        "width": 3.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/4f6441de/P250/245g-36i-57c-26a-7h-3.5w-8b-9r-26a-7h-3.5w-8b-L",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_245g-36i-57c-26a-7h-3.5w-8b-9r-26a-7h-3.5w-8b-L.solution",
+    "lastModified": "2026-11-06T15:21:22.568904985Z"
+}
