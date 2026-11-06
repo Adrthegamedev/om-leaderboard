@@ -3,10 +3,10 @@
     "score": {
         "cost": 680,
         "instructions": 100,
-        "overlap": true,
+        "overlap": false,
         "trackless": false,
         "cycles": 61,
-        "area": 74,
+        "area": 75,
         "height": 10,
         "width": 9.5,
         "boundingHex": 8,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 74.0
+            "value": 75.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/529f67db/w2501728219/680g-100i-61c-74a-10h-9.5w-8b-8r-74a-10h-9.5w-8b-OL",
-    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_680g-100i-61c-74a-10h-9.5w-8b-8r-74a-10h-9.5w-8b-OL.solution",
-    "lastModified": "2026-11-06T15:54:05.283040519Z"
+    "dataLink": "https://lb.novae.observer/l/om/a860ef8d/w2501728219/680g-100i-61c-75a-10h-9.5w-8b-8r-75a-10h-9.5w-8b-L",
+    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_680g-100i-61c-75a-10h-9.5w-8b-8r-75a-10h-9.5w-8b-L.solution",
+    "lastModified": "2026-11-06T15:54:42.434691587Z"
 }
