@@ -9,7 +9,7 @@
         "area": 206,
         "height": 14,
         "width": 13.0,
-        "boundingHex": 15,
+        "boundingHex": 14,
         "looping": false,
         "rate": 2.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 15.0
+            "value": 14.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/61baa61d/P264/995g-272i-29c-206a-14h-13w-15b-2r-206a-14h-13w-15b",
-    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_995g-272i-29c-206a-14h-13w-15b-2r-206a-14h-13w-15b.solution",
-    "lastModified": "2026-11-06T13:32:11.065217173Z"
+    "dataLink": "https://lb.novae.observer/l/om/603978c0/P264/995g-272i-29c-206a-14h-13w-14b-2r-206a-14h-13w-14b",
+    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_995g-272i-29c-206a-14h-13w-14b-2r-206a-14h-13w-14b.solution",
+    "lastModified": "2026-11-06T13:32:24.015450362Z"
 }
