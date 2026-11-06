@@ -6,19 +6,19 @@
         "overlap": false,
         "trackless": false,
         "cycles": 201,
-        "area": 89,
-        "height": 10,
+        "area": 88,
+        "height": 9,
         "width": 9.5,
         "boundingHex": 8,
         "looping": true,
         "rate": 24.0,
         "areaINF": {
             "level": 0,
-            "value": 89.0
+            "value": 88.0
         },
         "heightINF": {
             "level": 0,
-            "value": 10.0
+            "value": 9.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/6916f87e/w3210138102/440g-56i-201c-89a-10h-9.5w-8b-24r-89a-10h-9.5w-8b-L",
-    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_440g-56i-201c-89a-10h-9.5w-8b-24r-89a-10h-9.5w-8b-L.solution",
-    "lastModified": "2026-11-06T14:14:00.194878018Z"
+    "dataLink": "https://lb.novae.observer/l/om/b716804e/w3210138102/440g-56i-201c-88a-9h-9.5w-8b-24r-88a-9h-9.5w-8b-L",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_440g-56i-201c-88a-9h-9.5w-8b-24r-88a-9h-9.5w-8b-L.solution",
+    "lastModified": "2026-11-06T14:14:13.456866162Z"
 }
