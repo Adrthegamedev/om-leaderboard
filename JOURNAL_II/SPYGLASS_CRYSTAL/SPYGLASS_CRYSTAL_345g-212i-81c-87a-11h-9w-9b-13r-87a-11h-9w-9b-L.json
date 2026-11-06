@@ -2,23 +2,23 @@
     "puzzle": "SPYGLASS_CRYSTAL",
     "score": {
         "cost": 345,
-        "instructions": 236,
+        "instructions": 212,
         "overlap": false,
         "trackless": false,
         "cycles": 81,
-        "area": 86,
-        "height": 10,
+        "area": 87,
+        "height": 11,
         "width": 9.0,
         "boundingHex": 9,
         "looping": true,
         "rate": 13.0,
         "areaINF": {
             "level": 0,
-            "value": 86.0
+            "value": 87.0
         },
         "heightINF": {
             "level": 0,
-            "value": 10.0
+            "value": 11.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/408dde8d/P063/345g-236i-81c-86a-10h-9w-9b-13r-86a-10h-9w-9b-L",
-    "dataPath": "JOURNAL_II/SPYGLASS_CRYSTAL/SPYGLASS_CRYSTAL_345g-236i-81c-86a-10h-9w-9b-13r-86a-10h-9w-9b-L.solution",
-    "lastModified": "2026-11-06T15:27:07.038812232Z"
+    "dataLink": "https://lb.novae.observer/l/om/cb2dd2ef/P063/345g-212i-81c-87a-11h-9w-9b-13r-87a-11h-9w-9b-L",
+    "dataPath": "JOURNAL_II/SPYGLASS_CRYSTAL/SPYGLASS_CRYSTAL_345g-212i-81c-87a-11h-9w-9b-13r-87a-11h-9w-9b-L.solution",
+    "lastModified": "2026-11-06T15:27:16.495173839Z"
 }
