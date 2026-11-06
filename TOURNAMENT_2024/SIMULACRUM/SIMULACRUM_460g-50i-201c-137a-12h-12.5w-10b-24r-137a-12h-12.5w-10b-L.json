@@ -1,7 +1,7 @@
 {
     "puzzle": "SIMULACRUM",
     "score": {
-        "cost": 465,
+        "cost": 460,
         "instructions": 50,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/9c0f4da4/w3210138102/465g-50i-201c-137a-12h-12.5w-10b-24r-137a-12h-12.5w-10b-L",
-    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_465g-50i-201c-137a-12h-12.5w-10b-24r-137a-12h-12.5w-10b-L.solution",
-    "lastModified": "2026-11-06T14:14:04.781832705Z"
+    "dataLink": "https://lb.novae.observer/l/om/1fb60f01/w3210138102/460g-50i-201c-137a-12h-12.5w-10b-24r-137a-12h-12.5w-10b-L",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_460g-50i-201c-137a-12h-12.5w-10b-24r-137a-12h-12.5w-10b-L.solution",
+    "lastModified": "2026-11-06T14:14:30.951353433Z"
 }
