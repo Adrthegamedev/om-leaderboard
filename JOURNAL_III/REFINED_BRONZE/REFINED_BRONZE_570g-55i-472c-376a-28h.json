@@ -1,0 +1,24 @@
+{
+    "puzzle": "REFINED_BRONZE",
+    "score": {
+        "cost": 570,
+        "instructions": 55,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 472,
+        "area": 376,
+        "height": 28,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/def7dc6e/P067/570g-55i-472c-376a-28h",
+    "dataPath": "JOURNAL_III/REFINED_BRONZE/REFINED_BRONZE_570g-55i-472c-376a-28h.solution",
+    "lastModified": "2026-11-06T16:11:02.793578422Z"
+}
