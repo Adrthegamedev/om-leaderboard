@@ -8,7 +8,7 @@
         "cycles": 535,
         "area": 37,
         "height": 7,
-        "width": 7.0,
+        "width": 6.5,
         "boundingHex": 5,
         "looping": true,
         "rate": 90.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/7461e0e4/OM2024Weeklies_InstantMirrorCoat/255g-29i-535c-37a-7h-7w-5b-90r-37a-7h-7w-5b-L",
-    "dataPath": "WEEKLIES_2024/INSTANT_MIRROR_COAT/INSTANT_MIRROR_COAT_255g-29i-535c-37a-7h-7w-5b-90r-37a-7h-7w-5b-L.solution",
-    "lastModified": "2026-11-06T16:08:01.375211007Z"
+    "dataLink": "https://lb.novae.observer/l/om/ff377cf1/OM2024Weeklies_InstantMirrorCoat/255g-29i-535c-37a-7h-6.5w-5b-90r-37a-7h-6.5w-5b-L",
+    "dataPath": "WEEKLIES_2024/INSTANT_MIRROR_COAT/INSTANT_MIRROR_COAT_255g-29i-535c-37a-7h-6.5w-5b-90r-37a-7h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-06T16:08:23.061016672Z"
 }
