@@ -5,16 +5,16 @@
         "instructions": 16,
         "overlap": false,
         "trackless": false,
-        "cycles": 58,
-        "area": 21,
+        "cycles": 37,
+        "area": 17,
         "height": 4,
-        "width": 5.0,
+        "width": 4.5,
         "boundingHex": 4,
         "looping": true,
-        "rate": 10.0,
+        "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 21.0
+            "value": 17.0
         },
         "heightINF": {
             "level": 0,
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.5
         },
         "boundingHexINF": {
             "level": 0,
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/HEALTH_TONIC/100g-58c-21a-16i-a68b8ac3.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P014/100g-16i-58c-21a-4h-5w-4b-10r-21a-4h-5w-4b-L",
-    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_100g-16i-58c-21a-4h-5w-4b-10r-21a-4h-5w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ae159ed6/P014/100g-16i-37c-17a-4h-4.5w-4b-6r-17a-4h-4.5w-4b-L",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_100g-16i-37c-17a-4h-4.5w-4b-6r-17a-4h-4.5w-4b-L.solution",
+    "lastModified": "2026-11-06T13:36:27.405342584Z"
 }
