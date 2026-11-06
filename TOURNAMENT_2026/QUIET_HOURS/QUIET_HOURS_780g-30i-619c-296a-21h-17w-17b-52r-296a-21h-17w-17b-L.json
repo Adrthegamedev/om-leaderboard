@@ -1,12 +1,12 @@
 {
     "puzzle": "QUIET_HOURS",
     "score": {
-        "cost": 790,
+        "cost": 780,
         "instructions": 30,
         "overlap": false,
         "trackless": false,
         "cycles": 619,
-        "area": 295,
+        "area": 296,
         "height": 21,
         "width": 17.0,
         "boundingHex": 17,
@@ -14,7 +14,7 @@
         "rate": 52.0,
         "areaINF": {
             "level": 0,
-            "value": 295.0
+            "value": 296.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 17.0
         }
     },
-    "displayLink": "https://files.mors.technology/QUIET_HOURS/790g-619c-295a-30i-e962b792.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3728199426/790g-30i-619c-295a-21h-17w-17b-52r-295a-21h-17w-17b-L",
-    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_790g-30i-619c-295a-21h-17w-17b-52r-295a-21h-17w-17b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/955a4617/w3728199426/780g-30i-619c-296a-21h-17w-17b-52r-296a-21h-17w-17b-L",
+    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_780g-30i-619c-296a-21h-17w-17b-52r-296a-21h-17w-17b-L.solution",
+    "lastModified": "2026-11-06T16:17:48.191544716Z"
 }
