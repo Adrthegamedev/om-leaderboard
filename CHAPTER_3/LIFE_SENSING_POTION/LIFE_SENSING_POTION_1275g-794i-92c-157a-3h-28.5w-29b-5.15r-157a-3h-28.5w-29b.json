@@ -1,7 +1,7 @@
 {
     "puzzle": "LIFE_SENSING_POTION",
     "score": {
-        "cost": 1295,
+        "cost": 1275,
         "instructions": 794,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 29.0
         }
     },
-    "displayLink": "https://files.mors.technology/LIFE_SENSING_POTION/1295g-92c-157a-794i-9b5a179c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P030b/1295g-794i-92c-157a-3h-28.5w-29b-5.15r-157a-3h-28.5w-29b",
-    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_1295g-794i-92c-157a-3h-28.5w-29b-5.15r-157a-3h-28.5w-29b.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e4296c41/P030b/1275g-794i-92c-157a-3h-28.5w-29b-5.15r-157a-3h-28.5w-29b",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_1275g-794i-92c-157a-3h-28.5w-29b-5.15r-157a-3h-28.5w-29b.solution",
+    "lastModified": "2026-11-06T15:17:23.946755641Z"
 }
