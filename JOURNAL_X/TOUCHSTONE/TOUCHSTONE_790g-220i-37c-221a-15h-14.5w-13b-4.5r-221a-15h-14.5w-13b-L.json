@@ -1,7 +1,7 @@
 {
     "puzzle": "TOUCHSTONE",
     "score": {
-        "cost": 800,
+        "cost": 790,
         "instructions": 220,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://files.mors.technology/TOUCHSTONE/800g-37c-221a-220i-4d488934.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P245/800g-220i-37c-221a-15h-14.5w-13b-4.5r-221a-15h-14.5w-13b-L",
-    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_800g-220i-37c-221a-15h-14.5w-13b-4.5r-221a-15h-14.5w-13b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/414cff29/P245/790g-220i-37c-221a-15h-14.5w-13b-4.5r-221a-15h-14.5w-13b-L",
+    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_790g-220i-37c-221a-15h-14.5w-13b-4.5r-221a-15h-14.5w-13b-L.solution",
+    "lastModified": "2026-11-06T14:24:38.092854081Z"
 }
