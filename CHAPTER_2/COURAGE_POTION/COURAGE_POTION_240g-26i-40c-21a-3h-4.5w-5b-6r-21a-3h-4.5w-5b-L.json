@@ -9,7 +9,7 @@
         "area": 21,
         "height": 3,
         "width": 4.5,
-        "boundingHex": 6,
+        "boundingHex": 5,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/2dc3fd50/P021/240g-26i-40c-21a-3h-4.5w-6b-6r-21a-3h-4.5w-6b-L",
-    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_240g-26i-40c-21a-3h-4.5w-6b-6r-21a-3h-4.5w-6b-L.solution",
-    "lastModified": "2026-11-06T14:44:52.657263144Z"
+    "dataLink": "https://lb.novae.observer/l/om/5ce888b0/P021/240g-26i-40c-21a-3h-4.5w-5b-6r-21a-3h-4.5w-5b-L",
+    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_240g-26i-40c-21a-3h-4.5w-5b-6r-21a-3h-4.5w-5b-L.solution",
+    "lastModified": "2026-11-06T14:45:47.907868596Z"
 }
