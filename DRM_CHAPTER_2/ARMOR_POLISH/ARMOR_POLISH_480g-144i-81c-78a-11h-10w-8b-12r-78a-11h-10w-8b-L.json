@@ -8,7 +8,7 @@
         "cycles": 81,
         "area": 78,
         "height": 11,
-        "width": 10.5,
+        "width": 10.0,
         "boundingHex": 8,
         "looping": true,
         "rate": 12.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.5
+            "value": 10.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4d72b7b7/P213/480g-144i-81c-78a-11h-10.5w-8b-12r-78a-11h-10.5w-8b-L",
-    "dataPath": "DRM_CHAPTER_2/ARMOR_POLISH/ARMOR_POLISH_480g-144i-81c-78a-11h-10.5w-8b-12r-78a-11h-10.5w-8b-L.solution",
-    "lastModified": "2026-11-06T15:47:43.347412469Z"
+    "dataLink": "https://lb.novae.observer/l/om/482d2ec7/P213/480g-144i-81c-78a-11h-10w-8b-12r-78a-11h-10w-8b-L",
+    "dataPath": "DRM_CHAPTER_2/ARMOR_POLISH/ARMOR_POLISH_480g-144i-81c-78a-11h-10w-8b-12r-78a-11h-10w-8b-L.solution",
+    "lastModified": "2026-11-06T15:47:47.891856363Z"
 }
