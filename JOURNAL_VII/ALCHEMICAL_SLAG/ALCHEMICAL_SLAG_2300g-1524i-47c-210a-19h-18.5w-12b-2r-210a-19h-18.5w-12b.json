@@ -1,20 +1,20 @@
 {
     "puzzle": "ALCHEMICAL_SLAG",
     "score": {
-        "cost": 2305,
+        "cost": 2300,
         "instructions": 1524,
         "overlap": false,
         "trackless": false,
         "cycles": 47,
-        "area": 211,
+        "area": 210,
         "height": 19,
         "width": 18.5,
-        "boundingHex": 13,
+        "boundingHex": 12,
         "looping": false,
         "rate": 2.0,
         "areaINF": {
             "level": 0,
-            "value": 211.0
+            "value": 210.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 13.0
+            "value": 12.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/712b370b/P099/2305g-1524i-47c-211a-19h-18.5w-13b-2r-211a-19h-18.5w-13b",
-    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_2305g-1524i-47c-211a-19h-18.5w-13b-2r-211a-19h-18.5w-13b.solution",
-    "lastModified": "2026-11-06T14:59:58.364399486Z"
+    "dataLink": "https://lb.novae.observer/l/om/aae566f4/P099/2300g-1524i-47c-210a-19h-18.5w-12b-2r-210a-19h-18.5w-12b",
+    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_2300g-1524i-47c-210a-19h-18.5w-12b-2r-210a-19h-18.5w-12b.solution",
+    "lastModified": "2026-11-06T15:00:22.548495921Z"
 }
