@@ -8,7 +8,7 @@
         "cycles": 61,
         "area": 31,
         "height": 6,
-        "width": 6.5,
+        "width": 6.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 10.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/0ab6824a/P054/210g-41i-61c-31a-6h-6.5w-5b-10r-31a-6h-6.5w-5b-L",
-    "dataPath": "JOURNAL_I/VAN_BERLO_S_WHEEL/VAN_BERLO_S_WHEEL_210g-41i-61c-31a-6h-6.5w-5b-10r-31a-6h-6.5w-5b-L.solution",
-    "lastModified": "2026-11-06T16:03:17.935484375Z"
+    "dataLink": "https://lb.novae.observer/l/om/b4c66160/P054/210g-41i-61c-31a-6h-6w-5b-10r-31a-6h-6w-5b-L",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_WHEEL/VAN_BERLO_S_WHEEL_210g-41i-61c-31a-6h-6w-5b-10r-31a-6h-6w-5b-L.solution",
+    "lastModified": "2026-11-06T16:03:37.636733338Z"
 }
