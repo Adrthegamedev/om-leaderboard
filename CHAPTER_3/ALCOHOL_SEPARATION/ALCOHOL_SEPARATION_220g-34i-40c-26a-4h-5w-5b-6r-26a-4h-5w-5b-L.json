@@ -1,20 +1,20 @@
 {
     "puzzle": "ALCOHOL_SEPARATION",
     "score": {
-        "cost": 225,
+        "cost": 220,
         "instructions": 34,
         "overlap": false,
         "trackless": false,
         "cycles": 40,
-        "area": 27,
+        "area": 26,
         "height": 4,
-        "width": 6.0,
-        "boundingHex": 6,
+        "width": 5.0,
+        "boundingHex": 5,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 27.0
+            "value": 26.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/48865b2c/P024/225g-34i-40c-27a-4h-6w-6b-6r-27a-4h-6w-6b-L",
-    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_225g-34i-40c-27a-4h-6w-6b-6r-27a-4h-6w-6b-L.solution",
-    "lastModified": "2026-11-06T15:15:20.217445068Z"
+    "dataLink": "https://lb.novae.observer/l/om/2e61fe63/P024/220g-34i-40c-26a-4h-5w-5b-6r-26a-4h-5w-5b-L",
+    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_220g-34i-40c-26a-4h-5w-5b-6r-26a-4h-5w-5b-L.solution",
+    "lastModified": "2026-11-06T15:16:08.215748379Z"
 }
