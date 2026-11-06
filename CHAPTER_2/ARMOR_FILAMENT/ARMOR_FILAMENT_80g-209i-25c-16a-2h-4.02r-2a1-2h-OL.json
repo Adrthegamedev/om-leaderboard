@@ -1,0 +1,30 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 80,
+        "instructions": 209,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 25,
+        "area": 16,
+        "height": 2,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.02,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b41190fb/P020/80g-209i-25c-16a-2h-4.02r-2a1-2h-OL",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/ARMOR_FILAMENT_80g-209i-25c-16a-2h-4.02r-2a1-2h-OL.solution",
+    "lastModified": "2026-11-06T08:57:27.580513815Z"
+}
