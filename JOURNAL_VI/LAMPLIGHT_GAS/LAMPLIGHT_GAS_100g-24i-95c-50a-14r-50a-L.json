@@ -1,0 +1,27 @@
+{
+    "puzzle": "LAMPLIGHT_GAS",
+    "score": {
+        "cost": 100,
+        "instructions": 24,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 95,
+        "area": 50,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 50.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/bc086058/P092/100g-24i-95c-50a-14r-50a-L",
+    "dataPath": "JOURNAL_VI/LAMPLIGHT_GAS/LAMPLIGHT_GAS_100g-24i-95c-50a-14r-50a-L.solution",
+    "lastModified": "2026-11-06T15:13:20.296574677Z"
+}
