@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 34,
         "area": 59,
-        "height": 9,
+        "height": 8,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -18,13 +18,13 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         },
         "widthINF": null,
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/90c78fbd/P209/390g-92i-34c-59a-9h-4r-4a1-9h-L",
-    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_390g-92i-34c-59a-9h-4r-4a1-9h-L.solution",
-    "lastModified": "2026-11-06T15:49:58.995710657Z"
+    "dataLink": "https://lb.novae.observer/l/om/a873ef55/P209/390g-92i-34c-59a-8h-4r-4a1-8h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_390g-92i-34c-59a-8h-4r-4a1-8h-L.solution",
+    "lastModified": "2026-11-06T15:50:03.657603495Z"
 }
