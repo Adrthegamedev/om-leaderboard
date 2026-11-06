@@ -1,7 +1,7 @@
 {
     "puzzle": "EXPLOSIVE_PHIAL",
     "score": {
-        "cost": 320,
+        "cost": 300,
         "instructions": 31,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/EXPLOSIVE_PHIAL/320g-30c-24a-31i-cd4fee7f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P017/320g-31i-30c-24a-6h-6w-4b-4r-24a-6h-6w-4b-L",
-    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_320g-31i-30c-24a-6h-6w-4b-4r-24a-6h-6w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ae1a60e2/P017/300g-31i-30c-24a-6h-6w-4b-4r-24a-6h-6w-4b-L",
+    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_300g-31i-30c-24a-6h-6w-4b-4r-24a-6h-6w-4b-L.solution",
+    "lastModified": "2026-11-06T14:49:58.871895576Z"
 }
