@@ -1,7 +1,7 @@
 {
     "puzzle": "ASBESTOS",
     "score": {
-        "cost": 530,
+        "cost": 510,
         "instructions": 256,
         "overlap": false,
         "trackless": false,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/8ca48b18/w3584699215/530g-256i-41c-100a",
-    "dataPath": "WEEKLIES_2025/ASBESTOS/ASBESTOS_530g-256i-41c-100a.solution",
-    "lastModified": "2026-10-31T16:47:15.304648396Z"
+    "dataLink": "https://lb.novae.observer/l/om/45cebb31/w3584699215/510g-256i-41c-100a",
+    "dataPath": "WEEKLIES_2025/ASBESTOS/ASBESTOS_510g-256i-41c-100a.solution",
+    "lastModified": "2026-11-06T16:29:35.792588112Z"
 }
