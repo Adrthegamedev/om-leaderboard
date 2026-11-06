@@ -1,0 +1,36 @@
+{
+    "puzzle": "EXPERIMENTAL_CATALYST",
+    "score": {
+        "cost": 530,
+        "instructions": 214,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 229,
+        "area": 108,
+        "height": 6,
+        "width": 14.5,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 0,
+            "value": 108.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 13.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e55514b0/P220/530g-214i-229c-108a-6h-14.5w-13b-28r-108a-6h-14.5w-13b-L",
+    "dataPath": "DRM_CHAPTER_3/EXPERIMENTAL_CATALYST/EXPERIMENTAL_CATALYST_530g-214i-229c-108a-6h-14.5w-13b-28r-108a-6h-14.5w-13b-L.solution",
+    "lastModified": "2026-11-06T15:31:00.375700028Z"
+}
