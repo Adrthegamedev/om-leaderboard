@@ -1,12 +1,12 @@
 {
     "puzzle": "SIMULACRUM",
     "score": {
-        "cost": 675,
+        "cost": 665,
         "instructions": 110,
         "overlap": false,
         "trackless": false,
         "cycles": 51,
-        "area": 82,
+        "area": 83,
         "height": 9,
         "width": 9.5,
         "boundingHex": 9,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 82.0
+            "value": 83.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/SIMULACRUM/675g-51c-82a-110i-e81787bc.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3210138102/675g-110i-51c-82a-9h-9.5w-9b-8r-82a-9h-9.5w-9b-L",
-    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_675g-110i-51c-82a-9h-9.5w-9b-8r-82a-9h-9.5w-9b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e8739146/w3210138102/665g-110i-51c-83a-9h-9.5w-9b-8r-83a-9h-9.5w-9b-L",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_665g-110i-51c-83a-9h-9.5w-9b-8r-83a-9h-9.5w-9b-L.solution",
+    "lastModified": "2026-11-06T14:14:26.298568392Z"
 }
