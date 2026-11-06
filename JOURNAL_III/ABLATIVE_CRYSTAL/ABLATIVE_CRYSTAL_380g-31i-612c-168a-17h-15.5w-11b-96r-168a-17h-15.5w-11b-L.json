@@ -1,0 +1,36 @@
+{
+    "puzzle": "ABLATIVE_CRYSTAL",
+    "score": {
+        "cost": 380,
+        "instructions": 31,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 612,
+        "area": 168,
+        "height": 17,
+        "width": 15.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 96.0,
+        "areaINF": {
+            "level": 0,
+            "value": 168.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/065e6da5/P068/380g-31i-612c-168a-17h-15.5w-11b-96r-168a-17h-15.5w-11b-L",
+    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_380g-31i-612c-168a-17h-15.5w-11b-96r-168a-17h-15.5w-11b-L.solution",
+    "lastModified": "2026-11-06T16:11:54.164588425Z"
+}
