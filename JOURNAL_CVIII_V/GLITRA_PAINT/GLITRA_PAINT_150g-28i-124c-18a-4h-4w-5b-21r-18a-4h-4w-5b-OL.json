@@ -1,0 +1,36 @@
+{
+    "puzzle": "GLITRA_PAINT",
+    "score": {
+        "cost": 150,
+        "instructions": 28,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 124,
+        "area": 18,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 21.0,
+        "areaINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/4b7f56d0/P275/150g-28i-124c-18a-4h-4w-5b-21r-18a-4h-4w-5b-OL",
+    "dataPath": "JOURNAL_CVIII_V/GLITRA_PAINT/GLITRA_PAINT_150g-28i-124c-18a-4h-4w-5b-21r-18a-4h-4w-5b-OL.solution",
+    "lastModified": "2026-11-06T13:44:40.376348005Z"
+}
