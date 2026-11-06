@@ -1,0 +1,36 @@
+{
+    "puzzle": "SELF_ORGANIZING_FLUID",
+    "score": {
+        "cost": 1430,
+        "instructions": 468,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 20,
+        "area": 123,
+        "height": 13,
+        "width": 11.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 3.67,
+        "areaINF": {
+            "level": 0,
+            "value": 123.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f4b24ed4/w3446276105/1430g-468i-20c-123a-13h-11.5w-9b-3.67r-123a-13h-11.5w-9b-L",
+    "dataPath": "TOURNAMENT_2025/SELF_ORGANIZING_FLUID/SELF_ORGANIZING_FLUID_1430g-468i-20c-123a-13h-11.5w-9b-3.67r-123a-13h-11.5w-9b-L.solution",
+    "lastModified": "2026-11-06T14:42:49.863692236Z"
+}
