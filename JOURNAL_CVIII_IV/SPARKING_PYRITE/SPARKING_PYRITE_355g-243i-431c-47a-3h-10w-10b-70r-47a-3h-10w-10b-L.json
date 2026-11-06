@@ -1,0 +1,36 @@
+{
+    "puzzle": "SPARKING_PYRITE",
+    "score": {
+        "cost": 355,
+        "instructions": 243,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 431,
+        "area": 47,
+        "height": 3,
+        "width": 10.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 70.0,
+        "areaINF": {
+            "level": 0,
+            "value": 47.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1c1c1a0f/P274/355g-243i-431c-47a-3h-10w-10b-70r-47a-3h-10w-10b-L",
+    "dataPath": "JOURNAL_CVIII_IV/SPARKING_PYRITE/SPARKING_PYRITE_355g-243i-431c-47a-3h-10w-10b-70r-47a-3h-10w-10b-L.solution",
+    "lastModified": "2026-11-06T14:55:41.741874872Z"
+}
