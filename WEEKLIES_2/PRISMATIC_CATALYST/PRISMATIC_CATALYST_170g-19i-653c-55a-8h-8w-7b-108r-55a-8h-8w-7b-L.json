@@ -1,20 +1,20 @@
 {
     "puzzle": "PRISMATIC_CATALYST",
     "score": {
-        "cost": 175,
+        "cost": 170,
         "instructions": 19,
         "overlap": false,
         "trackless": false,
         "cycles": 653,
-        "area": 56,
+        "area": 55,
         "height": 8,
         "width": 8.0,
-        "boundingHex": 8,
+        "boundingHex": 7,
         "looping": true,
         "rate": 108.0,
         "areaINF": {
             "level": 0,
-            "value": 56.0
+            "value": 55.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/6186f108/w3817955190/175g-19i-653c-56a-8h-8w-8b-108r-56a-8h-8w-8b-L",
-    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_175g-19i-653c-56a-8h-8w-8b-108r-56a-8h-8w-8b-L.solution",
-    "lastModified": "2026-11-06T15:44:51.782315062Z"
+    "dataLink": "https://lb.novae.observer/l/om/89ddeb04/w3817955190/170g-19i-653c-55a-8h-8w-7b-108r-55a-8h-8w-7b-L",
+    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_170g-19i-653c-55a-8h-8w-7b-108r-55a-8h-8w-7b-L.solution",
+    "lastModified": "2026-11-06T15:46:03.799479204Z"
 }
