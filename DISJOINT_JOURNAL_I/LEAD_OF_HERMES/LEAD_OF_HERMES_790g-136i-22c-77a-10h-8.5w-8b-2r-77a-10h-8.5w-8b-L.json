@@ -1,12 +1,12 @@
 {
     "puzzle": "LEAD_OF_HERMES",
     "score": {
-        "cost": 800,
+        "cost": 790,
         "instructions": 136,
         "overlap": false,
         "trackless": false,
         "cycles": 22,
-        "area": 76,
+        "area": 77,
         "height": 10,
         "width": 8.5,
         "boundingHex": 8,
@@ -14,7 +14,7 @@
         "rate": 2.0,
         "areaINF": {
             "level": 0,
-            "value": 76.0
+            "value": 77.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/b139af64/DisjointJournal_LeadOfHermes/800g-136i-22c-76a-10h-8.5w-8b-2r-76a-10h-8.5w-8b-L",
-    "dataPath": "DISJOINT_JOURNAL_I/LEAD_OF_HERMES/LEAD_OF_HERMES_800g-136i-22c-76a-10h-8.5w-8b-2r-76a-10h-8.5w-8b-L.solution",
-    "lastModified": "2026-10-31T14:29:42.094465913Z"
+    "dataLink": "https://lb.novae.observer/l/om/6009f23d/DisjointJournal_LeadOfHermes/790g-136i-22c-77a-10h-8.5w-8b-2r-77a-10h-8.5w-8b-L",
+    "dataPath": "DISJOINT_JOURNAL_I/LEAD_OF_HERMES/LEAD_OF_HERMES_790g-136i-22c-77a-10h-8.5w-8b-2r-77a-10h-8.5w-8b-L.solution",
+    "lastModified": "2026-11-06T15:32:52.934042319Z"
 }
