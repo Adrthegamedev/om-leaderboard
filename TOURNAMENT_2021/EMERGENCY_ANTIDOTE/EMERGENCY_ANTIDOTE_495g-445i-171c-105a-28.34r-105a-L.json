@@ -1,0 +1,27 @@
+{
+    "puzzle": "EMERGENCY_ANTIDOTE",
+    "score": {
+        "cost": 495,
+        "instructions": 445,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 171,
+        "area": 105,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 28.34,
+        "areaINF": {
+            "level": 0,
+            "value": 105.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5a66aac1/w2450512232/495g-445i-171c-105a-28.34r-105a-L",
+    "dataPath": "TOURNAMENT_2021/EMERGENCY_ANTIDOTE/EMERGENCY_ANTIDOTE_495g-445i-171c-105a-28.34r-105a-L.solution",
+    "lastModified": "2026-11-06T16:27:30.948420658Z"
+}
