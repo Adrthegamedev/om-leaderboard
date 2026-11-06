@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 46,
         "area": 124,
-        "height": 16,
+        "height": 15,
         "width": 13.0,
         "boundingHex": 10,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 16.0
+            "value": 15.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/9caf4f4e/P304/920g-202i-46c-124a-16h-13w-10b-6r-124a-16h-13w-10b-L",
-    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_920g-202i-46c-124a-16h-13w-10b-6r-124a-16h-13w-10b-L.solution",
-    "lastModified": "2026-11-06T13:46:44.153507546Z"
+    "dataLink": "https://lb.novae.observer/l/om/5e5bc49f/P304/920g-202i-46c-124a-15h-13w-10b-6r-124a-15h-13w-10b-L",
+    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_920g-202i-46c-124a-15h-13w-10b-6r-124a-15h-13w-10b-L.solution",
+    "lastModified": "2026-11-06T13:46:48.705614902Z"
 }
