@@ -1,0 +1,36 @@
+{
+    "puzzle": "UNIVERSAL_COMPOUND",
+    "score": {
+        "cost": 490,
+        "instructions": 270,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 393,
+        "area": 70,
+        "height": 11,
+        "width": 6.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 65.0,
+        "areaINF": {
+            "level": 0,
+            "value": 70.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/014f04fd/P072/490g-270i-393c-70a-11h-6w-9b-65r-70a-11h-6w-9b-L",
+    "dataPath": "JOURNAL_IV/UNIVERSAL_COMPOUND/UNIVERSAL_COMPOUND_490g-270i-393c-70a-11h-6w-9b-65r-70a-11h-6w-9b-L.solution",
+    "lastModified": "2026-11-06T13:49:25.488384240Z"
+}
