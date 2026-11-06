@@ -1,0 +1,30 @@
+{
+    "puzzle": "LUBRICATING_FILAMENT",
+    "score": {
+        "cost": 165,
+        "instructions": 70,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 132,
+        "area": 93,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/222da083/P065/165g-70i-132c-93a-5h-20r-12a1-5h-L",
+    "dataPath": "JOURNAL_III/LUBRICATING_FILAMENT/LUBRICATING_FILAMENT_165g-70i-132c-93a-5h-20r-12a1-5h-L.solution",
+    "lastModified": "2026-11-06T16:08:47.337300814Z"
+}
