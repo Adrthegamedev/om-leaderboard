@@ -1,0 +1,30 @@
+{
+    "puzzle": "LAPIDARY_SAW",
+    "score": {
+        "cost": 720,
+        "instructions": 494,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 33,
+        "area": 265,
+        "height": 22,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.67,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1a92183c/P278/720g-494i-33c-265a-22h-4.67r-4a2-2h1-L",
+    "dataPath": "JOURNAL_CVIII_V/LAPIDARY_SAW/LAPIDARY_SAW_720g-494i-33c-265a-22h-4.67r-4a2-2h1-L.solution",
+    "lastModified": "2026-11-06T13:45:15.016448965Z"
+}
