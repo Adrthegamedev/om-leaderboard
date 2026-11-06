@@ -1,0 +1,36 @@
+{
+    "puzzle": "VAN_BERLO_S_PIVOTS",
+    "score": {
+        "cost": 370,
+        "instructions": 30,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 12,
+        "area": 23,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 5,
+        "looping": false,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b73d658c/P096/370g-30i-12c-23a-6h-5.5w-5b-4r-23a-6h-5.5w-5b-O",
+    "dataPath": "JOURNAL_VII/VAN_BERLO_S_PIVOTS/VAN_BERLO_S_PIVOTS_370g-30i-12c-23a-6h-5.5w-5b-4r-23a-6h-5.5w-5b-O.solution",
+    "lastModified": "2026-11-06T14:58:26.712993710Z"
+}
