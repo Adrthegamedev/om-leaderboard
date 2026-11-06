@@ -1,0 +1,36 @@
+{
+    "puzzle": "ELEMENTAL_JEWEL_SETTING",
+    "score": {
+        "cost": 215,
+        "instructions": 31,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 505,
+        "area": 65,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 84.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/80eb9cac/w2450512809/215g-31i-505c-65a-11h-10w-8b-84r-65a-11h-10w-8b-L",
+    "dataPath": "TOURNAMENT_2021/ELEMENTAL_JEWEL_SETTING/ELEMENTAL_JEWEL_SETTING_215g-31i-505c-65a-11h-10w-8b-84r-65a-11h-10w-8b-L.solution",
+    "lastModified": "2026-11-06T16:25:51.139982158Z"
+}
