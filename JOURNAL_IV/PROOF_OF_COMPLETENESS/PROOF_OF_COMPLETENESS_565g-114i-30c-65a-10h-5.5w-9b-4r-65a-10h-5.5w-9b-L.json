@@ -1,0 +1,36 @@
+{
+    "puzzle": "PROOF_OF_COMPLETENESS",
+    "score": {
+        "cost": 565,
+        "instructions": 114,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 30,
+        "area": 65,
+        "height": 10,
+        "width": 5.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ea88ac8c/P069/565g-114i-30c-65a-10h-5.5w-9b-4r-65a-10h-5.5w-9b-L",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/PROOF_OF_COMPLETENESS_565g-114i-30c-65a-10h-5.5w-9b-4r-65a-10h-5.5w-9b-L.solution",
+    "lastModified": "2026-11-06T13:49:02.567985230Z"
+}
