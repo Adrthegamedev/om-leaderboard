@@ -1,12 +1,12 @@
 {
     "puzzle": "EMBALMING_FLUID",
     "score": {
-        "cost": 1175,
-        "instructions": 860,
+        "cost": 1170,
+        "instructions": 234,
         "overlap": false,
         "trackless": false,
         "cycles": 78,
-        "area": 135,
+        "area": 134,
         "height": 13,
         "width": 12.5,
         "boundingHex": 10,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 135.0
+            "value": 134.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 10.0
         }
     },
-    "displayLink": "https://files.mors.technology/EMBALMING_FLUID/1175g-78c-135a-860i-5cd7f384.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P108/1175g-860i-78c-135a-13h-12.5w-10b-8r-135a-13h-12.5w-10b-L",
-    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1175g-860i-78c-135a-13h-12.5w-10b-8r-135a-13h-12.5w-10b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/02aea391/P108/1170g-234i-78c-134a-13h-12.5w-10b-8r-134a-13h-12.5w-10b-L",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1170g-234i-78c-134a-13h-12.5w-10b-8r-134a-13h-12.5w-10b-L.solution",
+    "lastModified": "2026-11-06T13:51:13.968923961Z"
 }
