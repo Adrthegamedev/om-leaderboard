@@ -1,0 +1,36 @@
+{
+    "puzzle": "ANIMISMUS_BUFFER",
+    "score": {
+        "cost": 485,
+        "instructions": 332,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 43,
+        "area": 82,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 6.67,
+        "areaINF": {
+            "level": 0,
+            "value": 82.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e3ade757/P104/485g-332i-43c-82a-11h-10w-8b-6.67r-82a-11h-10w-8b-L",
+    "dataPath": "JOURNAL_VIII/ANIMISMUS_BUFFER/ANIMISMUS_BUFFER_485g-332i-43c-82a-11h-10w-8b-6.67r-82a-11h-10w-8b-L.solution",
+    "lastModified": "2026-11-06T15:37:16.632158453Z"
+}
