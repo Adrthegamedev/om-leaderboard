@@ -1,0 +1,36 @@
+{
+    "puzzle": "INVISIBLE_INK",
+    "score": {
+        "cost": 175,
+        "instructions": 152,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 551,
+        "area": 27,
+        "height": 2,
+        "width": 8.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 91.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/784f31cf/P032/175g-152i-551c-27a-2h-8.5w-9b-91r-27a-2h-8.5w-9b-L",
+    "dataPath": "CHAPTER_4/INVISIBLE_INK/INVISIBLE_INK_175g-152i-551c-27a-2h-8.5w-9b-91r-27a-2h-8.5w-9b-L.solution",
+    "lastModified": "2026-11-06T15:02:34.346105489Z"
+}
