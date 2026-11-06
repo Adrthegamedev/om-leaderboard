@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 98,
         "area": 64,
-        "height": 12,
-        "width": 10.0,
+        "height": 10,
+        "width": 8.5,
         "boundingHex": 8,
         "looping": true,
         "rate": 16.0,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 12.0
+            "value": 10.0
         },
         "widthINF": {
             "level": 0,
-            "value": 10.0
+            "value": 8.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/394cf3f4/P058/425g-113i-98c-64a-12h-10w-8b-16r-64a-12h-10w-8b-L",
-    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_425g-113i-98c-64a-12h-10w-8b-16r-64a-12h-10w-8b-L.solution",
-    "lastModified": "2026-11-06T16:05:01.195426008Z"
+    "dataLink": "https://lb.novae.observer/l/om/8bc7baa7/P058/425g-113i-98c-64a-10h-8.5w-8b-16r-64a-10h-8.5w-8b-L",
+    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_425g-113i-98c-64a-10h-8.5w-8b-16r-64a-10h-8.5w-8b-L.solution",
+    "lastModified": "2026-11-06T16:05:05.567221964Z"
 }
