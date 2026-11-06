@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIXED_USE_LUBRICANT",
+    "score": {
+        "cost": 625,
+        "instructions": 134,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 73,
+        "area": 85,
+        "height": 4,
+        "width": 16.0,
+        "boundingHex": 16,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 16.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/052c8864/P205/625g-134i-73c-85a-4h-16w-16b-5r-85a-4h-16w-16b-L",
+    "dataPath": "DRM_CHAPTER_1/MIXED_USE_LUBRICANT/MIXED_USE_LUBRICANT_625g-134i-73c-85a-4h-16w-16b-5r-85a-4h-16w-16b-L.solution",
+    "lastModified": "2026-11-06T14:06:35.796641654Z"
+}
