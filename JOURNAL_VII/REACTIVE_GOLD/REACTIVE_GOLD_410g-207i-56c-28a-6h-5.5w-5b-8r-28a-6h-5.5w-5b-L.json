@@ -1,12 +1,12 @@
 {
     "puzzle": "REACTIVE_GOLD",
     "score": {
-        "cost": 420,
+        "cost": 410,
         "instructions": 207,
         "overlap": false,
         "trackless": false,
         "cycles": 56,
-        "area": 27,
+        "area": 28,
         "height": 6,
         "width": 5.5,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 27.0
+            "value": 28.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_GOLD/420g-56c-27a-207i-74378984.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P095/420g-207i-56c-27a-6h-5.5w-5b-8r-27a-6h-5.5w-5b-L",
-    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_420g-207i-56c-27a-6h-5.5w-5b-8r-27a-6h-5.5w-5b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/842f5fb9/P095/410g-207i-56c-28a-6h-5.5w-5b-8r-28a-6h-5.5w-5b-L",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_410g-207i-56c-28a-6h-5.5w-5b-8r-28a-6h-5.5w-5b-L.solution",
+    "lastModified": "2026-11-06T14:58:44.866475910Z"
 }
