@@ -1,7 +1,7 @@
 {
     "puzzle": "LODESTONE",
     "score": {
-        "cost": 375,
+        "cost": 355,
         "instructions": 207,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/LODESTONE/375g-316c-37a-207i-3b6a65d7.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P256/375g-207i-316c-37a-7h-7w-4b-52r-37a-7h-7w-4b-L",
-    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_375g-207i-316c-37a-7h-7w-4b-52r-37a-7h-7w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1e230aec/P256/355g-207i-316c-37a-7h-7w-4b-52r-37a-7h-7w-4b-L",
+    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_355g-207i-316c-37a-7h-7w-4b-52r-37a-7h-7w-4b-L.solution",
+    "lastModified": "2026-11-06T15:24:12.273277018Z"
 }
