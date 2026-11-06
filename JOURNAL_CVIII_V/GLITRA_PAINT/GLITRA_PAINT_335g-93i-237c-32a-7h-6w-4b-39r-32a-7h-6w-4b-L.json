@@ -1,7 +1,7 @@
 {
     "puzzle": "GLITRA_PAINT",
     "score": {
-        "cost": 355,
+        "cost": 335,
         "instructions": 93,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/GLITRA_PAINT/355g-237c-32a-93i-cc67f72c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P275/355g-93i-237c-32a-7h-6w-4b-39r-32a-7h-6w-4b-L",
-    "dataPath": "JOURNAL_CVIII_V/GLITRA_PAINT/GLITRA_PAINT_355g-93i-237c-32a-7h-6w-4b-39r-32a-7h-6w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/39ec1c96/P275/335g-93i-237c-32a-7h-6w-4b-39r-32a-7h-6w-4b-L",
+    "dataPath": "JOURNAL_CVIII_V/GLITRA_PAINT/GLITRA_PAINT_335g-93i-237c-32a-7h-6w-4b-39r-32a-7h-6w-4b-L.solution",
+    "lastModified": "2026-11-06T13:44:57.177814105Z"
 }
