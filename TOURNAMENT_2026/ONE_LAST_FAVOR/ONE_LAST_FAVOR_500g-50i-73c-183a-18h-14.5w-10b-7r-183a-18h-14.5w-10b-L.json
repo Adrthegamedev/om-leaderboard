@@ -1,0 +1,36 @@
+{
+    "puzzle": "ONE_LAST_FAVOR",
+    "score": {
+        "cost": 500,
+        "instructions": 50,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 73,
+        "area": 183,
+        "height": 18,
+        "width": 14.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 183.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/df085525/w3728200519/500g-50i-73c-183a-18h-14.5w-10b-7r-183a-18h-14.5w-10b-L",
+    "dataPath": "TOURNAMENT_2026/ONE_LAST_FAVOR/ONE_LAST_FAVOR_500g-50i-73c-183a-18h-14.5w-10b-7r-183a-18h-14.5w-10b-L.solution",
+    "lastModified": "2026-11-06T16:18:11.019515695Z"
+}
