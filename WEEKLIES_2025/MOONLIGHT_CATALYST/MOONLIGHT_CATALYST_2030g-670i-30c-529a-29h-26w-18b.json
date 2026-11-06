@@ -3,7 +3,7 @@
     "score": {
         "cost": 2030,
         "instructions": 670,
-        "overlap": true,
+        "overlap": false,
         "trackless": false,
         "cycles": 30,
         "area": 529,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/9ca56433/Weeklies2025_Moonlight_Catalyst/2030g-670i-30c-529a-29h-26w-18b-O",
-    "dataPath": "WEEKLIES_2025/MOONLIGHT_CATALYST/MOONLIGHT_CATALYST_2030g-670i-30c-529a-29h-26w-18b-O.solution",
-    "lastModified": "2026-11-06T16:30:24.153183762Z"
+    "dataLink": "https://lb.novae.observer/l/om/2e8983f1/Weeklies2025_Moonlight_Catalyst/2030g-670i-30c-529a-29h-26w-18b",
+    "dataPath": "WEEKLIES_2025/MOONLIGHT_CATALYST/MOONLIGHT_CATALYST_2030g-670i-30c-529a-29h-26w-18b.solution",
+    "lastModified": "2026-11-06T16:30:33.855397323Z"
 }
