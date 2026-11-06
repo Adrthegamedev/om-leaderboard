@@ -1,0 +1,36 @@
+{
+    "puzzle": "SNOW_AMPUTATION",
+    "score": {
+        "cost": 285,
+        "instructions": 76,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 236,
+        "area": 58,
+        "height": 10,
+        "width": 8.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 19.5,
+        "areaINF": {
+            "level": 0,
+            "value": 58.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e9e92f82/w3728198961/285g-76i-236c-58a-10h-8.5w-7b-19.5r-58a-10h-8.5w-7b-L",
+    "dataPath": "TOURNAMENT_2026/SNOW_AMPUTATION/SNOW_AMPUTATION_285g-76i-236c-58a-10h-8.5w-7b-19.5r-58a-10h-8.5w-7b-L.solution",
+    "lastModified": "2026-11-06T16:22:25.598456717Z"
+}
