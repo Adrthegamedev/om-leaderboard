@@ -1,0 +1,24 @@
+{
+    "puzzle": "SUTURE_THREAD",
+    "score": {
+        "cost": 315,
+        "instructions": 145,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 24,
+        "area": 117,
+        "height": 13,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/3c3d6455/P085/315g-145i-24c-117a-13h-O",
+    "dataPath": "JOURNAL_V/SUTURE_THREAD/SUTURE_THREAD_315g-145i-24c-117a-13h-O.solution",
+    "lastModified": "2026-11-06T14:08:08.658680672Z"
+}
