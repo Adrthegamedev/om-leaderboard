@@ -1,0 +1,36 @@
+{
+    "puzzle": "ARMOR_POLISH",
+    "score": {
+        "cost": 1010,
+        "instructions": 495,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 62,
+        "area": 123,
+        "height": 14,
+        "width": 12.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 123.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/101f6ffc/P213/1010g-495i-62c-123a-14h-12w-9b-8r-123a-14h-12w-9b-L",
+    "dataPath": "DRM_CHAPTER_2/ARMOR_POLISH/ARMOR_POLISH_1010g-495i-62c-123a-14h-12w-9b-8r-123a-14h-12w-9b-L.solution",
+    "lastModified": "2026-11-06T15:48:02.599550219Z"
+}
