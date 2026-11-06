@@ -5,10 +5,10 @@
         "instructions": 60,
         "overlap": false,
         "trackless": false,
-        "cycles": 65,
-        "area": 113,
+        "cycles": 52,
+        "area": 95,
         "height": null,
-        "width": 10.5,
+        "width": 8.0,
         "boundingHex": null,
         "looping": true,
         "rate": 6.0,
@@ -19,12 +19,12 @@
         "heightINF": null,
         "widthINF": {
             "level": 0,
-            "value": 10.5
+            "value": 8.0
         },
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/2110d0dd/P298/480g-60i-65c-113a-10.5w-6r-6a1-10.5w-L",
-    "dataPath": "JOURNAL_CVIII_IX/MIRRORING_AMALGAM/MIRRORING_AMALGAM_480g-60i-65c-113a-10.5w-6r-6a1-10.5w-L.solution",
-    "lastModified": "2026-11-06T15:00:32.325915099Z"
+    "dataLink": "https://lb.novae.observer/l/om/41e419b0/P298/480g-60i-52c-95a-8w-6r-6a1-8w-L",
+    "dataPath": "JOURNAL_CVIII_IX/MIRRORING_AMALGAM/MIRRORING_AMALGAM_480g-60i-52c-95a-8w-6r-6a1-8w-L.solution",
+    "lastModified": "2026-11-06T15:00:36.512226617Z"
 }
