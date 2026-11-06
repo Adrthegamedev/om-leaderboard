@@ -1,0 +1,24 @@
+{
+    "puzzle": "SOOTHING_SALVE",
+    "score": {
+        "cost": 970,
+        "instructions": 90,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 17,
+        "area": 88,
+        "height": 10,
+        "width": 10.5,
+        "boundingHex": 9,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f089730a/w2788066865/970g-90i-17c-88a-10h-10.5w-9b-O",
+    "dataPath": "TOURNAMENT_2022/SOOTHING_SALVE/SOOTHING_SALVE_970g-90i-17c-88a-10h-10.5w-9b-O.solution",
+    "lastModified": "2026-11-06T14:34:25.439516323Z"
+}
