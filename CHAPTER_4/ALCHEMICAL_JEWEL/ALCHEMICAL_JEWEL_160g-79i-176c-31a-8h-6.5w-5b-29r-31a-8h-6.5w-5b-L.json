@@ -1,0 +1,36 @@
+{
+    "puzzle": "ALCHEMICAL_JEWEL",
+    "score": {
+        "cost": 160,
+        "instructions": 79,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 176,
+        "area": 31,
+        "height": 8,
+        "width": 6.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 29.0,
+        "areaINF": {
+            "level": 0,
+            "value": 31.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/0f8a58db/P035/160g-79i-176c-31a-8h-6.5w-5b-29r-31a-8h-6.5w-5b-L",
+    "dataPath": "CHAPTER_4/ALCHEMICAL_JEWEL/ALCHEMICAL_JEWEL_160g-79i-176c-31a-8h-6.5w-5b-29r-31a-8h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-06T15:07:00.507590786Z"
+}
