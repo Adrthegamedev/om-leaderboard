@@ -1,24 +1,24 @@
 {
     "puzzle": "VIA_MEDIA",
     "score": {
-        "cost": 475,
+        "cost": 470,
         "instructions": 128,
         "overlap": false,
         "trackless": false,
         "cycles": 159,
-        "area": 49,
-        "height": 8,
+        "area": 48,
+        "height": 9,
         "width": 6.5,
-        "boundingHex": 7,
+        "boundingHex": 6,
         "looping": true,
         "rate": 26.0,
         "areaINF": {
             "level": 0,
-            "value": 49.0
+            "value": 48.0
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         },
         "widthINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/dce0edd9/P284/475g-128i-159c-49a-8h-6.5w-7b-26r-49a-8h-6.5w-7b-L",
-    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_475g-128i-159c-49a-8h-6.5w-7b-26r-49a-8h-6.5w-7b-L.solution",
-    "lastModified": "2026-11-06T13:55:08.756979162Z"
+    "dataLink": "https://lb.novae.observer/l/om/23e96d7c/P284/470g-128i-159c-48a-9h-6.5w-6b-26r-48a-9h-6.5w-6b-L",
+    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_470g-128i-159c-48a-9h-6.5w-6b-26r-48a-9h-6.5w-6b-L.solution",
+    "lastModified": "2026-11-06T13:55:44.773007447Z"
 }
