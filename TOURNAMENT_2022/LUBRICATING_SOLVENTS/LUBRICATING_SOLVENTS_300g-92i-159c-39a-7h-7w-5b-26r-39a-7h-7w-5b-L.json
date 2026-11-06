@@ -1,0 +1,36 @@
+{
+    "puzzle": "LUBRICATING_SOLVENTS",
+    "score": {
+        "cost": 300,
+        "instructions": 92,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 159,
+        "area": 39,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 39.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/3a0639fe/w2788066950/300g-92i-159c-39a-7h-7w-5b-26r-39a-7h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2022/LUBRICATING_SOLVENTS/LUBRICATING_SOLVENTS_300g-92i-159c-39a-7h-7w-5b-26r-39a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-06T14:33:54.740943631Z"
+}
