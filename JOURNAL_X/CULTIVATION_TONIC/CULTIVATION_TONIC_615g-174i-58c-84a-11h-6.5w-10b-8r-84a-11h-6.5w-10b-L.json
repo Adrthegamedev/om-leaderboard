@@ -8,7 +8,7 @@
         "cycles": 58,
         "area": 84,
         "height": 11,
-        "width": 7.0,
+        "width": 6.5,
         "boundingHex": 10,
         "looping": true,
         "rate": 8.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/32555c45/P249/615g-174i-58c-84a-11h-7w-10b-8r-84a-11h-7w-10b-L",
-    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_615g-174i-58c-84a-11h-7w-10b-8r-84a-11h-7w-10b-L.solution",
-    "lastModified": "2026-11-06T14:22:52.763747219Z"
+    "dataLink": "https://lb.novae.observer/l/om/bb36b47e/P249/615g-174i-58c-84a-11h-6.5w-10b-8r-84a-11h-6.5w-10b-L",
+    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_615g-174i-58c-84a-11h-6.5w-10b-8r-84a-11h-6.5w-10b-L.solution",
+    "lastModified": "2026-11-06T14:22:56.946489581Z"
 }
