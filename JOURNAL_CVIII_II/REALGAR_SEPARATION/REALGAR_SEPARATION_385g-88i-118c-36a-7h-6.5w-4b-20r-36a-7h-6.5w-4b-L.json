@@ -1,7 +1,7 @@
 {
     "puzzle": "REALGAR_SEPARATION",
     "score": {
-        "cost": 405,
+        "cost": 385,
         "instructions": 88,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/REALGAR_SEPARATION/405g-118c-36a-88i-365ca35f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P264/405g-88i-118c-36a-7h-6.5w-4b-20r-36a-7h-6.5w-4b-L",
-    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_405g-88i-118c-36a-7h-6.5w-4b-20r-36a-7h-6.5w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/fd46c243/P264/385g-88i-118c-36a-7h-6.5w-4b-20r-36a-7h-6.5w-4b-L",
+    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_385g-88i-118c-36a-7h-6.5w-4b-20r-36a-7h-6.5w-4b-L.solution",
+    "lastModified": "2026-11-06T13:32:15.561950598Z"
 }
