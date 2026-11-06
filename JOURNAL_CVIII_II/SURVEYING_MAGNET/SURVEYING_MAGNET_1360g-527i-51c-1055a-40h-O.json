@@ -1,0 +1,24 @@
+{
+    "puzzle": "SURVEYING_MAGNET",
+    "score": {
+        "cost": 1360,
+        "instructions": 527,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 51,
+        "area": 1055,
+        "height": 40,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8eef0ddd/P262/1360g-527i-51c-1055a-40h-O",
+    "dataPath": "JOURNAL_CVIII_II/SURVEYING_MAGNET/SURVEYING_MAGNET_1360g-527i-51c-1055a-40h-O.solution",
+    "lastModified": "2026-11-06T13:32:32.231737858Z"
+}
