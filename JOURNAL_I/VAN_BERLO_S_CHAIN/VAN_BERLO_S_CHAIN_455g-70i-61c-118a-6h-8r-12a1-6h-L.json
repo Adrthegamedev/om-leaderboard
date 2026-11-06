@@ -1,12 +1,12 @@
 {
     "puzzle": "VAN_BERLO_S_CHAIN",
     "score": {
-        "cost": 465,
+        "cost": 455,
         "instructions": 70,
         "overlap": false,
         "trackless": false,
         "cycles": 61,
-        "area": 117,
+        "area": 118,
         "height": 6,
         "width": null,
         "boundingHex": null,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/VAN_BERLO_S_CHAIN/465g-61c-117a-70i-1315519a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P055/465g-70i-61c-117a-6h-8r-12a1-6h-L",
-    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/VAN_BERLO_S_CHAIN_465g-70i-61c-117a-6h-8r-12a1-6h-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6d8c0b15/P055/455g-70i-61c-118a-6h-8r-12a1-6h-L",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/VAN_BERLO_S_CHAIN_455g-70i-61c-118a-6h-8r-12a1-6h-L.solution",
+    "lastModified": "2026-11-06T16:01:39.250010009Z"
 }
