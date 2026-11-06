@@ -1,0 +1,24 @@
+{
+    "puzzle": "BLUE_VITRIOL",
+    "score": {
+        "cost": 310,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 178,
+        "area": 409,
+        "height": 27,
+        "width": 20.5,
+        "boundingHex": 20,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/779b6631/P241/310g-20i-178c-409a-27h-20.5w-20b",
+    "dataPath": "JOURNAL_XI/BLUE_VITRIOL/BLUE_VITRIOL_310g-20i-178c-409a-27h-20.5w-20b.solution",
+    "lastModified": "2026-11-06T15:57:41.504901524Z"
+}
