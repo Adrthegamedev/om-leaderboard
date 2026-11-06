@@ -1,20 +1,20 @@
 {
     "puzzle": "RESONANT_DUST",
     "score": {
-        "cost": 790,
+        "cost": 780,
         "instructions": 232,
         "overlap": false,
         "trackless": false,
         "cycles": 81,
-        "area": 61,
+        "area": 62,
         "height": 7,
-        "width": 8.0,
+        "width": 8.5,
         "boundingHex": 7,
         "looping": true,
         "rate": 13.0,
         "areaINF": {
             "level": 0,
-            "value": 61.0
+            "value": 62.0
         },
         "heightINF": {
             "level": 0,
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 8.5
         },
         "boundingHexINF": {
             "level": 0,
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/Radio-Receivers-790g-81c-61a-232i-7h-8w-13r-3ae54b.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P243/790g-232i-81c-61a-7h-8w-7b-13r-61a-7h-8w-7b-L",
-    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_790g-232i-81c-61a-7h-8w-7b-13r-61a-7h-8w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/399fd69c/P243/780g-232i-81c-62a-7h-8.5w-7b-13r-62a-7h-8.5w-7b-L",
+    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_780g-232i-81c-62a-7h-8.5w-7b-13r-62a-7h-8.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:59:46.184033382Z"
 }
