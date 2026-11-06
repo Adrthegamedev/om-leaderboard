@@ -1,0 +1,36 @@
+{
+    "puzzle": "STAIN_REMOVER",
+    "score": {
+        "cost": 325,
+        "instructions": 69,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 54,
+        "area": 40,
+        "height": 7,
+        "width": 7.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 40.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/36a034cf/P034/325g-69i-54c-40a-7h-7.5w-7b-8r-40a-7h-7.5w-7b-L",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_325g-69i-54c-40a-7h-7.5w-7b-8r-40a-7h-7.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:03:52.240018961Z"
+}
