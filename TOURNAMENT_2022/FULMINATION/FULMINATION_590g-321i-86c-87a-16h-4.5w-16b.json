@@ -1,0 +1,24 @@
+{
+    "puzzle": "FULMINATION",
+    "score": {
+        "cost": 590,
+        "instructions": 321,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 86,
+        "area": 87,
+        "height": 16,
+        "width": 4.5,
+        "boundingHex": 16,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/fca128b0/w2788067677/590g-321i-86c-87a-16h-4.5w-16b",
+    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_590g-321i-86c-87a-16h-4.5w-16b.solution",
+    "lastModified": "2026-11-06T14:37:48.134218160Z"
+}
