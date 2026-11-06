@@ -1,0 +1,36 @@
+{
+    "puzzle": "QUINTESSENTIAL_STABILIZER",
+    "score": {
+        "cost": 1150,
+        "instructions": 256,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 37,
+        "area": 131,
+        "height": 14,
+        "width": 12.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 131.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/bcd0724f/w2450512626/1150g-256i-37c-131a-14h-12w-12b-4r-131a-14h-12w-12b-L",
+    "dataPath": "TOURNAMENT_2021/QUINTESSENTIAL_STABILIZER/QUINTESSENTIAL_STABILIZER_1150g-256i-37c-131a-14h-12w-12b-4r-131a-14h-12w-12b-L.solution",
+    "lastModified": "2026-11-06T16:28:12.577883822Z"
+}
