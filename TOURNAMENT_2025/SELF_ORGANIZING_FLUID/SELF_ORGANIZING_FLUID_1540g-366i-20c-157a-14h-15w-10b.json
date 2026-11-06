@@ -1,0 +1,24 @@
+{
+    "puzzle": "SELF_ORGANIZING_FLUID",
+    "score": {
+        "cost": 1540,
+        "instructions": 366,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 20,
+        "area": 157,
+        "height": 14,
+        "width": 15.0,
+        "boundingHex": 10,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/68fb4f42/w3446276105/1540g-366i-20c-157a-14h-15w-10b",
+    "dataPath": "TOURNAMENT_2025/SELF_ORGANIZING_FLUID/SELF_ORGANIZING_FLUID_1540g-366i-20c-157a-14h-15w-10b.solution",
+    "lastModified": "2026-11-06T14:42:32.384465520Z"
+}
