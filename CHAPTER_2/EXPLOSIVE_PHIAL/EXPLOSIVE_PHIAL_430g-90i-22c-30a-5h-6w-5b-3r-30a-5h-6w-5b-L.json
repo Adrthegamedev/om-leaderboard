@@ -1,20 +1,20 @@
 {
     "puzzle": "EXPLOSIVE_PHIAL",
     "score": {
-        "cost": 435,
+        "cost": 430,
         "instructions": 90,
         "overlap": false,
         "trackless": false,
         "cycles": 22,
-        "area": 31,
+        "area": 30,
         "height": 5,
-        "width": 5.5,
-        "boundingHex": 6,
+        "width": 6.0,
+        "boundingHex": 5,
         "looping": true,
         "rate": 3.0,
         "areaINF": {
             "level": 0,
-            "value": 31.0
+            "value": 30.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 5.5
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/647c1989/P017/435g-90i-22c-31a-5h-5.5w-6b-3r-31a-5h-5.5w-6b-L",
-    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_435g-90i-22c-31a-5h-5.5w-6b-3r-31a-5h-5.5w-6b-L.solution",
-    "lastModified": "2026-11-06T14:49:45.552315492Z"
+    "dataLink": "https://lb.novae.observer/l/om/f614f124/P017/430g-90i-22c-30a-5h-6w-5b-3r-30a-5h-6w-5b-L",
+    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_430g-90i-22c-30a-5h-6w-5b-3r-30a-5h-6w-5b-L.solution",
+    "lastModified": "2026-11-06T14:50:13.945114998Z"
 }
