@@ -1,0 +1,36 @@
+{
+    "puzzle": "ACTIVE_POLYMERASE",
+    "score": {
+        "cost": 675,
+        "instructions": 102,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 59,
+        "area": 74,
+        "height": 10,
+        "width": 9.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 74.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6f6e7dff/w2501728219/675g-102i-59c-74a-10h-9.5w-8b-8r-74a-10h-9.5w-8b-OL",
+    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_675g-102i-59c-74a-10h-9.5w-8b-8r-74a-10h-9.5w-8b-OL.solution",
+    "lastModified": "2026-11-06T15:54:10.491001025Z"
+}
