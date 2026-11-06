@@ -1,0 +1,36 @@
+{
+    "puzzle": "HAIR_PRODUCT",
+    "score": {
+        "cost": 70,
+        "instructions": 16,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 84,
+        "area": 11,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/48fe4c4e/P016/70g-16i-84c-11a-3h-3.5w-3b-14r-11a-3h-3.5w-3b-L",
+    "dataPath": "CHAPTER_2/HAIR_PRODUCT/HAIR_PRODUCT_70g-16i-84c-11a-3h-3.5w-3b-14r-11a-3h-3.5w-3b-L.solution",
+    "lastModified": "2026-11-06T14:50:48.777131604Z"
+}
