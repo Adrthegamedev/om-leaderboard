@@ -1,0 +1,36 @@
+{
+    "puzzle": "ORANGE_VITRIOL",
+    "score": {
+        "cost": 600,
+        "instructions": 133,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 44,
+        "area": 84,
+        "height": 13,
+        "width": 10.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 84.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/9136e577/w3728200375/600g-133i-44c-84a-13h-10.5w-8b-6r-84a-13h-10.5w-8b-L",
+    "dataPath": "TOURNAMENT_2026/ORANGE_VITRIOL/ORANGE_VITRIOL_600g-133i-44c-84a-13h-10.5w-8b-6r-84a-13h-10.5w-8b-L.solution",
+    "lastModified": "2026-11-06T16:16:13.596076982Z"
+}
