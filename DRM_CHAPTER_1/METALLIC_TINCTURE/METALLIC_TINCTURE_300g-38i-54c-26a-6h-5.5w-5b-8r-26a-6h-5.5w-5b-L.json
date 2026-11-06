@@ -8,7 +8,7 @@
         "cycles": 54,
         "area": 26,
         "height": 6,
-        "width": 6.0,
+        "width": 5.5,
         "boundingHex": 5,
         "looping": true,
         "rate": 8.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/824246ba/P206/300g-38i-54c-26a-6h-6w-5b-8r-26a-6h-6w-5b-L",
-    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_300g-38i-54c-26a-6h-6w-5b-8r-26a-6h-6w-5b-L.solution",
-    "lastModified": "2026-11-06T14:03:44.062089138Z"
+    "dataLink": "https://lb.novae.observer/l/om/53e5a16d/P206/300g-38i-54c-26a-6h-5.5w-5b-8r-26a-6h-5.5w-5b-L",
+    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_300g-38i-54c-26a-6h-5.5w-5b-8r-26a-6h-5.5w-5b-L.solution",
+    "lastModified": "2026-11-06T14:04:32.788341784Z"
 }
