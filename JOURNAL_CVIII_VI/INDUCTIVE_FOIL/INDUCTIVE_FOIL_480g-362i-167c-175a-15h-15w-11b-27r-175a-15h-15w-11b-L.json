@@ -1,0 +1,36 @@
+{
+    "puzzle": "INDUCTIVE_FOIL",
+    "score": {
+        "cost": 480,
+        "instructions": 362,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 167,
+        "area": 175,
+        "height": 15,
+        "width": 15.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 27.0,
+        "areaINF": {
+            "level": 0,
+            "value": 175.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/65452323/P280/480g-362i-167c-175a-15h-15w-11b-27r-175a-15h-15w-11b-L",
+    "dataPath": "JOURNAL_CVIII_VI/INDUCTIVE_FOIL/INDUCTIVE_FOIL_480g-362i-167c-175a-15h-15w-11b-27r-175a-15h-15w-11b-L.solution",
+    "lastModified": "2026-11-06T13:56:39.227109940Z"
+}
