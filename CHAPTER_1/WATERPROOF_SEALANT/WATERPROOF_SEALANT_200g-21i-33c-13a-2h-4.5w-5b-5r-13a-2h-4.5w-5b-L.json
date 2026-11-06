@@ -1,0 +1,36 @@
+{
+    "puzzle": "WATERPROOF_SEALANT",
+    "score": {
+        "cost": 200,
+        "instructions": 21,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 33,
+        "area": 13,
+        "height": 2,
+        "width": 4.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f16ec596/P011/200g-21i-33c-13a-2h-4.5w-5b-5r-13a-2h-4.5w-5b-L",
+    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_200g-21i-33c-13a-2h-4.5w-5b-5r-13a-2h-4.5w-5b-L.solution",
+    "lastModified": "2026-11-06T13:33:09.470980639Z"
+}
