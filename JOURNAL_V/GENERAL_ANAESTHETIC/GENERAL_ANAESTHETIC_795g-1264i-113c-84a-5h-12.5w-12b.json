@@ -1,0 +1,24 @@
+{
+    "puzzle": "GENERAL_ANAESTHETIC",
+    "score": {
+        "cost": 795,
+        "instructions": 1264,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 113,
+        "area": 84,
+        "height": 5,
+        "width": 12.5,
+        "boundingHex": 12,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f781dc37/P086/795g-1264i-113c-84a-5h-12.5w-12b",
+    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_795g-1264i-113c-84a-5h-12.5w-12b.solution",
+    "lastModified": "2026-11-06T14:08:49.349360975Z"
+}
