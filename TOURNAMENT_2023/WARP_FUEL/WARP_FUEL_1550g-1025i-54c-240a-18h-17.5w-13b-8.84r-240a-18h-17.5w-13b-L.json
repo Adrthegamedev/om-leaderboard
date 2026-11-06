@@ -1,12 +1,12 @@
 {
     "puzzle": "WARP_FUEL",
     "score": {
-        "cost": 1555,
+        "cost": 1550,
         "instructions": 1025,
         "overlap": false,
         "trackless": false,
         "cycles": 54,
-        "area": 238,
+        "area": 240,
         "height": 18,
         "width": 17.5,
         "boundingHex": 13,
@@ -14,7 +14,7 @@
         "rate": 8.84,
         "areaINF": {
             "level": 0,
-            "value": 238.0
+            "value": 240.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://files.mors.technology/WARP_FUEL/1555g-54c-238a-1025i-923d775e.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2946687209/1555g-1025i-54c-238a-18h-17.5w-13b-8.84r-238a-18h-17.5w-13b-L",
-    "dataPath": "TOURNAMENT_2023/WARP_FUEL/WARP_FUEL_1555g-1025i-54c-238a-18h-17.5w-13b-8.84r-238a-18h-17.5w-13b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1ec75b81/w2946687209/1550g-1025i-54c-240a-18h-17.5w-13b-8.84r-240a-18h-17.5w-13b-L",
+    "dataPath": "TOURNAMENT_2023/WARP_FUEL/WARP_FUEL_1550g-1025i-54c-240a-18h-17.5w-13b-8.84r-240a-18h-17.5w-13b-L.solution",
+    "lastModified": "2026-11-06T14:17:32.421999383Z"
 }
