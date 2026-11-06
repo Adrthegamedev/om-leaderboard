@@ -1,20 +1,20 @@
 {
     "puzzle": "INSTANT_MIRROR_COAT",
     "score": {
-        "cost": 270,
+        "cost": 255,
         "instructions": 33,
         "overlap": false,
         "trackless": false,
         "cycles": 168,
-        "area": 34,
+        "area": 32,
         "height": 6,
         "width": 6.5,
-        "boundingHex": 5,
+        "boundingHex": 4,
         "looping": true,
         "rate": 27.0,
         "areaINF": {
             "level": 0,
-            "value": 34.0
+            "value": 32.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/baf6e424/OM2024Weeklies_InstantMirrorCoat/270g-33i-168c-34a-6h-6.5w-5b-27r-34a-6h-6.5w-5b-L",
-    "dataPath": "WEEKLIES_2024/INSTANT_MIRROR_COAT/INSTANT_MIRROR_COAT_270g-33i-168c-34a-6h-6.5w-5b-27r-34a-6h-6.5w-5b-L.solution",
-    "lastModified": "2026-11-06T16:07:48.087140639Z"
+    "dataLink": "https://lb.novae.observer/l/om/0f688d05/OM2024Weeklies_InstantMirrorCoat/255g-33i-168c-32a-6h-6.5w-4b-27r-32a-6h-6.5w-4b-L",
+    "dataPath": "WEEKLIES_2024/INSTANT_MIRROR_COAT/INSTANT_MIRROR_COAT_255g-33i-168c-32a-6h-6.5w-4b-27r-32a-6h-6.5w-4b-L.solution",
+    "lastModified": "2026-11-06T16:07:56.941627128Z"
 }
