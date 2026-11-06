@@ -1,0 +1,36 @@
+{
+    "puzzle": "METAL_DIVISION",
+    "score": {
+        "cost": 230,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 50,
+        "area": 19,
+        "height": 7,
+        "width": 2.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/aa6b9d3f/P208/230g-62i-50c-19a-7h-2.5w-7b-8r-19a-7h-2.5w-7b-L",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_230g-62i-50c-19a-7h-2.5w-7b-8r-19a-7h-2.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:48:59.394850846Z"
+}
