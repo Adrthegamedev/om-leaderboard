@@ -1,0 +1,36 @@
+{
+    "puzzle": "HEALTH_TONIC",
+    "score": {
+        "cost": 65,
+        "instructions": 16,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 48,
+        "area": 17,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f13c8ba2/P014/65g-16i-48c-17a-5h-4.5w-4b-8r-17a-5h-4.5w-4b-L",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_65g-16i-48c-17a-5h-4.5w-4b-8r-17a-5h-4.5w-4b-L.solution",
+    "lastModified": "2026-11-06T13:36:34.329384898Z"
+}
