@@ -1,0 +1,36 @@
+{
+    "puzzle": "COURAGE_POTION",
+    "score": {
+        "cost": 135,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 43,
+        "area": 19,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5169c942/P021/135g-19i-43c-19a-4h-4w-5b-7r-19a-4h-4w-5b-L",
+    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_135g-19i-43c-19a-4h-4w-5b-7r-19a-4h-4w-5b-L.solution",
+    "lastModified": "2026-11-06T14:44:48.523172288Z"
+}
