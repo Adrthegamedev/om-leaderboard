@@ -1,0 +1,24 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 210,
+        "instructions": 23,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 208,
+        "area": 105,
+        "height": 6,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/3e9694db/P039/210g-23i-208c-105a-6h",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_210g-23i-208c-105a-6h.solution",
+    "lastModified": "2026-11-06T14:51:13.722161206Z"
+}
