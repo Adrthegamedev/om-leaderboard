@@ -1,0 +1,24 @@
+{
+    "puzzle": "BLACK_POWDER",
+    "score": {
+        "cost": 405,
+        "instructions": 188,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 31,
+        "area": 60,
+        "height": 9,
+        "width": 7.5,
+        "boundingHex": 7,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/cd09e20f/w3088257476/405g-188i-31c-60a-9h-7.5w-7b",
+    "dataPath": "WEEKLIES_2/BLACK_POWDER/BLACK_POWDER_405g-188i-31c-60a-9h-7.5w-7b.solution",
+    "lastModified": "2026-11-06T15:42:13.632726105Z"
+}
