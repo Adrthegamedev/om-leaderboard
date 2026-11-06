@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 21,
         "area": 73,
-        "height": 12,
+        "height": 11,
         "width": 9.5,
         "boundingHex": 7,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 12.0
+            "value": 11.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4fac081b/DisjointJournal_LeadOfHermes/690g-72i-21c-73a-12h-9.5w-7b-2r-73a-12h-9.5w-7b-L",
-    "dataPath": "DISJOINT_JOURNAL_I/LEAD_OF_HERMES/LEAD_OF_HERMES_690g-72i-21c-73a-12h-9.5w-7b-2r-73a-12h-9.5w-7b-L.solution",
-    "lastModified": "2026-11-06T15:32:34.242880652Z"
+    "dataLink": "https://lb.novae.observer/l/om/09bd061e/DisjointJournal_LeadOfHermes/690g-72i-21c-73a-11h-9.5w-7b-2r-73a-11h-9.5w-7b-L",
+    "dataPath": "DISJOINT_JOURNAL_I/LEAD_OF_HERMES/LEAD_OF_HERMES_690g-72i-21c-73a-11h-9.5w-7b-2r-73a-11h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:33:03.257189190Z"
 }
