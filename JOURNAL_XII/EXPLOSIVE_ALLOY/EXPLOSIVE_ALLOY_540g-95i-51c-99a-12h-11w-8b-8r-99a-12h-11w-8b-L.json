@@ -1,0 +1,36 @@
+{
+    "puzzle": "EXPLOSIVE_ALLOY",
+    "score": {
+        "cost": 540,
+        "instructions": 95,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 51,
+        "area": 99,
+        "height": 12,
+        "width": 11.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 99.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/cf39c286/P251/540g-95i-51c-99a-12h-11w-8b-8r-99a-12h-11w-8b-L",
+    "dataPath": "JOURNAL_XII/EXPLOSIVE_ALLOY/EXPLOSIVE_ALLOY_540g-95i-51c-99a-12h-11w-8b-8r-99a-12h-11w-8b-L.solution",
+    "lastModified": "2026-11-06T15:22:28.579123341Z"
+}
