@@ -1,0 +1,36 @@
+{
+    "puzzle": "METALLIC_TINCTURE",
+    "score": {
+        "cost": 300,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 54,
+        "area": 26,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/824246ba/P206/300g-38i-54c-26a-6h-6w-5b-8r-26a-6h-6w-5b-L",
+    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_300g-38i-54c-26a-6h-6w-5b-8r-26a-6h-6w-5b-L.solution",
+    "lastModified": "2026-11-06T14:03:44.062089138Z"
+}
