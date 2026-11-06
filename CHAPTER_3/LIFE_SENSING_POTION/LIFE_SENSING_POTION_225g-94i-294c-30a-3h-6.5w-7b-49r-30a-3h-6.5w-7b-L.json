@@ -1,20 +1,20 @@
 {
     "puzzle": "LIFE_SENSING_POTION",
     "score": {
-        "cost": 235,
+        "cost": 225,
         "instructions": 94,
         "overlap": false,
         "trackless": false,
         "cycles": 294,
-        "area": 29,
+        "area": 30,
         "height": 3,
         "width": 6.5,
-        "boundingHex": 6,
+        "boundingHex": 7,
         "looping": true,
         "rate": 49.0,
         "areaINF": {
             "level": 0,
-            "value": 29.0
+            "value": 30.0
         },
         "heightINF": {
             "level": 0,
@@ -26,10 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/LIFE_SENSING_POTION/235g-294c-29a-94i-6ca7dab1.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P030b/235g-94i-294c-29a-3h-6.5w-6b-49r-29a-3h-6.5w-6b-L",
-    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_235g-94i-294c-29a-3h-6.5w-6b-49r-29a-3h-6.5w-6b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/46304a0f/P030b/225g-94i-294c-30a-3h-6.5w-7b-49r-30a-3h-6.5w-7b-L",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_225g-94i-294c-30a-3h-6.5w-7b-49r-30a-3h-6.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:17:46.366814651Z"
 }
