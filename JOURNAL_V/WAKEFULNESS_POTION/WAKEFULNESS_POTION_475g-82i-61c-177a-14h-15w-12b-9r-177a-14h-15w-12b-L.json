@@ -1,0 +1,36 @@
+{
+    "puzzle": "WAKEFULNESS_POTION",
+    "score": {
+        "cost": 475,
+        "instructions": 82,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 61,
+        "area": 177,
+        "height": 14,
+        "width": 15.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 177.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/0c5f2dd3/P088/475g-82i-61c-177a-14h-15w-12b-9r-177a-14h-15w-12b-L",
+    "dataPath": "JOURNAL_V/WAKEFULNESS_POTION/WAKEFULNESS_POTION_475g-82i-61c-177a-14h-15w-12b-9r-177a-14h-15w-12b-L.solution",
+    "lastModified": "2026-11-06T14:10:39.242625632Z"
+}
