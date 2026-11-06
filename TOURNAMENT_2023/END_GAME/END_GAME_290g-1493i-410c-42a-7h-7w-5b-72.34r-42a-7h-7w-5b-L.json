@@ -1,0 +1,36 @@
+{
+    "puzzle": "END_GAME",
+    "score": {
+        "cost": 290,
+        "instructions": 1493,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 410,
+        "area": 42,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 72.34,
+        "areaINF": {
+            "level": 0,
+            "value": 42.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/3ac9644a/w2946682691/290g-1493i-410c-42a-7h-7w-5b-72.34r-42a-7h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2023/END_GAME/END_GAME_290g-1493i-410c-42a-7h-7w-5b-72.34r-42a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-06T14:18:21.441515588Z"
+}
