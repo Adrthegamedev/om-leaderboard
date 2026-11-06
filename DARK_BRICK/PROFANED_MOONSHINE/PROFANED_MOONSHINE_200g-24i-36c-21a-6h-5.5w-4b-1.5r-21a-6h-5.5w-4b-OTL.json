@@ -1,0 +1,36 @@
+{
+    "puzzle": "PROFANED_MOONSHINE",
+    "score": {
+        "cost": 200,
+        "instructions": 24,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 36,
+        "area": 21,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 1.5,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/597e0b23/profaned-moonshine/200g-24i-36c-21a-6h-5.5w-4b-1.5r-21a-6h-5.5w-4b-OTL",
+    "dataPath": "DARK_BRICK/PROFANED_MOONSHINE/PROFANED_MOONSHINE_200g-24i-36c-21a-6h-5.5w-4b-1.5r-21a-6h-5.5w-4b-OTL.solution",
+    "lastModified": "2026-11-06T08:56:19.399478254Z"
+}
