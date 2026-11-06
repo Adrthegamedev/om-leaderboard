@@ -1,0 +1,27 @@
+{
+    "puzzle": "AETHER_REACTOR",
+    "score": {
+        "cost": 425,
+        "instructions": 78,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 278,
+        "area": 98,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 23.0,
+        "areaINF": {
+            "level": 0,
+            "value": 98.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2f1d999c/w2788067624/425g-78i-278c-98a-23r-98a-L",
+    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_425g-78i-278c-98a-23r-98a-L.solution",
+    "lastModified": "2026-11-06T14:39:01.811902739Z"
+}
