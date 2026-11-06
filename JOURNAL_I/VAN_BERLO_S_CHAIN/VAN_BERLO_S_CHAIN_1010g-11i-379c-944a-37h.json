@@ -1,0 +1,24 @@
+{
+    "puzzle": "VAN_BERLO_S_CHAIN",
+    "score": {
+        "cost": 1010,
+        "instructions": 11,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 379,
+        "area": 944,
+        "height": 37,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2db298d7/P055/1010g-11i-379c-944a-37h",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/VAN_BERLO_S_CHAIN_1010g-11i-379c-944a-37h.solution",
+    "lastModified": "2026-11-06T16:01:34.957411292Z"
+}
