@@ -1,0 +1,36 @@
+{
+    "puzzle": "HYDROPHOBIC_WATER",
+    "score": {
+        "cost": 265,
+        "instructions": 63,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 151,
+        "area": 38,
+        "height": 5,
+        "width": 7.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 25.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/280cbb6e/w3446275126/265g-63i-151c-38a-5h-7w-6b-25r-38a-5h-7w-6b-L",
+    "dataPath": "TOURNAMENT_2025/HYDROPHOBIC_WATER/HYDROPHOBIC_WATER_265g-63i-151c-38a-5h-7w-6b-25r-38a-5h-7w-6b-L.solution",
+    "lastModified": "2026-11-06T14:44:00.168694852Z"
+}
