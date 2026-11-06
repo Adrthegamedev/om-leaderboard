@@ -2,7 +2,7 @@
     "puzzle": "SEAL_SOLVENT",
     "score": {
         "cost": 165,
-        "instructions": 50,
+        "instructions": 48,
         "overlap": false,
         "trackless": false,
         "cycles": 128,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/SEAL_SOLVENT/165g-128c-22a-50i-5bc1c856.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P026/165g-50i-128c-22a-2h-6.5w-7b-21r-22a-2h-6.5w-7b-L",
-    "dataPath": "CHAPTER_3/SEAL_SOLVENT/SEAL_SOLVENT_165g-50i-128c-22a-2h-6.5w-7b-21r-22a-2h-6.5w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ce1f5f09/P026/165g-48i-128c-22a-2h-6.5w-7b-21r-22a-2h-6.5w-7b-L",
+    "dataPath": "CHAPTER_3/SEAL_SOLVENT/SEAL_SOLVENT_165g-48i-128c-22a-2h-6.5w-7b-21r-22a-2h-6.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:20:49.612563572Z"
 }
