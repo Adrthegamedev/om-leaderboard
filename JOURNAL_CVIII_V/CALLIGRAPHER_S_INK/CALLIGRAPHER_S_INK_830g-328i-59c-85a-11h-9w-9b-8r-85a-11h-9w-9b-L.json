@@ -1,0 +1,36 @@
+{
+    "puzzle": "CALLIGRAPHER_S_INK",
+    "score": {
+        "cost": 830,
+        "instructions": 328,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 59,
+        "area": 85,
+        "height": 11,
+        "width": 9.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2322ab85/P277/830g-328i-59c-85a-11h-9w-9b-8r-85a-11h-9w-9b-L",
+    "dataPath": "JOURNAL_CVIII_V/CALLIGRAPHER_S_INK/CALLIGRAPHER_S_INK_830g-328i-59c-85a-11h-9w-9b-8r-85a-11h-9w-9b-L.solution",
+    "lastModified": "2026-11-06T13:45:48.776198714Z"
+}
