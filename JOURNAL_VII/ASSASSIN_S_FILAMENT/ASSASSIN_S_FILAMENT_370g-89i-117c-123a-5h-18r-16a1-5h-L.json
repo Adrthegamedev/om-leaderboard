@@ -1,0 +1,30 @@
+{
+    "puzzle": "ASSASSIN_S_FILAMENT",
+    "score": {
+        "cost": 370,
+        "instructions": 89,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 117,
+        "area": 123,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 1,
+            "value": 16.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2726b4c0/P097/370g-89i-117c-123a-5h-18r-16a1-5h-L",
+    "dataPath": "JOURNAL_VII/ASSASSIN_S_FILAMENT/ASSASSIN_S_FILAMENT_370g-89i-117c-123a-5h-18r-16a1-5h-L.solution",
+    "lastModified": "2026-11-06T14:57:39.548352471Z"
+}
