@@ -1,14 +1,14 @@
 {
     "puzzle": "LUSTROUS_SYRUP",
     "score": {
-        "cost": 625,
+        "cost": 620,
         "instructions": 70,
         "overlap": false,
         "trackless": false,
         "cycles": 42,
-        "area": 63,
-        "height": 14,
-        "width": 12.5,
+        "area": 62,
+        "height": 12,
+        "width": 12.0,
         "boundingHex": 9,
         "looping": true,
         "rate": 6.0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/170c944d/w2868331650/625g-70i-42c-63a-14h-12.5w-9b-6r-2a1-1h1-0.5w1-1b1-L",
-    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_625g-70i-42c-63a-14h-12.5w-9b-6r-2a1-1h1-0.5w1-1b1-L.solution",
-    "lastModified": "2026-11-06T14:00:39.358280505Z"
+    "dataLink": "https://lb.novae.observer/l/om/30d44178/w2868331650/620g-70i-42c-62a-12h-12w-9b-6r-2a1-1h1-0.5w1-1b1-L",
+    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_620g-70i-42c-62a-12h-12w-9b-6r-2a1-1h1-0.5w1-1b1-L.solution",
+    "lastModified": "2026-11-06T14:00:43.926456200Z"
 }
