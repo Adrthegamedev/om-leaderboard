@@ -1,7 +1,7 @@
 {
     "puzzle": "BLACK_POWDER",
     "score": {
-        "cost": 720,
+        "cost": 700,
         "instructions": 3126,
         "overlap": false,
         "trackless": false,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://solution.media.missing",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3088257476/720g-3126i-253c-42a-8h-7w-6b",
-    "dataPath": "WEEKLIES_2/BLACK_POWDER/BLACK_POWDER_720g-3126i-253c-42a-8h-7w-6b.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c3f34d77/w3088257476/700g-3126i-253c-42a-8h-7w-6b",
+    "dataPath": "WEEKLIES_2/BLACK_POWDER/BLACK_POWDER_700g-3126i-253c-42a-8h-7w-6b.solution",
+    "lastModified": "2026-11-06T15:41:54.541347756Z"
 }
