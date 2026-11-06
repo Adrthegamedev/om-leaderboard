@@ -1,12 +1,12 @@
 {
     "puzzle": "INSTANT_MIRROR_COAT",
     "score": {
-        "cost": 225,
+        "cost": 220,
         "instructions": 30,
         "overlap": false,
         "trackless": false,
         "cycles": 134,
-        "area": 35,
+        "area": 34,
         "height": 7,
         "width": 6.5,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 21.0,
         "areaINF": {
             "level": 0,
-            "value": 35.0
+            "value": 34.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/145367f1/OM2024Weeklies_InstantMirrorCoat/225g-30i-134c-35a-7h-6.5w-5b-21r-35a-7h-6.5w-5b-L",
-    "dataPath": "WEEKLIES_2024/INSTANT_MIRROR_COAT/INSTANT_MIRROR_COAT_225g-30i-134c-35a-7h-6.5w-5b-21r-35a-7h-6.5w-5b-L.solution",
-    "lastModified": "2026-11-06T16:08:06.063454665Z"
+    "dataLink": "https://lb.novae.observer/l/om/6059f9a9/OM2024Weeklies_InstantMirrorCoat/220g-30i-134c-34a-7h-6.5w-5b-21r-34a-7h-6.5w-5b-L",
+    "dataPath": "WEEKLIES_2024/INSTANT_MIRROR_COAT/INSTANT_MIRROR_COAT_220g-30i-134c-34a-7h-6.5w-5b-21r-34a-7h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-06T16:08:27.659116566Z"
 }
