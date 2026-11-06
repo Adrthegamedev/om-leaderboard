@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 50,
-        "area": 15,
+        "area": 14,
         "height": 4,
         "width": 3.5,
         "boundingHex": 4,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 15.0
+            "value": 14.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/HAIR_PRODUCT/95g-50c-15a-19i-99288bfd.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P016/95g-19i-50c-15a-4h-3.5w-4b-8r-15a-4h-3.5w-4b-L",
-    "dataPath": "CHAPTER_2/HAIR_PRODUCT/HAIR_PRODUCT_95g-19i-50c-15a-4h-3.5w-4b-8r-15a-4h-3.5w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/dd3eab15/P016/95g-19i-50c-14a-4h-3.5w-4b-8r-14a-4h-3.5w-4b-L",
+    "dataPath": "CHAPTER_2/HAIR_PRODUCT/HAIR_PRODUCT_95g-19i-50c-14a-4h-3.5w-4b-8r-14a-4h-3.5w-4b-L.solution",
+    "lastModified": "2026-11-06T14:50:57.567893402Z"
 }
