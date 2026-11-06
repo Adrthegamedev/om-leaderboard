@@ -1,0 +1,36 @@
+{
+    "puzzle": "RESONANT_DUST",
+    "score": {
+        "cost": 300,
+        "instructions": 28,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 202,
+        "area": 169,
+        "height": 14,
+        "width": 13.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 169.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f701ee90/P243/300g-28i-202c-169a-14h-13.5w-11b-30r-169a-14h-13.5w-11b-L",
+    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_300g-28i-202c-169a-14h-13.5w-11b-30r-169a-14h-13.5w-11b-L.solution",
+    "lastModified": "2026-11-06T15:59:24.459928111Z"
+}
