@@ -1,0 +1,36 @@
+{
+    "puzzle": "HIGH_EXPLOSIVE",
+    "score": {
+        "cost": 1170,
+        "instructions": 289,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 45,
+        "area": 212,
+        "height": 19,
+        "width": 17.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 6.67,
+        "areaINF": {
+            "level": 0,
+            "value": 212.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ec4d0a4e/P271/1170g-289i-45c-212a-19h-17.5w-12b-6.67r-212a-19h-17.5w-12b-OL",
+    "dataPath": "JOURNAL_CVIII_IV/HIGH_EXPLOSIVE/HIGH_EXPLOSIVE_1170g-289i-45c-212a-19h-17.5w-12b-6.67r-212a-19h-17.5w-12b-OL.solution",
+    "lastModified": "2026-11-06T14:56:03.051386474Z"
+}
