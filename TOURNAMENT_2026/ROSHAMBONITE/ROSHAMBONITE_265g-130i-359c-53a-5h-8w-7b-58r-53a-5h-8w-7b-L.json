@@ -1,7 +1,7 @@
 {
     "puzzle": "ROSHAMBONITE",
     "score": {
-        "cost": 285,
+        "cost": 265,
         "instructions": 130,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/ROSHAMBONITE/285g-359c-53a-130i-31af40f2.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3728200145/285g-130i-359c-53a-5h-8w-7b-58r-53a-5h-8w-7b-L",
-    "dataPath": "TOURNAMENT_2026/ROSHAMBONITE/ROSHAMBONITE_285g-130i-359c-53a-5h-8w-7b-58r-53a-5h-8w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/75c98c01/w3728200145/265g-130i-359c-53a-5h-8w-7b-58r-53a-5h-8w-7b-L",
+    "dataPath": "TOURNAMENT_2026/ROSHAMBONITE/ROSHAMBONITE_265g-130i-359c-53a-5h-8w-7b-58r-53a-5h-8w-7b-L.solution",
+    "lastModified": "2026-11-06T16:16:23.012674064Z"
 }
