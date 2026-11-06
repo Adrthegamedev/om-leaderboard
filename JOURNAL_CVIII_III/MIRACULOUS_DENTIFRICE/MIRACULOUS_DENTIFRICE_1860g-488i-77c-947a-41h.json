@@ -1,0 +1,24 @@
+{
+    "puzzle": "MIRACULOUS_DENTIFRICE",
+    "score": {
+        "cost": 1860,
+        "instructions": 488,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 77,
+        "area": 947,
+        "height": 41,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/0e038ea7/P266/1860g-488i-77c-947a-41h",
+    "dataPath": "JOURNAL_CVIII_III/MIRACULOUS_DENTIFRICE/MIRACULOUS_DENTIFRICE_1860g-488i-77c-947a-41h.solution",
+    "lastModified": "2026-11-06T13:41:26.349744025Z"
+}
