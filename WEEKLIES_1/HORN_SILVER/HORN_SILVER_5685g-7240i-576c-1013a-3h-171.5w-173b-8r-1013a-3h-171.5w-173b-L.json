@@ -1,7 +1,7 @@
 {
     "puzzle": "HORN_SILVER",
     "score": {
-        "cost": 5695,
+        "cost": 5685,
         "instructions": 7240,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 173.0
         }
     },
-    "displayLink": "https://files.mors.technology/HORN_SILVER/5695g-576c-1013a-7240i-f09b29b2.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2513871683/5695g-7240i-576c-1013a-3h-171.5w-173b-8r-1013a-3h-171.5w-173b-L",
-    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_5695g-7240i-576c-1013a-3h-171.5w-173b-8r-1013a-3h-171.5w-173b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b1653690/w2513871683/5685g-7240i-576c-1013a-3h-171.5w-173b-8r-1013a-3h-171.5w-173b-L",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_5685g-7240i-576c-1013a-3h-171.5w-173b-8r-1013a-3h-171.5w-173b-L.solution",
+    "lastModified": "2026-11-06T13:59:45.182471732Z"
 }
