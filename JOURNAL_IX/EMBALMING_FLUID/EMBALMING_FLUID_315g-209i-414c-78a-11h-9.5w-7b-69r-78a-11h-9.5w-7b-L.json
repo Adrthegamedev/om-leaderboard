@@ -1,7 +1,7 @@
 {
     "puzzle": "EMBALMING_FLUID",
     "score": {
-        "cost": 335,
+        "cost": 315,
         "instructions": 209,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/EMBALMING_FLUID/335g-414c-78a-209i-ea60fd4d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P108/335g-209i-414c-78a-11h-9.5w-7b-69r-78a-11h-9.5w-7b-L",
-    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_335g-209i-414c-78a-11h-9.5w-7b-69r-78a-11h-9.5w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b9f92685/P108/315g-209i-414c-78a-11h-9.5w-7b-69r-78a-11h-9.5w-7b-L",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_315g-209i-414c-78a-11h-9.5w-7b-69r-78a-11h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-06T13:53:05.266588358Z"
 }
