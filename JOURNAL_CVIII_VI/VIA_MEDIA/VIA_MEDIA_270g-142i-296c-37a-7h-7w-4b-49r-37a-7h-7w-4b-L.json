@@ -1,7 +1,7 @@
 {
     "puzzle": "VIA_MEDIA",
     "score": {
-        "cost": 290,
+        "cost": 270,
         "instructions": 142,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/VIA_MEDIA/290g-296c-37a-142i-d3219a57.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P284/290g-142i-296c-37a-7h-7w-4b-49r-37a-7h-7w-4b-L",
-    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_290g-142i-296c-37a-7h-7w-4b-49r-37a-7h-7w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/966057cb/P284/270g-142i-296c-37a-7h-7w-4b-49r-37a-7h-7w-4b-L",
+    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_270g-142i-296c-37a-7h-7w-4b-49r-37a-7h-7w-4b-L.solution",
+    "lastModified": "2026-11-06T13:55:26.823858102Z"
 }
