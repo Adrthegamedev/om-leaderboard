@@ -1,0 +1,36 @@
+{
+    "puzzle": "UMBRAL_MASCARA",
+    "score": {
+        "cost": 610,
+        "instructions": 138,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 77,
+        "area": 82,
+        "height": 9,
+        "width": 10.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 82.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e3245692/P292/610g-138i-77c-82a-9h-10w-7b-8r-82a-9h-10w-7b-L",
+    "dataPath": "JOURNAL_CVIII_VIII/UMBRAL_MASCARA/UMBRAL_MASCARA_610g-138i-77c-82a-9h-10w-7b-8r-82a-9h-10w-7b-L.solution",
+    "lastModified": "2026-11-06T13:29:48.403927250Z"
+}
