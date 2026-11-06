@@ -1,7 +1,7 @@
 {
     "puzzle": "LEAVENING_AGENT",
     "score": {
-        "cost": 1930,
+        "cost": 1910,
         "instructions": 388,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 2.0
         }
     },
-    "displayLink": "https://files.mors.technology/LEAVENING_AGENT/1930g-173c-268a-388i-8346253d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P287/1930g-388i-173c-268a-2h-77.5w-78b-16r-4a1-2h-2w1-2b1-L",
-    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_1930g-388i-173c-268a-2h-77.5w-78b-16r-4a1-2h-2w1-2b1-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6a4dbe40/P287/1910g-388i-173c-268a-2h-77.5w-78b-16r-4a1-2h-2w1-2b1-L",
+    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_1910g-388i-173c-268a-2h-77.5w-78b-16r-4a1-2h-2w1-2b1-L.solution",
+    "lastModified": "2026-11-06T14:28:18.308384566Z"
 }
