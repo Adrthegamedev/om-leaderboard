@@ -1,0 +1,30 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 405,
+        "instructions": 76,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 75,
+        "area": 117,
+        "height": 9,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6a6974cc/P062/405g-76i-75c-117a-9h-10r-12a1-9h-L",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/BUOYANT_CABLE_405g-76i-75c-117a-9h-10r-12a1-9h-L.solution",
+    "lastModified": "2026-11-06T15:28:32.403338476Z"
+}
