@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIRROR_POLISH",
+    "score": {
+        "cost": 465,
+        "instructions": 276,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 82,
+        "area": 48,
+        "height": 9,
+        "width": 7.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/21080ecf/P269/465g-276i-82c-48a-9h-7w-6b-12r-48a-9h-7w-6b-L",
+    "dataPath": "JOURNAL_CVIII_III/MIRROR_POLISH/MIRROR_POLISH_465g-276i-82c-48a-9h-7w-6b-12r-48a-9h-7w-6b-L.solution",
+    "lastModified": "2026-11-06T13:40:26.779458008Z"
+}
