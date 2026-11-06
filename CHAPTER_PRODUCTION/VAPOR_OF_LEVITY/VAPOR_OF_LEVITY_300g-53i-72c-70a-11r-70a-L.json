@@ -1,0 +1,27 @@
+{
+    "puzzle": "VAPOR_OF_LEVITY",
+    "score": {
+        "cost": 300,
+        "instructions": 53,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 72,
+        "area": 70,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 11.0,
+        "areaINF": {
+            "level": 0,
+            "value": 70.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/134da4ad/P078/300g-53i-72c-70a-11r-70a-L",
+    "dataPath": "CHAPTER_PRODUCTION/VAPOR_OF_LEVITY/VAPOR_OF_LEVITY_300g-53i-72c-70a-11r-70a-L.solution",
+    "lastModified": "2026-11-06T15:56:59.708453636Z"
+}
