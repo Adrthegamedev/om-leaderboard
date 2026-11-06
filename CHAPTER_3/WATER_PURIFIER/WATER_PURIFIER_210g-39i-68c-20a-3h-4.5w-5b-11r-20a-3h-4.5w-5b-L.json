@@ -1,0 +1,36 @@
+{
+    "puzzle": "WATER_PURIFIER",
+    "score": {
+        "cost": 210,
+        "instructions": 39,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 68,
+        "area": 20,
+        "height": 3,
+        "width": 4.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 11.0,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/26f283a1/P025/210g-39i-68c-20a-3h-4.5w-5b-11r-20a-3h-4.5w-5b-L",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_210g-39i-68c-20a-3h-4.5w-5b-11r-20a-3h-4.5w-5b-L.solution",
+    "lastModified": "2026-11-06T15:13:47.439974647Z"
+}
