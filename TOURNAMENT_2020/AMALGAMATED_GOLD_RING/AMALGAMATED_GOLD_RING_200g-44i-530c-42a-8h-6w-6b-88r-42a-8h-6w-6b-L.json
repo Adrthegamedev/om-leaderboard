@@ -1,0 +1,36 @@
+{
+    "puzzle": "AMALGAMATED_GOLD_RING",
+    "score": {
+        "cost": 200,
+        "instructions": 44,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 530,
+        "area": 42,
+        "height": 8,
+        "width": 6.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 88.0,
+        "areaINF": {
+            "level": 0,
+            "value": 42.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/e75b5ebe/w2501727808/200g-44i-530c-42a-8h-6w-6b-88r-42a-8h-6w-6b-L",
+    "dataPath": "TOURNAMENT_2020/AMALGAMATED_GOLD_RING/AMALGAMATED_GOLD_RING_200g-44i-530c-42a-8h-6w-6b-88r-42a-8h-6w-6b-L.solution",
+    "lastModified": "2026-11-06T15:55:49.616584307Z"
+}
