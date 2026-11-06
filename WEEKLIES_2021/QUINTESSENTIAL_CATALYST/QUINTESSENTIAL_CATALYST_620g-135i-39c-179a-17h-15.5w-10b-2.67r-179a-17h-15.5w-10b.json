@@ -1,7 +1,7 @@
 {
     "puzzle": "QUINTESSENTIAL_CATALYST",
     "score": {
-        "cost": 630,
+        "cost": 620,
         "instructions": 135,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/c92dcf6a/w2584226376/630g-135i-39c-179a-17h-15.5w-10b-2.67r-179a-17h-15.5w-10b",
-    "dataPath": "WEEKLIES_2021/QUINTESSENTIAL_CATALYST/QUINTESSENTIAL_CATALYST_630g-135i-39c-179a-17h-15.5w-10b-2.67r-179a-17h-15.5w-10b.solution",
-    "lastModified": "2026-10-31T17:29:06.323601430Z"
+    "dataLink": "https://lb.novae.observer/l/om/f3af34d0/w2584226376/620g-135i-39c-179a-17h-15.5w-10b-2.67r-179a-17h-15.5w-10b",
+    "dataPath": "WEEKLIES_2021/QUINTESSENTIAL_CATALYST/QUINTESSENTIAL_CATALYST_620g-135i-39c-179a-17h-15.5w-10b-2.67r-179a-17h-15.5w-10b.solution",
+    "lastModified": "2026-11-06T14:26:19.383069628Z"
 }
