@@ -1,0 +1,24 @@
+{
+    "puzzle": "EYEDROPS_OF_IRRITATION",
+    "score": {
+        "cost": 585,
+        "instructions": 1383,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 144,
+        "area": 76,
+        "height": 4,
+        "width": 14.5,
+        "boundingHex": 15,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/7d9499b9/w3817959733/585g-1383i-144c-76a-4h-14.5w-15b-O",
+    "dataPath": "WEEKLIES_2/EYEDROPS_OF_IRRITATION/EYEDROPS_OF_IRRITATION_585g-1383i-144c-76a-4h-14.5w-15b-O.solution",
+    "lastModified": "2026-11-06T15:40:11.060285310Z"
+}
