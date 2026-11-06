@@ -1,15 +1,15 @@
 {
     "puzzle": "AMELIA_S_CATALYST",
     "score": {
-        "cost": 525,
+        "cost": 515,
         "instructions": 218,
         "overlap": false,
         "trackless": false,
         "cycles": 288,
-        "area": 66,
+        "area": 67,
         "height": 18,
         "width": 2.5,
-        "boundingHex": 18,
+        "boundingHex": 19,
         "looping": true,
         "rate": 45.0,
         "areaINF": {
@@ -29,7 +29,8 @@
             "value": 0.5
         }
     },
-    "displayLink": "https://files.mors.technology/AMELIA_S_CATALYST/525g-288c-66a-218i-28c1463a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3728200264/525g-218i-288c-66a-18h-2.5w-18b-45r-1.5a1-0.5h1-2.5w-0.5b1-L",
-    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_525g-218i-288c-66a-18h-2.5w-18b-45r-1.5a1-0.5h1-2.5w-0.5b1-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6702f9e1/w3728200264/515g-218i-288c-67a-18h-2.5w-19b-45r-1.5a1-0.5h1-2.5w-0.5b1-L",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_515g-218i-288c-67a-18h-2.5w-19b-45r-1.5a1-0.5h1-2.5w-0.5b1-L.solution",
+    "lastModified": "2026-11-06T16:20:50.198275332Z"
 }
