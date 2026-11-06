@@ -9,7 +9,7 @@
         "area": 28,
         "height": 6,
         "width": 6.0,
-        "boundingHex": 5,
+        "boundingHex": 4,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/df0a07d0/P095/370g-191i-56c-28a-6h-6w-5b-8r-28a-6h-6w-5b-L",
-    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_370g-191i-56c-28a-6h-6w-5b-8r-28a-6h-6w-5b-L.solution",
-    "lastModified": "2026-11-06T14:59:27.783109314Z"
+    "dataLink": "https://lb.novae.observer/l/om/57b1e6f8/P095/370g-191i-56c-28a-6h-6w-4b-8r-28a-6h-6w-4b-L",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_370g-191i-56c-28a-6h-6w-4b-8r-28a-6h-6w-4b-L.solution",
+    "lastModified": "2026-11-06T14:59:45.432635621Z"
 }
