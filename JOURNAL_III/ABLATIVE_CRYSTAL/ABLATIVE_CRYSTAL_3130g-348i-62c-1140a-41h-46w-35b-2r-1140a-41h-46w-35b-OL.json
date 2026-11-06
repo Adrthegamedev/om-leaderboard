@@ -1,12 +1,12 @@
 {
     "puzzle": "ABLATIVE_CRYSTAL",
     "score": {
-        "cost": 3140,
+        "cost": 3130,
         "instructions": 348,
         "overlap": true,
         "trackless": false,
         "cycles": 62,
-        "area": 1139,
+        "area": 1140,
         "height": 41,
         "width": 46.0,
         "boundingHex": 35,
@@ -14,7 +14,7 @@
         "rate": 2.0,
         "areaINF": {
             "level": 0,
-            "value": 1139.0
+            "value": 1140.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 35.0
         }
     },
-    "displayLink": "https://files.mors.technology/ABLATIVE_CRYSTAL/3140g-62c-1139a-348i-O-958a565f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P068/3140g-348i-62c-1139a-41h-46w-35b-2r-1139a-41h-46w-35b-OL",
-    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_3140g-348i-62c-1139a-41h-46w-35b-2r-1139a-41h-46w-35b-OL.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b084ec92/P068/3130g-348i-62c-1140a-41h-46w-35b-2r-1140a-41h-46w-35b-OL",
+    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_3130g-348i-62c-1140a-41h-46w-35b-2r-1140a-41h-46w-35b-OL.solution",
+    "lastModified": "2026-11-06T16:11:49.202469415Z"
 }
