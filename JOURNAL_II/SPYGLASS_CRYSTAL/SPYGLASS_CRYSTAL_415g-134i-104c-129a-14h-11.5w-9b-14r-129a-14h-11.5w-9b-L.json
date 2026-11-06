@@ -1,0 +1,36 @@
+{
+    "puzzle": "SPYGLASS_CRYSTAL",
+    "score": {
+        "cost": 415,
+        "instructions": 134,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 104,
+        "area": 129,
+        "height": 14,
+        "width": 11.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 129.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/7f0442fd/P063/415g-134i-104c-129a-14h-11.5w-9b-14r-129a-14h-11.5w-9b-L",
+    "dataPath": "JOURNAL_II/SPYGLASS_CRYSTAL/SPYGLASS_CRYSTAL_415g-134i-104c-129a-14h-11.5w-9b-14r-129a-14h-11.5w-9b-L.solution",
+    "lastModified": "2026-11-06T15:26:58.158076853Z"
+}
