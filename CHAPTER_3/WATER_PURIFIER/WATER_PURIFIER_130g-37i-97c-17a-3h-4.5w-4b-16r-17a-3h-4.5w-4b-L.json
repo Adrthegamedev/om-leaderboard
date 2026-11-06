@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 97,
         "area": 17,
-        "height": 4,
+        "height": 3,
         "width": 4.5,
         "boundingHex": 4,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 4.0
+            "value": 3.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/55cacddd/P025/130g-37i-97c-17a-4h-4.5w-4b-16r-17a-4h-4.5w-4b-L",
-    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_130g-37i-97c-17a-4h-4.5w-4b-16r-17a-4h-4.5w-4b-L.solution",
-    "lastModified": "2026-11-06T15:13:24.735395341Z"
+    "dataLink": "https://lb.novae.observer/l/om/8640557b/P025/130g-37i-97c-17a-3h-4.5w-4b-16r-17a-3h-4.5w-4b-L",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_130g-37i-97c-17a-3h-4.5w-4b-16r-17a-3h-4.5w-4b-L.solution",
+    "lastModified": "2026-11-06T15:13:28.879266917Z"
 }
