@@ -1,0 +1,36 @@
+{
+    "puzzle": "GILDING_WAX",
+    "score": {
+        "cost": 530,
+        "instructions": 72,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 62,
+        "area": 280,
+        "height": 18,
+        "width": 17.5,
+        "boundingHex": 15,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 280.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 15.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/baf0e83b/P279/530g-72i-62c-280a-18h-17.5w-15b-8r-280a-18h-17.5w-15b-L",
+    "dataPath": "JOURNAL_CVIII_V/GILDING_WAX/GILDING_WAX_530g-72i-62c-280a-18h-17.5w-15b-8r-280a-18h-17.5w-15b-L.solution",
+    "lastModified": "2026-11-06T13:46:11.192187298Z"
+}
