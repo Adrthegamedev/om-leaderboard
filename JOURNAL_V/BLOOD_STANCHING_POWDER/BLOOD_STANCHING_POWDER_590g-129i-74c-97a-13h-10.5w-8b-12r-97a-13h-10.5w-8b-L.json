@@ -1,20 +1,20 @@
 {
     "puzzle": "BLOOD_STANCHING_POWDER",
     "score": {
-        "cost": 595,
+        "cost": 590,
         "instructions": 129,
         "overlap": false,
         "trackless": false,
         "cycles": 74,
-        "area": 98,
+        "area": 97,
         "height": 13,
-        "width": 12.0,
+        "width": 10.5,
         "boundingHex": 8,
         "looping": true,
         "rate": 12.0,
         "areaINF": {
             "level": 0,
-            "value": 98.0
+            "value": 97.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 12.0
+            "value": 10.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d0546b59/P087/595g-129i-74c-98a-13h-12w-8b-12r-98a-13h-12w-8b-L",
-    "dataPath": "JOURNAL_V/BLOOD_STANCHING_POWDER/BLOOD_STANCHING_POWDER_595g-129i-74c-98a-13h-12w-8b-12r-98a-13h-12w-8b-L.solution",
-    "lastModified": "2026-11-06T14:09:33.646114131Z"
+    "dataLink": "https://lb.novae.observer/l/om/64e3f973/P087/590g-129i-74c-97a-13h-10.5w-8b-12r-97a-13h-10.5w-8b-L",
+    "dataPath": "JOURNAL_V/BLOOD_STANCHING_POWDER/BLOOD_STANCHING_POWDER_590g-129i-74c-97a-13h-10.5w-8b-12r-97a-13h-10.5w-8b-L.solution",
+    "lastModified": "2026-11-06T14:09:38.399722130Z"
 }
