@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 192,
         "area": 57,
-        "height": 6,
+        "height": 5,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -18,12 +18,13 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         },
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/CLIMBING_ROPE_FIBER/150g-192c-57a-12i-0ef09257.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P027/150g-12i-192c-57a-6h-24r-6a1-6h-L",
-    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/CLIMBING_ROPE_FIBER_150g-12i-192c-57a-6h-24r-6a1-6h-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/a87bbc8f/P027/150g-12i-192c-57a-5h-24r-6a1-5h-L",
+    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/CLIMBING_ROPE_FIBER_150g-12i-192c-57a-5h-24r-6a1-5h-L.solution",
+    "lastModified": "2026-11-06T15:20:29.190765939Z"
 }
