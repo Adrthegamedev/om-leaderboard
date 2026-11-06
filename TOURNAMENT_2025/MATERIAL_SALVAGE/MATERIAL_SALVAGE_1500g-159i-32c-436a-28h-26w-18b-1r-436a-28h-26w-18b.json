@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 32,
         "area": 436,
-        "height": 29,
+        "height": 28,
         "width": 26.0,
         "boundingHex": 18,
         "looping": false,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 29.0
+            "value": 28.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/c63186da/w3446276940/1500g-159i-32c-436a-29h-26w-18b-1r-436a-29h-26w-18b",
-    "dataPath": "TOURNAMENT_2025/MATERIAL_SALVAGE/MATERIAL_SALVAGE_1500g-159i-32c-436a-29h-26w-18b-1r-436a-29h-26w-18b.solution",
-    "lastModified": "2026-11-06T14:41:08.079928896Z"
+    "dataLink": "https://lb.novae.observer/l/om/8a448553/w3446276940/1500g-159i-32c-436a-28h-26w-18b-1r-436a-28h-26w-18b",
+    "dataPath": "TOURNAMENT_2025/MATERIAL_SALVAGE/MATERIAL_SALVAGE_1500g-159i-32c-436a-28h-26w-18b-1r-436a-28h-26w-18b.solution",
+    "lastModified": "2026-11-06T14:41:25.986120092Z"
 }
