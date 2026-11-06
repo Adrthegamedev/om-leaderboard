@@ -1,7 +1,7 @@
 {
     "puzzle": "VISILLARY_ANAESTHETIC",
     "score": {
-        "cost": 470,
+        "cost": 450,
         "instructions": 108,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 10.0
         }
     },
-    "displayLink": "https://files.mors.technology/VISILLARY_ANAESTHETIC/470g-125c-116a-108i-28a81aa8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P102/470g-108i-125c-116a-14h-10w-10b-20r-116a-14h-10w-10b-L",
-    "dataPath": "JOURNAL_VIII/VISILLARY_ANAESTHETIC/VISILLARY_ANAESTHETIC_470g-108i-125c-116a-14h-10w-10b-20r-116a-14h-10w-10b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/48fc3c7f/P102/450g-108i-125c-116a-14h-10w-10b-20r-116a-14h-10w-10b-L",
+    "dataPath": "JOURNAL_VIII/VISILLARY_ANAESTHETIC/VISILLARY_ANAESTHETIC_450g-108i-125c-116a-14h-10w-10b-20r-116a-14h-10w-10b-L.solution",
+    "lastModified": "2026-11-06T15:38:39.301965906Z"
 }
