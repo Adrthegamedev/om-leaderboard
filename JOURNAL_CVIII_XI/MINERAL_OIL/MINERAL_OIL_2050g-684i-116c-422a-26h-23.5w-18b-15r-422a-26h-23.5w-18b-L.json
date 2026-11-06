@@ -1,0 +1,36 @@
+{
+    "puzzle": "MINERAL_OIL",
+    "score": {
+        "cost": 2050,
+        "instructions": 684,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 116,
+        "area": 422,
+        "height": 26,
+        "width": 23.5,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 422.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 23.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 18.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/dd339368/P307/2050g-684i-116c-422a-26h-23.5w-18b-15r-422a-26h-23.5w-18b-L",
+    "dataPath": "JOURNAL_CVIII_XI/MINERAL_OIL/MINERAL_OIL_2050g-684i-116c-422a-26h-23.5w-18b-15r-422a-26h-23.5w-18b-L.solution",
+    "lastModified": "2026-11-06T13:43:42.691017977Z"
+}
