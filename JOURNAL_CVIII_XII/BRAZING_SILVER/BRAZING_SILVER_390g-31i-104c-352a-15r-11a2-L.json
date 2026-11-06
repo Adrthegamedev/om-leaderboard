@@ -1,0 +1,27 @@
+{
+    "puzzle": "BRAZING_SILVER",
+    "score": {
+        "cost": 390,
+        "instructions": 31,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 104,
+        "area": 352,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 2,
+            "value": 11.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/371374d3/P310/390g-31i-104c-352a-15r-11a2-L",
+    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/BRAZING_SILVER_390g-31i-104c-352a-15r-11a2-L.solution",
+    "lastModified": "2026-11-06T14:25:34.155879781Z"
+}
