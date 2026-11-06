@@ -1,12 +1,12 @@
 {
     "puzzle": "LUMINOUS_VAPOR",
     "score": {
-        "cost": 595,
+        "cost": 585,
         "instructions": 76,
         "overlap": false,
         "trackless": false,
         "cycles": 28,
-        "area": 73,
+        "area": 74,
         "height": 10,
         "width": 9.5,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 73.0
+            "value": 74.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/SELF_PRESSURIZING_GAS/595g-28c-73a-76i-599c4d34.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P247/595g-76i-28c-73a-10h-9.5w-7b-4r-73a-10h-9.5w-7b-L",
-    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_595g-76i-28c-73a-10h-9.5w-7b-4r-73a-10h-9.5w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d1816372/P247/585g-76i-28c-74a-10h-9.5w-7b-4r-74a-10h-9.5w-7b-L",
+    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_585g-76i-28c-74a-10h-9.5w-7b-4r-74a-10h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-06T14:24:12.201657610Z"
 }
