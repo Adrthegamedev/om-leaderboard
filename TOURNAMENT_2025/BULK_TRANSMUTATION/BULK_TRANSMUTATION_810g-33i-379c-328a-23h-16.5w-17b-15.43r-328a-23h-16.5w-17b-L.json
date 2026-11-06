@@ -1,0 +1,36 @@
+{
+    "puzzle": "BULK_TRANSMUTATION",
+    "score": {
+        "cost": 810,
+        "instructions": 33,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 379,
+        "area": 328,
+        "height": 23,
+        "width": 16.5,
+        "boundingHex": 17,
+        "looping": true,
+        "rate": 15.43,
+        "areaINF": {
+            "level": 0,
+            "value": 328.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 16.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 17.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/02be5e60/w3446278995/810g-33i-379c-328a-23h-16.5w-17b-15.43r-328a-23h-16.5w-17b-L",
+    "dataPath": "TOURNAMENT_2025/BULK_TRANSMUTATION/BULK_TRANSMUTATION_810g-33i-379c-328a-23h-16.5w-17b-15.43r-328a-23h-16.5w-17b-L.solution",
+    "lastModified": "2026-11-06T14:43:38.171120837Z"
+}
