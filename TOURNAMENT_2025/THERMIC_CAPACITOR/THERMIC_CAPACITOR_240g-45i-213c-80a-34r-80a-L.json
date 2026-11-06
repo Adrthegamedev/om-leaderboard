@@ -1,0 +1,27 @@
+{
+    "puzzle": "THERMIC_CAPACITOR",
+    "score": {
+        "cost": 240,
+        "instructions": 45,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 213,
+        "area": 80,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 34.0,
+        "areaINF": {
+            "level": 0,
+            "value": 80.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/13fc990c/w3446275900/240g-45i-213c-80a-34r-80a-L",
+    "dataPath": "TOURNAMENT_2025/THERMIC_CAPACITOR/THERMIC_CAPACITOR_240g-45i-213c-80a-34r-80a-L.solution",
+    "lastModified": "2026-11-06T14:40:30.647390804Z"
+}
