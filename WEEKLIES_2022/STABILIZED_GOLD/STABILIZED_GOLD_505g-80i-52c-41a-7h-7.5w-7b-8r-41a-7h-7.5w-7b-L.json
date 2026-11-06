@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 52,
         "area": 41,
-        "height": 8,
+        "height": 7,
         "width": 7.5,
         "boundingHex": 7,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/fb025a14/w2868335739/505g-80i-52c-41a-8h-7.5w-7b-8r-41a-8h-7.5w-7b-L",
-    "dataPath": "WEEKLIES_2022/STABILIZED_GOLD/STABILIZED_GOLD_505g-80i-52c-41a-8h-7.5w-7b-8r-41a-8h-7.5w-7b-L.solution",
-    "lastModified": "2026-11-06T16:31:56.013532179Z"
+    "dataLink": "https://lb.novae.observer/l/om/1814ca63/w2868335739/505g-80i-52c-41a-7h-7.5w-7b-8r-41a-7h-7.5w-7b-L",
+    "dataPath": "WEEKLIES_2022/STABILIZED_GOLD/STABILIZED_GOLD_505g-80i-52c-41a-7h-7.5w-7b-8r-41a-7h-7.5w-7b-L.solution",
+    "lastModified": "2026-11-06T16:32:13.040777882Z"
 }
