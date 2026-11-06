@@ -1,12 +1,12 @@
 {
     "puzzle": "MARTIAL_REGULUS",
     "score": {
-        "cost": 720,
+        "cost": 710,
         "instructions": 103,
         "overlap": false,
         "trackless": false,
         "cycles": 51,
-        "area": 72,
+        "area": 73,
         "height": 9,
         "width": 10.0,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 72.0
+            "value": 73.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/MARTIAL_REGULUS/720g-51c-72a-103i-64a23783.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2827119474/720g-103i-51c-72a-9h-10w-7b-8r-72a-9h-10w-7b-L",
-    "dataPath": "WEEKLIES_1/MARTIAL_REGULUS/MARTIAL_REGULUS_720g-103i-51c-72a-9h-10w-7b-8r-72a-9h-10w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/79d9cfc0/w2827119474/710g-103i-51c-73a-9h-10w-7b-8r-73a-9h-10w-7b-L",
+    "dataPath": "WEEKLIES_1/MARTIAL_REGULUS/MARTIAL_REGULUS_710g-103i-51c-73a-9h-10w-7b-8r-73a-9h-10w-7b-L.solution",
+    "lastModified": "2026-11-06T14:00:27.927610621Z"
 }
