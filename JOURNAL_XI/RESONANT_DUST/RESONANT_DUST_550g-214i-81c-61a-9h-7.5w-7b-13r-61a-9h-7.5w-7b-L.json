@@ -1,12 +1,12 @@
 {
     "puzzle": "RESONANT_DUST",
     "score": {
-        "cost": 560,
+        "cost": 550,
         "instructions": 214,
         "overlap": false,
         "trackless": false,
         "cycles": 81,
-        "area": 60,
+        "area": 61,
         "height": 9,
         "width": 7.5,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 13.0,
         "areaINF": {
             "level": 0,
-            "value": 60.0
+            "value": 61.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/Radio-Receivers-560g-81c-60a-214i-9h-7.5w-13r-056afc.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P243/560g-214i-81c-60a-9h-7.5w-7b-13r-60a-9h-7.5w-7b-L",
-    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_560g-214i-81c-60a-9h-7.5w-7b-13r-60a-9h-7.5w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/703e3cc6/P243/550g-214i-81c-61a-9h-7.5w-7b-13r-61a-9h-7.5w-7b-L",
+    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_550g-214i-81c-61a-9h-7.5w-7b-13r-61a-9h-7.5w-7b-L.solution",
+    "lastModified": "2026-11-06T15:59:41.868266372Z"
 }
