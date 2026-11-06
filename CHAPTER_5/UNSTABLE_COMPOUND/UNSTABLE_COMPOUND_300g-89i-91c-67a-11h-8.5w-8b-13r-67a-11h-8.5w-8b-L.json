@@ -1,0 +1,36 @@
+{
+    "puzzle": "UNSTABLE_COMPOUND",
+    "score": {
+        "cost": 300,
+        "instructions": 89,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 91,
+        "area": 67,
+        "height": 11,
+        "width": 8.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 13.0,
+        "areaINF": {
+            "level": 0,
+            "value": 67.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/91c16ecb/P040/300g-89i-91c-67a-11h-8.5w-8b-13r-67a-11h-8.5w-8b-L",
+    "dataPath": "CHAPTER_5/UNSTABLE_COMPOUND/UNSTABLE_COMPOUND_300g-89i-91c-67a-11h-8.5w-8b-13r-67a-11h-8.5w-8b-L.solution",
+    "lastModified": "2026-11-06T14:53:15.805461477Z"
+}
