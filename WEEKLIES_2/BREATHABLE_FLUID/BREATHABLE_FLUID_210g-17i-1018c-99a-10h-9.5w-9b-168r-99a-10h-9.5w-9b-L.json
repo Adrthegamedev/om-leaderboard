@@ -1,0 +1,36 @@
+{
+    "puzzle": "BREATHABLE_FLUID",
+    "score": {
+        "cost": 210,
+        "instructions": 17,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1018,
+        "area": 99,
+        "height": 10,
+        "width": 9.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 168.0,
+        "areaINF": {
+            "level": 0,
+            "value": 99.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/cb0a5829/w3303849741/210g-17i-1018c-99a-10h-9.5w-9b-168r-99a-10h-9.5w-9b-L",
+    "dataPath": "WEEKLIES_2/BREATHABLE_FLUID/BREATHABLE_FLUID_210g-17i-1018c-99a-10h-9.5w-9b-168r-99a-10h-9.5w-9b-L.solution",
+    "lastModified": "2026-11-06T15:46:55.131499671Z"
+}
