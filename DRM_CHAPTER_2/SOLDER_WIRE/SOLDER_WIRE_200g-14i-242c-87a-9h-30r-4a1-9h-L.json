@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 242,
-        "area": 88,
+        "area": 87,
         "height": 9,
         "width": null,
         "boundingHex": null,
@@ -24,7 +24,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/48c29874/P209/200g-14i-242c-88a-9h-30r-4a1-9h-L",
-    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_200g-14i-242c-88a-9h-30r-4a1-9h-L.solution",
-    "lastModified": "2026-11-06T15:49:54.309191098Z"
+    "dataLink": "https://lb.novae.observer/l/om/8ae2baad/P209/200g-14i-242c-87a-9h-30r-4a1-9h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_200g-14i-242c-87a-9h-30r-4a1-9h-L.solution",
+    "lastModified": "2026-11-06T15:50:13.069473976Z"
 }
