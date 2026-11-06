@@ -1,12 +1,12 @@
 {
     "puzzle": "IGNITION_CORD",
     "score": {
-        "cost": 245,
+        "cost": 240,
         "instructions": 15,
         "overlap": false,
         "trackless": false,
         "cycles": 255,
-        "area": 61,
+        "area": 60,
         "height": 7,
         "width": null,
         "boundingHex": null,
@@ -24,7 +24,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/70fae6a6/w2839120106/245g-15i-255c-61a-7h-30r-3a1-7h-L",
-    "dataPath": "WEEKLIES_1/IGNITION_CORD/IGNITION_CORD_245g-15i-255c-61a-7h-30r-3a1-7h-L.solution",
-    "lastModified": "2026-11-06T13:57:54.644932909Z"
+    "dataLink": "https://lb.novae.observer/l/om/b0376101/w2839120106/240g-15i-255c-60a-7h-30r-3a1-7h-L",
+    "dataPath": "WEEKLIES_1/IGNITION_CORD/IGNITION_CORD_240g-15i-255c-60a-7h-30r-3a1-7h-L.solution",
+    "lastModified": "2026-11-06T13:58:07.825810687Z"
 }
