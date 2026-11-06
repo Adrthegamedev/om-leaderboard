@@ -1,12 +1,12 @@
 {
     "puzzle": "VAN_BERLO_S_ROTOR",
     "score": {
-        "cost": 300,
+        "cost": 290,
         "instructions": 134,
         "overlap": false,
         "trackless": false,
         "cycles": 223,
-        "area": 40,
+        "area": 39,
         "height": 7,
         "width": 6.0,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 37.0,
         "areaINF": {
             "level": 0,
-            "value": 40.0
+            "value": 39.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/666fea4a/w3817954043/300g-134i-223c-40a-7h-6w-5b-37r-40a-7h-6w-5b-L",
-    "dataPath": "WEEKLIES_2/VAN_BERLO_S_ROTOR/VAN_BERLO_S_ROTOR_300g-134i-223c-40a-7h-6w-5b-37r-40a-7h-6w-5b-L.solution",
-    "lastModified": "2026-11-06T15:40:55.589821812Z"
+    "dataLink": "https://lb.novae.observer/l/om/203176d7/w3817954043/290g-134i-223c-39a-7h-6w-5b-37r-39a-7h-6w-5b-L",
+    "dataPath": "WEEKLIES_2/VAN_BERLO_S_ROTOR/VAN_BERLO_S_ROTOR_290g-134i-223c-39a-7h-6w-5b-37r-39a-7h-6w-5b-L.solution",
+    "lastModified": "2026-11-06T15:41:04.621062755Z"
 }
