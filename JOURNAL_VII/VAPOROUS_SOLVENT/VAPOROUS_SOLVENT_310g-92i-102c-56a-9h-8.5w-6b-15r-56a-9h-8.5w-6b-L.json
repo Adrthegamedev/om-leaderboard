@@ -1,0 +1,36 @@
+{
+    "puzzle": "VAPOROUS_SOLVENT",
+    "score": {
+        "cost": 310,
+        "instructions": 92,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 102,
+        "area": 56,
+        "height": 9,
+        "width": 8.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 56.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/24044101/P098/310g-92i-102c-56a-9h-8.5w-6b-15r-56a-9h-8.5w-6b-L",
+    "dataPath": "JOURNAL_VII/VAPOROUS_SOLVENT/VAPOROUS_SOLVENT_310g-92i-102c-56a-9h-8.5w-6b-15r-56a-9h-8.5w-6b-L.solution",
+    "lastModified": "2026-11-06T14:57:01.558958721Z"
+}
