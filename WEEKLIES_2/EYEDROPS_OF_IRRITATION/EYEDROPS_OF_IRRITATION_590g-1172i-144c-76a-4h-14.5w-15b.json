@@ -3,7 +3,7 @@
     "score": {
         "cost": 590,
         "instructions": 1172,
-        "overlap": true,
+        "overlap": false,
         "trackless": false,
         "cycles": 144,
         "area": 76,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/cf83febe/w3817959733/590g-1172i-144c-76a-4h-14.5w-15b-O",
-    "dataPath": "WEEKLIES_2/EYEDROPS_OF_IRRITATION/EYEDROPS_OF_IRRITATION_590g-1172i-144c-76a-4h-14.5w-15b-O.solution",
-    "lastModified": "2026-11-06T15:40:01.179542734Z"
+    "dataLink": "https://lb.novae.observer/l/om/58d1db93/w3817959733/590g-1172i-144c-76a-4h-14.5w-15b",
+    "dataPath": "WEEKLIES_2/EYEDROPS_OF_IRRITATION/EYEDROPS_OF_IRRITATION_590g-1172i-144c-76a-4h-14.5w-15b.solution",
+    "lastModified": "2026-11-06T15:40:30.080019447Z"
 }
