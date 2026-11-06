@@ -1,0 +1,36 @@
+{
+    "puzzle": "GRINDSTONE",
+    "score": {
+        "cost": 230,
+        "instructions": 20,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 139,
+        "area": 82,
+        "height": 16,
+        "width": 15.5,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 1,
+            "value": 5.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.6666666666666667
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/79f28bf3/P305/230g-20i-139c-82a-16h-15.5w-13b-24r-5a1-2h1-2w1-1.667b1-OL",
+    "dataPath": "JOURNAL_CVIII_XI/GRINDSTONE/GRINDSTONE_230g-20i-139c-82a-16h-15.5w-13b-24r-5a1-2h1-2w1-1.667b1-OL.solution",
+    "lastModified": "2026-11-06T13:43:55.529260879Z"
+}
