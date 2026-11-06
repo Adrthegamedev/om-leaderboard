@@ -1,0 +1,36 @@
+{
+    "puzzle": "UNIVERSAL_OINTMENT",
+    "score": {
+        "cost": 865,
+        "instructions": 204,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 37,
+        "area": 195,
+        "height": 16,
+        "width": 15.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 195.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/da7a2078/P314/865g-204i-37c-195a-16h-15w-12b-4r-195a-16h-15w-12b-OL",
+    "dataPath": "JOURNAL_CVIII_XII/UNIVERSAL_OINTMENT/UNIVERSAL_OINTMENT_865g-204i-37c-195a-16h-15w-12b-4r-195a-16h-15w-12b-OL.solution",
+    "lastModified": "2026-11-06T14:25:08.204526760Z"
+}
