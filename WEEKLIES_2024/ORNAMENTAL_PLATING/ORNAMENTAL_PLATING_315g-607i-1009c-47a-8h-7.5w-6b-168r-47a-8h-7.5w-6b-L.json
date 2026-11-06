@@ -1,7 +1,7 @@
 {
     "puzzle": "ORNAMENTAL_PLATING",
     "score": {
-        "cost": 335,
+        "cost": 315,
         "instructions": 607,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/3ffd995d/OM2024Weeklies_OrnamentalPlating/335g-607i-1009c-47a-8h-7.5w-6b-168r-47a-8h-7.5w-6b-L",
-    "dataPath": "WEEKLIES_2024/ORNAMENTAL_PLATING/ORNAMENTAL_PLATING_335g-607i-1009c-47a-8h-7.5w-6b-168r-47a-8h-7.5w-6b-L.solution",
-    "lastModified": "2026-10-31T16:58:32.396692435Z"
+    "dataLink": "https://lb.novae.observer/l/om/683e065c/OM2024Weeklies_OrnamentalPlating/315g-607i-1009c-47a-8h-7.5w-6b-168r-47a-8h-7.5w-6b-L",
+    "dataPath": "WEEKLIES_2024/ORNAMENTAL_PLATING/ORNAMENTAL_PLATING_315g-607i-1009c-47a-8h-7.5w-6b-168r-47a-8h-7.5w-6b-L.solution",
+    "lastModified": "2026-11-06T16:07:30.565006136Z"
 }
