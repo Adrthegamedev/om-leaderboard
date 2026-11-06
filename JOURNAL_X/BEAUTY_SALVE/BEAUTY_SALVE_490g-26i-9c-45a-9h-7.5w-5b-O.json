@@ -1,0 +1,24 @@
+{
+    "puzzle": "BEAUTY_SALVE",
+    "score": {
+        "cost": 490,
+        "instructions": 26,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 9,
+        "area": 45,
+        "height": 9,
+        "width": 7.5,
+        "boundingHex": 5,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/d1888826/P246/490g-26i-9c-45a-9h-7.5w-5b-O",
+    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_490g-26i-9c-45a-9h-7.5w-5b-O.solution",
+    "lastModified": "2026-11-06T14:23:54.308900632Z"
+}
