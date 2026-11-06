@@ -1,12 +1,12 @@
 {
     "puzzle": "TONIC_OF_HYDRATION",
     "score": {
-        "cost": 985,
+        "cost": 980,
         "instructions": 301,
         "overlap": false,
         "trackless": false,
         "cycles": 61,
-        "area": 132,
+        "area": 131,
         "height": 14,
         "width": 12.5,
         "boundingHex": 9,
@@ -14,7 +14,7 @@
         "rate": 9.0,
         "areaINF": {
             "level": 0,
-            "value": 132.0
+            "value": 131.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d3f8f6a9/P089/985g-301i-61c-132a-14h-12.5w-9b-9r-132a-14h-12.5w-9b-L",
-    "dataPath": "JOURNAL_V/TONIC_OF_HYDRATION/TONIC_OF_HYDRATION_985g-301i-61c-132a-14h-12.5w-9b-9r-132a-14h-12.5w-9b-L.solution",
-    "lastModified": "2026-11-06T14:09:58.394076499Z"
+    "dataLink": "https://lb.novae.observer/l/om/2496921b/P089/980g-301i-61c-131a-14h-12.5w-9b-9r-131a-14h-12.5w-9b-L",
+    "dataPath": "JOURNAL_V/TONIC_OF_HYDRATION/TONIC_OF_HYDRATION_980g-301i-61c-131a-14h-12.5w-9b-9r-131a-14h-12.5w-9b-L.solution",
+    "lastModified": "2026-11-06T14:10:02.612444380Z"
 }
