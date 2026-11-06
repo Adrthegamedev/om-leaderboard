@@ -1,7 +1,7 @@
 {
     "puzzle": "CANISTER_SHOT",
     "score": {
-        "cost": 385,
+        "cost": 365,
         "instructions": 125,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/CANISTER_SHOT/385g-191c-36a-125i-55b3d2df.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P270/385g-125i-191c-36a-7h-7w-4b-30r-36a-7h-7w-4b-L",
-    "dataPath": "JOURNAL_CVIII_IV/CANISTER_SHOT/CANISTER_SHOT_385g-125i-191c-36a-7h-7w-4b-30r-36a-7h-7w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/93e89623/P270/365g-125i-191c-36a-7h-7w-4b-30r-36a-7h-7w-4b-L",
+    "dataPath": "JOURNAL_CVIII_IV/CANISTER_SHOT/CANISTER_SHOT_365g-125i-191c-36a-7h-7w-4b-30r-36a-7h-7w-4b-L.solution",
+    "lastModified": "2026-11-06T14:56:24.892421071Z"
 }
