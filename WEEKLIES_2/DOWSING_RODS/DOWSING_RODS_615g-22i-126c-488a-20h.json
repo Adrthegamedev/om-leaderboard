@@ -1,0 +1,24 @@
+{
+    "puzzle": "DOWSING_RODS",
+    "score": {
+        "cost": 615,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 126,
+        "area": 488,
+        "height": 20,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/18a786e0/w3817954313/615g-22i-126c-488a-20h",
+    "dataPath": "WEEKLIES_2/DOWSING_RODS/DOWSING_RODS_615g-22i-126c-488a-20h.solution",
+    "lastModified": "2026-11-06T15:41:09.328162550Z"
+}
