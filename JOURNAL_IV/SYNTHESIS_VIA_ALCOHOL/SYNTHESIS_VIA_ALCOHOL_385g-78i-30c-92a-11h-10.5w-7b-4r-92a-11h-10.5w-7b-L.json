@@ -1,7 +1,7 @@
 {
     "puzzle": "SYNTHESIS_VIA_ALCOHOL",
     "score": {
-        "cost": 395,
+        "cost": 385,
         "instructions": 78,
         "overlap": false,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/395g-30c-92a-78i-eb61de3a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P071/395g-78i-30c-92a-11h-10.5w-7b-4r-92a-11h-10.5w-7b-L",
-    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_395g-78i-30c-92a-11h-10.5w-7b-4r-92a-11h-10.5w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/cbede7ba/P071/385g-78i-30c-92a-11h-10.5w-7b-4r-92a-11h-10.5w-7b-L",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_385g-78i-30c-92a-11h-10.5w-7b-4r-92a-11h-10.5w-7b-L.solution",
+    "lastModified": "2026-11-06T13:49:46.878176108Z"
 }
