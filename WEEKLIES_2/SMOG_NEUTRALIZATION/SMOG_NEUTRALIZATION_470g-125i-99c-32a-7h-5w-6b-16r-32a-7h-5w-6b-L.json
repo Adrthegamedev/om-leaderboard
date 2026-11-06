@@ -1,20 +1,20 @@
 {
     "puzzle": "SMOG_NEUTRALIZATION",
     "score": {
-        "cost": 475,
+        "cost": 470,
         "instructions": 125,
         "overlap": false,
         "trackless": false,
         "cycles": 99,
-        "area": 33,
+        "area": 32,
         "height": 7,
         "width": 5.0,
-        "boundingHex": 7,
+        "boundingHex": 6,
         "looping": true,
         "rate": 16.0,
         "areaINF": {
             "level": 0,
-            "value": 33.0
+            "value": 32.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/af9f4399/w3584644954/475g-125i-99c-33a-7h-5w-7b-16r-33a-7h-5w-7b-L",
-    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_475g-125i-99c-33a-7h-5w-7b-16r-33a-7h-5w-7b-L.solution",
-    "lastModified": "2026-11-06T15:43:13.727779488Z"
+    "dataLink": "https://lb.novae.observer/l/om/27ad47ab/w3584644954/470g-125i-99c-32a-7h-5w-6b-16r-32a-7h-5w-6b-L",
+    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_470g-125i-99c-32a-7h-5w-6b-16r-32a-7h-5w-6b-L.solution",
+    "lastModified": "2026-11-06T15:44:00.215248751Z"
 }
