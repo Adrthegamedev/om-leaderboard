@@ -1,0 +1,36 @@
+{
+    "puzzle": "SAND_OF_SUSPENSION",
+    "score": {
+        "cost": 380,
+        "instructions": 34,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 229,
+        "area": 198,
+        "height": 17,
+        "width": 15.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 198.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/14e1496a/w3584964665/380g-34i-229c-198a-17h-15.5w-10b-36r-198a-17h-15.5w-10b-L",
+    "dataPath": "WEEKLIES_2025/SAND_OF_SUSPENSION/SAND_OF_SUSPENSION_380g-34i-229c-198a-17h-15.5w-10b-36r-198a-17h-15.5w-10b-L.solution",
+    "lastModified": "2026-11-06T16:29:48.683332987Z"
+}
