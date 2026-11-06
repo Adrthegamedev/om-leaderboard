@@ -1,0 +1,27 @@
+{
+    "puzzle": "CHUNKY_MORS",
+    "score": {
+        "cost": 510,
+        "instructions": 526,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 159,
+        "area": 116,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 116.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b8e24c5c/w3210174680/510g-526i-159c-116a-24r-116a-L",
+    "dataPath": "TOURNAMENT_2024/CHUNKY_MORS/CHUNKY_MORS_510g-526i-159c-116a-24r-116a-L.solution",
+    "lastModified": "2026-11-06T14:16:29.595950657Z"
+}
