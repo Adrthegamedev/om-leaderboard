@@ -1,0 +1,24 @@
+{
+    "puzzle": "VERMILION_PIGMENT",
+    "score": {
+        "cost": 3895,
+        "instructions": 1048,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 41,
+        "area": 577,
+        "height": 29,
+        "width": 25.5,
+        "boundingHex": 17,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f7c46dfb/P276/3895g-1048i-41c-577a-29h-25.5w-17b",
+    "dataPath": "JOURNAL_CVIII_V/VERMILION_PIGMENT/VERMILION_PIGMENT_3895g-1048i-41c-577a-29h-25.5w-17b.solution",
+    "lastModified": "2026-11-06T13:45:43.981979525Z"
+}
