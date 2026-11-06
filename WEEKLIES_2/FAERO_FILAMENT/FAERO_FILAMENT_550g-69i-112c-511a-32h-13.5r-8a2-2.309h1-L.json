@@ -1,0 +1,30 @@
+{
+    "puzzle": "FAERO_FILAMENT",
+    "score": {
+        "cost": 550,
+        "instructions": 69,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 112,
+        "area": 511,
+        "height": 32,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 13.5,
+        "areaINF": {
+            "level": 2,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.309401076758503
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/adf14a1d/w3817956797/550g-69i-112c-511a-32h-13.5r-8a2-2.309h1-L",
+    "dataPath": "WEEKLIES_2/FAERO_FILAMENT/FAERO_FILAMENT_550g-69i-112c-511a-32h-13.5r-8a2-2.309h1-L.solution",
+    "lastModified": "2026-11-06T15:39:38.346438282Z"
+}
