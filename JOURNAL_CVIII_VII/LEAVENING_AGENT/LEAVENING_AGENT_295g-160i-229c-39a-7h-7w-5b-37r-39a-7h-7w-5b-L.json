@@ -1,0 +1,36 @@
+{
+    "puzzle": "LEAVENING_AGENT",
+    "score": {
+        "cost": 295,
+        "instructions": 160,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 229,
+        "area": 39,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 37.0,
+        "areaINF": {
+            "level": 0,
+            "value": 39.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/cfb60913/P287/295g-160i-229c-39a-7h-7w-5b-37r-39a-7h-7w-5b-L",
+    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_295g-160i-229c-39a-7h-7w-5b-37r-39a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-06T14:28:33.923829743Z"
+}
