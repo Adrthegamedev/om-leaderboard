@@ -1,0 +1,36 @@
+{
+    "puzzle": "COMPOUND_ANAESTHETIC",
+    "score": {
+        "cost": 240,
+        "instructions": 263,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 470,
+        "area": 57,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 77.0,
+        "areaINF": {
+            "level": 0,
+            "value": 57.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/86fff8b6/P244/240g-263i-470c-57a-8h-7w-7b-77r-57a-8h-7w-7b-L",
+    "dataPath": "JOURNAL_XI/COMPOUND_ANAESTHETIC/COMPOUND_ANAESTHETIC_240g-263i-470c-57a-8h-7w-7b-77r-57a-8h-7w-7b-L.solution",
+    "lastModified": "2026-11-06T15:58:10.120678247Z"
+}
