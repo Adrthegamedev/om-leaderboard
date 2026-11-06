@@ -1,12 +1,12 @@
 {
     "puzzle": "PIG_IRON",
     "score": {
-        "cost": 520,
+        "cost": 510,
         "instructions": 266,
         "overlap": false,
         "trackless": false,
         "cycles": 80,
-        "area": 121,
+        "area": 122,
         "height": 11,
         "width": 18.5,
         "boundingHex": 18,
@@ -29,7 +29,8 @@
             "value": 1.5
         }
     },
-    "displayLink": "https://files.mors.technology/PIG_IRON/520g-80c-121a-266i-62d1f11f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P260/520g-266i-80c-121a-11h-18.5w-18b-12r-6a1-11h-1.5w1-1.5b1-L",
-    "dataPath": "JOURNAL_CVIII_II/PIG_IRON/PIG_IRON_520g-266i-80c-121a-11h-18.5w-18b-12r-6a1-11h-1.5w1-1.5b1-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/55af34a1/P260/510g-266i-80c-122a-11h-18.5w-18b-12r-6a1-11h-1.5w1-1.5b1-L",
+    "dataPath": "JOURNAL_CVIII_II/PIG_IRON/PIG_IRON_510g-266i-80c-122a-11h-18.5w-18b-12r-6a1-11h-1.5w1-1.5b1-L.solution",
+    "lastModified": "2026-11-06T13:30:23.367835591Z"
 }
