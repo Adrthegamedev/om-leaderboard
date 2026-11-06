@@ -1,0 +1,36 @@
+{
+    "puzzle": "ROCKET_PROPELLANT",
+    "score": {
+        "cost": 145,
+        "instructions": 25,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 49,
+        "area": 19,
+        "height": 6,
+        "width": 4.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/4799fa14/P019/145g-25i-49c-19a-6h-4.5w-4b-8r-19a-6h-4.5w-4b-L",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/ROCKET_PROPELLANT_145g-25i-49c-19a-6h-4.5w-4b-8r-19a-6h-4.5w-4b-L.solution",
+    "lastModified": "2026-11-06T14:46:39.935945053Z"
+}
