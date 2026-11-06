@@ -1,20 +1,20 @@
 {
     "puzzle": "LUMINOUS_VAPOR",
     "score": {
-        "cost": 490,
+        "cost": 480,
         "instructions": 110,
         "overlap": false,
         "trackless": false,
         "cycles": 35,
-        "area": 51,
+        "area": 52,
         "height": 6,
-        "width": 7.0,
+        "width": 8.0,
         "boundingHex": 7,
         "looping": true,
         "rate": 5.0,
         "areaINF": {
             "level": 0,
-            "value": 51.0
+            "value": 52.0
         },
         "heightINF": {
             "level": 0,
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 8.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/SELF_PRESSURIZING_GAS/490g-35c-51a-110i-2a215195.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P247/490g-110i-35c-51a-6h-7w-7b-5r-51a-6h-7w-7b-L",
-    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_490g-110i-35c-51a-6h-7w-7b-5r-51a-6h-7w-7b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/90f82960/P247/480g-110i-35c-52a-6h-8w-7b-5r-52a-6h-8w-7b-L",
+    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_480g-110i-35c-52a-6h-8w-7b-5r-52a-6h-8w-7b-L.solution",
+    "lastModified": "2026-11-06T14:24:16.788010342Z"
 }
