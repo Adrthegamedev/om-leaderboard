@@ -1,0 +1,24 @@
+{
+    "puzzle": "MOORING_CABLE",
+    "score": {
+        "cost": 500,
+        "instructions": 91,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 31,
+        "area": 190,
+        "height": 19,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/44a6172b/P255/500g-91i-31c-190a-19h",
+    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/MOORING_CABLE_500g-91i-31c-190a-19h.solution",
+    "lastModified": "2026-11-06T15:24:17.320537494Z"
+}
