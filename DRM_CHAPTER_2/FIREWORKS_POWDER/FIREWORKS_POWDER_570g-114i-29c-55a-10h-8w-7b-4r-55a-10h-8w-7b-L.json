@@ -1,0 +1,36 @@
+{
+    "puzzle": "FIREWORKS_POWDER",
+    "score": {
+        "cost": 570,
+        "instructions": 114,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 29,
+        "area": 55,
+        "height": 10,
+        "width": 8.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 55.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5aed4355/P211/570g-114i-29c-55a-10h-8w-7b-4r-55a-10h-8w-7b-L",
+    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_570g-114i-29c-55a-10h-8w-7b-4r-55a-10h-8w-7b-L.solution",
+    "lastModified": "2026-11-06T15:50:37.446183339Z"
+}
