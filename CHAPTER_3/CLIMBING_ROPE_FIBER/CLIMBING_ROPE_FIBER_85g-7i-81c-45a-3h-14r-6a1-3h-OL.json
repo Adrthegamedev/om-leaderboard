@@ -5,8 +5,8 @@
         "instructions": 7,
         "overlap": true,
         "trackless": false,
-        "cycles": 94,
-        "area": 51,
+        "cycles": 81,
+        "area": 45,
         "height": 3,
         "width": null,
         "boundingHex": null,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/CLIMBING_ROPE_FIBER/85g-94c-51a-7i-O-7e03b0a1.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P027/85g-7i-94c-51a-3h-14r-6a1-3h-OL",
-    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/CLIMBING_ROPE_FIBER_85g-7i-94c-51a-3h-14r-6a1-3h-OL.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/77c7b3c6/P027/85g-7i-81c-45a-3h-14r-6a1-3h-OL",
+    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/CLIMBING_ROPE_FIBER_85g-7i-81c-45a-3h-14r-6a1-3h-OL.solution",
+    "lastModified": "2026-11-06T15:20:09.207990172Z"
 }
