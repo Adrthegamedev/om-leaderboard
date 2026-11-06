@@ -9,7 +9,7 @@
         "area": 66,
         "height": 11,
         "width": 9.0,
-        "boundingHex": 7,
+        "boundingHex": 6,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/74bbff14/P251/650g-94i-57c-66a-11h-9w-7b-8r-66a-11h-9w-7b-L",
-    "dataPath": "JOURNAL_XII/EXPLOSIVE_ALLOY/EXPLOSIVE_ALLOY_650g-94i-57c-66a-11h-9w-7b-8r-66a-11h-9w-7b-L.solution",
-    "lastModified": "2026-11-06T15:22:51.893185995Z"
+    "dataLink": "https://lb.novae.observer/l/om/6131c0ca/P251/650g-94i-57c-66a-11h-9w-6b-8r-66a-11h-9w-6b-L",
+    "dataPath": "JOURNAL_XII/EXPLOSIVE_ALLOY/EXPLOSIVE_ALLOY_650g-94i-57c-66a-11h-9w-6b-8r-66a-11h-9w-6b-L.solution",
+    "lastModified": "2026-11-06T15:22:56.169879322Z"
 }
