@@ -1,7 +1,7 @@
 {
     "puzzle": "RING_ENLARGEMENT",
     "score": {
-        "cost": 2440,
+        "cost": 2260,
         "instructions": 204,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/066408f8/w3087959475/2440g-204i-358c-1135a-35h-35w-28b-42r-1135a-35h-35w-28b-L",
-    "dataPath": "WEEKLIES_2023/RING_ENLARGEMENT/RING_ENLARGEMENT_2440g-204i-358c-1135a-35h-35w-28b-42r-1135a-35h-35w-28b-L.solution",
-    "lastModified": "2026-11-06T16:06:39.190219245Z"
+    "dataLink": "https://lb.novae.observer/l/om/6ebbab08/w3087959475/2260g-204i-358c-1135a-35h-35w-28b-42r-1135a-35h-35w-28b-L",
+    "dataPath": "WEEKLIES_2023/RING_ENLARGEMENT/RING_ENLARGEMENT_2260g-204i-358c-1135a-35h-35w-28b-42r-1135a-35h-35w-28b-L.solution",
+    "lastModified": "2026-11-10T19:05:01.197932719Z"
 }
