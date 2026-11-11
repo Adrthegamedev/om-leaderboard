@@ -1,20 +1,20 @@
 {
     "puzzle": "HORN_SILVER",
     "score": {
-        "cost": 6095,
+        "cost": 5985,
         "instructions": 7097,
         "overlap": false,
         "trackless": false,
         "cycles": 582,
-        "area": 1022,
+        "area": 1026,
         "height": 3,
-        "width": 172.5,
-        "boundingHex": 173,
+        "width": 173.5,
+        "boundingHex": 175,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 1022.0
+            "value": 1026.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 172.5
+            "value": 173.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 173.0
+            "value": 175.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/78d3faab/w2513871683/6095g-7097i-582c-1022a-3h-172.5w-173b-8r-1022a-3h-172.5w-173b-L",
-    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_6095g-7097i-582c-1022a-3h-172.5w-173b-8r-1022a-3h-172.5w-173b-L.solution",
-    "lastModified": "2026-11-06T13:58:25.460559573Z"
+    "dataLink": "https://lb.novae.observer/l/om/282ed4d4/w2513871683/5985g-7097i-582c-1026a-3h-173.5w-175b-8r-1026a-3h-173.5w-175b-L",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_5985g-7097i-582c-1026a-3h-173.5w-175b-8r-1026a-3h-173.5w-175b-L.solution",
+    "lastModified": "2026-11-11T07:21:23.829118579Z"
 }
