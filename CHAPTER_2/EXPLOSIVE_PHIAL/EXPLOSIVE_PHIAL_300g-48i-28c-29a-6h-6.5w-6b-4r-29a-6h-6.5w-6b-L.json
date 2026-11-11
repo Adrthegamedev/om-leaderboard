@@ -1,0 +1,36 @@
+{
+    "puzzle": "EXPLOSIVE_PHIAL",
+    "score": {
+        "cost": 300,
+        "instructions": 48,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 28,
+        "area": 29,
+        "height": 6,
+        "width": 6.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/a69a1519/P017/300g-48i-28c-29a-6h-6.5w-6b-4r-29a-6h-6.5w-6b-L",
+    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_300g-48i-28c-29a-6h-6.5w-6b-4r-29a-6h-6.5w-6b-L.solution",
+    "lastModified": "2026-11-11T21:27:33.679446985Z"
+}
