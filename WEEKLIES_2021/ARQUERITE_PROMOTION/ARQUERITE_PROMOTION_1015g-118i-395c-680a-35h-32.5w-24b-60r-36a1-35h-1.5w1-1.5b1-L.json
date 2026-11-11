@@ -1,7 +1,7 @@
 {
     "puzzle": "ARQUERITE_PROMOTION",
     "score": {
-        "cost": 1135,
+        "cost": 1015,
         "instructions": 118,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/22c85614/w2532208444/1135g-118i-395c-680a-35h-32.5w-24b-60r-36a1-35h-1.5w1-1.5b1-L",
-    "dataPath": "WEEKLIES_2021/ARQUERITE_PROMOTION/ARQUERITE_PROMOTION_1135g-118i-395c-680a-35h-32.5w-24b-60r-36a1-35h-1.5w1-1.5b1-L.solution",
-    "lastModified": "2026-11-06T14:28:08.021752668Z"
+    "dataLink": "https://lb.novae.observer/l/om/0be8db7f/w2532208444/1015g-118i-395c-680a-35h-32.5w-24b-60r-36a1-35h-1.5w1-1.5b1-L",
+    "dataPath": "WEEKLIES_2021/ARQUERITE_PROMOTION/ARQUERITE_PROMOTION_1015g-118i-395c-680a-35h-32.5w-24b-60r-36a1-35h-1.5w1-1.5b1-L.solution",
+    "lastModified": "2026-11-11T21:27:13.540434019Z"
 }
