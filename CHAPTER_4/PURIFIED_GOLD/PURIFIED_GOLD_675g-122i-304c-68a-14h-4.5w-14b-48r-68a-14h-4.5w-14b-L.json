@@ -1,0 +1,36 @@
+{
+    "puzzle": "PURIFIED_GOLD",
+    "score": {
+        "cost": 675,
+        "instructions": 122,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 304,
+        "area": 68,
+        "height": 14,
+        "width": 4.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 68.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ead714c9/P036/675g-122i-304c-68a-14h-4.5w-14b-48r-68a-14h-4.5w-14b-L",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_675g-122i-304c-68a-14h-4.5w-14b-48r-68a-14h-4.5w-14b-L.solution",
+    "lastModified": "2026-11-11T03:43:59.371397770Z"
+}
