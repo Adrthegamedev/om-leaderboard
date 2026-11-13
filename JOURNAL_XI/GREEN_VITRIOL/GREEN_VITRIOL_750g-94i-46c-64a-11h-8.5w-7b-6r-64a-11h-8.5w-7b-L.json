@@ -1,0 +1,36 @@
+{
+    "puzzle": "GREEN_VITRIOL",
+    "score": {
+        "cost": 750,
+        "instructions": 94,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 46,
+        "area": 64,
+        "height": 11,
+        "width": 8.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/7a74ad27/P240/750g-94i-46c-64a-11h-8.5w-7b-6r-64a-11h-8.5w-7b-L",
+    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_750g-94i-46c-64a-11h-8.5w-7b-6r-64a-11h-8.5w-7b-L.solution",
+    "lastModified": "2026-11-13T04:12:37.055630562Z"
+}
