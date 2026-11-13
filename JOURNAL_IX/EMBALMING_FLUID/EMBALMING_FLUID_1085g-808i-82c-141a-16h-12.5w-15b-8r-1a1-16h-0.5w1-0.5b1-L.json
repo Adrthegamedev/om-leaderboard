@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 82,
         "area": 141,
-        "height": 17,
+        "height": 16,
         "width": 12.5,
         "boundingHex": 15,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 17.0
+            "value": 16.0
         },
         "widthINF": {
             "level": 1,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/ca011fbb/P108/1085g-808i-82c-141a-17h-12.5w-15b-8r-1a1-17h-0.5w1-0.5b1-L",
-    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1085g-808i-82c-141a-17h-12.5w-15b-8r-1a1-17h-0.5w1-0.5b1-L.solution",
-    "lastModified": "2026-11-13T08:56:03.145829345Z"
+    "dataLink": "https://lb.novae.observer/l/om/f2da2a7c/P108/1085g-808i-82c-141a-16h-12.5w-15b-8r-1a1-16h-0.5w1-0.5b1-L",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1085g-808i-82c-141a-16h-12.5w-15b-8r-1a1-16h-0.5w1-0.5b1-L.solution",
+    "lastModified": "2026-11-13T08:56:33.504158749Z"
 }
