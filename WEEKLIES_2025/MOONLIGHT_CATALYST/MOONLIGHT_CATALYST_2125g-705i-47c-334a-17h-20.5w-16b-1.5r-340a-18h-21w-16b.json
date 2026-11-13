@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 47,
         "area": 334,
-        "height": 18,
+        "height": 17,
         "width": 20.5,
         "boundingHex": 16,
         "looping": false,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 19.0
+            "value": 18.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/80a4bcac/Weeklies2025_Moonlight_Catalyst/2125g-705i-47c-334a-18h-20.5w-16b-1.5r-340a-19h-21w-16b",
-    "dataPath": "WEEKLIES_2025/MOONLIGHT_CATALYST/MOONLIGHT_CATALYST_2125g-705i-47c-334a-18h-20.5w-16b-1.5r-340a-19h-21w-16b.solution",
-    "lastModified": "2026-11-13T07:56:41.966616072Z"
+    "dataLink": "https://lb.novae.observer/l/om/014517a6/Weeklies2025_Moonlight_Catalyst/2125g-705i-47c-334a-17h-20.5w-16b-1.5r-340a-18h-21w-16b",
+    "dataPath": "WEEKLIES_2025/MOONLIGHT_CATALYST/MOONLIGHT_CATALYST_2125g-705i-47c-334a-17h-20.5w-16b-1.5r-340a-18h-21w-16b.solution",
+    "lastModified": "2026-11-13T07:57:00.767429906Z"
 }
