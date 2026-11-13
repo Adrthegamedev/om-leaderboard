@@ -1,0 +1,36 @@
+{
+    "puzzle": "ELEMENTAL_COPPER",
+    "score": {
+        "cost": 380,
+        "instructions": 72,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 12,
+        "area": 29,
+        "height": 9,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 1.5,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8ae56bd0/P202/380g-72i-12c-29a-9h-5w-5b-1.5r-29a-9h-5w-5b-L",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_380g-72i-12c-29a-9h-5w-5b-1.5r-29a-9h-5w-5b-L.solution",
+    "lastModified": "2026-11-13T09:43:33.696362255Z"
+}
