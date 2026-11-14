@@ -1,0 +1,36 @@
+{
+    "puzzle": "SMOG_NEUTRALIZATION",
+    "score": {
+        "cost": 425,
+        "instructions": 125,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 99,
+        "area": 38,
+        "height": 8,
+        "width": 5.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8ee45ea6/w3584644954/425g-125i-99c-38a-8h-5.5w-7b-16r-38a-8h-5.5w-7b-L",
+    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_425g-125i-99c-38a-8h-5.5w-7b-16r-38a-8h-5.5w-7b-L.solution",
+    "lastModified": "2026-11-14T13:45:17.010207430Z"
+}
