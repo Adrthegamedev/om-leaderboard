@@ -1,28 +1,28 @@
 {
     "puzzle": "SOOTHING_SALVE",
     "score": {
-        "cost": 775,
+        "cost": 745,
         "instructions": 543,
         "overlap": false,
         "trackless": false,
         "cycles": 77,
-        "area": 96,
-        "height": 12,
-        "width": 11.0,
+        "area": 105,
+        "height": 13,
+        "width": 11.5,
         "boundingHex": 7,
         "looping": true,
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 96.0
+            "value": 105.0
         },
         "heightINF": {
             "level": 0,
-            "value": 12.0
+            "value": 13.0
         },
         "widthINF": {
             "level": 0,
-            "value": 11.0
+            "value": 11.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/e54e3f78/w2788066865/775g-543i-77c-96a-12h-11w-7b-4r-96a-12h-11w-7b-L",
-    "dataPath": "TOURNAMENT_2022/SOOTHING_SALVE/SOOTHING_SALVE_775g-543i-77c-96a-12h-11w-7b-4r-96a-12h-11w-7b-L.solution",
-    "lastModified": "2026-11-06T14:34:46.574574804Z"
+    "dataLink": "https://lb.novae.observer/l/om/d6ca9ac1/w2788066865/745g-543i-77c-105a-13h-11.5w-7b-4r-105a-13h-11.5w-7b-L",
+    "dataPath": "TOURNAMENT_2022/SOOTHING_SALVE/SOOTHING_SALVE_745g-543i-77c-105a-13h-11.5w-7b-4r-105a-13h-11.5w-7b-L.solution",
+    "lastModified": "2026-11-14T11:44:30.453824983Z"
 }
