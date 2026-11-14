@@ -1,24 +1,24 @@
 {
     "puzzle": "MOONLIGHT_CATALYST",
     "score": {
-        "cost": 2140,
+        "cost": 2135,
         "instructions": 705,
         "overlap": false,
         "trackless": false,
         "cycles": 47,
-        "area": 331,
-        "height": 18,
+        "area": 330,
+        "height": 16,
         "width": 20.5,
         "boundingHex": 16,
         "looping": false,
         "rate": 1.5,
         "areaINF": {
             "level": 0,
-            "value": 337.0
+            "value": 336.0
         },
         "heightINF": {
             "level": 0,
-            "value": 19.0
+            "value": 17.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/44585ba2/Weeklies2025_Moonlight_Catalyst/2140g-705i-47c-331a-18h-20.5w-16b-1.5r-337a-19h-21w-16b",
-    "dataPath": "WEEKLIES_2025/MOONLIGHT_CATALYST/MOONLIGHT_CATALYST_2140g-705i-47c-331a-18h-20.5w-16b-1.5r-337a-19h-21w-16b.solution",
-    "lastModified": "2026-11-14T15:16:57.000609782Z"
+    "dataLink": "https://lb.novae.observer/l/om/be377881/Weeklies2025_Moonlight_Catalyst/2135g-705i-47c-330a-16h-20.5w-16b-1.5r-336a-17h-21w-16b",
+    "dataPath": "WEEKLIES_2025/MOONLIGHT_CATALYST/MOONLIGHT_CATALYST_2135g-705i-47c-330a-16h-20.5w-16b-1.5r-336a-17h-21w-16b.solution",
+    "lastModified": "2026-11-14T15:17:16.096091222Z"
 }
