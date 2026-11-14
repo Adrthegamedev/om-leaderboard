@@ -1,0 +1,36 @@
+{
+    "puzzle": "MATERIAL_SALVAGE",
+    "score": {
+        "cost": 1450,
+        "instructions": 159,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 32,
+        "area": 441,
+        "height": 29,
+        "width": 26.0,
+        "boundingHex": 19,
+        "looping": false,
+        "rate": 1.0,
+        "areaINF": {
+            "level": 0,
+            "value": 441.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 19.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ac0bc2f2/w3446276940/1450g-159i-32c-441a-29h-26w-19b-1r-441a-29h-26w-19b",
+    "dataPath": "TOURNAMENT_2025/MATERIAL_SALVAGE/MATERIAL_SALVAGE_1450g-159i-32c-441a-29h-26w-19b-1r-441a-29h-26w-19b.solution",
+    "lastModified": "2026-11-14T11:44:34.873661034Z"
+}
