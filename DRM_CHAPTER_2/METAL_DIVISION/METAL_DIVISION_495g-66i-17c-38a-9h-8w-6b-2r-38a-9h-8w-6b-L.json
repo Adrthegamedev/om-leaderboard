@@ -1,15 +1,15 @@
 {
     "puzzle": "METAL_DIVISION",
     "score": {
-        "cost": 510,
+        "cost": 495,
         "instructions": 66,
         "overlap": false,
         "trackless": false,
         "cycles": 17,
         "area": 38,
-        "height": 8,
-        "width": 7.0,
-        "boundingHex": 5,
+        "height": 9,
+        "width": 8.0,
+        "boundingHex": 6,
         "looping": true,
         "rate": 2.0,
         "areaINF": {
@@ -18,19 +18,19 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 8.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 5.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/514881a6/P208/510g-66i-17c-38a-8h-7w-5b-2r-38a-8h-7w-5b-L",
-    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_510g-66i-17c-38a-8h-7w-5b-2r-38a-8h-7w-5b-L.solution",
-    "lastModified": "2026-11-14T13:45:33.784421158Z"
+    "dataLink": "https://lb.novae.observer/l/om/718efd5c/P208/495g-66i-17c-38a-9h-8w-6b-2r-38a-9h-8w-6b-L",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_495g-66i-17c-38a-9h-8w-6b-2r-38a-9h-8w-6b-L.solution",
+    "lastModified": "2026-11-14T13:45:38.247678172Z"
 }
