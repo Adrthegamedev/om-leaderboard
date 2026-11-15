@@ -1,20 +1,20 @@
 {
     "puzzle": "COURAGE_POTION",
     "score": {
-        "cost": 230,
+        "cost": 225,
         "instructions": 26,
         "overlap": false,
         "trackless": false,
         "cycles": 40,
-        "area": 22,
+        "area": 24,
         "height": 3,
         "width": 4.5,
-        "boundingHex": 6,
+        "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 22.0
+            "value": 24.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 7.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/f4d3eb20/P021/230g-26i-40c-22a-3h-4.5w-6b-6r-22a-3h-4.5w-6b-L",
-    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_230g-26i-40c-22a-3h-4.5w-6b-6r-22a-3h-4.5w-6b-L.solution",
-    "lastModified": "2026-11-15T09:55:46.752296801Z"
+    "dataLink": "https://lb.novae.observer/l/om/ef0ced91/P021/225g-26i-40c-24a-3h-4.5w-7b-6r-24a-3h-4.5w-7b-L",
+    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_225g-26i-40c-24a-3h-4.5w-7b-6r-24a-3h-4.5w-7b-L.solution",
+    "lastModified": "2026-11-15T11:07:12.677986839Z"
 }
