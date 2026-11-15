@@ -1,0 +1,24 @@
+{
+    "puzzle": "XYLEM_SUBSTITUTE",
+    "score": {
+        "cost": 1130,
+        "instructions": 582,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 49,
+        "area": 923,
+        "height": null,
+        "width": 31.0,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f0298dea/P297/1130g-582i-49c-923a-31w",
+    "dataPath": "JOURNAL_CVIII_IX/XYLEM_SUBSTITUTE/XYLEM_SUBSTITUTE_1130g-582i-49c-923a-31w.solution",
+    "lastModified": "2026-11-15T10:02:15.189854264Z"
+}
