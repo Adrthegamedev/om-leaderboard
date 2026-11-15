@@ -1,20 +1,20 @@
 {
     "puzzle": "LUMINOUS_VAPOR",
     "score": {
-        "cost": 440,
+        "cost": 435,
         "instructions": 54,
         "overlap": false,
         "trackless": false,
         "cycles": 58,
-        "area": 48,
+        "area": 50,
         "height": 5,
-        "width": 8.0,
-        "boundingHex": 8,
+        "width": 8.5,
+        "boundingHex": 9,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 48.0
+            "value": 50.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 8.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d25531f8/P247/440g-54i-58c-48a-5h-8w-8b-8r-48a-5h-8w-8b-L",
-    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_440g-54i-58c-48a-5h-8w-8b-8r-48a-5h-8w-8b-L.solution",
-    "lastModified": "2026-11-06T14:24:07.308282991Z"
+    "dataLink": "https://lb.novae.observer/l/om/800ade7a/P247/435g-54i-58c-50a-5h-8.5w-9b-8r-50a-5h-8.5w-9b-L",
+    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_435g-54i-58c-50a-5h-8.5w-9b-8r-50a-5h-8.5w-9b-L.solution",
+    "lastModified": "2026-11-15T09:45:29.963739236Z"
 }
