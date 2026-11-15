@@ -1,0 +1,30 @@
+{
+    "puzzle": "SHIMMERING_CHAIN",
+    "score": {
+        "cost": 2810,
+        "instructions": 399,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 100,
+        "area": 247,
+        "height": null,
+        "width": 18.5,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": null,
+        "widthINF": {
+            "level": 0,
+            "value": 18.5
+        },
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6e5340a6/P295/2810g-399i-100c-247a-18.5w-10r-12a1-18.5w-L",
+    "dataPath": "JOURNAL_CVIII_IX/SHIMMERING_CHAIN/SHIMMERING_CHAIN_2810g-399i-100c-247a-18.5w-10r-12a1-18.5w-L.solution",
+    "lastModified": "2026-11-15T11:10:35.885003766Z"
+}
