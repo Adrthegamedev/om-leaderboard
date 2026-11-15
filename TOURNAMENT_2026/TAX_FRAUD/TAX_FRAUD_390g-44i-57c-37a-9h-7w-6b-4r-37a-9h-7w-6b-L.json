@@ -1,0 +1,36 @@
+{
+    "puzzle": "TAX_FRAUD",
+    "score": {
+        "cost": 390,
+        "instructions": 44,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 57,
+        "area": 37,
+        "height": 9,
+        "width": 7.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 37.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/78000bdc/w3728200215/390g-44i-57c-37a-9h-7w-6b-4r-37a-9h-7w-6b-L",
+    "dataPath": "TOURNAMENT_2026/TAX_FRAUD/TAX_FRAUD_390g-44i-57c-37a-9h-7w-6b-4r-37a-9h-7w-6b-L.solution",
+    "lastModified": "2026-11-15T11:36:39.695576057Z"
+}
