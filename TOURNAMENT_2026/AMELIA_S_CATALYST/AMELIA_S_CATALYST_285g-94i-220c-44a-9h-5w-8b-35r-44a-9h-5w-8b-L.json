@@ -9,7 +9,7 @@
         "area": 44,
         "height": 9,
         "width": 5.0,
-        "boundingHex": 9,
+        "boundingHex": 8,
         "looping": true,
         "rate": 35.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4cd78b7f/w3728200264/285g-94i-220c-44a-9h-5w-9b-35r-44a-9h-5w-9b-L",
-    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_285g-94i-220c-44a-9h-5w-9b-35r-44a-9h-5w-9b-L.solution",
-    "lastModified": "2026-11-15T10:31:35.272597171Z"
+    "dataLink": "https://lb.novae.observer/l/om/14ea1d36/w3728200264/285g-94i-220c-44a-9h-5w-8b-35r-44a-9h-5w-8b-L",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_285g-94i-220c-44a-9h-5w-8b-35r-44a-9h-5w-8b-L.solution",
+    "lastModified": "2026-11-15T10:32:19.593404094Z"
 }
