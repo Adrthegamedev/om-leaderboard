@@ -1,0 +1,36 @@
+{
+    "puzzle": "SIMULACRUM",
+    "score": {
+        "cost": 425,
+        "instructions": 56,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 201,
+        "area": 91,
+        "height": 11,
+        "width": 9.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 91.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ffbc7d2d/w3210138102/425g-56i-201c-91a-11h-9.5w-8b-24r-91a-11h-9.5w-8b-L",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_425g-56i-201c-91a-11h-9.5w-8b-24r-91a-11h-9.5w-8b-L.solution",
+    "lastModified": "2026-11-15T10:55:50.286692189Z"
+}
