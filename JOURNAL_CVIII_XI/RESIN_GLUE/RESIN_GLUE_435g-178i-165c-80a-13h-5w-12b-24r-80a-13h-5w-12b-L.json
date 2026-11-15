@@ -1,12 +1,12 @@
 {
     "puzzle": "RESIN_GLUE",
     "score": {
-        "cost": 440,
+        "cost": 435,
         "instructions": 178,
         "overlap": false,
         "trackless": false,
         "cycles": 165,
-        "area": 78,
+        "area": 80,
         "height": 13,
         "width": 5.0,
         "boundingHex": 12,
@@ -14,7 +14,7 @@
         "rate": 24.0,
         "areaINF": {
             "level": 0,
-            "value": 78.0
+            "value": 80.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/c8b1977a/P309/440g-178i-165c-78a-13h-5w-12b-24r-78a-13h-5w-12b-L",
-    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_440g-178i-165c-78a-13h-5w-12b-24r-78a-13h-5w-12b-L.solution",
-    "lastModified": "2026-11-15T09:24:45.662726818Z"
+    "dataLink": "https://lb.novae.observer/l/om/a5980b13/P309/435g-178i-165c-80a-13h-5w-12b-24r-80a-13h-5w-12b-L",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_435g-178i-165c-80a-13h-5w-12b-24r-80a-13h-5w-12b-L.solution",
+    "lastModified": "2026-11-15T10:41:24.184324681Z"
 }
