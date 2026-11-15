@@ -8,7 +8,7 @@
         "cycles": 44,
         "area": 45,
         "height": 8,
-        "width": 7.0,
+        "width": 6.5,
         "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/981bba8a/w2946693353/430g-68i-44c-45a-8h-7w-7b-6r-45a-8h-7w-7b-L",
-    "dataPath": "TOURNAMENT_2023/COOL_EARRINGS/COOL_EARRINGS_430g-68i-44c-45a-8h-7w-7b-6r-45a-8h-7w-7b-L.solution",
-    "lastModified": "2026-11-15T10:56:19.297005748Z"
+    "dataLink": "https://lb.novae.observer/l/om/33a45ad9/w2946693353/430g-68i-44c-45a-8h-6.5w-7b-6r-45a-8h-6.5w-7b-L",
+    "dataPath": "TOURNAMENT_2023/COOL_EARRINGS/COOL_EARRINGS_430g-68i-44c-45a-8h-6.5w-7b-6r-45a-8h-6.5w-7b-L.solution",
+    "lastModified": "2026-11-15T10:56:27.024106979Z"
 }
