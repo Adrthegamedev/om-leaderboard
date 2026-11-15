@@ -9,7 +9,7 @@
         "area": 80,
         "height": 12,
         "width": 11.0,
-        "boundingHex": 9,
+        "boundingHex": 8,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/db186f70/P309/685g-83i-46c-80a-12h-11w-9b-6r-80a-12h-11w-9b-L",
-    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_685g-83i-46c-80a-12h-11w-9b-6r-80a-12h-11w-9b-L.solution",
-    "lastModified": "2026-11-15T10:41:19.173406826Z"
+    "dataLink": "https://lb.novae.observer/l/om/f7273318/P309/685g-83i-46c-80a-12h-11w-8b-6r-80a-12h-11w-8b-L",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_685g-83i-46c-80a-12h-11w-8b-6r-80a-12h-11w-8b-L.solution",
+    "lastModified": "2026-11-15T10:41:29.052422168Z"
 }
