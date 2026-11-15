@@ -1,0 +1,36 @@
+{
+    "puzzle": "AMELIA_S_CATALYST",
+    "score": {
+        "cost": 1280,
+        "instructions": 180,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 36,
+        "area": 213,
+        "height": 18,
+        "width": 17.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 3.0,
+        "areaINF": {
+            "level": 0,
+            "value": 213.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/97d17d89/w3728200264/1280g-180i-36c-213a-18h-17w-11b-3r-213a-18h-17w-11b-L",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_1280g-180i-36c-213a-18h-17w-11b-3r-213a-18h-17w-11b-L.solution",
+    "lastModified": "2026-11-15T08:57:26.830930086Z"
+}
