@@ -6,8 +6,8 @@
         "overlap": false,
         "trackless": false,
         "cycles": 62,
-        "area": 66,
-        "height": 9,
+        "area": 65,
+        "height": 10,
         "width": 9.0,
         "boundingHex": 8,
         "looping": false,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/8dd19a3f/P257/680g-123i-62c-66a-9h-9w-8b",
-    "dataPath": "JOURNAL_CVIII_I/ESSENCE_OF_CITRUS/ESSENCE_OF_CITRUS_680g-123i-62c-66a-9h-9w-8b.solution",
-    "lastModified": "2026-11-15T08:33:35.861444745Z"
+    "dataLink": "https://lb.novae.observer/l/om/b3f53196/P257/680g-123i-62c-65a-10h-9w-8b",
+    "dataPath": "JOURNAL_CVIII_I/ESSENCE_OF_CITRUS/ESSENCE_OF_CITRUS_680g-123i-62c-65a-10h-9w-8b.solution",
+    "lastModified": "2026-11-15T08:33:40.669553260Z"
 }
