@@ -1,24 +1,24 @@
 {
     "puzzle": "TONIC_OF_HYDRATION",
     "score": {
-        "cost": 825,
+        "cost": 820,
         "instructions": 292,
         "overlap": false,
         "trackless": false,
         "cycles": 64,
-        "area": 109,
-        "height": 11,
+        "area": 108,
+        "height": 10,
         "width": 12.5,
         "boundingHex": 9,
         "looping": true,
         "rate": 9.0,
         "areaINF": {
             "level": 0,
-            "value": 109.0
+            "value": 108.0
         },
         "heightINF": {
             "level": 0,
-            "value": 11.0
+            "value": 10.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/fbca1ccd/P089/825g-292i-64c-109a-11h-12.5w-9b-9r-109a-11h-12.5w-9b-L",
-    "dataPath": "JOURNAL_V/TONIC_OF_HYDRATION/TONIC_OF_HYDRATION_825g-292i-64c-109a-11h-12.5w-9b-9r-109a-11h-12.5w-9b-L.solution",
-    "lastModified": "2026-11-15T09:40:13.715136871Z"
+    "dataLink": "https://lb.novae.observer/l/om/b78c7124/P089/820g-292i-64c-108a-10h-12.5w-9b-9r-108a-10h-12.5w-9b-L",
+    "dataPath": "JOURNAL_V/TONIC_OF_HYDRATION/TONIC_OF_HYDRATION_820g-292i-64c-108a-10h-12.5w-9b-9r-108a-10h-12.5w-9b-L.solution",
+    "lastModified": "2026-11-15T09:40:22.581342151Z"
 }
