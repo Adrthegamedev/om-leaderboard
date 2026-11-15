@@ -1,0 +1,24 @@
+{
+    "puzzle": "CALM_BEFORE_THE_STORM",
+    "score": {
+        "cost": 590,
+        "instructions": 364,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 40,
+        "area": 128,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1e8e1493/w2450512434/590g-364i-40c-128a-15h",
+    "dataPath": "TOURNAMENT_2021/CALM_BEFORE_THE_STORM/CALM_BEFORE_THE_STORM_590g-364i-40c-128a-15h.solution",
+    "lastModified": "2026-11-15T10:32:53.663094567Z"
+}
