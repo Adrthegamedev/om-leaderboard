@@ -8,7 +8,7 @@
         "cycles": 29,
         "area": 55,
         "height": 9,
-        "width": 8.5,
+        "width": 8.0,
         "boundingHex": 7,
         "looping": true,
         "rate": 4.34,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.5
+            "value": 8.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/ecaca317/P069/595g-397i-29c-55a-9h-8.5w-7b-4.34r-55a-9h-8.5w-7b-L",
-    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/PROOF_OF_COMPLETENESS_595g-397i-29c-55a-9h-8.5w-7b-4.34r-55a-9h-8.5w-7b-L.solution",
-    "lastModified": "2026-11-15T10:42:10.921630801Z"
+    "dataLink": "https://lb.novae.observer/l/om/e4dbb2cd/P069/595g-397i-29c-55a-9h-8w-7b-4.34r-55a-9h-8w-7b-L",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/PROOF_OF_COMPLETENESS_595g-397i-29c-55a-9h-8w-7b-4.34r-55a-9h-8w-7b-L.solution",
+    "lastModified": "2026-11-15T10:42:15.641283706Z"
 }
