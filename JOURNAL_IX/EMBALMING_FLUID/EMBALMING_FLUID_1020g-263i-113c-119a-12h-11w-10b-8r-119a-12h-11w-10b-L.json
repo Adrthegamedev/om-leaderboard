@@ -1,28 +1,28 @@
 {
     "puzzle": "EMBALMING_FLUID",
     "score": {
-        "cost": 1025,
+        "cost": 1020,
         "instructions": 263,
         "overlap": false,
         "trackless": false,
         "cycles": 113,
-        "area": 120,
-        "height": 13,
-        "width": 12.0,
+        "area": 119,
+        "height": 12,
+        "width": 11.0,
         "boundingHex": 10,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 120.0
+            "value": 119.0
         },
         "heightINF": {
             "level": 0,
-            "value": 13.0
+            "value": 12.0
         },
         "widthINF": {
             "level": 0,
-            "value": 12.0
+            "value": 11.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/460e7b5a/P108/1025g-263i-113c-120a-13h-12w-10b-8r-120a-13h-12w-10b-L",
-    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1025g-263i-113c-120a-13h-12w-10b-8r-120a-13h-12w-10b-L.solution",
-    "lastModified": "2026-11-15T09:29:02.620306970Z"
+    "dataLink": "https://lb.novae.observer/l/om/9fd878dd/P108/1020g-263i-113c-119a-12h-11w-10b-8r-119a-12h-11w-10b-L",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1020g-263i-113c-119a-12h-11w-10b-8r-119a-12h-11w-10b-L.solution",
+    "lastModified": "2026-11-15T09:29:35.852487883Z"
 }
