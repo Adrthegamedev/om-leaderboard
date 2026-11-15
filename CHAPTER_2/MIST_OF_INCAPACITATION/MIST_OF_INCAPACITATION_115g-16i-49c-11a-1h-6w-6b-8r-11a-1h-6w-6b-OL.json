@@ -1,20 +1,20 @@
 {
     "puzzle": "MIST_OF_INCAPACITATION",
     "score": {
-        "cost": 120,
+        "cost": 115,
         "instructions": 16,
         "overlap": true,
         "trackless": false,
         "cycles": 49,
-        "area": 9,
+        "area": 11,
         "height": 1,
-        "width": 5.0,
-        "boundingHex": 5,
+        "width": 6.0,
+        "boundingHex": 6,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 9.0
+            "value": 11.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 5.0
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 5.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4260bd73/P018/120g-16i-49c-9a-1h-5w-5b-8r-9a-1h-5w-5b-OL",
-    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_120g-16i-49c-9a-1h-5w-5b-8r-9a-1h-5w-5b-OL.solution",
-    "lastModified": "2026-11-06T14:44:37.150806626Z"
+    "dataLink": "https://lb.novae.observer/l/om/8e2f56a2/P018/115g-16i-49c-11a-1h-6w-6b-8r-11a-1h-6w-6b-OL",
+    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_115g-16i-49c-11a-1h-6w-6b-8r-11a-1h-6w-6b-OL.solution",
+    "lastModified": "2026-11-15T09:55:24.984287114Z"
 }
