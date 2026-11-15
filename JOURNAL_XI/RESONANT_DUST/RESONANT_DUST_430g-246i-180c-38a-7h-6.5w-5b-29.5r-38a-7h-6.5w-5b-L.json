@@ -8,7 +8,7 @@
         "cycles": 180,
         "area": 38,
         "height": 7,
-        "width": 7.0,
+        "width": 6.5,
         "boundingHex": 5,
         "looping": true,
         "rate": 29.5,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/21bb9187/P243/430g-246i-180c-38a-7h-7w-5b-29.5r-38a-7h-7w-5b-L",
-    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_430g-246i-180c-38a-7h-7w-5b-29.5r-38a-7h-7w-5b-L.solution",
-    "lastModified": "2026-11-15T10:23:06.465320195Z"
+    "dataLink": "https://lb.novae.observer/l/om/9012927e/P243/430g-246i-180c-38a-7h-6.5w-5b-29.5r-38a-7h-6.5w-5b-L",
+    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_430g-246i-180c-38a-7h-6.5w-5b-29.5r-38a-7h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-15T10:23:24.311229304Z"
 }
