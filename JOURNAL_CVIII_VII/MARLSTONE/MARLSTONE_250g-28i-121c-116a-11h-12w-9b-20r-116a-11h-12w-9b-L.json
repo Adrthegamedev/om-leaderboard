@@ -1,0 +1,36 @@
+{
+    "puzzle": "MARLSTONE",
+    "score": {
+        "cost": 250,
+        "instructions": 28,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 121,
+        "area": 116,
+        "height": 11,
+        "width": 12.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 116.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/0e8f9ea6/P288/250g-28i-121c-116a-11h-12w-9b-20r-116a-11h-12w-9b-L",
+    "dataPath": "JOURNAL_CVIII_VII/MARLSTONE/MARLSTONE_250g-28i-121c-116a-11h-12w-9b-20r-116a-11h-12w-9b-L.solution",
+    "lastModified": "2026-11-15T09:48:09.838825815Z"
+}
