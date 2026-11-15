@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 12,
         "area": 26,
-        "height": 6,
-        "width": 6.0,
+        "height": 5,
+        "width": 5.0,
         "boundingHex": 5,
         "looping": false,
         "rate": 1.0,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         },
         "widthINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/a19c86fa/P202/410g-48i-12c-26a-6h-6w-5b-1r-26a-6h-6w-5b",
-    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_410g-48i-12c-26a-6h-6w-5b-1r-26a-6h-6w-5b.solution",
-    "lastModified": "2026-11-15T10:53:07.031102923Z"
+    "dataLink": "https://lb.novae.observer/l/om/76b21604/P202/410g-48i-12c-26a-5h-5w-5b-1r-26a-5h-5w-5b",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_410g-48i-12c-26a-5h-5w-5b-1r-26a-5h-5w-5b.solution",
+    "lastModified": "2026-11-15T10:53:23.231674671Z"
 }
