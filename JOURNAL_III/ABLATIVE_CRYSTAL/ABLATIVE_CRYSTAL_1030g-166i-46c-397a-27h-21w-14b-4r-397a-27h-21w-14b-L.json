@@ -1,7 +1,7 @@
 {
     "puzzle": "ABLATIVE_CRYSTAL",
     "score": {
-        "cost": 1040,
+        "cost": 1030,
         "instructions": 166,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/cba3425a/P068/1040g-166i-46c-397a-27h-21w-14b-4r-397a-27h-21w-14b-L",
-    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_1040g-166i-46c-397a-27h-21w-14b-4r-397a-27h-21w-14b-L.solution",
-    "lastModified": "2026-11-06T16:11:36.157980343Z"
+    "dataLink": "https://lb.novae.observer/l/om/0c148aac/P068/1030g-166i-46c-397a-27h-21w-14b-4r-397a-27h-21w-14b-L",
+    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_1030g-166i-46c-397a-27h-21w-14b-4r-397a-27h-21w-14b-L.solution",
+    "lastModified": "2026-11-15T10:28:20.143904202Z"
 }
