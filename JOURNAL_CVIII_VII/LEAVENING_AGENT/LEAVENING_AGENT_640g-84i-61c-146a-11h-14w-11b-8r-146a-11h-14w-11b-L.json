@@ -1,7 +1,7 @@
 {
     "puzzle": "LEAVENING_AGENT",
     "score": {
-        "cost": 650,
+        "cost": 640,
         "instructions": 84,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/cd98bbf1/P287/650g-84i-61c-146a-11h-14w-11b-8r-146a-11h-14w-11b-L",
-    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_650g-84i-61c-146a-11h-14w-11b-8r-146a-11h-14w-11b-L.solution",
-    "lastModified": "2026-11-06T14:28:22.630375268Z"
+    "dataLink": "https://lb.novae.observer/l/om/38d41792/P287/640g-84i-61c-146a-11h-14w-11b-8r-146a-11h-14w-11b-L",
+    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_640g-84i-61c-146a-11h-14w-11b-8r-146a-11h-14w-11b-L.solution",
+    "lastModified": "2026-11-15T09:47:50.489418648Z"
 }
