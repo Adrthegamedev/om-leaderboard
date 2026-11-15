@@ -1,0 +1,36 @@
+{
+    "puzzle": "LOCAL_ANAESTHETIC",
+    "score": {
+        "cost": 155,
+        "instructions": 165,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 815,
+        "area": 36,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 136.0,
+        "areaINF": {
+            "level": 0,
+            "value": 36.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8faac7bb/w3210168922/155g-165i-815c-36a-7h-6.5w-6b-136r-36a-7h-6.5w-6b-L",
+    "dataPath": "TOURNAMENT_2024/LOCAL_ANAESTHETIC/LOCAL_ANAESTHETIC_155g-165i-815c-36a-7h-6.5w-6b-136r-36a-7h-6.5w-6b-L.solution",
+    "lastModified": "2026-11-15T09:43:05.314455810Z"
+}
