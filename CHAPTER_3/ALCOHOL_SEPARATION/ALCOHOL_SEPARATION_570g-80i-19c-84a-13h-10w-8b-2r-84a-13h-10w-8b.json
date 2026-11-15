@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 19,
-        "area": 89,
+        "area": 84,
         "height": 13,
         "width": 10.0,
         "boundingHex": 8,
@@ -14,7 +14,7 @@
         "rate": 2.0,
         "areaINF": {
             "level": 0,
-            "value": 89.0
+            "value": 84.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 8.0
         }
     },
-    "displayLink": "https://files.mors.technology/ALCOHOL_SEPARATION/570g-19c-89a-80i-3589a0f8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P024/570g-80i-19c-89a-13h-10w-8b-2r-89a-13h-10w-8b",
-    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_570g-80i-19c-89a-13h-10w-8b-2r-89a-13h-10w-8b.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f32c0c99/P024/570g-80i-19c-84a-13h-10w-8b-2r-84a-13h-10w-8b",
+    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_570g-80i-19c-84a-13h-10w-8b-2r-84a-13h-10w-8b.solution",
+    "lastModified": "2026-11-15T10:08:50.668014555Z"
 }
