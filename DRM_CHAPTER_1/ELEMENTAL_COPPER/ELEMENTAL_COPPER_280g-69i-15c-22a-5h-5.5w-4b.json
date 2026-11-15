@@ -1,0 +1,24 @@
+{
+    "puzzle": "ELEMENTAL_COPPER",
+    "score": {
+        "cost": 280,
+        "instructions": 69,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 15,
+        "area": 22,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 4,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1b805eff/P202/280g-69i-15c-22a-5h-5.5w-4b",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_280g-69i-15c-22a-5h-5.5w-4b.solution",
+    "lastModified": "2026-11-15T10:53:35.597074205Z"
+}
