@@ -1,7 +1,7 @@
 {
     "puzzle": "ALCHEMICAL_SLAG",
     "score": {
-        "cost": 1880,
+        "cost": 1870,
         "instructions": 246,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/aa4aa94b/P099/1880g-246i-37c-390a-25h-22w-15b-2r-390a-25h-22w-15b-L",
-    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_1880g-246i-37c-390a-25h-22w-15b-2r-390a-25h-22w-15b-L.solution",
-    "lastModified": "2026-11-06T15:00:03.385364994Z"
+    "dataLink": "https://lb.novae.observer/l/om/82cddfa3/P099/1870g-246i-37c-390a-25h-22w-15b-2r-390a-25h-22w-15b-L",
+    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_1870g-246i-37c-390a-25h-22w-15b-2r-390a-25h-22w-15b-L.solution",
+    "lastModified": "2026-11-15T10:01:31.011621830Z"
 }
