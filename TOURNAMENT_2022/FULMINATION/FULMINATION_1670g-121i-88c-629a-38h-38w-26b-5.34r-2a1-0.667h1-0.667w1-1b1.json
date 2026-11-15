@@ -8,7 +8,7 @@
         "cycles": 88,
         "area": 629,
         "height": 38,
-        "width": 38.5,
+        "width": 38.0,
         "boundingHex": 26,
         "looping": false,
         "rate": 5.34,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/2236a093/w2788067677/1670g-121i-88c-629a-38h-38.5w-26b-5.34r-2a1-0.667h1-0.667w1-1b1",
-    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_1670g-121i-88c-629a-38h-38.5w-26b-5.34r-2a1-0.667h1-0.667w1-1b1.solution",
-    "lastModified": "2026-11-15T09:51:36.647869616Z"
+    "dataLink": "https://lb.novae.observer/l/om/1d559f45/w2788067677/1670g-121i-88c-629a-38h-38w-26b-5.34r-2a1-0.667h1-0.667w1-1b1",
+    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_1670g-121i-88c-629a-38h-38w-26b-5.34r-2a1-0.667h1-0.667w1-1b1.solution",
+    "lastModified": "2026-11-15T09:51:45.171815477Z"
 }
