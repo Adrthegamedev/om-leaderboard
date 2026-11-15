@@ -1,0 +1,36 @@
+{
+    "puzzle": "QUIET_HOURS",
+    "score": {
+        "cost": 250,
+        "instructions": 10,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 319,
+        "area": 139,
+        "height": 17,
+        "width": 15.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 52.0,
+        "areaINF": {
+            "level": 0,
+            "value": 139.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/48d4d2d0/w3728199426/250g-10i-319c-139a-17h-15w-11b-52r-139a-17h-15w-11b-OL",
+    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_250g-10i-319c-139a-17h-15w-11b-52r-139a-17h-15w-11b-OL.solution",
+    "lastModified": "2026-11-15T10:30:46.199672693Z"
+}
