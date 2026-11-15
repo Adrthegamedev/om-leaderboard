@@ -1,0 +1,36 @@
+{
+    "puzzle": "BLOOD_STANCHING_POWDER",
+    "score": {
+        "cost": 620,
+        "instructions": 143,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 82,
+        "area": 82,
+        "height": 7,
+        "width": 9.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 82.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b5cdd04e/P087/620g-143i-82c-82a-7h-9.5w-10b-12r-82a-7h-9.5w-10b-L",
+    "dataPath": "JOURNAL_V/BLOOD_STANCHING_POWDER/BLOOD_STANCHING_POWDER_620g-143i-82c-82a-7h-9.5w-10b-12r-82a-7h-9.5w-10b-L.solution",
+    "lastModified": "2026-11-15T09:39:52.008714583Z"
+}
