@@ -1,20 +1,20 @@
 {
     "puzzle": "LATCH_HOOK_FIREWORKS",
     "score": {
-        "cost": 520,
+        "cost": 510,
         "instructions": 140,
         "overlap": false,
         "trackless": false,
         "cycles": 194,
-        "area": 36,
+        "area": 37,
         "height": 7,
-        "width": 6.5,
+        "width": 7.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 31.0,
         "areaINF": {
             "level": 0,
-            "value": 36.0
+            "value": 37.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 7.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d82bdcd6/w3210177679/520g-140i-194c-36a-7h-6.5w-5b-31r-36a-7h-6.5w-5b-L",
-    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_520g-140i-194c-36a-7h-6.5w-5b-31r-36a-7h-6.5w-5b-L.solution",
-    "lastModified": "2026-11-15T09:42:50.897560169Z"
+    "dataLink": "https://lb.novae.observer/l/om/cd18238d/w3210177679/510g-140i-194c-37a-7h-7w-5b-31r-37a-7h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_510g-140i-194c-37a-7h-7w-5b-31r-37a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-15T10:56:07.637168796Z"
 }
