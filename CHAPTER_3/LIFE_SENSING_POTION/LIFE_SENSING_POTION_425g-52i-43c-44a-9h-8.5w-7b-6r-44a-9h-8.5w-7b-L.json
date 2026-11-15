@@ -2,14 +2,14 @@
     "puzzle": "LIFE_SENSING_POTION",
     "score": {
         "cost": 425,
-        "instructions": 54,
+        "instructions": 52,
         "overlap": false,
         "trackless": false,
         "cycles": 43,
         "area": 44,
         "height": 9,
-        "width": 8.0,
-        "boundingHex": 6,
+        "width": 8.5,
+        "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 8.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 7.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d3a798a7/P030b/425g-54i-43c-44a-9h-8w-6b-6r-44a-9h-8w-6b-L",
-    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_425g-54i-43c-44a-9h-8w-6b-6r-44a-9h-8w-6b-L.solution",
-    "lastModified": "2026-11-06T15:17:19.430816699Z"
+    "dataLink": "https://lb.novae.observer/l/om/49dbb31c/P030b/425g-52i-43c-44a-9h-8.5w-7b-6r-44a-9h-8.5w-7b-L",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_425g-52i-43c-44a-9h-8.5w-7b-6r-44a-9h-8.5w-7b-L.solution",
+    "lastModified": "2026-11-15T10:09:36.347649420Z"
 }
