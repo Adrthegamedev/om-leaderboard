@@ -1,20 +1,20 @@
 {
     "puzzle": "AIRSHIP_FUEL",
     "score": {
-        "cost": 470,
+        "cost": 465,
         "instructions": 80,
         "overlap": false,
         "trackless": false,
         "cycles": 19,
-        "area": 41,
+        "area": 43,
         "height": 4,
         "width": 7.5,
-        "boundingHex": 7,
+        "boundingHex": 8,
         "looping": true,
         "rate": 2.67,
         "areaINF": {
             "level": 0,
-            "value": 41.0
+            "value": 43.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 8.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d514d112/P008/470g-80i-19c-41a-4h-7.5w-7b-2.67r-41a-4h-7.5w-7b-L",
-    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_470g-80i-19c-41a-4h-7.5w-7b-2.67r-41a-4h-7.5w-7b-L.solution",
-    "lastModified": "2026-11-15T09:21:59.729518564Z"
+    "dataLink": "https://lb.novae.observer/l/om/2a8179db/P008/465g-80i-19c-43a-4h-7.5w-8b-2.67r-43a-4h-7.5w-8b-L",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_465g-80i-19c-43a-4h-7.5w-8b-2.67r-43a-4h-7.5w-8b-L.solution",
+    "lastModified": "2026-11-15T10:38:47.211512875Z"
 }
