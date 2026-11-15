@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 40,
         "area": 26,
-        "height": 8,
-        "width": 3.5,
+        "height": 9,
+        "width": 3.0,
         "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         },
         "widthINF": {
             "level": 0,
-            "value": 3.5
+            "value": 3.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/a3c86372/P008/260g-32i-40c-26a-8h-3.5w-7b-6r-26a-8h-3.5w-7b-L",
-    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_260g-32i-40c-26a-8h-3.5w-7b-6r-26a-8h-3.5w-7b-L.solution",
-    "lastModified": "2026-11-15T09:21:14.830833112Z"
+    "dataLink": "https://lb.novae.observer/l/om/cdf46c85/P008/260g-32i-40c-26a-9h-3w-7b-6r-26a-9h-3w-7b-L",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_260g-32i-40c-26a-9h-3w-7b-6r-26a-9h-3w-7b-L.solution",
+    "lastModified": "2026-11-15T09:22:06.728047217Z"
 }
