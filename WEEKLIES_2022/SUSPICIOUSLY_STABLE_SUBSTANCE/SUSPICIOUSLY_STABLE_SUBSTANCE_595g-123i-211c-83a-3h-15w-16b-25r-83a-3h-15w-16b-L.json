@@ -6,15 +6,15 @@
         "overlap": false,
         "trackless": false,
         "cycles": 211,
-        "area": 84,
+        "area": 83,
         "height": 3,
-        "width": 16.0,
-        "boundingHex": 17,
+        "width": 15.0,
+        "boundingHex": 16,
         "looping": true,
         "rate": 25.0,
         "areaINF": {
             "level": 0,
-            "value": 84.0
+            "value": 83.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 16.0
+            "value": 15.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 17.0
+            "value": 16.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/be1448ed/w2868337187/595g-123i-211c-84a-3h-16w-17b-25r-84a-3h-16w-17b-L",
-    "dataPath": "WEEKLIES_2022/SUSPICIOUSLY_STABLE_SUBSTANCE/SUSPICIOUSLY_STABLE_SUBSTANCE_595g-123i-211c-84a-3h-16w-17b-25r-84a-3h-16w-17b-L.solution",
-    "lastModified": "2026-11-15T10:37:27.331413411Z"
+    "dataLink": "https://lb.novae.observer/l/om/d598c5e9/w2868337187/595g-123i-211c-83a-3h-15w-16b-25r-83a-3h-15w-16b-L",
+    "dataPath": "WEEKLIES_2022/SUSPICIOUSLY_STABLE_SUBSTANCE/SUSPICIOUSLY_STABLE_SUBSTANCE_595g-123i-211c-83a-3h-15w-16b-25r-83a-3h-15w-16b-L.solution",
+    "lastModified": "2026-11-15T10:37:31.790415107Z"
 }
