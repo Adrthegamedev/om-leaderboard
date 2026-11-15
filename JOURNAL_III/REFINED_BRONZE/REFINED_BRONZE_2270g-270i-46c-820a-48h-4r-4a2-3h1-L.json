@@ -1,7 +1,7 @@
 {
     "puzzle": "REFINED_BRONZE",
     "score": {
-        "cost": 2300,
+        "cost": 2270,
         "instructions": 270,
         "overlap": false,
         "trackless": false,
@@ -24,7 +24,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d2c748ad/P067/2300g-270i-46c-820a-48h-4r-4a2-3h1-L",
-    "dataPath": "JOURNAL_III/REFINED_BRONZE/REFINED_BRONZE_2300g-270i-46c-820a-48h-4r-4a2-3h1-L.solution",
-    "lastModified": "2026-11-06T16:10:52.539533945Z"
+    "dataLink": "https://lb.novae.observer/l/om/06aba655/P067/2270g-270i-46c-820a-48h-4r-4a2-3h1-L",
+    "dataPath": "JOURNAL_III/REFINED_BRONZE/REFINED_BRONZE_2270g-270i-46c-820a-48h-4r-4a2-3h1-L.solution",
+    "lastModified": "2026-11-15T08:48:43.712879406Z"
 }
