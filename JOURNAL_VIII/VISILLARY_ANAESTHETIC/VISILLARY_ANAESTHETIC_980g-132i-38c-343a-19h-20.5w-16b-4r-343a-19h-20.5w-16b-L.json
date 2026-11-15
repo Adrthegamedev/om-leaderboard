@@ -1,0 +1,36 @@
+{
+    "puzzle": "VISILLARY_ANAESTHETIC",
+    "score": {
+        "cost": 980,
+        "instructions": 132,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 38,
+        "area": 343,
+        "height": 19,
+        "width": 20.5,
+        "boundingHex": 16,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 343.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 20.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 16.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f459a771/P102/980g-132i-38c-343a-19h-20.5w-16b-4r-343a-19h-20.5w-16b-L",
+    "dataPath": "JOURNAL_VIII/VISILLARY_ANAESTHETIC/VISILLARY_ANAESTHETIC_980g-132i-38c-343a-19h-20.5w-16b-4r-343a-19h-20.5w-16b-L.solution",
+    "lastModified": "2026-11-15T08:34:09.031851778Z"
+}
