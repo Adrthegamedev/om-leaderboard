@@ -1,0 +1,36 @@
+{
+    "puzzle": "LIGHTHOUSE_MIRROR",
+    "score": {
+        "cost": 705,
+        "instructions": 170,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 50,
+        "area": 79,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 79.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/1772692a/P258/705g-170i-50c-79a-11h-10.5w-8b-6r-79a-11h-10.5w-8b-L",
+    "dataPath": "JOURNAL_CVIII_I/LIGHTHOUSE_MIRROR/LIGHTHOUSE_MIRROR_705g-170i-50c-79a-11h-10.5w-8b-6r-79a-11h-10.5w-8b-L.solution",
+    "lastModified": "2026-11-15T08:33:46.403828005Z"
+}
