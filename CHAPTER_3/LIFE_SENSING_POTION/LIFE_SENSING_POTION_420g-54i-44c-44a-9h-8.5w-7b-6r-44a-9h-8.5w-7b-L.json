@@ -1,0 +1,36 @@
+{
+    "puzzle": "LIFE_SENSING_POTION",
+    "score": {
+        "cost": 420,
+        "instructions": 54,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 44,
+        "area": 44,
+        "height": 9,
+        "width": 8.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 44.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ff282e4d/P030b/420g-54i-44c-44a-9h-8.5w-7b-6r-44a-9h-8.5w-7b-L",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_420g-54i-44c-44a-9h-8.5w-7b-6r-44a-9h-8.5w-7b-L.solution",
+    "lastModified": "2026-11-15T11:22:29.828482454Z"
+}
