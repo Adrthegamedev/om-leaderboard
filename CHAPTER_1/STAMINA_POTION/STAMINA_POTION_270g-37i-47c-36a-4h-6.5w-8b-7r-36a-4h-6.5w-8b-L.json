@@ -1,20 +1,20 @@
 {
     "puzzle": "STAMINA_POTION",
     "score": {
-        "cost": 275,
+        "cost": 270,
         "instructions": 37,
         "overlap": false,
         "trackless": false,
         "cycles": 47,
-        "area": 34,
+        "area": 36,
         "height": 4,
-        "width": 6.0,
+        "width": 6.5,
         "boundingHex": 8,
         "looping": true,
         "rate": 7.0,
         "areaINF": {
             "level": 0,
-            "value": 34.0
+            "value": 36.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/040b9150/P015/275g-37i-47c-34a-4h-6w-8b-7r-34a-4h-6w-8b-L",
-    "dataPath": "CHAPTER_1/STAMINA_POTION/STAMINA_POTION_275g-37i-47c-34a-4h-6w-8b-7r-34a-4h-6w-8b-L.solution",
-    "lastModified": "2026-11-15T09:22:26.886792111Z"
+    "dataLink": "https://lb.novae.observer/l/om/8a15d083/P015/270g-37i-47c-36a-4h-6.5w-8b-7r-36a-4h-6.5w-8b-L",
+    "dataPath": "CHAPTER_1/STAMINA_POTION/STAMINA_POTION_270g-37i-47c-36a-4h-6.5w-8b-7r-36a-4h-6.5w-8b-L.solution",
+    "lastModified": "2026-11-15T10:39:18.159871942Z"
 }
