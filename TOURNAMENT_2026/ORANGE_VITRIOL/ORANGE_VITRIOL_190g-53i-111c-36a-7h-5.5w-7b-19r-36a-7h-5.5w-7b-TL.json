@@ -1,7 +1,7 @@
 {
     "puzzle": "ORANGE_VITRIOL",
     "score": {
-        "cost": 210,
+        "cost": 190,
         "instructions": 53,
         "overlap": false,
         "trackless": true,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/c11fbd05/w3728200375/210g-53i-111c-36a-7h-5.5w-7b-19r-36a-7h-5.5w-7b-TL",
-    "dataPath": "TOURNAMENT_2026/ORANGE_VITRIOL/ORANGE_VITRIOL_210g-53i-111c-36a-7h-5.5w-7b-19r-36a-7h-5.5w-7b-TL.solution",
-    "lastModified": "2026-11-06T16:15:24.760301292Z"
+    "dataLink": "https://lb.novae.observer/l/om/7f51365b/w3728200375/190g-53i-111c-36a-7h-5.5w-7b-19r-36a-7h-5.5w-7b-TL",
+    "dataPath": "TOURNAMENT_2026/ORANGE_VITRIOL/ORANGE_VITRIOL_190g-53i-111c-36a-7h-5.5w-7b-19r-36a-7h-5.5w-7b-TL.solution",
+    "lastModified": "2026-11-15T10:30:16.678403086Z"
 }
