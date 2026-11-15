@@ -1,15 +1,15 @@
 {
     "puzzle": "PROOF_OF_COMPLETENESS",
     "score": {
-        "cost": 595,
+        "cost": 590,
         "instructions": 397,
         "overlap": false,
         "trackless": false,
         "cycles": 29,
-        "area": 55,
-        "height": 10,
-        "width": 7.5,
-        "boundingHex": 7,
+        "area": 54,
+        "height": 9,
+        "width": 8.5,
+        "boundingHex": 6,
         "looping": false,
         "rate": null,
         "areaINF": null,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/fa9eea2f/P069/595g-397i-29c-55a-10h-7.5w-7b",
-    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/PROOF_OF_COMPLETENESS_595g-397i-29c-55a-10h-7.5w-7b.solution",
-    "lastModified": "2026-11-15T09:27:42.904449057Z"
+    "dataLink": "https://lb.novae.observer/l/om/efee672f/P069/590g-397i-29c-54a-9h-8.5w-6b",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/PROOF_OF_COMPLETENESS_590g-397i-29c-54a-9h-8.5w-6b.solution",
+    "lastModified": "2026-11-15T09:27:52.514400517Z"
 }
