@@ -1,0 +1,36 @@
+{
+    "puzzle": "WARMING_TONIC",
+    "score": {
+        "cost": 145,
+        "instructions": 74,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 68,
+        "area": 23,
+        "height": 7,
+        "width": 6.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 11.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/16755f15/P028/145g-74i-68c-23a-7h-6w-5b-11r-23a-7h-6w-5b-L",
+    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_145g-74i-68c-23a-7h-6w-5b-11r-23a-7h-6w-5b-L.solution",
+    "lastModified": "2026-11-15T10:09:51.368130136Z"
+}
