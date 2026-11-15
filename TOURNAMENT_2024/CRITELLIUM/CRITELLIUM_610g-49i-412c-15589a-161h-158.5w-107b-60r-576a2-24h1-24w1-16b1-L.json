@@ -1,7 +1,7 @@
 {
     "puzzle": "CRITELLIUM",
     "score": {
-        "cost": 620,
+        "cost": 610,
         "instructions": 49,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/943a92f4/w3210197400/620g-49i-412c-15589a-161h-158.5w-107b-60r-576a2-24h1-24w1-16b1-L",
-    "dataPath": "TOURNAMENT_2024/CRITELLIUM/CRITELLIUM_620g-49i-412c-15589a-161h-158.5w-107b-60r-576a2-24h1-24w1-16b1-L.solution",
-    "lastModified": "2026-11-06T14:12:13.479540549Z"
+    "dataLink": "https://lb.novae.observer/l/om/2e9265eb/w3210197400/610g-49i-412c-15589a-161h-158.5w-107b-60r-576a2-24h1-24w1-16b1-L",
+    "dataPath": "TOURNAMENT_2024/CRITELLIUM/CRITELLIUM_610g-49i-412c-15589a-161h-158.5w-107b-60r-576a2-24h1-24w1-16b1-L.solution",
+    "lastModified": "2026-11-15T09:41:06.049508718Z"
 }
