@@ -1,20 +1,20 @@
 {
     "puzzle": "HYPER_VOLATILE_GAS",
     "score": {
-        "cost": 240,
+        "cost": 235,
         "instructions": 99,
         "overlap": false,
         "trackless": false,
         "cycles": 252,
-        "area": 36,
+        "area": 38,
         "height": 3,
         "width": 7.5,
-        "boundingHex": 8,
+        "boundingHex": 9,
         "looping": true,
         "rate": 40.0,
         "areaINF": {
             "level": 0,
-            "value": 36.0
+            "value": 38.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 9.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/f530e5a4/P106/240g-99i-252c-36a-3h-7.5w-8b-40r-36a-3h-7.5w-8b-L",
-    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_240g-99i-252c-36a-3h-7.5w-8b-40r-36a-3h-7.5w-8b-L.solution",
-    "lastModified": "2026-11-15T09:31:35.157213256Z"
+    "dataLink": "https://lb.novae.observer/l/om/a076948c/P106/235g-99i-252c-38a-3h-7.5w-9b-40r-38a-3h-7.5w-9b-L",
+    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_235g-99i-252c-38a-3h-7.5w-9b-40r-38a-3h-7.5w-9b-L.solution",
+    "lastModified": "2026-11-15T10:45:19.035470062Z"
 }
