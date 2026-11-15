@@ -1,20 +1,20 @@
 {
     "puzzle": "SNOW_AMPUTATION",
     "score": {
-        "cost": 245,
+        "cost": 240,
         "instructions": 79,
         "overlap": false,
         "trackless": false,
         "cycles": 207,
-        "area": 62,
+        "area": 61,
         "height": 11,
-        "width": 9.0,
+        "width": 9.5,
         "boundingHex": 7,
         "looping": true,
         "rate": 17.0,
         "areaINF": {
             "level": 0,
-            "value": 62.0
+            "value": 61.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 9.0
+            "value": 9.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/dc07e283/w3728198961/245g-79i-207c-62a-11h-9w-7b-17r-62a-11h-9w-7b-L",
-    "dataPath": "TOURNAMENT_2026/SNOW_AMPUTATION/SNOW_AMPUTATION_245g-79i-207c-62a-11h-9w-7b-17r-62a-11h-9w-7b-L.solution",
-    "lastModified": "2026-11-15T10:32:24.913471272Z"
+    "dataLink": "https://lb.novae.observer/l/om/9e3c7b59/w3728198961/240g-79i-207c-61a-11h-9.5w-7b-17r-61a-11h-9.5w-7b-L",
+    "dataPath": "TOURNAMENT_2026/SNOW_AMPUTATION/SNOW_AMPUTATION_240g-79i-207c-61a-11h-9.5w-7b-17r-61a-11h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-15T10:32:33.995161661Z"
 }
