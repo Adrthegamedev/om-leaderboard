@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 44,
         "area": 42,
-        "height": 9,
+        "height": 8,
         "width": 8.0,
         "boundingHex": 6,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/c8b90a47/P030b/425g-54i-44c-42a-9h-8w-6b-6r-42a-9h-8w-6b-L",
-    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_425g-54i-44c-42a-9h-8w-6b-6r-42a-9h-8w-6b-L.solution",
-    "lastModified": "2026-11-15T10:09:27.747499493Z"
+    "dataLink": "https://lb.novae.observer/l/om/a29f8564/P030b/425g-54i-44c-42a-8h-8w-6b-6r-42a-8h-8w-6b-L",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_425g-54i-44c-42a-8h-8w-6b-6r-42a-8h-8w-6b-L.solution",
+    "lastModified": "2026-11-15T10:09:32.074736463Z"
 }
