@@ -1,20 +1,20 @@
 {
     "puzzle": "EXPLOSIVE_VICTRITE",
     "score": {
-        "cost": 235,
+        "cost": 230,
         "instructions": 54,
         "overlap": false,
         "trackless": false,
         "cycles": 131,
-        "area": 26,
+        "area": 25,
         "height": 3,
-        "width": 6.5,
-        "boundingHex": 7,
+        "width": 5.5,
+        "boundingHex": 6,
         "looping": true,
         "rate": 21.0,
         "areaINF": {
             "level": 0,
-            "value": 26.0
+            "value": 25.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 5.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/a854dabf/P100/235g-54i-131c-26a-3h-6.5w-7b-21r-26a-3h-6.5w-7b-L",
-    "dataPath": "JOURNAL_VIII/EXPLOSIVE_VICTRITE/EXPLOSIVE_VICTRITE_235g-54i-131c-26a-3h-6.5w-7b-21r-26a-3h-6.5w-7b-L.solution",
-    "lastModified": "2026-11-15T10:14:34.710169103Z"
+    "dataLink": "https://lb.novae.observer/l/om/999a538b/P100/230g-54i-131c-25a-3h-5.5w-6b-21r-25a-3h-5.5w-6b-L",
+    "dataPath": "JOURNAL_VIII/EXPLOSIVE_VICTRITE/EXPLOSIVE_VICTRITE_230g-54i-131c-25a-3h-5.5w-6b-21r-25a-3h-5.5w-6b-L.solution",
+    "lastModified": "2026-11-15T10:14:43.531873359Z"
 }
