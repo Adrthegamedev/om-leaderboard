@@ -1,7 +1,7 @@
 {
     "puzzle": "LEACHING_AGENT",
     "score": {
-        "cost": 380,
+        "cost": 360,
         "instructions": 80,
         "overlap": false,
         "trackless": true,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/0d684dbb/P263/380g-80i-124c-53a-10h-4.5w-8b-20r-53a-10h-4.5w-8b-TL",
-    "dataPath": "JOURNAL_CVIII_II/LEACHING_AGENT/LEACHING_AGENT_380g-80i-124c-53a-10h-4.5w-8b-20r-53a-10h-4.5w-8b-TL.solution",
-    "lastModified": "2026-11-06T13:31:36.650732492Z"
+    "dataLink": "https://lb.novae.observer/l/om/99dad780/P263/360g-80i-124c-53a-10h-4.5w-8b-20r-53a-10h-4.5w-8b-TL",
+    "dataPath": "JOURNAL_CVIII_II/LEACHING_AGENT/LEACHING_AGENT_360g-80i-124c-53a-10h-4.5w-8b-20r-53a-10h-4.5w-8b-TL.solution",
+    "lastModified": "2026-11-15T09:18:32.140729603Z"
 }
