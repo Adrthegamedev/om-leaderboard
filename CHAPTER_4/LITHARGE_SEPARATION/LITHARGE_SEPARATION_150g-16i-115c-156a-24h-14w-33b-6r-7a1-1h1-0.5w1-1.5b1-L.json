@@ -1,15 +1,15 @@
 {
     "puzzle": "LITHARGE_SEPARATION",
     "score": {
-        "cost": 155,
+        "cost": 150,
         "instructions": 16,
         "overlap": false,
         "trackless": false,
         "cycles": 115,
-        "area": 154,
-        "height": 22,
+        "area": 156,
+        "height": 24,
         "width": 14.0,
-        "boundingHex": 32,
+        "boundingHex": 33,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/e2f6a966/P031b/155g-16i-115c-154a-22h-14w-32b-6r-7a1-1h1-0.5w1-1.5b1-L",
-    "dataPath": "CHAPTER_4/LITHARGE_SEPARATION/LITHARGE_SEPARATION_155g-16i-115c-154a-22h-14w-32b-6r-7a1-1h1-0.5w1-1.5b1-L.solution",
-    "lastModified": "2026-11-06T15:07:57.672529855Z"
+    "dataLink": "https://lb.novae.observer/l/om/c734fcc1/P031b/150g-16i-115c-156a-24h-14w-33b-6r-7a1-1h1-0.5w1-1.5b1-L",
+    "dataPath": "CHAPTER_4/LITHARGE_SEPARATION/LITHARGE_SEPARATION_150g-16i-115c-156a-24h-14w-33b-6r-7a1-1h1-0.5w1-1.5b1-L.solution",
+    "lastModified": "2026-11-15T10:06:07.399404369Z"
 }
