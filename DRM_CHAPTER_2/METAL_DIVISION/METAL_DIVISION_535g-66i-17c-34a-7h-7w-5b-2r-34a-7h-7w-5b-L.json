@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 17,
         "area": 34,
-        "height": 8,
+        "height": 7,
         "width": 7.0,
         "boundingHex": 5,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/METAL_DIVISION/535g-17c-34a-66i-86ba12c7.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P208/535g-66i-17c-34a-8h-7w-5b-2r-34a-8h-7w-5b-L",
-    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_535g-66i-17c-34a-8h-7w-5b-2r-34a-8h-7w-5b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/5fda535c/P208/535g-66i-17c-34a-7h-7w-5b-2r-34a-7h-7w-5b-L",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_535g-66i-17c-34a-7h-7w-5b-2r-34a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-15T10:19:19.328416256Z"
 }
