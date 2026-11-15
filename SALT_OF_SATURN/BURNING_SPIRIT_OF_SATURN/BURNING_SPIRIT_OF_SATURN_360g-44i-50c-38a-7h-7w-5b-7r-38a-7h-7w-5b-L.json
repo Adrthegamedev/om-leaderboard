@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 50,
         "area": 38,
-        "height": 8,
+        "height": 7,
         "width": 7.0,
         "boundingHex": 5,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/9ddd3249/w3514067152/360g-44i-50c-38a-8h-7w-5b-7r-38a-8h-7w-5b-L",
-    "dataPath": "SALT_OF_SATURN/BURNING_SPIRIT_OF_SATURN/BURNING_SPIRIT_OF_SATURN_360g-44i-50c-38a-8h-7w-5b-7r-38a-8h-7w-5b-L.solution",
-    "lastModified": "2026-11-15T10:54:31.656245277Z"
+    "dataLink": "https://lb.novae.observer/l/om/f0113f80/w3514067152/360g-44i-50c-38a-7h-7w-5b-7r-38a-7h-7w-5b-L",
+    "dataPath": "SALT_OF_SATURN/BURNING_SPIRIT_OF_SATURN/BURNING_SPIRIT_OF_SATURN_360g-44i-50c-38a-7h-7w-5b-7r-38a-7h-7w-5b-L.solution",
+    "lastModified": "2026-11-15T10:54:37.741018559Z"
 }
