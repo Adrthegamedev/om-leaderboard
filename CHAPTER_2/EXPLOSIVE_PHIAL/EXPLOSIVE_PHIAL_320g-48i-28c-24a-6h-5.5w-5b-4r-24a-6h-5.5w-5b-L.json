@@ -9,7 +9,7 @@
         "area": 24,
         "height": 6,
         "width": 5.5,
-        "boundingHex": 6,
+        "boundingHex": 5,
         "looping": true,
         "rate": 4.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/9c8c55ab/P017/320g-48i-28c-24a-6h-5.5w-6b-4r-24a-6h-5.5w-6b-L",
-    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_320g-48i-28c-24a-6h-5.5w-6b-4r-24a-6h-5.5w-6b-L.solution",
-    "lastModified": "2026-11-15T12:32:21.224819825Z"
+    "dataLink": "https://lb.novae.observer/l/om/691c1d97/P017/320g-48i-28c-24a-6h-5.5w-5b-4r-24a-6h-5.5w-5b-L",
+    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_320g-48i-28c-24a-6h-5.5w-5b-4r-24a-6h-5.5w-5b-L.solution",
+    "lastModified": "2026-11-15T12:32:26.080119814Z"
 }
