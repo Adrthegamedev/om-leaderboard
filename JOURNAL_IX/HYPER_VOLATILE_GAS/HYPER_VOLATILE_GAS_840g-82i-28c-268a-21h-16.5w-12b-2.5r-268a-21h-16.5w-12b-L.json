@@ -1,7 +1,7 @@
 {
     "puzzle": "HYPER_VOLATILE_GAS",
     "score": {
-        "cost": 850,
+        "cost": 840,
         "instructions": 82,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/08c788d8/P106/850g-82i-28c-268a-21h-16.5w-12b-2.5r-268a-21h-16.5w-12b-L",
-    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_850g-82i-28c-268a-21h-16.5w-12b-2.5r-268a-21h-16.5w-12b-L.solution",
-    "lastModified": "2026-11-06T13:54:16.536956994Z"
+    "dataLink": "https://lb.novae.observer/l/om/40c1bd56/P106/840g-82i-28c-268a-21h-16.5w-12b-2.5r-268a-21h-16.5w-12b-L",
+    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_840g-82i-28c-268a-21h-16.5w-12b-2.5r-268a-21h-16.5w-12b-L.solution",
+    "lastModified": "2026-11-15T09:31:30.393131647Z"
 }
