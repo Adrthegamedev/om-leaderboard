@@ -1,7 +1,7 @@
 {
     "puzzle": "PURIFIED_GOLD",
     "score": {
-        "cost": 630,
+        "cost": 620,
         "instructions": 316,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/42a6771b/P036/630g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L",
-    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_630g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L.solution",
-    "lastModified": "2026-11-06T15:09:41.547110612Z"
+    "dataLink": "https://lb.novae.observer/l/om/d9365ffc/P036/620g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_620g-316i-208c-54a-2h-14.5w-15b-32r-54a-2h-14.5w-15b-L.solution",
+    "lastModified": "2026-11-15T10:08:10.464459376Z"
 }
