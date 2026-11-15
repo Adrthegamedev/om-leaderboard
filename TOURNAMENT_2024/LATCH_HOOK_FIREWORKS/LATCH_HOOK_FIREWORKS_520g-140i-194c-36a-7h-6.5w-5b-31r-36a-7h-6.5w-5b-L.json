@@ -8,7 +8,7 @@
         "cycles": 194,
         "area": 36,
         "height": 7,
-        "width": 7.0,
+        "width": 6.5,
         "boundingHex": 5,
         "looping": true,
         "rate": 31.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/a1efe370/w3210177679/520g-140i-194c-36a-7h-7w-5b-31r-36a-7h-7w-5b-L",
-    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_520g-140i-194c-36a-7h-7w-5b-31r-36a-7h-7w-5b-L.solution",
-    "lastModified": "2026-11-15T09:42:14.935405626Z"
+    "dataLink": "https://lb.novae.observer/l/om/d82bdcd6/w3210177679/520g-140i-194c-36a-7h-6.5w-5b-31r-36a-7h-6.5w-5b-L",
+    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_520g-140i-194c-36a-7h-6.5w-5b-31r-36a-7h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-15T09:42:50.897560169Z"
 }
