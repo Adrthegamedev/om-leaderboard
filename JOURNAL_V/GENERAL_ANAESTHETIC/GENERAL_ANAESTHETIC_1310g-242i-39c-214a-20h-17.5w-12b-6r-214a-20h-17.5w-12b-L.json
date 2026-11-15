@@ -1,28 +1,28 @@
 {
     "puzzle": "GENERAL_ANAESTHETIC",
     "score": {
-        "cost": 1315,
+        "cost": 1310,
         "instructions": 242,
         "overlap": false,
         "trackless": false,
         "cycles": 39,
-        "area": 212,
-        "height": 18,
-        "width": 16.5,
+        "area": 214,
+        "height": 20,
+        "width": 17.5,
         "boundingHex": 12,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 212.0
+            "value": 214.0
         },
         "heightINF": {
             "level": 0,
-            "value": 18.0
+            "value": 20.0
         },
         "widthINF": {
             "level": 0,
-            "value": 16.5
+            "value": 17.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4409207a/P086/1315g-242i-39c-212a-18h-16.5w-12b-6r-212a-18h-16.5w-12b-L",
-    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_1315g-242i-39c-212a-18h-16.5w-12b-6r-212a-18h-16.5w-12b-L.solution",
-    "lastModified": "2026-11-06T14:08:53.538002809Z"
+    "dataLink": "https://lb.novae.observer/l/om/77d6a729/P086/1310g-242i-39c-214a-20h-17.5w-12b-6r-214a-20h-17.5w-12b-L",
+    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_1310g-242i-39c-214a-20h-17.5w-12b-6r-214a-20h-17.5w-12b-L.solution",
+    "lastModified": "2026-11-15T09:39:12.067494211Z"
 }
