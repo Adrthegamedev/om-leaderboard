@@ -1,7 +1,7 @@
 {
     "puzzle": "QUINTESSENTIAL_MEDIUM",
     "score": {
-        "cost": 1380,
+        "cost": 1375,
         "instructions": 432,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/72acc382/P107/1380g-432i-28c-555a-35h-26w-21b-3.67r-5.556a2-1.925h1-1.667w1-1.667b1-L",
-    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_1380g-432i-28c-555a-35h-26w-21b-3.67r-5.556a2-1.925h1-1.667w1-1.667b1-L.solution",
-    "lastModified": "2026-11-06T13:53:41.554155829Z"
+    "dataLink": "https://lb.novae.observer/l/om/a276bfcf/P107/1375g-432i-28c-555a-35h-26w-21b-3.67r-5.556a2-1.925h1-1.667w1-1.667b1-L",
+    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_1375g-432i-28c-555a-35h-26w-21b-3.67r-5.556a2-1.925h1-1.667w1-1.667b1-L.solution",
+    "lastModified": "2026-11-15T09:31:12.431677910Z"
 }
