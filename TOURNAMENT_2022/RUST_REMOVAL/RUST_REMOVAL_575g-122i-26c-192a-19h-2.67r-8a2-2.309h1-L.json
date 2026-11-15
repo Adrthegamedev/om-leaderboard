@@ -1,7 +1,7 @@
 {
     "puzzle": "RUST_REMOVAL",
     "score": {
-        "cost": 585,
+        "cost": 575,
         "instructions": 122,
         "overlap": false,
         "trackless": false,
@@ -24,7 +24,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/039106eb/w2788066771/585g-122i-26c-192a-19h-2.67r-8a2-2.309h1-L",
-    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/RUST_REMOVAL_585g-122i-26c-192a-19h-2.67r-8a2-2.309h1-L.solution",
-    "lastModified": "2026-11-06T14:40:07.274840207Z"
+    "dataLink": "https://lb.novae.observer/l/om/9dc0fc54/w2788066771/575g-122i-26c-192a-19h-2.67r-8a2-2.309h1-L",
+    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/RUST_REMOVAL_575g-122i-26c-192a-19h-2.67r-8a2-2.309h1-L.solution",
+    "lastModified": "2026-11-15T09:52:59.899100363Z"
 }
