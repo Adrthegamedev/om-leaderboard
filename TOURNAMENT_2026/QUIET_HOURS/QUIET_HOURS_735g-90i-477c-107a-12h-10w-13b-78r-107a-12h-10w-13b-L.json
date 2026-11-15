@@ -8,7 +8,7 @@
         "cycles": 477,
         "area": 107,
         "height": 12,
-        "width": 10.5,
+        "width": 10.0,
         "boundingHex": 13,
         "looping": true,
         "rate": 78.0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.5
+            "value": 10.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/6e298c2c/w3728199426/735g-90i-477c-107a-12h-10.5w-13b-78r-107a-12h-10.5w-13b-L",
-    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_735g-90i-477c-107a-12h-10.5w-13b-78r-107a-12h-10.5w-13b-L.solution",
-    "lastModified": "2026-11-15T20:59:35.862385415Z"
+    "dataLink": "https://lb.novae.observer/l/om/6ec11a97/w3728199426/735g-90i-477c-107a-12h-10w-13b-78r-107a-12h-10w-13b-L",
+    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_735g-90i-477c-107a-12h-10w-13b-78r-107a-12h-10w-13b-L.solution",
+    "lastModified": "2026-11-15T20:59:42.540412507Z"
 }
