@@ -1,24 +1,24 @@
 {
     "puzzle": "REACTIVE_GOLD",
     "score": {
-        "cost": 410,
+        "cost": 405,
         "instructions": 207,
         "overlap": false,
         "trackless": false,
         "cycles": 56,
-        "area": 28,
-        "height": 6,
+        "area": 30,
+        "height": 7,
         "width": 5.5,
-        "boundingHex": 5,
+        "boundingHex": 6,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 28.0
+            "value": 30.0
         },
         "heightINF": {
             "level": 0,
-            "value": 6.0
+            "value": 7.0
         },
         "widthINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 5.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/842f5fb9/P095/410g-207i-56c-28a-6h-5.5w-5b-8r-28a-6h-5.5w-5b-L",
-    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_410g-207i-56c-28a-6h-5.5w-5b-8r-28a-6h-5.5w-5b-L.solution",
-    "lastModified": "2026-11-06T14:58:44.866475910Z"
+    "dataLink": "https://lb.novae.observer/l/om/62d4ec2d/P095/405g-207i-56c-30a-7h-5.5w-6b-8r-30a-7h-5.5w-6b-L",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_405g-207i-56c-30a-7h-5.5w-6b-8r-30a-7h-5.5w-6b-L.solution",
+    "lastModified": "2026-11-15T10:01:06.115345895Z"
 }
