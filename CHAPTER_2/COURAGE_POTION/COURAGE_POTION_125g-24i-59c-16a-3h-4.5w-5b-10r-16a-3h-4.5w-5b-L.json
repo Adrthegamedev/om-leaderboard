@@ -1,20 +1,20 @@
 {
     "puzzle": "COURAGE_POTION",
     "score": {
-        "cost": 130,
+        "cost": 125,
         "instructions": 24,
         "overlap": false,
         "trackless": false,
         "cycles": 59,
-        "area": 14,
+        "area": 16,
         "height": 3,
-        "width": 4.0,
-        "boundingHex": 4,
+        "width": 4.5,
+        "boundingHex": 5,
         "looping": true,
         "rate": 10.0,
         "areaINF": {
             "level": 0,
-            "value": 14.0
+            "value": 16.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 4.0
+            "value": 4.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 4.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/f68eabea/P021/130g-24i-59c-14a-3h-4w-4b-10r-14a-3h-4w-4b-L",
-    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_130g-24i-59c-14a-3h-4w-4b-10r-14a-3h-4w-4b-L.solution",
-    "lastModified": "2026-11-06T14:45:10.258182811Z"
+    "dataLink": "https://lb.novae.observer/l/om/f57ceda0/P021/125g-24i-59c-16a-3h-4.5w-5b-10r-16a-3h-4.5w-5b-L",
+    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_125g-24i-59c-16a-3h-4.5w-5b-10r-16a-3h-4.5w-5b-L.solution",
+    "lastModified": "2026-11-15T09:55:37.048390197Z"
 }
