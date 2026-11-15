@@ -1,0 +1,30 @@
+{
+    "puzzle": "DURABLE_STITCHING",
+    "score": {
+        "cost": 530,
+        "instructions": 106,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 27,
+        "area": 196,
+        "height": 19,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.309401076758503
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/3af7af16/P296/530g-106i-27c-196a-19h-4r-8a2-2.309h1-L",
+    "dataPath": "JOURNAL_CVIII_IX/DURABLE_STITCHING/DURABLE_STITCHING_530g-106i-27c-196a-19h-4r-8a2-2.309h1-L.solution",
+    "lastModified": "2026-11-15T10:03:40.978309806Z"
+}
