@@ -1,0 +1,36 @@
+{
+    "puzzle": "VIA_MEDIA",
+    "score": {
+        "cost": 380,
+        "instructions": 115,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 162,
+        "area": 43,
+        "height": 9,
+        "width": 7.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 43.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2e6661bd/P284/380g-115i-162c-43a-9h-7.5w-6b-26r-43a-9h-7.5w-6b-L",
+    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_380g-115i-162c-43a-9h-7.5w-6b-26r-43a-9h-7.5w-6b-L.solution",
+    "lastModified": "2026-11-15T18:22:15.993588753Z"
+}
