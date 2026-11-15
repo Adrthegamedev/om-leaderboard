@@ -1,0 +1,36 @@
+{
+    "puzzle": "MILD_STEEL",
+    "score": {
+        "cost": 600,
+        "instructions": 74,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 55,
+        "area": 95,
+        "height": 11,
+        "width": 11.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 95.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/9a239e02/P308/600g-74i-55c-95a-11h-11.5w-9b-8r-95a-11h-11.5w-9b-L",
+    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_600g-74i-55c-95a-11h-11.5w-9b-8r-95a-11h-11.5w-9b-L.solution",
+    "lastModified": "2026-11-15T10:41:39.962544361Z"
+}
