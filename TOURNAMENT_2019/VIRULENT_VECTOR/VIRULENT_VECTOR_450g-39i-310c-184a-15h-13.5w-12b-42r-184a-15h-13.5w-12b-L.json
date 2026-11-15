@@ -1,0 +1,36 @@
+{
+    "puzzle": "VIRULENT_VECTOR",
+    "score": {
+        "cost": 450,
+        "instructions": 39,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 310,
+        "area": 184,
+        "height": 15,
+        "width": 13.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 0,
+            "value": 184.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6f27fb8c/w1698785238/450g-39i-310c-184a-15h-13.5w-12b-42r-184a-15h-13.5w-12b-L",
+    "dataPath": "TOURNAMENT_2019/VIRULENT_VECTOR/VIRULENT_VECTOR_450g-39i-310c-184a-15h-13.5w-12b-42r-184a-15h-13.5w-12b-L.solution",
+    "lastModified": "2026-11-15T10:28:44.037290563Z"
+}
