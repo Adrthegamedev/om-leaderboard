@@ -1,7 +1,7 @@
 {
     "puzzle": "CANISTER_SHOT",
     "score": {
-        "cost": 915,
+        "cost": 910,
         "instructions": 161,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/4091144d/P270/915g-161i-58c-158a-16h-15.5w-11b-8r-158a-16h-15.5w-11b-L",
-    "dataPath": "JOURNAL_CVIII_IV/CANISTER_SHOT/CANISTER_SHOT_915g-161i-58c-158a-16h-15.5w-11b-8r-158a-16h-15.5w-11b-L.solution",
-    "lastModified": "2026-11-15T09:59:24.694764744Z"
+    "dataLink": "https://lb.novae.observer/l/om/5b69321b/P270/910g-161i-58c-158a-16h-15.5w-11b-8r-158a-16h-15.5w-11b-L",
+    "dataPath": "JOURNAL_CVIII_IV/CANISTER_SHOT/CANISTER_SHOT_910g-161i-58c-158a-16h-15.5w-11b-8r-158a-16h-15.5w-11b-L.solution",
+    "lastModified": "2026-11-15T09:59:37.554017270Z"
 }
