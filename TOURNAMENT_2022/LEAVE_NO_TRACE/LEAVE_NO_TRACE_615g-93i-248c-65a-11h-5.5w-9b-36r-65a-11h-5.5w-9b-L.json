@@ -1,0 +1,36 @@
+{
+    "puzzle": "LEAVE_NO_TRACE",
+    "score": {
+        "cost": 615,
+        "instructions": 93,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 248,
+        "area": 65,
+        "height": 11,
+        "width": 5.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/0f5f3d0c/w2788066279/615g-93i-248c-65a-11h-5.5w-9b-36r-65a-11h-5.5w-9b-L",
+    "dataPath": "TOURNAMENT_2022/LEAVE_NO_TRACE/LEAVE_NO_TRACE_615g-93i-248c-65a-11h-5.5w-9b-36r-65a-11h-5.5w-9b-L.solution",
+    "lastModified": "2026-11-15T09:50:13.317116019Z"
+}
