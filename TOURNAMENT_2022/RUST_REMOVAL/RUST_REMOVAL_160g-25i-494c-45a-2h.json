@@ -1,0 +1,24 @@
+{
+    "puzzle": "RUST_REMOVAL",
+    "score": {
+        "cost": 160,
+        "instructions": 25,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 494,
+        "area": 45,
+        "height": 2,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/b847ea3b/w2788066771/160g-25i-494c-45a-2h",
+    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/RUST_REMOVAL_160g-25i-494c-45a-2h.solution",
+    "lastModified": "2026-11-15T09:52:53.834694344Z"
+}
