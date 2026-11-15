@@ -1,24 +1,24 @@
 {
     "puzzle": "SIMULACRUM",
     "score": {
-        "cost": 930,
+        "cost": 920,
         "instructions": 336,
         "overlap": false,
         "trackless": false,
         "cycles": 165,
-        "area": 65,
-        "height": 16,
+        "area": 66,
+        "height": 17,
         "width": 3.5,
         "boundingHex": 15,
         "looping": true,
         "rate": 26.0,
         "areaINF": {
             "level": 0,
-            "value": 65.0
+            "value": 66.0
         },
         "heightINF": {
             "level": 0,
-            "value": 16.0
+            "value": 17.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/1de832cd/w3210138102/930g-336i-165c-65a-16h-3.5w-15b-26r-65a-16h-3.5w-15b-L",
-    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_930g-336i-165c-65a-16h-3.5w-15b-26r-65a-16h-3.5w-15b-L.solution",
-    "lastModified": "2026-11-06T14:13:10.577874271Z"
+    "dataLink": "https://lb.novae.observer/l/om/1416a7dc/w3210138102/920g-336i-165c-66a-17h-3.5w-15b-26r-66a-17h-3.5w-15b-L",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_920g-336i-165c-66a-17h-3.5w-15b-26r-66a-17h-3.5w-15b-L.solution",
+    "lastModified": "2026-11-15T09:41:24.382480778Z"
 }
