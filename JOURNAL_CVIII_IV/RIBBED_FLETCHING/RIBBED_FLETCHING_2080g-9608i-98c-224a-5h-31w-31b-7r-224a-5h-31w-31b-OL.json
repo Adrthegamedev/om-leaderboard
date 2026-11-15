@@ -1,0 +1,36 @@
+{
+    "puzzle": "RIBBED_FLETCHING",
+    "score": {
+        "cost": 2080,
+        "instructions": 9608,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 98,
+        "area": 224,
+        "height": 5,
+        "width": 31.0,
+        "boundingHex": 31,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 224.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 31.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 31.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/46b1da3f/P273/2080g-9608i-98c-224a-5h-31w-31b-7r-224a-5h-31w-31b-OL",
+    "dataPath": "JOURNAL_CVIII_IV/RIBBED_FLETCHING/RIBBED_FLETCHING_2080g-9608i-98c-224a-5h-31w-31b-7r-224a-5h-31w-31b-OL.solution",
+    "lastModified": "2026-11-15T09:59:48.742834715Z"
+}
