@@ -7,7 +7,7 @@
         "trackless": false,
         "cycles": 57,
         "area": 97,
-        "height": 10,
+        "height": 9,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -18,13 +18,13 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 10.0
+            "value": 9.0
         },
         "widthINF": null,
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/fd708802/w1698784331/425g-70i-57c-97a-10h-8r-7a1-10h-L",
-    "dataPath": "TOURNAMENT_2019/WIRE_FORMING_AND_UNFORMING/WIRE_FORMING_AND_UNFORMING_425g-70i-57c-97a-10h-8r-7a1-10h-L.solution",
-    "lastModified": "2026-11-15T10:28:57.338337306Z"
+    "dataLink": "https://lb.novae.observer/l/om/b9c862ab/w1698784331/425g-70i-57c-97a-9h-8r-7a1-9h-L",
+    "dataPath": "TOURNAMENT_2019/WIRE_FORMING_AND_UNFORMING/WIRE_FORMING_AND_UNFORMING_425g-70i-57c-97a-9h-8r-7a1-9h-L.solution",
+    "lastModified": "2026-11-15T10:29:02.013870042Z"
 }
