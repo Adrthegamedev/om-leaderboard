@@ -1,12 +1,12 @@
 {
     "puzzle": "QUICKENING_CORDIAL",
     "score": {
-        "cost": 350,
+        "cost": 345,
         "instructions": 328,
         "overlap": false,
         "trackless": false,
         "cycles": 76,
-        "area": 40,
+        "area": 39,
         "height": 8,
         "width": 7.0,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 12.0,
         "areaINF": {
             "level": 0,
-            "value": 40.0
+            "value": 39.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/0e457554/P290/350g-328i-76c-40a-8h-7w-5b-12r-40a-8h-7w-5b-L",
-    "dataPath": "JOURNAL_CVIII_VIII/QUICKENING_CORDIAL/QUICKENING_CORDIAL_350g-328i-76c-40a-8h-7w-5b-12r-40a-8h-7w-5b-L.solution",
-    "lastModified": "2026-11-15T09:11:30.176084880Z"
+    "dataLink": "https://lb.novae.observer/l/om/52fad28e/P290/345g-328i-76c-39a-8h-7w-5b-12r-39a-8h-7w-5b-L",
+    "dataPath": "JOURNAL_CVIII_VIII/QUICKENING_CORDIAL/QUICKENING_CORDIAL_345g-328i-76c-39a-8h-7w-5b-12r-39a-8h-7w-5b-L.solution",
+    "lastModified": "2026-11-15T09:11:35.049631887Z"
 }
