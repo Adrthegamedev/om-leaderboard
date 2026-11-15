@@ -1,20 +1,20 @@
 {
     "puzzle": "CALLIGRAPHER_S_INK",
     "score": {
-        "cost": 825,
+        "cost": 820,
         "instructions": 328,
         "overlap": false,
         "trackless": false,
         "cycles": 59,
-        "area": 87,
+        "area": 86,
         "height": 11,
         "width": 9.0,
-        "boundingHex": 10,
+        "boundingHex": 9,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 87.0
+            "value": 86.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 10.0
+            "value": 9.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/44803ad2/P277/825g-328i-59c-87a-11h-9w-10b-8r-87a-11h-9w-10b-L",
-    "dataPath": "JOURNAL_CVIII_V/CALLIGRAPHER_S_INK/CALLIGRAPHER_S_INK_825g-328i-59c-87a-11h-9w-10b-8r-87a-11h-9w-10b-L.solution",
-    "lastModified": "2026-11-15T09:26:13.116352987Z"
+    "dataLink": "https://lb.novae.observer/l/om/7ece54c8/P277/820g-328i-59c-86a-11h-9w-9b-8r-86a-11h-9w-9b-L",
+    "dataPath": "JOURNAL_CVIII_V/CALLIGRAPHER_S_INK/CALLIGRAPHER_S_INK_820g-328i-59c-86a-11h-9w-9b-8r-86a-11h-9w-9b-L.solution",
+    "lastModified": "2026-11-15T09:26:26.952359473Z"
 }
