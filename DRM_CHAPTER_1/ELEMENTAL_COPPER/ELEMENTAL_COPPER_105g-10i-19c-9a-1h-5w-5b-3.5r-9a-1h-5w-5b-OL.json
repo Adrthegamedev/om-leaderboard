@@ -1,20 +1,20 @@
 {
     "puzzle": "ELEMENTAL_COPPER",
     "score": {
-        "cost": 110,
+        "cost": 105,
         "instructions": 10,
         "overlap": true,
         "trackless": false,
         "cycles": 19,
-        "area": 7,
+        "area": 9,
         "height": 1,
-        "width": 4.0,
-        "boundingHex": 4,
+        "width": 5.0,
+        "boundingHex": 5,
         "looping": true,
         "rate": 3.5,
         "areaINF": {
             "level": 0,
-            "value": 7.0
+            "value": 9.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 4.0
+            "value": 5.0
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 4.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/85786c39/P202/110g-10i-19c-7a-1h-4w-4b-3.5r-7a-1h-4w-4b-OL",
-    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_110g-10i-19c-7a-1h-4w-4b-3.5r-7a-1h-4w-4b-OL.solution",
-    "lastModified": "2026-11-06T14:02:34.509600275Z"
+    "dataLink": "https://lb.novae.observer/l/om/136b2d56/P202/105g-10i-19c-9a-1h-5w-5b-3.5r-9a-1h-5w-5b-OL",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_105g-10i-19c-9a-1h-5w-5b-3.5r-9a-1h-5w-5b-OL.solution",
+    "lastModified": "2026-11-15T09:37:11.035619688Z"
 }
