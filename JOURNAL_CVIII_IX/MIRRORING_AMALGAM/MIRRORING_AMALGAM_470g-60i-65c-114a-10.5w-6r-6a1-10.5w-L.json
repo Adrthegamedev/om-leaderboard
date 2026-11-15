@@ -1,0 +1,30 @@
+{
+    "puzzle": "MIRRORING_AMALGAM",
+    "score": {
+        "cost": 470,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 65,
+        "area": 114,
+        "height": null,
+        "width": 10.5,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": null,
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/525230ea/P298/470g-60i-65c-114a-10.5w-6r-6a1-10.5w-L",
+    "dataPath": "JOURNAL_CVIII_IX/MIRRORING_AMALGAM/MIRRORING_AMALGAM_470g-60i-65c-114a-10.5w-6r-6a1-10.5w-L.solution",
+    "lastModified": "2026-11-15T10:02:01.252797811Z"
+}
