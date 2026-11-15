@@ -9,7 +9,7 @@
         "area": 122,
         "height": 13,
         "width": 12.0,
-        "boundingHex": 11,
+        "boundingHex": 10,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 11.0
+            "value": 10.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d2c8b50d/P108/1005g-263i-113c-122a-13h-12w-11b-8r-122a-13h-12w-11b-L",
-    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1005g-263i-113c-122a-13h-12w-11b-8r-122a-13h-12w-11b-L.solution",
-    "lastModified": "2026-11-15T09:17:15.954640956Z"
+    "dataLink": "https://lb.novae.observer/l/om/5dba2171/P108/1005g-263i-113c-122a-13h-12w-10b-8r-122a-13h-12w-10b-L",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1005g-263i-113c-122a-13h-12w-10b-8r-122a-13h-12w-10b-L.solution",
+    "lastModified": "2026-11-15T11:43:52.919114651Z"
 }
