@@ -9,7 +9,7 @@
         "area": 38,
         "height": 9,
         "width": 7.0,
-        "boundingHex": 6,
+        "boundingHex": 5,
         "looping": true,
         "rate": 2.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/0e08c10e/P208/495g-66i-17c-38a-9h-7w-6b-2r-38a-9h-7w-6b-L",
-    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_495g-66i-17c-38a-9h-7w-6b-2r-38a-9h-7w-6b-L.solution",
-    "lastModified": "2026-11-14T13:45:44.483517387Z"
+    "dataLink": "https://lb.novae.observer/l/om/420a07b0/P208/495g-66i-17c-38a-9h-7w-5b-2r-38a-9h-7w-5b-L",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_495g-66i-17c-38a-9h-7w-5b-2r-38a-9h-7w-5b-L.solution",
+    "lastModified": "2026-11-15T11:26:23.087818783Z"
 }
