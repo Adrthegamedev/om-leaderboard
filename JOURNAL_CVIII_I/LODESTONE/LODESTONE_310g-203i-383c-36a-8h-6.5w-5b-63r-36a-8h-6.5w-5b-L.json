@@ -1,0 +1,36 @@
+{
+    "puzzle": "LODESTONE",
+    "score": {
+        "cost": 310,
+        "instructions": 203,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 383,
+        "area": 36,
+        "height": 8,
+        "width": 6.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 63.0,
+        "areaINF": {
+            "level": 0,
+            "value": 36.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/2ef12c4a/P256/310g-203i-383c-36a-8h-6.5w-5b-63r-36a-8h-6.5w-5b-L",
+    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_310g-203i-383c-36a-8h-6.5w-5b-63r-36a-8h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-15T10:11:17.574145498Z"
+}
