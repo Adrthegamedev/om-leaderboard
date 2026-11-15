@@ -1,0 +1,36 @@
+{
+    "puzzle": "GENERAL_ANAESTHETIC",
+    "score": {
+        "cost": 1340,
+        "instructions": 260,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 39,
+        "area": 177,
+        "height": 18,
+        "width": 12.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 177.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/19b9bfac/P086/1340g-260i-39c-177a-18h-12w-11b-6r-177a-18h-12w-11b-L",
+    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_1340g-260i-39c-177a-18h-12w-11b-6r-177a-18h-12w-11b-L.solution",
+    "lastModified": "2026-11-15T09:39:16.534456153Z"
+}
