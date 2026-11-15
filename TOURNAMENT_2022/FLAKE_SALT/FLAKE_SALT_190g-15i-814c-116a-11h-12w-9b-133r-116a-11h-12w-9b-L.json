@@ -5,20 +5,20 @@
         "instructions": 15,
         "overlap": false,
         "trackless": false,
-        "cycles": 939,
-        "area": 124,
-        "height": 12,
+        "cycles": 814,
+        "area": 116,
+        "height": 11,
         "width": 12.0,
         "boundingHex": 9,
         "looping": true,
-        "rate": 152.0,
+        "rate": 133.0,
         "areaINF": {
             "level": 0,
-            "value": 124.0
+            "value": 116.0
         },
         "heightINF": {
             "level": 0,
-            "value": 12.0
+            "value": 11.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/84a53fe8/w2788066123/190g-15i-939c-124a-12h-12w-9b-152r-124a-12h-12w-9b-L",
-    "dataPath": "TOURNAMENT_2022/FLAKE_SALT/FLAKE_SALT_190g-15i-939c-124a-12h-12w-9b-152r-124a-12h-12w-9b-L.solution",
-    "lastModified": "2026-11-06T14:36:25.668222849Z"
+    "dataLink": "https://lb.novae.observer/l/om/54d768f1/w2788066123/190g-15i-814c-116a-11h-12w-9b-133r-116a-11h-12w-9b-L",
+    "dataPath": "TOURNAMENT_2022/FLAKE_SALT/FLAKE_SALT_190g-15i-814c-116a-11h-12w-9b-133r-116a-11h-12w-9b-L.solution",
+    "lastModified": "2026-11-15T09:51:23.368581646Z"
 }
