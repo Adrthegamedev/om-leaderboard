@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 37,
-        "area": 391,
+        "area": 390,
         "height": 25,
         "width": 22.0,
         "boundingHex": 15,
@@ -14,7 +14,7 @@
         "rate": 2.0,
         "areaINF": {
             "level": 0,
-            "value": 391.0
+            "value": 390.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/f8465952/P099/1860g-246i-37c-391a-25h-22w-15b-2r-391a-25h-22w-15b-L",
-    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_1860g-246i-37c-391a-25h-22w-15b-2r-391a-25h-22w-15b-L.solution",
-    "lastModified": "2026-11-15T11:10:03.913042485Z"
+    "dataLink": "https://lb.novae.observer/l/om/dca1918d/P099/1860g-246i-37c-390a-25h-22w-15b-2r-390a-25h-22w-15b-L",
+    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_1860g-246i-37c-390a-25h-22w-15b-2r-390a-25h-22w-15b-L.solution",
+    "lastModified": "2026-11-15T11:10:26.845946970Z"
 }
