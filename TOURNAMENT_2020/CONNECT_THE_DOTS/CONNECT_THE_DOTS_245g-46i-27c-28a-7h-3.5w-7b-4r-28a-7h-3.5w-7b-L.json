@@ -1,12 +1,12 @@
 {
     "puzzle": "CONNECT_THE_DOTS",
     "score": {
-        "cost": 255,
+        "cost": 245,
         "instructions": 46,
         "overlap": false,
         "trackless": false,
         "cycles": 27,
-        "area": 27,
+        "area": 28,
         "height": 7,
         "width": 3.5,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 27.0
+            "value": 28.0
         },
         "heightINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/a250fe15/w3101135731/255g-46i-27c-27a-7h-3.5w-7b-4r-27a-7h-3.5w-7b-L",
-    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/CONNECT_THE_DOTS_255g-46i-27c-27a-7h-3.5w-7b-4r-27a-7h-3.5w-7b-L.solution",
-    "lastModified": "2026-11-06T15:56:23.797729001Z"
+    "dataLink": "https://lb.novae.observer/l/om/91f973e8/w3101135731/245g-46i-27c-28a-7h-3.5w-7b-4r-28a-7h-3.5w-7b-L",
+    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/CONNECT_THE_DOTS_245g-46i-27c-28a-7h-3.5w-7b-4r-28a-7h-3.5w-7b-L.solution",
+    "lastModified": "2026-11-15T10:22:12.434640871Z"
 }
