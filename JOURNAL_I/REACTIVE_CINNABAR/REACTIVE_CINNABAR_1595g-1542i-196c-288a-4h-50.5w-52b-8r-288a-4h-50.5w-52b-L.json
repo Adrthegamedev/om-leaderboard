@@ -2,23 +2,23 @@
     "puzzle": "REACTIVE_CINNABAR",
     "score": {
         "cost": 1595,
-        "instructions": 1548,
+        "instructions": 1542,
         "overlap": false,
         "trackless": false,
         "cycles": 196,
-        "area": 289,
-        "height": 5,
+        "area": 288,
+        "height": 4,
         "width": 50.5,
         "boundingHex": 52,
         "looping": true,
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 289.0
+            "value": 288.0
         },
         "heightINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         },
         "widthINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/16a18cf7/P056/1595g-1548i-196c-289a-5h-50.5w-52b-8r-289a-5h-50.5w-52b-L",
-    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/REACTIVE_CINNABAR_1595g-1548i-196c-289a-5h-50.5w-52b-8r-289a-5h-50.5w-52b-L.solution",
-    "lastModified": "2026-11-15T10:24:35.306807719Z"
+    "dataLink": "https://lb.novae.observer/l/om/d6d41bc8/P056/1595g-1542i-196c-288a-4h-50.5w-52b-8r-288a-4h-50.5w-52b-L",
+    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/REACTIVE_CINNABAR_1595g-1542i-196c-288a-4h-50.5w-52b-8r-288a-4h-50.5w-52b-L.solution",
+    "lastModified": "2026-11-15T11:29:02.431642717Z"
 }
