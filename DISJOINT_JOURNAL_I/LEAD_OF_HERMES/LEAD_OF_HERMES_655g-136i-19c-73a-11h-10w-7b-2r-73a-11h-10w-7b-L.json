@@ -1,0 +1,36 @@
+{
+    "puzzle": "LEAD_OF_HERMES",
+    "score": {
+        "cost": 655,
+        "instructions": 136,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 19,
+        "area": 73,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 73.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/60283aed/DisjointJournal_LeadOfHermes/655g-136i-19c-73a-11h-10w-7b-2r-73a-11h-10w-7b-L",
+    "dataPath": "DISJOINT_JOURNAL_I/LEAD_OF_HERMES/LEAD_OF_HERMES_655g-136i-19c-73a-11h-10w-7b-2r-73a-11h-10w-7b-L.solution",
+    "lastModified": "2026-11-15T10:13:58.241714382Z"
+}
