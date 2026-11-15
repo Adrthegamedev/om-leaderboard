@@ -1,20 +1,20 @@
 {
     "puzzle": "HEALTH_TONIC",
     "score": {
-        "cost": 100,
+        "cost": 95,
         "instructions": 16,
         "overlap": false,
         "trackless": false,
         "cycles": 37,
-        "area": 17,
+        "area": 19,
         "height": 4,
-        "width": 4.5,
-        "boundingHex": 4,
+        "width": 5.5,
+        "boundingHex": 5,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 17.0
+            "value": 19.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 4.5
+            "value": 5.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 4.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/ae159ed6/P014/100g-16i-37c-17a-4h-4.5w-4b-6r-17a-4h-4.5w-4b-L",
-    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_100g-16i-37c-17a-4h-4.5w-4b-6r-17a-4h-4.5w-4b-L.solution",
-    "lastModified": "2026-11-06T13:36:27.405342584Z"
+    "dataLink": "https://lb.novae.observer/l/om/646355c2/P014/95g-16i-37c-19a-4h-5.5w-5b-6r-19a-4h-5.5w-5b-L",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_95g-16i-37c-19a-4h-5.5w-5b-6r-19a-4h-5.5w-5b-L.solution",
+    "lastModified": "2026-11-15T09:20:49.465151331Z"
 }
