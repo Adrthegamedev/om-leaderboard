@@ -1,20 +1,20 @@
 {
     "puzzle": "HEALTH_TONIC",
     "score": {
-        "cost": 215,
+        "cost": 210,
         "instructions": 42,
         "overlap": false,
         "trackless": false,
         "cycles": 28,
-        "area": 28,
+        "area": 30,
         "height": 3,
-        "width": 6.0,
+        "width": 6.5,
         "boundingHex": 7,
         "looping": true,
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 28.0
+            "value": 30.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.0
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/e06390a0/P014/215g-42i-28c-28a-3h-6w-7b-4r-28a-3h-6w-7b-L",
-    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_215g-42i-28c-28a-3h-6w-7b-4r-28a-3h-6w-7b-L.solution",
-    "lastModified": "2026-11-15T09:21:09.438527624Z"
+    "dataLink": "https://lb.novae.observer/l/om/6a3d5941/P014/210g-42i-28c-30a-3h-6.5w-7b-4r-30a-3h-6.5w-7b-L",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_210g-42i-28c-30a-3h-6.5w-7b-4r-30a-3h-6.5w-7b-L.solution",
+    "lastModified": "2026-11-15T10:38:23.942708082Z"
 }
