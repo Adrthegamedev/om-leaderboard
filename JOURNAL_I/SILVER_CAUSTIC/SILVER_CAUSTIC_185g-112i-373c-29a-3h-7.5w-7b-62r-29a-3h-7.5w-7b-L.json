@@ -1,0 +1,36 @@
+{
+    "puzzle": "SILVER_CAUSTIC",
+    "score": {
+        "cost": 185,
+        "instructions": 112,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 373,
+        "area": 29,
+        "height": 3,
+        "width": 7.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 62.0,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c7e8968c/P057/185g-112i-373c-29a-3h-7.5w-7b-62r-29a-3h-7.5w-7b-L",
+    "dataPath": "JOURNAL_I/SILVER_CAUSTIC/SILVER_CAUSTIC_185g-112i-373c-29a-3h-7.5w-7b-62r-29a-3h-7.5w-7b-L.solution",
+    "lastModified": "2026-11-15T11:29:12.487049857Z"
+}
