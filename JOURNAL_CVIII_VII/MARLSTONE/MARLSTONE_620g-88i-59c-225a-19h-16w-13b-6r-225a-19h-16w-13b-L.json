@@ -1,7 +1,7 @@
 {
     "puzzle": "MARLSTONE",
     "score": {
-        "cost": 630,
+        "cost": 620,
         "instructions": 88,
         "overlap": false,
         "trackless": false,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/07a1643d/P288/630g-88i-59c-225a-19h-16w-13b-6r-225a-19h-16w-13b-L",
-    "dataPath": "JOURNAL_CVIII_VII/MARLSTONE/MARLSTONE_630g-88i-59c-225a-19h-16w-13b-6r-225a-19h-16w-13b-L.solution",
-    "lastModified": "2026-11-06T14:29:15.618913747Z"
+    "dataLink": "https://lb.novae.observer/l/om/a1f66597/P288/620g-88i-59c-225a-19h-16w-13b-6r-225a-19h-16w-13b-L",
+    "dataPath": "JOURNAL_CVIII_VII/MARLSTONE/MARLSTONE_620g-88i-59c-225a-19h-16w-13b-6r-225a-19h-16w-13b-L.solution",
+    "lastModified": "2026-11-15T09:48:13.928917628Z"
 }
