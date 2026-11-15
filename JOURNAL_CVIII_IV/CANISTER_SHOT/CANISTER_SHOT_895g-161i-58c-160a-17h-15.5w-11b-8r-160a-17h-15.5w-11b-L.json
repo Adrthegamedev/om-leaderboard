@@ -1,0 +1,36 @@
+{
+    "puzzle": "CANISTER_SHOT",
+    "score": {
+        "cost": 895,
+        "instructions": 161,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 58,
+        "area": 160,
+        "height": 17,
+        "width": 15.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 160.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/ff23b1a5/P270/895g-161i-58c-160a-17h-15.5w-11b-8r-160a-17h-15.5w-11b-L",
+    "dataPath": "JOURNAL_CVIII_IV/CANISTER_SHOT/CANISTER_SHOT_895g-161i-58c-160a-17h-15.5w-11b-8r-160a-17h-15.5w-11b-L.solution",
+    "lastModified": "2026-11-15T12:33:03.701176746Z"
+}
