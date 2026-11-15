@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 36,
         "area": 214,
-        "height": 19,
-        "width": 18.0,
+        "height": 18,
+        "width": 17.0,
         "boundingHex": 11,
         "looping": true,
         "rate": 3.0,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 19.0
+            "value": 18.0
         },
         "widthINF": {
             "level": 0,
-            "value": 18.0
+            "value": 17.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/7dcbaf98/w3728200264/1270g-180i-36c-214a-19h-18w-11b-3r-214a-19h-18w-11b-L",
-    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_1270g-180i-36c-214a-19h-18w-11b-3r-214a-19h-18w-11b-L.solution",
-    "lastModified": "2026-11-15T00:34:31.151651062Z"
+    "dataLink": "https://lb.novae.observer/l/om/114e5a2e/w3728200264/1270g-180i-36c-214a-18h-17w-11b-3r-214a-18h-17w-11b-L",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_1270g-180i-36c-214a-18h-17w-11b-3r-214a-18h-17w-11b-L.solution",
+    "lastModified": "2026-11-15T00:34:35.872480950Z"
 }
