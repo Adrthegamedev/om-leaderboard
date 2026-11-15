@@ -1,12 +1,12 @@
 {
     "puzzle": "EMBALMING_FLUID",
     "score": {
-        "cost": 1155,
+        "cost": 1150,
         "instructions": 207,
         "overlap": false,
         "trackless": false,
         "cycles": 57,
-        "area": 168,
+        "area": 165,
         "height": 15,
         "width": 14.5,
         "boundingHex": 11,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 168.0
+            "value": 165.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 11.0
         }
     },
-    "displayLink": "https://files.mors.technology/EMBALMING_FLUID/1155g-57c-168a-207i-8ca35686.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P108/1155g-207i-57c-168a-15h-14.5w-11b-8r-168a-15h-14.5w-11b-L",
-    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1155g-207i-57c-168a-15h-14.5w-11b-8r-168a-15h-14.5w-11b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/274039ae/P108/1150g-207i-57c-165a-15h-14.5w-11b-8r-165a-15h-14.5w-11b-L",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_1150g-207i-57c-165a-15h-14.5w-11b-8r-165a-15h-14.5w-11b-L.solution",
+    "lastModified": "2026-11-15T09:29:21.417333317Z"
 }
