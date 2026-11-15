@@ -8,8 +8,8 @@
         "cycles": 42,
         "area": 70,
         "height": 11,
-        "width": 10.5,
-        "boundingHex": 8,
+        "width": 9.5,
+        "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.5
+            "value": 9.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/700074f0/P240/620g-83i-42c-70a-11h-10.5w-8b-6r-70a-11h-10.5w-8b-L",
-    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_620g-83i-42c-70a-11h-10.5w-8b-6r-70a-11h-10.5w-8b-L.solution",
-    "lastModified": "2026-11-15T10:24:08.168314017Z"
+    "dataLink": "https://lb.novae.observer/l/om/c6d71926/P240/620g-83i-42c-70a-11h-9.5w-7b-6r-70a-11h-9.5w-7b-L",
+    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_620g-83i-42c-70a-11h-9.5w-7b-6r-70a-11h-9.5w-7b-L.solution",
+    "lastModified": "2026-11-15T10:24:13.031132225Z"
 }
