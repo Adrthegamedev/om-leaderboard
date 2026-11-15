@@ -1,7 +1,7 @@
 {
     "puzzle": "GUIPURE_LACE",
     "score": {
-        "cost": 1965,
+        "cost": 1945,
         "instructions": 259,
         "overlap": false,
         "trackless": false,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/342868d4/P312/1965g-259i-58c-959a-42h",
-    "dataPath": "JOURNAL_CVIII_XII/GUIPURE_LACE/GUIPURE_LACE_1965g-259i-58c-959a-42h.solution",
-    "lastModified": "2026-11-15T10:56:53.476661282Z"
+    "dataLink": "https://lb.novae.observer/l/om/3946b771/P312/1945g-259i-58c-959a-42h",
+    "dataPath": "JOURNAL_CVIII_XII/GUIPURE_LACE/GUIPURE_LACE_1945g-259i-58c-959a-42h.solution",
+    "lastModified": "2026-11-15T12:07:14.853813158Z"
 }
