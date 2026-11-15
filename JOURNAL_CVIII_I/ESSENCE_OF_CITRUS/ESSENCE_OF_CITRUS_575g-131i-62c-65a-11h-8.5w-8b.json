@@ -1,0 +1,24 @@
+{
+    "puzzle": "ESSENCE_OF_CITRUS",
+    "score": {
+        "cost": 575,
+        "instructions": 131,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 62,
+        "area": 65,
+        "height": 11,
+        "width": 8.5,
+        "boundingHex": 8,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/94d675c1/P257/575g-131i-62c-65a-11h-8.5w-8b",
+    "dataPath": "JOURNAL_CVIII_I/ESSENCE_OF_CITRUS/ESSENCE_OF_CITRUS_575g-131i-62c-65a-11h-8.5w-8b.solution",
+    "lastModified": "2026-11-15T11:23:12.020865295Z"
+}
