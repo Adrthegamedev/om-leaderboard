@@ -7,9 +7,9 @@
         "trackless": false,
         "cycles": 57,
         "area": 36,
-        "height": 9,
+        "height": 8,
         "width": 7.0,
-        "boundingHex": 6,
+        "boundingHex": 5,
         "looping": true,
         "rate": 4.0,
         "areaINF": {
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 9.0
+            "value": 8.0
         },
         "widthINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/880d9edf/w3728200215/400g-44i-57c-36a-9h-7w-6b-4r-36a-9h-7w-6b-L",
-    "dataPath": "TOURNAMENT_2026/TAX_FRAUD/TAX_FRAUD_400g-44i-57c-36a-9h-7w-6b-4r-36a-9h-7w-6b-L.solution",
-    "lastModified": "2026-11-15T10:31:06.220618036Z"
+    "dataLink": "https://lb.novae.observer/l/om/36ae8299/w3728200215/400g-44i-57c-36a-8h-7w-5b-4r-36a-8h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2026/TAX_FRAUD/TAX_FRAUD_400g-44i-57c-36a-8h-7w-5b-4r-36a-8h-7w-5b-L.solution",
+    "lastModified": "2026-11-15T10:31:13.389094841Z"
 }
