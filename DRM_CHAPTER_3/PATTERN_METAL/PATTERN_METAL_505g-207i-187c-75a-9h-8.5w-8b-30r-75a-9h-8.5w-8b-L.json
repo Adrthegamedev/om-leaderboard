@@ -1,0 +1,36 @@
+{
+    "puzzle": "PATTERN_METAL",
+    "score": {
+        "cost": 505,
+        "instructions": 207,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 187,
+        "area": 75,
+        "height": 9,
+        "width": 8.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 75.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/6f96f0d2/P221/505g-207i-187c-75a-9h-8.5w-8b-30r-75a-9h-8.5w-8b-L",
+    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_505g-207i-187c-75a-9h-8.5w-8b-30r-75a-9h-8.5w-8b-L.solution",
+    "lastModified": "2026-11-15T10:13:40.310311124Z"
+}
