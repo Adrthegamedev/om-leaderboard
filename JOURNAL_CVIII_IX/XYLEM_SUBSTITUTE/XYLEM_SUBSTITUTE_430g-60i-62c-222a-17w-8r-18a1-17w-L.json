@@ -2,7 +2,7 @@
     "puzzle": "XYLEM_SUBSTITUTE",
     "score": {
         "cost": 430,
-        "instructions": 116,
+        "instructions": 60,
         "overlap": false,
         "trackless": false,
         "cycles": 62,
@@ -23,7 +23,8 @@
         },
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/XYLEM_SUBSTITUTE/430g-62c-222a-116i-64fe2386.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P297/430g-116i-62c-222a-17w-8r-18a1-17w-L",
-    "dataPath": "JOURNAL_CVIII_IX/XYLEM_SUBSTITUTE/XYLEM_SUBSTITUTE_430g-116i-62c-222a-17w-8r-18a1-17w-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/8561c3e5/P297/430g-60i-62c-222a-17w-8r-18a1-17w-L",
+    "dataPath": "JOURNAL_CVIII_IX/XYLEM_SUBSTITUTE/XYLEM_SUBSTITUTE_430g-60i-62c-222a-17w-8r-18a1-17w-L.solution",
+    "lastModified": "2026-11-15T10:02:10.061722889Z"
 }
