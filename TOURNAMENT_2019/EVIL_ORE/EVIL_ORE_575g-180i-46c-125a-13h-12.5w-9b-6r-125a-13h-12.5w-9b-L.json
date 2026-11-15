@@ -1,0 +1,36 @@
+{
+    "puzzle": "EVIL_ORE",
+    "score": {
+        "cost": 575,
+        "instructions": 180,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 46,
+        "area": 125,
+        "height": 13,
+        "width": 12.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 125.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/3115c351/w1698788220/575g-180i-46c-125a-13h-12.5w-9b-6r-125a-13h-12.5w-9b-L",
+    "dataPath": "TOURNAMENT_2019/EVIL_ORE/EVIL_ORE_575g-180i-46c-125a-13h-12.5w-9b-6r-125a-13h-12.5w-9b-L.solution",
+    "lastModified": "2026-11-15T10:29:55.321724166Z"
+}
