@@ -1,20 +1,20 @@
 {
     "puzzle": "COOL_EARRINGS",
     "score": {
-        "cost": 425,
+        "cost": 420,
         "instructions": 68,
         "overlap": false,
         "trackless": false,
         "cycles": 44,
-        "area": 47,
+        "area": 46,
         "height": 8,
-        "width": 6.5,
+        "width": 7.0,
         "boundingHex": 7,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 47.0
+            "value": 46.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 7.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/b6cdd28a/w2946693353/425g-68i-44c-47a-8h-6.5w-7b-6r-47a-8h-6.5w-7b-L",
-    "dataPath": "TOURNAMENT_2023/COOL_EARRINGS/COOL_EARRINGS_425g-68i-44c-47a-8h-6.5w-7b-6r-47a-8h-6.5w-7b-L.solution",
-    "lastModified": "2026-11-15T12:02:07.076519078Z"
+    "dataLink": "https://lb.novae.observer/l/om/e7215ab3/w2946693353/420g-68i-44c-46a-8h-7w-7b-6r-46a-8h-7w-7b-L",
+    "dataPath": "TOURNAMENT_2023/COOL_EARRINGS/COOL_EARRINGS_420g-68i-44c-46a-8h-7w-7b-6r-46a-8h-7w-7b-L.solution",
+    "lastModified": "2026-11-15T12:02:14.064728605Z"
 }
