@@ -7,8 +7,8 @@
         "trackless": false,
         "cycles": 56,
         "area": 116,
-        "height": 14,
-        "width": 11.5,
+        "height": 13,
+        "width": 11.0,
         "boundingHex": 8,
         "looping": true,
         "rate": 4.5,
@@ -18,11 +18,11 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 14.0
+            "value": 13.0
         },
         "widthINF": {
             "level": 0,
-            "value": 11.5
+            "value": 11.0
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/d595720b/w3728198961/380g-46i-56c-116a-14h-11.5w-8b-4.5r-116a-14h-11.5w-8b-L",
-    "dataPath": "TOURNAMENT_2026/SNOW_AMPUTATION/SNOW_AMPUTATION_380g-46i-56c-116a-14h-11.5w-8b-4.5r-116a-14h-11.5w-8b-L.solution",
-    "lastModified": "2026-11-15T10:32:29.296732666Z"
+    "dataLink": "https://lb.novae.observer/l/om/1fb3ab0f/w3728198961/380g-46i-56c-116a-13h-11w-8b-4.5r-116a-13h-11w-8b-L",
+    "dataPath": "TOURNAMENT_2026/SNOW_AMPUTATION/SNOW_AMPUTATION_380g-46i-56c-116a-13h-11w-8b-4.5r-116a-13h-11w-8b-L.solution",
+    "lastModified": "2026-11-15T10:32:38.584917979Z"
 }
