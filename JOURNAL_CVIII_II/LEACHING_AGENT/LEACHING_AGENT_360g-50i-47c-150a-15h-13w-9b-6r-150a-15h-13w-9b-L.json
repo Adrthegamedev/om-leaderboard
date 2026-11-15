@@ -1,0 +1,36 @@
+{
+    "puzzle": "LEACHING_AGENT",
+    "score": {
+        "cost": 360,
+        "instructions": 50,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 47,
+        "area": 150,
+        "height": 15,
+        "width": 13.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 150.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/341470d8/P263/360g-50i-47c-150a-15h-13w-9b-6r-150a-15h-13w-9b-L",
+    "dataPath": "JOURNAL_CVIII_II/LEACHING_AGENT/LEACHING_AGENT_360g-50i-47c-150a-15h-13w-9b-6r-150a-15h-13w-9b-L.solution",
+    "lastModified": "2026-11-15T09:18:37.540192441Z"
+}
