@@ -1,0 +1,36 @@
+{
+    "puzzle": "COOL_EARRINGS",
+    "score": {
+        "cost": 310,
+        "instructions": 58,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 56,
+        "area": 36,
+        "height": 7,
+        "width": 7.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 36.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/f128223e/w2946693353/310g-58i-56c-36a-7h-7.5w-7b-9r-36a-7h-7.5w-7b-L",
+    "dataPath": "TOURNAMENT_2023/COOL_EARRINGS/COOL_EARRINGS_310g-58i-56c-36a-7h-7.5w-7b-9r-36a-7h-7.5w-7b-L.solution",
+    "lastModified": "2026-11-15T09:44:11.785223433Z"
+}
