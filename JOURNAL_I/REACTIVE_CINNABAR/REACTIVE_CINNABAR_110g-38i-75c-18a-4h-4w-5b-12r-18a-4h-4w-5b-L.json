@@ -1,7 +1,7 @@
 {
     "puzzle": "REACTIVE_CINNABAR",
     "score": {
-        "cost": 115,
+        "cost": 110,
         "instructions": 38,
         "overlap": false,
         "trackless": false,
@@ -9,7 +9,7 @@
         "area": 18,
         "height": 4,
         "width": 4.0,
-        "boundingHex": 4,
+        "boundingHex": 5,
         "looping": true,
         "rate": 12.0,
         "areaINF": {
@@ -26,10 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 4.0
+            "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_CINNABAR/115g-75c-18a-38i-66c923b2.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P056/115g-38i-75c-18a-4h-4w-4b-12r-18a-4h-4w-4b-L",
-    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/REACTIVE_CINNABAR_115g-38i-75c-18a-4h-4w-4b-12r-18a-4h-4w-4b-L.solution"
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/73afa1a4/P056/110g-38i-75c-18a-4h-4w-5b-12r-18a-4h-4w-5b-L",
+    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/REACTIVE_CINNABAR_110g-38i-75c-18a-4h-4w-5b-12r-18a-4h-4w-5b-L.solution",
+    "lastModified": "2026-11-15T10:24:49.499988132Z"
 }
