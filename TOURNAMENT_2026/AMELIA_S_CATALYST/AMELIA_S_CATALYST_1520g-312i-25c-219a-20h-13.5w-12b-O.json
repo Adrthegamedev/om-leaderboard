@@ -1,7 +1,7 @@
 {
     "puzzle": "AMELIA_S_CATALYST",
     "score": {
-        "cost": 1530,
+        "cost": 1520,
         "instructions": 312,
         "overlap": true,
         "trackless": false,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/08586176/w3728200264/1530g-312i-25c-219a-20h-13.5w-12b-O",
-    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_1530g-312i-25c-219a-20h-13.5w-12b-O.solution",
-    "lastModified": "2026-11-06T16:19:44.725801971Z"
+    "dataLink": "https://lb.novae.observer/l/om/42df3bbe/w3728200264/1520g-312i-25c-219a-20h-13.5w-12b-O",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_1520g-312i-25c-219a-20h-13.5w-12b-O.solution",
+    "lastModified": "2026-11-15T10:32:00.308357607Z"
 }
