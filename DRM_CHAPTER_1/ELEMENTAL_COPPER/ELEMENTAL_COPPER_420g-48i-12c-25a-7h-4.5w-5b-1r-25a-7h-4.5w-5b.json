@@ -2,7 +2,7 @@
     "puzzle": "ELEMENTAL_COPPER",
     "score": {
         "cost": 420,
-        "instructions": 72,
+        "instructions": 48,
         "overlap": false,
         "trackless": false,
         "cycles": 12,
@@ -10,8 +10,8 @@
         "height": 7,
         "width": 4.5,
         "boundingHex": 5,
-        "looping": true,
-        "rate": 1.5,
+        "looping": false,
+        "rate": 1.0,
         "areaINF": {
             "level": 0,
             "value": 25.0
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/7453defd/P202/420g-72i-12c-25a-7h-4.5w-5b-1.5r-25a-7h-4.5w-5b-L",
-    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_420g-72i-12c-25a-7h-4.5w-5b-1.5r-25a-7h-4.5w-5b-L.solution",
-    "lastModified": "2026-11-15T09:36:12.365529128Z"
+    "dataLink": "https://lb.novae.observer/l/om/b3e6fd3f/P202/420g-48i-12c-25a-7h-4.5w-5b-1r-25a-7h-4.5w-5b",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_420g-48i-12c-25a-7h-4.5w-5b-1r-25a-7h-4.5w-5b.solution",
+    "lastModified": "2026-11-15T09:36:47.820581008Z"
 }
