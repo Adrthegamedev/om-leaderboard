@@ -9,7 +9,7 @@
         "area": 70,
         "height": 10,
         "width": 9.5,
-        "boundingHex": 7,
+        "boundingHex": 6,
         "looping": true,
         "rate": 6.0,
         "areaINF": {
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/ec500eff/w3584644954/695g-102i-48c-70a-10h-9.5w-7b-6r-70a-10h-9.5w-7b-L",
-    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_695g-102i-48c-70a-10h-9.5w-7b-6r-70a-10h-9.5w-7b-L.solution",
-    "lastModified": "2026-11-15T10:17:26.667604783Z"
+    "dataLink": "https://lb.novae.observer/l/om/b37e472e/w3584644954/695g-102i-48c-70a-10h-9.5w-6b-6r-70a-10h-9.5w-6b-L",
+    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_695g-102i-48c-70a-10h-9.5w-6b-6r-70a-10h-9.5w-6b-L.solution",
+    "lastModified": "2026-11-15T10:17:43.326068023Z"
 }
