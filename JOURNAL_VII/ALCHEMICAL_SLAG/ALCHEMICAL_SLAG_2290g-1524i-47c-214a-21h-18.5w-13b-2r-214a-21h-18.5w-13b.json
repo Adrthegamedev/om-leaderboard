@@ -1,0 +1,36 @@
+{
+    "puzzle": "ALCHEMICAL_SLAG",
+    "score": {
+        "cost": 2290,
+        "instructions": 1524,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 47,
+        "area": 214,
+        "height": 21,
+        "width": 18.5,
+        "boundingHex": 13,
+        "looping": false,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 214.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 18.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 13.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c3817c56/P099/2290g-1524i-47c-214a-21h-18.5w-13b-2r-214a-21h-18.5w-13b",
+    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_2290g-1524i-47c-214a-21h-18.5w-13b-2r-214a-21h-18.5w-13b.solution",
+    "lastModified": "2026-11-15T11:10:19.853423311Z"
+}
