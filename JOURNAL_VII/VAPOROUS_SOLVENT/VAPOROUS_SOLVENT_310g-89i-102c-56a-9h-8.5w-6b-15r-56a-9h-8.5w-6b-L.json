@@ -1,20 +1,20 @@
 {
     "puzzle": "VAPOROUS_SOLVENT",
     "score": {
-        "cost": 320,
+        "cost": 310,
         "instructions": 89,
         "overlap": false,
         "trackless": false,
         "cycles": 102,
-        "area": 55,
+        "area": 56,
         "height": 9,
-        "width": 8.0,
+        "width": 8.5,
         "boundingHex": 6,
         "looping": true,
         "rate": 15.0,
         "areaINF": {
             "level": 0,
-            "value": 55.0
+            "value": 56.0
         },
         "heightINF": {
             "level": 0,
@@ -22,7 +22,7 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 8.5
         },
         "boundingHexINF": {
             "level": 0,
@@ -30,7 +30,7 @@
         }
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/7466ed16/P098/320g-89i-102c-55a-9h-8w-6b-15r-55a-9h-8w-6b-L",
-    "dataPath": "JOURNAL_VII/VAPOROUS_SOLVENT/VAPOROUS_SOLVENT_320g-89i-102c-55a-9h-8w-6b-15r-55a-9h-8w-6b-L.solution",
-    "lastModified": "2026-11-06T14:57:17.139868375Z"
+    "dataLink": "https://lb.novae.observer/l/om/6ab7361a/P098/310g-89i-102c-56a-9h-8.5w-6b-15r-56a-9h-8.5w-6b-L",
+    "dataPath": "JOURNAL_VII/VAPOROUS_SOLVENT/VAPOROUS_SOLVENT_310g-89i-102c-56a-9h-8.5w-6b-15r-56a-9h-8.5w-6b-L.solution",
+    "lastModified": "2026-11-15T10:00:37.655675033Z"
 }
