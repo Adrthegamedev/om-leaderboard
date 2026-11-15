@@ -1,14 +1,14 @@
 {
     "puzzle": "PANACEA_TO_POISON",
     "score": {
-        "cost": 1635,
+        "cost": 1625,
         "instructions": 524,
         "overlap": false,
         "trackless": false,
         "cycles": 32,
-        "area": 198,
+        "area": 203,
         "height": 16,
-        "width": 15.0,
+        "width": 16.0,
         "boundingHex": 14,
         "looping": false,
         "rate": null,
@@ -18,7 +18,7 @@
         "boundingHexINF": null
     },
     "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/98471db9/w2450511665/1635g-524i-32c-198a-16h-15w-14b",
-    "dataPath": "TOURNAMENT_2021/PANACEA_TO_POISON/PANACEA_TO_POISON_1635g-524i-32c-198a-16h-15w-14b.solution",
-    "lastModified": "2026-11-06T16:23:45.165677560Z"
+    "dataLink": "https://lb.novae.observer/l/om/b7113173/w2450511665/1625g-524i-32c-203a-16h-16w-14b",
+    "dataPath": "TOURNAMENT_2021/PANACEA_TO_POISON/PANACEA_TO_POISON_1625g-524i-32c-203a-16h-16w-14b.solution",
+    "lastModified": "2026-11-15T10:33:28.244477730Z"
 }
