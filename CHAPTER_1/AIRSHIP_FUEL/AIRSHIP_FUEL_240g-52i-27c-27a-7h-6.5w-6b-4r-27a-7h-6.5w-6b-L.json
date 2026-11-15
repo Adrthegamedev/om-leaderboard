@@ -1,0 +1,36 @@
+{
+    "puzzle": "AIRSHIP_FUEL",
+    "score": {
+        "cost": 240,
+        "instructions": 52,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 27,
+        "area": 27,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
+    "dataLink": "https://lb.novae.observer/l/om/c065c67a/P008/240g-52i-27c-27a-7h-6.5w-6b-4r-27a-7h-6.5w-6b-L",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_240g-52i-27c-27a-7h-6.5w-6b-4r-27a-7h-6.5w-6b-L.solution",
+    "lastModified": "2026-11-15T09:12:10.504508237Z"
+}
