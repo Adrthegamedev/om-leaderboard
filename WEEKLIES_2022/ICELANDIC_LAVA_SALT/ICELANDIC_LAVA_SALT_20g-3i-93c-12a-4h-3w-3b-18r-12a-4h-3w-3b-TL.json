@@ -1,0 +1,36 @@
+{
+    "puzzle": "ICELANDIC_LAVA_SALT",
+    "score": {
+        "cost": 20,
+        "instructions": 3,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 93,
+        "area": 12,
+        "height": 4,
+        "width": 3.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://lb.novae.observer/l/om/7b210eef/w2958685026/20g-3i-93c-12a-4h-3w-3b-18r-12a-4h-3w-3b-TL",
+    "dataPath": "WEEKLIES_2022/ICELANDIC_LAVA_SALT/ICELANDIC_LAVA_SALT_20g-3i-93c-12a-4h-3w-3b-18r-12a-4h-3w-3b-TL.solution",
+    "lastModified": "2026-11-25T14:09:25.651751543Z"
+}
