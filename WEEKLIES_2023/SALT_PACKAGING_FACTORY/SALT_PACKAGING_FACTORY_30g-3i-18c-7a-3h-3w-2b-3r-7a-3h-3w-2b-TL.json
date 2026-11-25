@@ -5,13 +5,13 @@
         "instructions": 3,
         "overlap": false,
         "trackless": true,
-        "cycles": 24,
+        "cycles": 18,
         "area": 7,
         "height": 3,
         "width": 3.0,
         "boundingHex": 2,
         "looping": true,
-        "rate": 4.0,
+        "rate": 3.0,
         "areaINF": {
             "level": 0,
             "value": 7.0
@@ -29,8 +29,8 @@
             "value": 2.0
         }
     },
-    "displayLink": "https://adrfurret.neocities.org/placehold.gif",
-    "dataLink": "https://lb.novae.observer/l/om/01e87d10/OM2023Weeklies_SaltPackagingFactory/30g-3i-24c-7a-3h-3w-2b-4r-7a-3h-3w-2b-TL",
-    "dataPath": "WEEKLIES_2023/SALT_PACKAGING_FACTORY/SALT_PACKAGING_FACTORY_30g-3i-24c-7a-3h-3w-2b-4r-7a-3h-3w-2b-TL.solution",
-    "lastModified": "2026-10-31T17:06:43.058610234Z"
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://lb.novae.observer/l/om/476c9f3e/OM2023Weeklies_SaltPackagingFactory/30g-3i-18c-7a-3h-3w-2b-3r-7a-3h-3w-2b-TL",
+    "dataPath": "WEEKLIES_2023/SALT_PACKAGING_FACTORY/SALT_PACKAGING_FACTORY_30g-3i-18c-7a-3h-3w-2b-3r-7a-3h-3w-2b-TL.solution",
+    "lastModified": "2026-11-25T14:08:23.710555346Z"
 }
