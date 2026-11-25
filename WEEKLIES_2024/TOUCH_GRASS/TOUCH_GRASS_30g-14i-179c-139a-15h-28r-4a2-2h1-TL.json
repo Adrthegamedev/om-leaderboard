@@ -1,0 +1,30 @@
+{
+    "puzzle": "TOUCH_GRASS",
+    "score": {
+        "cost": 30,
+        "instructions": 14,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 179,
+        "area": 139,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://lb.novae.observer/l/om/9f46b120/OM2024Weeklies_TouchGrass/30g-14i-179c-139a-15h-28r-4a2-2h1-TL",
+    "dataPath": "WEEKLIES_2024/TOUCH_GRASS/TOUCH_GRASS_30g-14i-179c-139a-15h-28r-4a2-2h1-TL.solution",
+    "lastModified": "2026-11-25T14:14:59.273562721Z"
+}
